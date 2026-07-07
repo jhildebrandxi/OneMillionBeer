@@ -157,7 +157,7 @@ function parseExport(text) {
     const last=lastD[name];
     const join=joinD[name]||fallback;
     const memDays=Math.max(1,Math.round((now-join)/86400000));
-    const daysAgo=Math.round((now-last)/86400000);
+    const daysAgo=Math.floor((now-last)/86400000);
     const ppw=Math.round(count/(memDays/7)*10)/10;
     const streak=calcStreak(dailyPosts[name]||[]);
     return {name,posts:count,daysAgo,ppw,memDays,streak,
