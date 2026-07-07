@@ -6,6 +6,7 @@
       "daysAgo": 1,
       "ppw": 44.1,
       "memDays": 188,
+      "streak": 19,
       "joinStr": "31.12.25",
       "lastStr": "06.07.26"
     },
@@ -15,6 +16,7 @@
       "daysAgo": 1,
       "ppw": 36.7,
       "memDays": 189,
+      "streak": 18,
       "joinStr": "30.12.25",
       "lastStr": "06.07.26"
     },
@@ -24,6 +26,7 @@
       "daysAgo": 2,
       "ppw": 26.3,
       "memDays": 188,
+      "streak": 12,
       "joinStr": "31.12.25",
       "lastStr": "05.07.26"
     },
@@ -33,6 +36,7 @@
       "daysAgo": 3,
       "ppw": 25.8,
       "memDays": 189,
+      "streak": 8,
       "joinStr": "30.12.25",
       "lastStr": "04.07.26"
     },
@@ -42,6 +46,7 @@
       "daysAgo": 1,
       "ppw": 24,
       "memDays": 159,
+      "streak": 9,
       "joinStr": "29.01.26",
       "lastStr": "06.07.26"
     },
@@ -51,6 +56,7 @@
       "daysAgo": 2,
       "ppw": 17.4,
       "memDays": 188,
+      "streak": 13,
       "joinStr": "31.12.25",
       "lastStr": "05.07.26"
     },
@@ -60,6 +66,7 @@
       "daysAgo": 2,
       "ppw": 18.6,
       "memDays": 163,
+      "streak": 7,
       "joinStr": "25.01.26",
       "lastStr": "05.07.26"
     },
@@ -69,6 +76,7 @@
       "daysAgo": 1,
       "ppw": 16.9,
       "memDays": 179,
+      "streak": 14,
       "joinStr": "09.01.26",
       "lastStr": "06.07.26"
     },
@@ -78,6 +86,7 @@
       "daysAgo": 1,
       "ppw": 15.4,
       "memDays": 171,
+      "streak": 12,
       "joinStr": "17.01.26",
       "lastStr": "06.07.26"
     },
@@ -87,6 +96,7 @@
       "daysAgo": 3,
       "ppw": 14.8,
       "memDays": 171,
+      "streak": 7,
       "joinStr": "17.01.26",
       "lastStr": "04.07.26"
     },
@@ -96,6 +106,7 @@
       "daysAgo": 1,
       "ppw": 15.9,
       "memDays": 159,
+      "streak": 6,
       "joinStr": "29.01.26",
       "lastStr": "06.07.26"
     },
@@ -105,6 +116,7 @@
       "daysAgo": 2,
       "ppw": 13.1,
       "memDays": 189,
+      "streak": 7,
       "joinStr": "30.12.25",
       "lastStr": "05.07.26"
     },
@@ -114,6 +126,7 @@
       "daysAgo": 1,
       "ppw": 14.9,
       "memDays": 164,
+      "streak": 13,
       "joinStr": "24.01.26",
       "lastStr": "06.07.26"
     },
@@ -123,6 +136,7 @@
       "daysAgo": 1,
       "ppw": 14,
       "memDays": 173,
+      "streak": 7,
       "joinStr": "15.01.26",
       "lastStr": "06.07.26"
     },
@@ -132,6 +146,7 @@
       "daysAgo": 3,
       "ppw": 12.8,
       "memDays": 186,
+      "streak": 7,
       "joinStr": "02.01.26",
       "lastStr": "04.07.26"
     },
@@ -141,6 +156,7 @@
       "daysAgo": 3,
       "ppw": 13.2,
       "memDays": 171,
+      "streak": 11,
       "joinStr": "17.01.26",
       "lastStr": "04.07.26"
     },
@@ -150,6 +166,7 @@
       "daysAgo": 2,
       "ppw": 11.7,
       "memDays": 189,
+      "streak": 8,
       "joinStr": "30.12.25",
       "lastStr": "05.07.26"
     },
@@ -159,6 +176,7 @@
       "daysAgo": 8,
       "ppw": 12.7,
       "memDays": 174,
+      "streak": 9,
       "joinStr": "14.01.26",
       "lastStr": "29.06.26"
     },
@@ -168,6 +186,7 @@
       "daysAgo": 1,
       "ppw": 14.3,
       "memDays": 151,
+      "streak": 8,
       "joinStr": "06.02.26",
       "lastStr": "06.07.26"
     },
@@ -177,6 +196,7 @@
       "daysAgo": 2,
       "ppw": 13.6,
       "memDays": 157,
+      "streak": 10,
       "joinStr": "31.01.26",
       "lastStr": "05.07.26"
     },
@@ -186,6 +206,7 @@
       "daysAgo": 3,
       "ppw": 13.9,
       "memDays": 143,
+      "streak": 10,
       "joinStr": "14.02.26",
       "lastStr": "04.07.26"
     },
@@ -195,6 +216,7 @@
       "daysAgo": 3,
       "ppw": 12.1,
       "memDays": 159,
+      "streak": 9,
       "joinStr": "29.01.26",
       "lastStr": "04.07.26"
     },
@@ -204,6 +226,7 @@
       "daysAgo": 3,
       "ppw": 12.6,
       "memDays": 150,
+      "streak": 7,
       "joinStr": "07.02.26",
       "lastStr": "04.07.26"
     },
@@ -213,6 +236,7 @@
       "daysAgo": 3,
       "ppw": 11.9,
       "memDays": 158,
+      "streak": 13,
       "joinStr": "30.01.26",
       "lastStr": "04.07.26"
     },
@@ -222,6 +246,7 @@
       "daysAgo": 2,
       "ppw": 10.8,
       "memDays": 169,
+      "streak": 8,
       "joinStr": "19.01.26",
       "lastStr": "05.07.26"
     },
@@ -231,6 +256,7 @@
       "daysAgo": 2,
       "ppw": 9.7,
       "memDays": 189,
+      "streak": 7,
       "joinStr": "30.12.25",
       "lastStr": "05.07.26"
     },
@@ -240,6 +266,7 @@
       "daysAgo": 2,
       "ppw": 11.1,
       "memDays": 156,
+      "streak": 11,
       "joinStr": "01.02.26",
       "lastStr": "05.07.26"
     },
@@ -249,6 +276,7 @@
       "daysAgo": 1,
       "ppw": 11.7,
       "memDays": 143,
+      "streak": 6,
       "joinStr": "14.02.26",
       "lastStr": "06.07.26"
     },
@@ -258,6 +286,7 @@
       "daysAgo": 2,
       "ppw": 10.9,
       "memDays": 153,
+      "streak": 27,
       "joinStr": "04.02.26",
       "lastStr": "05.07.26"
     },
@@ -267,6 +296,7 @@
       "daysAgo": 3,
       "ppw": 10.4,
       "memDays": 159,
+      "streak": 13,
       "joinStr": "29.01.26",
       "lastStr": "04.07.26"
     },
@@ -276,6 +306,7 @@
       "daysAgo": 7,
       "ppw": 13.9,
       "memDays": 119,
+      "streak": 4,
       "joinStr": "10.03.26",
       "lastStr": "30.06.26"
     },
@@ -285,6 +316,7 @@
       "daysAgo": 6,
       "ppw": 10.1,
       "memDays": 159,
+      "streak": 5,
       "joinStr": "29.01.26",
       "lastStr": "01.07.26"
     },
@@ -294,6 +326,7 @@
       "daysAgo": 2,
       "ppw": 9.7,
       "memDays": 163,
+      "streak": 8,
       "joinStr": "25.01.26",
       "lastStr": "05.07.26"
     },
@@ -303,6 +336,7 @@
       "daysAgo": 3,
       "ppw": 16,
       "memDays": 93,
+      "streak": 5,
       "joinStr": "05.04.26",
       "lastStr": "04.07.26"
     },
@@ -312,6 +346,7 @@
       "daysAgo": 27,
       "ppw": 9.1,
       "memDays": 158,
+      "streak": 4,
       "joinStr": "30.01.26",
       "lastStr": "10.06.26"
     },
@@ -321,6 +356,7 @@
       "daysAgo": 12,
       "ppw": 9.1,
       "memDays": 153,
+      "streak": 9,
       "joinStr": "04.02.26",
       "lastStr": "25.06.26"
     },
@@ -330,6 +366,7 @@
       "daysAgo": 2,
       "ppw": 9.5,
       "memDays": 146,
+      "streak": 8,
       "joinStr": "11.02.26",
       "lastStr": "05.07.26"
     },
@@ -339,6 +376,7 @@
       "daysAgo": 2,
       "ppw": 7.9,
       "memDays": 174,
+      "streak": 6,
       "joinStr": "14.01.26",
       "lastStr": "05.07.26"
     },
@@ -348,6 +386,7 @@
       "daysAgo": 1,
       "ppw": 10.8,
       "memDays": 123,
+      "streak": 11,
       "joinStr": "06.03.26",
       "lastStr": "06.07.26"
     },
@@ -357,6 +396,7 @@
       "daysAgo": 3,
       "ppw": 9,
       "memDays": 145,
+      "streak": 4,
       "joinStr": "12.02.26",
       "lastStr": "04.07.26"
     },
@@ -366,6 +406,7 @@
       "daysAgo": 4,
       "ppw": 8.2,
       "memDays": 157,
+      "streak": 10,
       "joinStr": "31.01.26",
       "lastStr": "03.07.26"
     },
@@ -375,6 +416,7 @@
       "daysAgo": 2,
       "ppw": 8.6,
       "memDays": 145,
+      "streak": 6,
       "joinStr": "12.02.26",
       "lastStr": "05.07.26"
     },
@@ -384,6 +426,7 @@
       "daysAgo": 38,
       "ppw": 7,
       "memDays": 178,
+      "streak": 4,
       "joinStr": "10.01.26",
       "lastStr": "30.05.26"
     },
@@ -393,6 +436,7 @@
       "daysAgo": 3,
       "ppw": 9,
       "memDays": 136,
+      "streak": 9,
       "joinStr": "21.02.26",
       "lastStr": "04.07.26"
     },
@@ -402,6 +446,7 @@
       "daysAgo": 2,
       "ppw": 18.3,
       "memDays": 66,
+      "streak": 5,
       "joinStr": "02.05.26",
       "lastStr": "05.07.26"
     },
@@ -411,6 +456,7 @@
       "daysAgo": 1,
       "ppw": 8,
       "memDays": 150,
+      "streak": 7,
       "joinStr": "07.02.26",
       "lastStr": "06.07.26"
     },
@@ -420,6 +466,7 @@
       "daysAgo": 3,
       "ppw": 13.8,
       "memDays": 87,
+      "streak": 10,
       "joinStr": "11.04.26",
       "lastStr": "04.07.26"
     },
@@ -429,6 +476,7 @@
       "daysAgo": 3,
       "ppw": 7.1,
       "memDays": 165,
+      "streak": 5,
       "joinStr": "23.01.26",
       "lastStr": "04.07.26"
     },
@@ -438,6 +486,7 @@
       "daysAgo": 2,
       "ppw": 11.4,
       "memDays": 103,
+      "streak": 3,
       "joinStr": "26.03.26",
       "lastStr": "05.07.26"
     },
@@ -447,6 +496,7 @@
       "daysAgo": 2,
       "ppw": 7.9,
       "memDays": 148,
+      "streak": 8,
       "joinStr": "09.02.26",
       "lastStr": "05.07.26"
     },
@@ -456,6 +506,7 @@
       "daysAgo": 17,
       "ppw": 10.6,
       "memDays": 108,
+      "streak": 5,
       "joinStr": "21.03.26",
       "lastStr": "20.06.26"
     },
@@ -465,6 +516,7 @@
       "daysAgo": 4,
       "ppw": 7.7,
       "memDays": 146,
+      "streak": 10,
       "joinStr": "11.02.26",
       "lastStr": "03.07.26"
     },
@@ -474,6 +526,7 @@
       "daysAgo": 1,
       "ppw": 7.5,
       "memDays": 146,
+      "streak": 6,
       "joinStr": "11.02.26",
       "lastStr": "06.07.26"
     },
@@ -483,6 +536,7 @@
       "daysAgo": 4,
       "ppw": 6.9,
       "memDays": 157,
+      "streak": 9,
       "joinStr": "31.01.26",
       "lastStr": "03.07.26"
     },
@@ -492,6 +546,7 @@
       "daysAgo": 17,
       "ppw": 7.1,
       "memDays": 151,
+      "streak": 8,
       "joinStr": "06.02.26",
       "lastStr": "20.06.26"
     },
@@ -501,6 +556,7 @@
       "daysAgo": 4,
       "ppw": 7.4,
       "memDays": 143,
+      "streak": 8,
       "joinStr": "14.02.26",
       "lastStr": "03.07.26"
     },
@@ -510,6 +566,7 @@
       "daysAgo": 5,
       "ppw": 7.6,
       "memDays": 139,
+      "streak": 6,
       "joinStr": "18.02.26",
       "lastStr": "02.07.26"
     },
@@ -519,6 +576,7 @@
       "daysAgo": 1,
       "ppw": 5.9,
       "memDays": 178,
+      "streak": 7,
       "joinStr": "10.01.26",
       "lastStr": "06.07.26"
     },
@@ -528,6 +586,7 @@
       "daysAgo": 13,
       "ppw": 6.5,
       "memDays": 160,
+      "streak": 6,
       "joinStr": "28.01.26",
       "lastStr": "24.06.26"
     },
@@ -537,6 +596,7 @@
       "daysAgo": 1,
       "ppw": 15.3,
       "memDays": 66,
+      "streak": 4,
       "joinStr": "02.05.26",
       "lastStr": "06.07.26"
     },
@@ -546,6 +606,7 @@
       "daysAgo": 9,
       "ppw": 8,
       "memDays": 125,
+      "streak": 4,
       "joinStr": "04.03.26",
       "lastStr": "28.06.26"
     },
@@ -555,6 +616,7 @@
       "daysAgo": 3,
       "ppw": 6.5,
       "memDays": 151,
+      "streak": 7,
       "joinStr": "06.02.26",
       "lastStr": "04.07.26"
     },
@@ -564,6 +626,7 @@
       "daysAgo": 8,
       "ppw": 5.8,
       "memDays": 163,
+      "streak": 4,
       "joinStr": "25.01.26",
       "lastStr": "29.06.26"
     },
@@ -573,6 +636,7 @@
       "daysAgo": 52,
       "ppw": 6.8,
       "memDays": 137,
+      "streak": 8,
       "joinStr": "20.02.26",
       "lastStr": "16.05.26"
     },
@@ -582,6 +646,7 @@
       "daysAgo": 2,
       "ppw": 5.6,
       "memDays": 164,
+      "streak": 3,
       "joinStr": "24.01.26",
       "lastStr": "05.07.26"
     },
@@ -591,6 +656,7 @@
       "daysAgo": 7,
       "ppw": 7.3,
       "memDays": 123,
+      "streak": 3,
       "joinStr": "06.03.26",
       "lastStr": "30.06.26"
     },
@@ -600,6 +666,7 @@
       "daysAgo": 3,
       "ppw": 10.3,
       "memDays": 87,
+      "streak": 9,
       "joinStr": "11.04.26",
       "lastStr": "04.07.26"
     },
@@ -609,6 +676,7 @@
       "daysAgo": 3,
       "ppw": 5.6,
       "memDays": 157,
+      "streak": 4,
       "joinStr": "31.01.26",
       "lastStr": "04.07.26"
     },
@@ -618,6 +686,7 @@
       "daysAgo": 12,
       "ppw": 6.5,
       "memDays": 123,
+      "streak": 5,
       "joinStr": "06.03.26",
       "lastStr": "25.06.26"
     },
@@ -627,6 +696,7 @@
       "daysAgo": 3,
       "ppw": 10,
       "memDays": 80,
+      "streak": 6,
       "joinStr": "18.04.26",
       "lastStr": "04.07.26"
     },
@@ -636,6 +706,7 @@
       "daysAgo": 10,
       "ppw": 5.2,
       "memDays": 151,
+      "streak": 6,
       "joinStr": "06.02.26",
       "lastStr": "27.06.26"
     },
@@ -645,6 +716,7 @@
       "daysAgo": 9,
       "ppw": 5.2,
       "memDays": 147,
+      "streak": 4,
       "joinStr": "10.02.26",
       "lastStr": "28.06.26"
     },
@@ -654,6 +726,7 @@
       "daysAgo": 4,
       "ppw": 14.5,
       "memDays": 53,
+      "streak": 5,
       "joinStr": "15.05.26",
       "lastStr": "03.07.26"
     },
@@ -663,6 +736,7 @@
       "daysAgo": 3,
       "ppw": 5.2,
       "memDays": 146,
+      "streak": 5,
       "joinStr": "11.02.26",
       "lastStr": "04.07.26"
     },
@@ -672,6 +746,7 @@
       "daysAgo": 1,
       "ppw": 7.7,
       "memDays": 99,
+      "streak": 4,
       "joinStr": "30.03.26",
       "lastStr": "06.07.26"
     },
@@ -681,6 +756,7 @@
       "daysAgo": 7,
       "ppw": 5.1,
       "memDays": 147,
+      "streak": 5,
       "joinStr": "10.02.26",
       "lastStr": "30.06.26"
     },
@@ -690,6 +766,7 @@
       "daysAgo": 1,
       "ppw": 6.8,
       "memDays": 109,
+      "streak": 4,
       "joinStr": "20.03.26",
       "lastStr": "06.07.26"
     },
@@ -699,6 +776,7 @@
       "daysAgo": 4,
       "ppw": 4.6,
       "memDays": 159,
+      "streak": 4,
       "joinStr": "29.01.26",
       "lastStr": "03.07.26"
     },
@@ -708,6 +786,7 @@
       "daysAgo": 4,
       "ppw": 4.9,
       "memDays": 151,
+      "streak": 6,
       "joinStr": "06.02.26",
       "lastStr": "03.07.26"
     },
@@ -717,6 +796,7 @@
       "daysAgo": 1,
       "ppw": 8.1,
       "memDays": 86,
+      "streak": 4,
       "joinStr": "12.04.26",
       "lastStr": "06.07.26"
     },
@@ -726,6 +806,7 @@
       "daysAgo": 3,
       "ppw": 10.4,
       "memDays": 67,
+      "streak": 6,
       "joinStr": "01.05.26",
       "lastStr": "04.07.26"
     },
@@ -735,6 +816,7 @@
       "daysAgo": 3,
       "ppw": 4.8,
       "memDays": 143,
+      "streak": 5,
       "joinStr": "14.02.26",
       "lastStr": "04.07.26"
     },
@@ -744,6 +826,7 @@
       "daysAgo": 11,
       "ppw": 5,
       "memDays": 136,
+      "streak": 8,
       "joinStr": "21.02.26",
       "lastStr": "26.06.26"
     },
@@ -753,6 +836,7 @@
       "daysAgo": 5,
       "ppw": 8,
       "memDays": 86,
+      "streak": 3,
       "joinStr": "12.04.26",
       "lastStr": "02.07.26"
     },
@@ -762,6 +846,7 @@
       "daysAgo": 6,
       "ppw": 6.2,
       "memDays": 108,
+      "streak": 3,
       "joinStr": "21.03.26",
       "lastStr": "01.07.26"
     },
@@ -771,6 +856,7 @@
       "daysAgo": 3,
       "ppw": 4.2,
       "memDays": 157,
+      "streak": 4,
       "joinStr": "31.01.26",
       "lastStr": "04.07.26"
     },
@@ -780,6 +866,7 @@
       "daysAgo": 31,
       "ppw": 4.8,
       "memDays": 136,
+      "streak": 4,
       "joinStr": "21.02.26",
       "lastStr": "06.06.26"
     },
@@ -789,6 +876,7 @@
       "daysAgo": 1,
       "ppw": 4.1,
       "memDays": 157,
+      "streak": 4,
       "joinStr": "31.01.26",
       "lastStr": "06.07.26"
     },
@@ -798,6 +886,7 @@
       "daysAgo": 3,
       "ppw": 4.3,
       "memDays": 145,
+      "streak": 4,
       "joinStr": "12.02.26",
       "lastStr": "04.07.26"
     },
@@ -807,6 +896,7 @@
       "daysAgo": 5,
       "ppw": 4.6,
       "memDays": 136,
+      "streak": 5,
       "joinStr": "21.02.26",
       "lastStr": "02.07.26"
     },
@@ -816,6 +906,7 @@
       "daysAgo": 10,
       "ppw": 5.2,
       "memDays": 122,
+      "streak": 5,
       "joinStr": "07.03.26",
       "lastStr": "27.06.26"
     },
@@ -825,6 +916,7 @@
       "daysAgo": 3,
       "ppw": 4.2,
       "memDays": 146,
+      "streak": 10,
       "joinStr": "11.02.26",
       "lastStr": "04.07.26"
     },
@@ -834,6 +926,7 @@
       "daysAgo": 3,
       "ppw": 15.4,
       "memDays": 40,
+      "streak": 5,
       "joinStr": "28.05.26",
       "lastStr": "04.07.26"
     },
@@ -843,6 +936,7 @@
       "daysAgo": 3,
       "ppw": 6.1,
       "memDays": 98,
+      "streak": 7,
       "joinStr": "31.03.26",
       "lastStr": "04.07.26"
     },
@@ -852,6 +946,7 @@
       "daysAgo": 3,
       "ppw": 9.3,
       "memDays": 65,
+      "streak": 3,
       "joinStr": "03.05.26",
       "lastStr": "04.07.26"
     },
@@ -861,6 +956,7 @@
       "daysAgo": 3,
       "ppw": 5.1,
       "memDays": 115,
+      "streak": 3,
       "joinStr": "14.03.26",
       "lastStr": "04.07.26"
     },
@@ -870,6 +966,7 @@
       "daysAgo": 1,
       "ppw": 6.2,
       "memDays": 94,
+      "streak": 8,
       "joinStr": "04.04.26",
       "lastStr": "06.07.26"
     },
@@ -879,6 +976,7 @@
       "daysAgo": 2,
       "ppw": 4.7,
       "memDays": 122,
+      "streak": 5,
       "joinStr": "07.03.26",
       "lastStr": "05.07.26"
     },
@@ -888,6 +986,7 @@
       "daysAgo": 3,
       "ppw": 3,
       "memDays": 189,
+      "streak": 4,
       "joinStr": "30.12.25",
       "lastStr": "04.07.26"
     },
@@ -897,6 +996,7 @@
       "daysAgo": 24,
       "ppw": 3.9,
       "memDays": 146,
+      "streak": 4,
       "joinStr": "11.02.26",
       "lastStr": "13.06.26"
     },
@@ -906,6 +1006,7 @@
       "daysAgo": 10,
       "ppw": 5.7,
       "memDays": 98,
+      "streak": 6,
       "joinStr": "31.03.26",
       "lastStr": "27.06.26"
     },
@@ -915,6 +1016,7 @@
       "daysAgo": 4,
       "ppw": 6.4,
       "memDays": 87,
+      "streak": 5,
       "joinStr": "11.04.26",
       "lastStr": "03.07.26"
     },
@@ -924,6 +1026,7 @@
       "daysAgo": 3,
       "ppw": 3.8,
       "memDays": 143,
+      "streak": 4,
       "joinStr": "14.02.26",
       "lastStr": "04.07.26"
     },
@@ -933,6 +1036,7 @@
       "daysAgo": 5,
       "ppw": 6.2,
       "memDays": 86,
+      "streak": 3,
       "joinStr": "12.04.26",
       "lastStr": "02.07.26"
     },
@@ -942,6 +1046,7 @@
       "daysAgo": 5,
       "ppw": 3.8,
       "memDays": 137,
+      "streak": 4,
       "joinStr": "20.02.26",
       "lastStr": "02.07.26"
     },
@@ -951,6 +1056,7 @@
       "daysAgo": 12,
       "ppw": 4,
       "memDays": 131,
+      "streak": 4,
       "joinStr": "26.02.26",
       "lastStr": "25.06.26"
     },
@@ -960,6 +1066,7 @@
       "daysAgo": 4,
       "ppw": 3.3,
       "memDays": 157,
+      "streak": 4,
       "joinStr": "31.01.26",
       "lastStr": "03.07.26"
     },
@@ -969,6 +1076,7 @@
       "daysAgo": 3,
       "ppw": 5,
       "memDays": 103,
+      "streak": 3,
       "joinStr": "26.03.26",
       "lastStr": "04.07.26"
     },
@@ -978,6 +1086,7 @@
       "daysAgo": 7,
       "ppw": 6,
       "memDays": 87,
+      "streak": 3,
       "joinStr": "11.04.26",
       "lastStr": "30.06.26"
     },
@@ -987,6 +1096,7 @@
       "daysAgo": 9,
       "ppw": 3.3,
       "memDays": 156,
+      "streak": 4,
       "joinStr": "01.02.26",
       "lastStr": "28.06.26"
     },
@@ -996,6 +1106,7 @@
       "daysAgo": 5,
       "ppw": 2.7,
       "memDays": 189,
+      "streak": 6,
       "joinStr": "30.12.25",
       "lastStr": "02.07.26"
     },
@@ -1005,6 +1116,7 @@
       "daysAgo": 12,
       "ppw": 3.4,
       "memDays": 149,
+      "streak": 4,
       "joinStr": "08.02.26",
       "lastStr": "25.06.26"
     },
@@ -1014,6 +1126,7 @@
       "daysAgo": 7,
       "ppw": 3.4,
       "memDays": 147,
+      "streak": 5,
       "joinStr": "10.02.26",
       "lastStr": "30.06.26"
     },
@@ -1023,6 +1136,7 @@
       "daysAgo": 3,
       "ppw": 4,
       "memDays": 127,
+      "streak": 8,
       "joinStr": "02.03.26",
       "lastStr": "04.07.26"
     },
@@ -1032,6 +1146,7 @@
       "daysAgo": 8,
       "ppw": 4.7,
       "memDays": 107,
+      "streak": 7,
       "joinStr": "22.03.26",
       "lastStr": "29.06.26"
     },
@@ -1041,6 +1156,7 @@
       "daysAgo": 1,
       "ppw": 5,
       "memDays": 101,
+      "streak": 5,
       "joinStr": "28.03.26",
       "lastStr": "06.07.26"
     },
@@ -1050,6 +1166,7 @@
       "daysAgo": 7,
       "ppw": 4.4,
       "memDays": 114,
+      "streak": 3,
       "joinStr": "15.03.26",
       "lastStr": "30.06.26"
     },
@@ -1059,6 +1176,7 @@
       "daysAgo": 87,
       "ppw": 3.4,
       "memDays": 146,
+      "streak": 4,
       "joinStr": "11.02.26",
       "lastStr": "11.04.26"
     },
@@ -1068,6 +1186,7 @@
       "daysAgo": 2,
       "ppw": 3.4,
       "memDays": 145,
+      "streak": 3,
       "joinStr": "12.02.26",
       "lastStr": "05.07.26"
     },
@@ -1077,6 +1196,7 @@
       "daysAgo": 16,
       "ppw": 3.4,
       "memDays": 144,
+      "streak": 5,
       "joinStr": "13.02.26",
       "lastStr": "21.06.26"
     },
@@ -1086,6 +1206,7 @@
       "daysAgo": 4,
       "ppw": 4.5,
       "memDays": 108,
+      "streak": 4,
       "joinStr": "21.03.26",
       "lastStr": "03.07.26"
     },
@@ -1095,6 +1216,7 @@
       "daysAgo": 38,
       "ppw": 3.2,
       "memDays": 147,
+      "streak": 6,
       "joinStr": "10.02.26",
       "lastStr": "30.05.26"
     },
@@ -1104,6 +1226,7 @@
       "daysAgo": 10,
       "ppw": 3.2,
       "memDays": 146,
+      "streak": 4,
       "joinStr": "11.02.26",
       "lastStr": "27.06.26"
     },
@@ -1113,6 +1236,7 @@
       "daysAgo": 1,
       "ppw": 3.7,
       "memDays": 127,
+      "streak": 6,
       "joinStr": "02.03.26",
       "lastStr": "06.07.26"
     },
@@ -1122,6 +1246,7 @@
       "daysAgo": 16,
       "ppw": 5,
       "memDays": 94,
+      "streak": 4,
       "joinStr": "04.04.26",
       "lastStr": "21.06.26"
     },
@@ -1131,6 +1256,7 @@
       "daysAgo": 8,
       "ppw": 6.3,
       "memDays": 74,
+      "streak": 7,
       "joinStr": "24.04.26",
       "lastStr": "29.06.26"
     },
@@ -1140,6 +1266,7 @@
       "daysAgo": 4,
       "ppw": 3.3,
       "memDays": 136,
+      "streak": 3,
       "joinStr": "21.02.26",
       "lastStr": "03.07.26"
     },
@@ -1149,6 +1276,7 @@
       "daysAgo": 13,
       "ppw": 3.5,
       "memDays": 130,
+      "streak": 4,
       "joinStr": "27.02.26",
       "lastStr": "24.06.26"
     },
@@ -1158,6 +1286,7 @@
       "daysAgo": 3,
       "ppw": 11.4,
       "memDays": 40,
+      "streak": 4,
       "joinStr": "28.05.26",
       "lastStr": "04.07.26"
     },
@@ -1167,6 +1296,7 @@
       "daysAgo": 12,
       "ppw": 4,
       "memDays": 112,
+      "streak": 6,
       "joinStr": "17.03.26",
       "lastStr": "25.06.26"
     },
@@ -1176,6 +1306,7 @@
       "daysAgo": 23,
       "ppw": 4.8,
       "memDays": 94,
+      "streak": 3,
       "joinStr": "04.04.26",
       "lastStr": "14.06.26"
     },
@@ -1185,6 +1316,7 @@
       "daysAgo": 3,
       "ppw": 4.8,
       "memDays": 93,
+      "streak": 3,
       "joinStr": "05.04.26",
       "lastStr": "04.07.26"
     },
@@ -1194,6 +1326,7 @@
       "daysAgo": 2,
       "ppw": 3,
       "memDays": 145,
+      "streak": 3,
       "joinStr": "12.02.26",
       "lastStr": "05.07.26"
     },
@@ -1203,6 +1336,7 @@
       "daysAgo": 2,
       "ppw": 3,
       "memDays": 146,
+      "streak": 4,
       "joinStr": "11.02.26",
       "lastStr": "05.07.26"
     },
@@ -1212,6 +1346,7 @@
       "daysAgo": 9,
       "ppw": 4.7,
       "memDays": 93,
+      "streak": 4,
       "joinStr": "05.04.26",
       "lastStr": "28.06.26"
     },
@@ -1221,6 +1356,7 @@
       "daysAgo": 8,
       "ppw": 3,
       "memDays": 145,
+      "streak": 6,
       "joinStr": "12.02.26",
       "lastStr": "29.06.26"
     },
@@ -1230,6 +1366,7 @@
       "daysAgo": 17,
       "ppw": 5.4,
       "memDays": 81,
+      "streak": 5,
       "joinStr": "17.04.26",
       "lastStr": "20.06.26"
     },
@@ -1239,6 +1376,7 @@
       "daysAgo": 3,
       "ppw": 3.7,
       "memDays": 116,
+      "streak": 3,
       "joinStr": "13.03.26",
       "lastStr": "04.07.26"
     },
@@ -1248,6 +1386,7 @@
       "daysAgo": 3,
       "ppw": 2.9,
       "memDays": 143,
+      "streak": 5,
       "joinStr": "14.02.26",
       "lastStr": "04.07.26"
     },
@@ -1257,6 +1396,7 @@
       "daysAgo": 10,
       "ppw": 2.6,
       "memDays": 157,
+      "streak": 4,
       "joinStr": "31.01.26",
       "lastStr": "27.06.26"
     },
@@ -1266,6 +1406,7 @@
       "daysAgo": 9,
       "ppw": 4.3,
       "memDays": 95,
+      "streak": 4,
       "joinStr": "03.04.26",
       "lastStr": "28.06.26"
     },
@@ -1275,6 +1416,7 @@
       "daysAgo": 1,
       "ppw": 34.4,
       "memDays": 12,
+      "streak": 5,
       "joinStr": "25.06.26",
       "lastStr": "06.07.26"
     },
@@ -1284,6 +1426,7 @@
       "daysAgo": 6,
       "ppw": 2.1,
       "memDays": 189,
+      "streak": 4,
       "joinStr": "30.12.25",
       "lastStr": "01.07.26"
     },
@@ -1293,6 +1436,7 @@
       "daysAgo": 16,
       "ppw": 2.7,
       "memDays": 151,
+      "streak": 3,
       "joinStr": "06.02.26",
       "lastStr": "21.06.26"
     },
@@ -1302,6 +1446,7 @@
       "daysAgo": 8,
       "ppw": 2.7,
       "memDays": 150,
+      "streak": 4,
       "joinStr": "07.02.26",
       "lastStr": "29.06.26"
     },
@@ -1311,6 +1456,7 @@
       "daysAgo": 3,
       "ppw": 2.7,
       "memDays": 150,
+      "streak": 2,
       "joinStr": "07.02.26",
       "lastStr": "04.07.26"
     },
@@ -1320,6 +1466,7 @@
       "daysAgo": 46,
       "ppw": 3.5,
       "memDays": 116,
+      "streak": 8,
       "joinStr": "13.03.26",
       "lastStr": "22.05.26"
     },
@@ -1329,6 +1476,7 @@
       "daysAgo": 7,
       "ppw": 2.7,
       "memDays": 146,
+      "streak": 4,
       "joinStr": "11.02.26",
       "lastStr": "30.06.26"
     },
@@ -1338,6 +1486,7 @@
       "daysAgo": 18,
       "ppw": 4.2,
       "memDays": 94,
+      "streak": 3,
       "joinStr": "04.04.26",
       "lastStr": "19.06.26"
     },
@@ -1347,6 +1496,7 @@
       "daysAgo": 10,
       "ppw": 2.9,
       "memDays": 137,
+      "streak": 3,
       "joinStr": "20.02.26",
       "lastStr": "27.06.26"
     },
@@ -1356,6 +1506,7 @@
       "daysAgo": 12,
       "ppw": 2.9,
       "memDays": 136,
+      "streak": 3,
       "joinStr": "21.02.26",
       "lastStr": "25.06.26"
     },
@@ -1365,6 +1516,7 @@
       "daysAgo": 25,
       "ppw": 3.4,
       "memDays": 116,
+      "streak": 3,
       "joinStr": "13.03.26",
       "lastStr": "12.06.26"
     },
@@ -1374,6 +1526,7 @@
       "daysAgo": 2,
       "ppw": 3.8,
       "memDays": 102,
+      "streak": 3,
       "joinStr": "27.03.26",
       "lastStr": "05.07.26"
     },
@@ -1383,6 +1536,7 @@
       "daysAgo": 17,
       "ppw": 2.5,
       "memDays": 151,
+      "streak": 3,
       "joinStr": "06.02.26",
       "lastStr": "20.06.26"
     },
@@ -1392,6 +1546,7 @@
       "daysAgo": 23,
       "ppw": 2,
       "memDays": 189,
+      "streak": 2,
       "joinStr": "30.12.25",
       "lastStr": "14.06.26"
     },
@@ -1401,6 +1556,7 @@
       "daysAgo": 22,
       "ppw": 2.8,
       "memDays": 136,
+      "streak": 3,
       "joinStr": "21.02.26",
       "lastStr": "15.06.26"
     },
@@ -1410,6 +1566,7 @@
       "daysAgo": 19,
       "ppw": 4.3,
       "memDays": 87,
+      "streak": 4,
       "joinStr": "11.04.26",
       "lastStr": "18.06.26"
     },
@@ -1419,6 +1576,7 @@
       "daysAgo": 13,
       "ppw": 2.3,
       "memDays": 158,
+      "streak": 3,
       "joinStr": "30.01.26",
       "lastStr": "24.06.26"
     },
@@ -1428,6 +1586,7 @@
       "daysAgo": 88,
       "ppw": 2.8,
       "memDays": 132,
+      "streak": 6,
       "joinStr": "25.02.26",
       "lastStr": "10.04.26"
     },
@@ -1437,6 +1596,7 @@
       "daysAgo": 3,
       "ppw": 4.2,
       "memDays": 88,
+      "streak": 4,
       "joinStr": "10.04.26",
       "lastStr": "04.07.26"
     },
@@ -1446,6 +1606,7 @@
       "daysAgo": 24,
       "ppw": 5.1,
       "memDays": 73,
+      "streak": 4,
       "joinStr": "25.04.26",
       "lastStr": "13.06.26"
     },
@@ -1455,6 +1616,7 @@
       "daysAgo": 18,
       "ppw": 4.5,
       "memDays": 81,
+      "streak": 3,
       "joinStr": "17.04.26",
       "lastStr": "19.06.26"
     },
@@ -1464,6 +1626,7 @@
       "daysAgo": 33,
       "ppw": 4.6,
       "memDays": 79,
+      "streak": 3,
       "joinStr": "19.04.26",
       "lastStr": "04.06.26"
     },
@@ -1473,6 +1636,7 @@
       "daysAgo": 3,
       "ppw": 9.8,
       "memDays": 37,
+      "streak": 18,
       "joinStr": "31.05.26",
       "lastStr": "04.07.26"
     },
@@ -1482,6 +1646,7 @@
       "daysAgo": 16,
       "ppw": 2.2,
       "memDays": 159,
+      "streak": 3,
       "joinStr": "29.01.26",
       "lastStr": "21.06.26"
     },
@@ -1491,6 +1656,7 @@
       "daysAgo": 3,
       "ppw": 9.9,
       "memDays": 36,
+      "streak": 3,
       "joinStr": "01.06.26",
       "lastStr": "04.07.26"
     },
@@ -1500,6 +1666,7 @@
       "daysAgo": 5,
       "ppw": 2.7,
       "memDays": 133,
+      "streak": 4,
       "joinStr": "24.02.26",
       "lastStr": "02.07.26"
     },
@@ -1509,6 +1676,7 @@
       "daysAgo": 1,
       "ppw": 2.2,
       "memDays": 157,
+      "streak": 4,
       "joinStr": "31.01.26",
       "lastStr": "06.07.26"
     },
@@ -1518,6 +1686,7 @@
       "daysAgo": 3,
       "ppw": 4.5,
       "memDays": 78,
+      "streak": 2,
       "joinStr": "20.04.26",
       "lastStr": "04.07.26"
     },
@@ -1527,6 +1696,7 @@
       "daysAgo": 1,
       "ppw": 2.1,
       "memDays": 160,
+      "streak": 5,
       "joinStr": "28.01.26",
       "lastStr": "06.07.26"
     },
@@ -1536,6 +1706,7 @@
       "daysAgo": 44,
       "ppw": 2.3,
       "memDays": 151,
+      "streak": 4,
       "joinStr": "06.02.26",
       "lastStr": "24.05.26"
     },
@@ -1545,6 +1716,7 @@
       "daysAgo": 17,
       "ppw": 2.3,
       "memDays": 146,
+      "streak": 4,
       "joinStr": "11.02.26",
       "lastStr": "20.06.26"
     },
@@ -1554,6 +1726,7 @@
       "daysAgo": 2,
       "ppw": 2.6,
       "memDays": 134,
+      "streak": 3,
       "joinStr": "23.02.26",
       "lastStr": "05.07.26"
     },
@@ -1563,6 +1736,7 @@
       "daysAgo": 1,
       "ppw": 3.1,
       "memDays": 111,
+      "streak": 6,
       "joinStr": "18.03.26",
       "lastStr": "06.07.26"
     },
@@ -1572,6 +1746,7 @@
       "daysAgo": 3,
       "ppw": 3.6,
       "memDays": 94,
+      "streak": 5,
       "joinStr": "04.04.26",
       "lastStr": "04.07.26"
     },
@@ -1581,6 +1756,7 @@
       "daysAgo": 11,
       "ppw": 1.9,
       "memDays": 171,
+      "streak": 2,
       "joinStr": "17.01.26",
       "lastStr": "26.06.26"
     },
@@ -1590,6 +1766,7 @@
       "daysAgo": 22,
       "ppw": 2.4,
       "memDays": 136,
+      "streak": 4,
       "joinStr": "21.02.26",
       "lastStr": "15.06.26"
     },
@@ -1599,6 +1776,7 @@
       "daysAgo": 3,
       "ppw": 3.5,
       "memDays": 93,
+      "streak": 3,
       "joinStr": "05.04.26",
       "lastStr": "04.07.26"
     },
@@ -1608,6 +1786,7 @@
       "daysAgo": 2,
       "ppw": 3.1,
       "memDays": 103,
+      "streak": 8,
       "joinStr": "26.03.26",
       "lastStr": "05.07.26"
     },
@@ -1617,6 +1796,7 @@
       "daysAgo": 4,
       "ppw": 3.5,
       "memDays": 91,
+      "streak": 4,
       "joinStr": "07.04.26",
       "lastStr": "03.07.26"
     },
@@ -1626,6 +1806,7 @@
       "daysAgo": 1,
       "ppw": 4.4,
       "memDays": 73,
+      "streak": 5,
       "joinStr": "25.04.26",
       "lastStr": "06.07.26"
     },
@@ -1635,6 +1816,7 @@
       "daysAgo": 8,
       "ppw": 4.8,
       "memDays": 67,
+      "streak": 3,
       "joinStr": "01.05.26",
       "lastStr": "29.06.26"
     },
@@ -1644,6 +1826,7 @@
       "daysAgo": 11,
       "ppw": 2,
       "memDays": 159,
+      "streak": 3,
       "joinStr": "29.01.26",
       "lastStr": "26.06.26"
     },
@@ -1653,6 +1836,7 @@
       "daysAgo": 4,
       "ppw": 4.3,
       "memDays": 74,
+      "streak": 3,
       "joinStr": "24.04.26",
       "lastStr": "03.07.26"
     },
@@ -1662,6 +1846,7 @@
       "daysAgo": 2,
       "ppw": 2.1,
       "memDays": 146,
+      "streak": 3,
       "joinStr": "11.02.26",
       "lastStr": "05.07.26"
     },
@@ -1671,6 +1856,7 @@
       "daysAgo": 53,
       "ppw": 3.7,
       "memDays": 83,
+      "streak": 5,
       "joinStr": "15.04.26",
       "lastStr": "15.05.26"
     },
@@ -1680,6 +1866,7 @@
       "daysAgo": 115,
       "ppw": 2.1,
       "memDays": 143,
+      "streak": 2,
       "joinStr": "14.02.26",
       "lastStr": "14.03.26"
     },
@@ -1689,6 +1876,7 @@
       "daysAgo": 3,
       "ppw": 2.1,
       "memDays": 143,
+      "streak": 10,
       "joinStr": "14.02.26",
       "lastStr": "04.07.26"
     },
@@ -1698,6 +1886,7 @@
       "daysAgo": 3,
       "ppw": 2.9,
       "memDays": 104,
+      "streak": 3,
       "joinStr": "25.03.26",
       "lastStr": "04.07.26"
     },
@@ -1707,6 +1896,7 @@
       "daysAgo": 17,
       "ppw": 3.3,
       "memDays": 90,
+      "streak": 5,
       "joinStr": "08.04.26",
       "lastStr": "20.06.26"
     },
@@ -1716,6 +1906,7 @@
       "daysAgo": 9,
       "ppw": 3.5,
       "memDays": 87,
+      "streak": 3,
       "joinStr": "11.04.26",
       "lastStr": "28.06.26"
     },
@@ -1725,6 +1916,7 @@
       "daysAgo": 8,
       "ppw": 5.1,
       "memDays": 59,
+      "streak": 6,
       "joinStr": "09.05.26",
       "lastStr": "29.06.26"
     },
@@ -1734,6 +1926,7 @@
       "daysAgo": 2,
       "ppw": 2.1,
       "memDays": 143,
+      "streak": 3,
       "joinStr": "14.02.26",
       "lastStr": "05.07.26"
     },
@@ -1743,6 +1936,7 @@
       "daysAgo": 4,
       "ppw": 2.9,
       "memDays": 101,
+      "streak": 4,
       "joinStr": "28.03.26",
       "lastStr": "03.07.26"
     },
@@ -1752,6 +1946,7 @@
       "daysAgo": 3,
       "ppw": 8.9,
       "memDays": 33,
+      "streak": 3,
       "joinStr": "04.06.26",
       "lastStr": "04.07.26"
     },
@@ -1761,6 +1956,7 @@
       "daysAgo": 4,
       "ppw": 2,
       "memDays": 146,
+      "streak": 5,
       "joinStr": "11.02.26",
       "lastStr": "03.07.26"
     },
@@ -1770,6 +1966,7 @@
       "daysAgo": 10,
       "ppw": 4.6,
       "memDays": 63,
+      "streak": 3,
       "joinStr": "05.05.26",
       "lastStr": "27.06.26"
     },
@@ -1779,6 +1976,7 @@
       "daysAgo": 16,
       "ppw": 5.6,
       "memDays": 51,
+      "streak": 3,
       "joinStr": "17.05.26",
       "lastStr": "21.06.26"
     },
@@ -1788,6 +1986,7 @@
       "daysAgo": 4,
       "ppw": 1.8,
       "memDays": 159,
+      "streak": 3,
       "joinStr": "29.01.26",
       "lastStr": "03.07.26"
     },
@@ -1797,6 +1996,7 @@
       "daysAgo": 93,
       "ppw": 2.1,
       "memDays": 136,
+      "streak": 4,
       "joinStr": "21.02.26",
       "lastStr": "05.04.26"
     },
@@ -1806,6 +2006,7 @@
       "daysAgo": 10,
       "ppw": 2.9,
       "memDays": 95,
+      "streak": 3,
       "joinStr": "03.04.26",
       "lastStr": "27.06.26"
     },
@@ -1815,6 +2016,7 @@
       "daysAgo": 2,
       "ppw": 5.4,
       "memDays": 52,
+      "streak": 5,
       "joinStr": "16.05.26",
       "lastStr": "05.07.26"
     },
@@ -1824,6 +2026,7 @@
       "daysAgo": 3,
       "ppw": 1.4,
       "memDays": 189,
+      "streak": 3,
       "joinStr": "30.12.25",
       "lastStr": "04.07.26"
     },
@@ -1833,6 +2036,7 @@
       "daysAgo": 6,
       "ppw": 1.8,
       "memDays": 145,
+      "streak": 2,
       "joinStr": "12.02.26",
       "lastStr": "01.07.26"
     },
@@ -1842,6 +2046,7 @@
       "daysAgo": 18,
       "ppw": 2,
       "memDays": 136,
+      "streak": 3,
       "joinStr": "21.02.26",
       "lastStr": "19.06.26"
     },
@@ -1851,6 +2056,7 @@
       "daysAgo": 4,
       "ppw": 2.4,
       "memDays": 110,
+      "streak": 2,
       "joinStr": "19.03.26",
       "lastStr": "03.07.26"
     },
@@ -1860,6 +2066,7 @@
       "daysAgo": 8,
       "ppw": 5.1,
       "memDays": 52,
+      "streak": 3,
       "joinStr": "16.05.26",
       "lastStr": "29.06.26"
     },
@@ -1869,6 +2076,7 @@
       "daysAgo": 3,
       "ppw": 7.2,
       "memDays": 37,
+      "streak": 5,
       "joinStr": "31.05.26",
       "lastStr": "04.07.26"
     },
@@ -1878,6 +2086,7 @@
       "daysAgo": 5,
       "ppw": 10.6,
       "memDays": 25,
+      "streak": 9,
       "joinStr": "12.06.26",
       "lastStr": "02.07.26"
     },
@@ -1887,6 +2096,7 @@
       "daysAgo": 3,
       "ppw": 1.8,
       "memDays": 147,
+      "streak": 3,
       "joinStr": "10.02.26",
       "lastStr": "04.07.26"
     },
@@ -1896,6 +2106,7 @@
       "daysAgo": 1,
       "ppw": 1.9,
       "memDays": 136,
+      "streak": 3,
       "joinStr": "21.02.26",
       "lastStr": "06.07.26"
     },
@@ -1905,6 +2116,7 @@
       "daysAgo": 4,
       "ppw": 3,
       "memDays": 87,
+      "streak": 2,
       "joinStr": "11.04.26",
       "lastStr": "03.07.26"
     },
@@ -1914,6 +2126,7 @@
       "daysAgo": 13,
       "ppw": 3.3,
       "memDays": 79,
+      "streak": 3,
       "joinStr": "19.04.26",
       "lastStr": "24.06.26"
     },
@@ -1923,6 +2136,7 @@
       "daysAgo": 31,
       "ppw": 2.4,
       "memDays": 107,
+      "streak": 4,
       "joinStr": "22.03.26",
       "lastStr": "06.06.26"
     },
@@ -1932,6 +2146,7 @@
       "daysAgo": 10,
       "ppw": 2.8,
       "memDays": 89,
+      "streak": 3,
       "joinStr": "09.04.26",
       "lastStr": "27.06.26"
     },
@@ -1941,6 +2156,7 @@
       "daysAgo": 9,
       "ppw": 5.6,
       "memDays": 45,
+      "streak": 7,
       "joinStr": "23.05.26",
       "lastStr": "28.06.26"
     },
@@ -1950,6 +2166,7 @@
       "daysAgo": 31,
       "ppw": 1.7,
       "memDays": 143,
+      "streak": 2,
       "joinStr": "14.02.26",
       "lastStr": "06.06.26"
     },
@@ -1959,6 +2176,7 @@
       "daysAgo": 12,
       "ppw": 2.5,
       "memDays": 97,
+      "streak": 3,
       "joinStr": "01.04.26",
       "lastStr": "25.06.26"
     },
@@ -1968,6 +2186,7 @@
       "daysAgo": 4,
       "ppw": 2.6,
       "memDays": 94,
+      "streak": 3,
       "joinStr": "04.04.26",
       "lastStr": "03.07.26"
     },
@@ -1977,6 +2196,7 @@
       "daysAgo": 24,
       "ppw": 2.6,
       "memDays": 94,
+      "streak": 4,
       "joinStr": "04.04.26",
       "lastStr": "13.06.26"
     },
@@ -1986,6 +2206,7 @@
       "daysAgo": 4,
       "ppw": 3.3,
       "memDays": 74,
+      "streak": 4,
       "joinStr": "24.04.26",
       "lastStr": "03.07.26"
     },
@@ -1995,6 +2216,7 @@
       "daysAgo": 129,
       "ppw": 1.5,
       "memDays": 158,
+      "streak": 4,
       "joinStr": "30.01.26",
       "lastStr": "28.02.26"
     },
@@ -2004,6 +2226,7 @@
       "daysAgo": 32,
       "ppw": 1.7,
       "memDays": 143,
+      "streak": 3,
       "joinStr": "14.02.26",
       "lastStr": "05.06.26"
     },
@@ -2013,6 +2236,7 @@
       "daysAgo": 54,
       "ppw": 1.7,
       "memDays": 143,
+      "streak": 3,
       "joinStr": "14.02.26",
       "lastStr": "14.05.26"
     },
@@ -2022,6 +2246,7 @@
       "daysAgo": 46,
       "ppw": 3,
       "memDays": 80,
+      "streak": 3,
       "joinStr": "18.04.26",
       "lastStr": "22.05.26"
     },
@@ -2031,6 +2256,7 @@
       "daysAgo": 26,
       "ppw": 1.6,
       "memDays": 146,
+      "streak": 3,
       "joinStr": "11.02.26",
       "lastStr": "11.06.26"
     },
@@ -2040,6 +2266,7 @@
       "daysAgo": 37,
       "ppw": 2.3,
       "memDays": 102,
+      "streak": 3,
       "joinStr": "27.03.26",
       "lastStr": "31.05.26"
     },
@@ -2049,6 +2276,7 @@
       "daysAgo": 16,
       "ppw": 2.8,
       "memDays": 83,
+      "streak": 5,
       "joinStr": "15.04.26",
       "lastStr": "21.06.26"
     },
@@ -2058,6 +2286,7 @@
       "daysAgo": 2,
       "ppw": 5.4,
       "memDays": 43,
+      "streak": 5,
       "joinStr": "25.05.26",
       "lastStr": "05.07.26"
     },
@@ -2067,6 +2296,7 @@
       "daysAgo": 1,
       "ppw": 1.4,
       "memDays": 158,
+      "streak": 3,
       "joinStr": "30.01.26",
       "lastStr": "06.07.26"
     },
@@ -2076,6 +2306,7 @@
       "daysAgo": 87,
       "ppw": 1.5,
       "memDays": 151,
+      "streak": 3,
       "joinStr": "06.02.26",
       "lastStr": "11.04.26"
     },
@@ -2085,6 +2316,7 @@
       "daysAgo": 3,
       "ppw": 1.8,
       "memDays": 123,
+      "streak": 4,
       "joinStr": "06.03.26",
       "lastStr": "04.07.26"
     },
@@ -2094,6 +2326,7 @@
       "daysAgo": 21,
       "ppw": 3,
       "memDays": 74,
+      "streak": 3,
       "joinStr": "24.04.26",
       "lastStr": "16.06.26"
     },
@@ -2103,6 +2336,7 @@
       "daysAgo": 3,
       "ppw": 9,
       "memDays": 25,
+      "streak": 2,
       "joinStr": "12.06.26",
       "lastStr": "04.07.26"
     },
@@ -2112,6 +2346,7 @@
       "daysAgo": 33,
       "ppw": 1.8,
       "memDays": 119,
+      "streak": 3,
       "joinStr": "10.03.26",
       "lastStr": "04.06.26"
     },
@@ -2121,6 +2356,7 @@
       "daysAgo": 9,
       "ppw": 1.9,
       "memDays": 116,
+      "streak": 4,
       "joinStr": "13.03.26",
       "lastStr": "28.06.26"
     },
@@ -2130,6 +2366,7 @@
       "daysAgo": 2,
       "ppw": 2.3,
       "memDays": 96,
+      "streak": 4,
       "joinStr": "02.04.26",
       "lastStr": "05.07.26"
     },
@@ -2139,6 +2376,7 @@
       "daysAgo": 44,
       "ppw": 2.5,
       "memDays": 87,
+      "streak": 6,
       "joinStr": "11.04.26",
       "lastStr": "24.05.26"
     },
@@ -2148,6 +2386,7 @@
       "daysAgo": 3,
       "ppw": 2.7,
       "memDays": 80,
+      "streak": 3,
       "joinStr": "18.04.26",
       "lastStr": "04.07.26"
     },
@@ -2157,6 +2396,7 @@
       "daysAgo": 8,
       "ppw": 2.7,
       "memDays": 81,
+      "streak": 2,
       "joinStr": "17.04.26",
       "lastStr": "29.06.26"
     },
@@ -2166,6 +2406,7 @@
       "daysAgo": 10,
       "ppw": 4.2,
       "memDays": 52,
+      "streak": 4,
       "joinStr": "16.05.26",
       "lastStr": "27.06.26"
     },
@@ -2175,6 +2416,7 @@
       "daysAgo": 3,
       "ppw": 3.2,
       "memDays": 67,
+      "streak": 5,
       "joinStr": "01.05.26",
       "lastStr": "04.07.26"
     },
@@ -2184,6 +2426,7 @@
       "daysAgo": 3,
       "ppw": 8.3,
       "memDays": 26,
+      "streak": 3,
       "joinStr": "11.06.26",
       "lastStr": "04.07.26"
     },
@@ -2193,6 +2436,7 @@
       "daysAgo": 4,
       "ppw": 12.8,
       "memDays": 17,
+      "streak": 5,
       "joinStr": "20.06.26",
       "lastStr": "03.07.26"
     },
@@ -2202,6 +2446,7 @@
       "daysAgo": 34,
       "ppw": 1.4,
       "memDays": 145,
+      "streak": 2,
       "joinStr": "12.02.26",
       "lastStr": "03.06.26"
     },
@@ -2211,6 +2456,7 @@
       "daysAgo": 24,
       "ppw": 1.5,
       "memDays": 143,
+      "streak": 4,
       "joinStr": "14.02.26",
       "lastStr": "13.06.26"
     },
@@ -2220,6 +2466,7 @@
       "daysAgo": 39,
       "ppw": 1.6,
       "memDays": 131,
+      "streak": 3,
       "joinStr": "26.02.26",
       "lastStr": "29.05.26"
     },
@@ -2229,6 +2476,7 @@
       "daysAgo": 20,
       "ppw": 3.1,
       "memDays": 68,
+      "streak": 2,
       "joinStr": "30.04.26",
       "lastStr": "17.06.26"
     },
@@ -2238,6 +2486,7 @@
       "daysAgo": 1,
       "ppw": 4,
       "memDays": 53,
+      "streak": 3,
       "joinStr": "15.05.26",
       "lastStr": "06.07.26"
     },
@@ -2247,6 +2496,7 @@
       "daysAgo": 92,
       "ppw": 1.4,
       "memDays": 144,
+      "streak": 3,
       "joinStr": "13.02.26",
       "lastStr": "06.04.26"
     },
@@ -2256,6 +2506,7 @@
       "daysAgo": 7,
       "ppw": 1.4,
       "memDays": 143,
+      "streak": 2,
       "joinStr": "14.02.26",
       "lastStr": "30.06.26"
     },
@@ -2265,6 +2516,7 @@
       "daysAgo": 37,
       "ppw": 3.8,
       "memDays": 53,
+      "streak": 5,
       "joinStr": "15.05.26",
       "lastStr": "31.05.26"
     },
@@ -2274,6 +2526,7 @@
       "daysAgo": 10,
       "ppw": 3.8,
       "memDays": 53,
+      "streak": 3,
       "joinStr": "15.05.26",
       "lastStr": "27.06.26"
     },
@@ -2283,6 +2536,7 @@
       "daysAgo": 17,
       "ppw": 4.4,
       "memDays": 46,
+      "streak": 9,
       "joinStr": "22.05.26",
       "lastStr": "20.06.26"
     },
@@ -2292,6 +2546,7 @@
       "daysAgo": 3,
       "ppw": 6,
       "memDays": 34,
+      "streak": 4,
       "joinStr": "03.06.26",
       "lastStr": "04.07.26"
     },
@@ -2301,6 +2556,7 @@
       "daysAgo": 19,
       "ppw": 1.2,
       "memDays": 159,
+      "streak": 2,
       "joinStr": "29.01.26",
       "lastStr": "18.06.26"
     },
@@ -2310,6 +2566,7 @@
       "daysAgo": 3,
       "ppw": 1.6,
       "memDays": 125,
+      "streak": 3,
       "joinStr": "04.03.26",
       "lastStr": "04.07.26"
     },
@@ -2319,6 +2576,7 @@
       "daysAgo": 1,
       "ppw": 1.8,
       "memDays": 109,
+      "streak": 3,
       "joinStr": "20.03.26",
       "lastStr": "06.07.26"
     },
@@ -2328,6 +2586,7 @@
       "daysAgo": 12,
       "ppw": 1.8,
       "memDays": 108,
+      "streak": 4,
       "joinStr": "21.03.26",
       "lastStr": "25.06.26"
     },
@@ -2337,6 +2596,7 @@
       "daysAgo": 7,
       "ppw": 1.8,
       "memDays": 108,
+      "streak": 3,
       "joinStr": "21.03.26",
       "lastStr": "30.06.26"
     },
@@ -2346,6 +2606,7 @@
       "daysAgo": 1,
       "ppw": 7,
       "memDays": 28,
+      "streak": 6,
       "joinStr": "09.06.26",
       "lastStr": "06.07.26"
     },
@@ -2355,6 +2616,7 @@
       "daysAgo": 9,
       "ppw": 2.3,
       "memDays": 81,
+      "streak": 3,
       "joinStr": "17.04.26",
       "lastStr": "28.06.26"
     },
@@ -2364,6 +2626,7 @@
       "daysAgo": 3,
       "ppw": 2.2,
       "memDays": 86,
+      "streak": 2,
       "joinStr": "12.04.26",
       "lastStr": "04.07.26"
     },
@@ -2373,6 +2636,7 @@
       "daysAgo": 10,
       "ppw": 2.1,
       "memDays": 88,
+      "streak": 4,
       "joinStr": "10.04.26",
       "lastStr": "27.06.26"
     },
@@ -2382,6 +2646,7 @@
       "daysAgo": 14,
       "ppw": 3.8,
       "memDays": 50,
+      "streak": 2,
       "joinStr": "18.05.26",
       "lastStr": "23.06.26"
     },
@@ -2391,6 +2656,7 @@
       "daysAgo": 2,
       "ppw": 5.3,
       "memDays": 36,
+      "streak": 4,
       "joinStr": "01.06.26",
       "lastStr": "05.07.26"
     },
@@ -2400,6 +2666,7 @@
       "daysAgo": 3,
       "ppw": 5.1,
       "memDays": 37,
+      "streak": 4,
       "joinStr": "31.05.26",
       "lastStr": "04.07.26"
     },
@@ -2409,6 +2676,7 @@
       "daysAgo": 44,
       "ppw": 1.3,
       "memDays": 136,
+      "streak": 2,
       "joinStr": "21.02.26",
       "lastStr": "24.05.26"
     },
@@ -2418,6 +2686,7 @@
       "daysAgo": 19,
       "ppw": 1.6,
       "memDays": 117,
+      "streak": 2,
       "joinStr": "12.03.26",
       "lastStr": "18.06.26"
     },
@@ -2427,6 +2696,7 @@
       "daysAgo": 17,
       "ppw": 2,
       "memDays": 91,
+      "streak": 5,
       "joinStr": "07.04.26",
       "lastStr": "20.06.26"
     },
@@ -2436,6 +2706,7 @@
       "daysAgo": 32,
       "ppw": 2.1,
       "memDays": 87,
+      "streak": 3,
       "joinStr": "11.04.26",
       "lastStr": "05.06.26"
     },
@@ -2445,6 +2716,7 @@
       "daysAgo": 12,
       "ppw": 2.1,
       "memDays": 88,
+      "streak": 4,
       "joinStr": "10.04.26",
       "lastStr": "25.06.26"
     },
@@ -2454,6 +2726,7 @@
       "daysAgo": 143,
       "ppw": 1.1,
       "memDays": 157,
+      "streak": 2,
       "joinStr": "31.01.26",
       "lastStr": "14.02.26"
     },
@@ -2463,6 +2736,7 @@
       "daysAgo": 10,
       "ppw": 1.2,
       "memDays": 150,
+      "streak": 2,
       "joinStr": "07.02.26",
       "lastStr": "27.06.26"
     },
@@ -2472,6 +2746,7 @@
       "daysAgo": 1,
       "ppw": 1.4,
       "memDays": 123,
+      "streak": 4,
       "joinStr": "06.03.26",
       "lastStr": "06.07.26"
     },
@@ -2481,6 +2756,7 @@
       "daysAgo": 17,
       "ppw": 2.6,
       "memDays": 67,
+      "streak": 3,
       "joinStr": "01.05.26",
       "lastStr": "20.06.26"
     },
@@ -2490,6 +2766,7 @@
       "daysAgo": 1,
       "ppw": 4.6,
       "memDays": 38,
+      "streak": 3,
       "joinStr": "30.05.26",
       "lastStr": "06.07.26"
     },
@@ -2499,6 +2776,7 @@
       "daysAgo": 24,
       "ppw": 0.9,
       "memDays": 189,
+      "streak": 2,
       "joinStr": "30.12.25",
       "lastStr": "13.06.26"
     },
@@ -2508,6 +2786,7 @@
       "daysAgo": 4,
       "ppw": 3.8,
       "memDays": 44,
+      "streak": 3,
       "joinStr": "24.05.26",
       "lastStr": "03.07.26"
     },
@@ -2517,6 +2796,7 @@
       "daysAgo": 7,
       "ppw": 5.4,
       "memDays": 31,
+      "streak": 4,
       "joinStr": "06.06.26",
       "lastStr": "30.06.26"
     },
@@ -2526,6 +2806,7 @@
       "daysAgo": 3,
       "ppw": 1.4,
       "memDays": 116,
+      "streak": 4,
       "joinStr": "13.03.26",
       "lastStr": "04.07.26"
     },
@@ -2535,6 +2816,7 @@
       "daysAgo": 87,
       "ppw": 1.6,
       "memDays": 103,
+      "streak": 3,
       "joinStr": "26.03.26",
       "lastStr": "11.04.26"
     },
@@ -2544,6 +2826,7 @@
       "daysAgo": 25,
       "ppw": 1.7,
       "memDays": 96,
+      "streak": 5,
       "joinStr": "02.04.26",
       "lastStr": "12.06.26"
     },
@@ -2553,6 +2836,7 @@
       "daysAgo": 3,
       "ppw": 1.7,
       "memDays": 94,
+      "streak": 3,
       "joinStr": "04.04.26",
       "lastStr": "04.07.26"
     },
@@ -2562,6 +2846,7 @@
       "daysAgo": 38,
       "ppw": 1.7,
       "memDays": 94,
+      "streak": 4,
       "joinStr": "04.04.26",
       "lastStr": "30.05.26"
     },
@@ -2571,6 +2856,7 @@
       "daysAgo": 11,
       "ppw": 2.1,
       "memDays": 76,
+      "streak": 2,
       "joinStr": "22.04.26",
       "lastStr": "26.06.26"
     },
@@ -2580,6 +2866,7 @@
       "daysAgo": 2,
       "ppw": 3.5,
       "memDays": 46,
+      "streak": 4,
       "joinStr": "22.05.26",
       "lastStr": "05.07.26"
     },
@@ -2589,6 +2876,7 @@
       "daysAgo": 30,
       "ppw": 3.5,
       "memDays": 46,
+      "streak": 2,
       "joinStr": "22.05.26",
       "lastStr": "07.06.26"
     },
@@ -2598,6 +2886,7 @@
       "daysAgo": 7,
       "ppw": 4.6,
       "memDays": 35,
+      "streak": 2,
       "joinStr": "02.06.26",
       "lastStr": "30.06.26"
     },
@@ -2607,6 +2896,7 @@
       "daysAgo": 54,
       "ppw": 1,
       "memDays": 149,
+      "streak": 3,
       "joinStr": "08.02.26",
       "lastStr": "14.05.26"
     },
@@ -2616,6 +2906,7 @@
       "daysAgo": 60,
       "ppw": 1,
       "memDays": 147,
+      "streak": 2,
       "joinStr": "10.02.26",
       "lastStr": "08.05.26"
     },
@@ -2625,6 +2916,7 @@
       "daysAgo": 93,
       "ppw": 1.1,
       "memDays": 146,
+      "streak": 5,
       "joinStr": "11.02.26",
       "lastStr": "05.04.26"
     },
@@ -2634,6 +2926,7 @@
       "daysAgo": 2,
       "ppw": 1.1,
       "memDays": 143,
+      "streak": 2,
       "joinStr": "14.02.26",
       "lastStr": "05.07.26"
     },
@@ -2643,6 +2936,7 @@
       "daysAgo": 25,
       "ppw": 1.6,
       "memDays": 98,
+      "streak": 2,
       "joinStr": "31.03.26",
       "lastStr": "12.06.26"
     },
@@ -2652,6 +2946,7 @@
       "daysAgo": 3,
       "ppw": 1.6,
       "memDays": 95,
+      "streak": 2,
       "joinStr": "03.04.26",
       "lastStr": "04.07.26"
     },
@@ -2661,6 +2956,7 @@
       "daysAgo": 13,
       "ppw": 1.8,
       "memDays": 88,
+      "streak": 3,
       "joinStr": "10.04.26",
       "lastStr": "24.06.26"
     },
@@ -2670,6 +2966,7 @@
       "daysAgo": 24,
       "ppw": 1.8,
       "memDays": 85,
+      "streak": 2,
       "joinStr": "13.04.26",
       "lastStr": "13.06.26"
     },
@@ -2679,6 +2976,7 @@
       "daysAgo": 37,
       "ppw": 1.9,
       "memDays": 82,
+      "streak": 3,
       "joinStr": "16.04.26",
       "lastStr": "31.05.26"
     },
@@ -2688,6 +2986,7 @@
       "daysAgo": 13,
       "ppw": 2.1,
       "memDays": 73,
+      "streak": 4,
       "joinStr": "25.04.26",
       "lastStr": "24.06.26"
     },
@@ -2697,6 +2996,7 @@
       "daysAgo": 5,
       "ppw": 3.2,
       "memDays": 48,
+      "streak": 3,
       "joinStr": "20.05.26",
       "lastStr": "02.07.26"
     },
@@ -2706,6 +3006,7 @@
       "daysAgo": 3,
       "ppw": 1.5,
       "memDays": 105,
+      "streak": 8,
       "joinStr": "24.03.26",
       "lastStr": "04.07.26"
     },
@@ -2715,6 +3016,7 @@
       "daysAgo": 92,
       "ppw": 0.9,
       "memDays": 159,
+      "streak": 3,
       "joinStr": "29.01.26",
       "lastStr": "06.04.26"
     },
@@ -2724,6 +3026,7 @@
       "daysAgo": 53,
       "ppw": 1,
       "memDays": 145,
+      "streak": 3,
       "joinStr": "12.02.26",
       "lastStr": "15.05.26"
     },
@@ -2733,6 +3036,7 @@
       "daysAgo": 8,
       "ppw": 1,
       "memDays": 151,
+      "streak": 2,
       "joinStr": "06.02.26",
       "lastStr": "29.06.26"
     },
@@ -2742,6 +3046,7 @@
       "daysAgo": 86,
       "ppw": 1,
       "memDays": 142,
+      "streak": 4,
       "joinStr": "15.02.26",
       "lastStr": "12.04.26"
     },
@@ -2751,6 +3056,7 @@
       "daysAgo": 28,
       "ppw": 1.3,
       "memDays": 111,
+      "streak": 3,
       "joinStr": "18.03.26",
       "lastStr": "09.06.26"
     },
@@ -2760,6 +3066,7 @@
       "daysAgo": 14,
       "ppw": 1.5,
       "memDays": 95,
+      "streak": 3,
       "joinStr": "03.04.26",
       "lastStr": "23.06.26"
     },
@@ -2769,6 +3076,7 @@
       "daysAgo": 4,
       "ppw": 1.6,
       "memDays": 93,
+      "streak": 2,
       "joinStr": "05.04.26",
       "lastStr": "03.07.26"
     },
@@ -2778,6 +3086,7 @@
       "daysAgo": 59,
       "ppw": 1.6,
       "memDays": 91,
+      "streak": 2,
       "joinStr": "07.04.26",
       "lastStr": "09.05.26"
     },
@@ -2787,6 +3096,7 @@
       "daysAgo": 31,
       "ppw": 1.7,
       "memDays": 88,
+      "streak": 2,
       "joinStr": "10.04.26",
       "lastStr": "06.06.26"
     },
@@ -2796,6 +3106,7 @@
       "daysAgo": 9,
       "ppw": 1.7,
       "memDays": 87,
+      "streak": 2,
       "joinStr": "11.04.26",
       "lastStr": "28.06.26"
     },
@@ -2805,6 +3116,7 @@
       "daysAgo": 16,
       "ppw": 2.2,
       "memDays": 66,
+      "streak": 2,
       "joinStr": "02.05.26",
       "lastStr": "21.06.26"
     },
@@ -2814,6 +3126,7 @@
       "daysAgo": 2,
       "ppw": 2.5,
       "memDays": 59,
+      "streak": 2,
       "joinStr": "09.05.26",
       "lastStr": "05.07.26"
     },
@@ -2823,6 +3136,7 @@
       "daysAgo": 2,
       "ppw": 7,
       "memDays": 21,
+      "streak": 3,
       "joinStr": "16.06.26",
       "lastStr": "05.07.26"
     },
@@ -2832,6 +3146,7 @@
       "daysAgo": 55,
       "ppw": 1,
       "memDays": 144,
+      "streak": 2,
       "joinStr": "13.02.26",
       "lastStr": "13.05.26"
     },
@@ -2841,6 +3156,7 @@
       "daysAgo": 67,
       "ppw": 1,
       "memDays": 144,
+      "streak": 2,
       "joinStr": "13.02.26",
       "lastStr": "01.05.26"
     },
@@ -2850,6 +3166,7 @@
       "daysAgo": 19,
       "ppw": 1.4,
       "memDays": 103,
+      "streak": 2,
       "joinStr": "26.03.26",
       "lastStr": "18.06.26"
     },
@@ -2859,6 +3176,7 @@
       "daysAgo": 45,
       "ppw": 1.5,
       "memDays": 96,
+      "streak": 2,
       "joinStr": "02.04.26",
       "lastStr": "23.05.26"
     },
@@ -2868,6 +3186,7 @@
       "daysAgo": 9,
       "ppw": 1.5,
       "memDays": 95,
+      "streak": 2,
       "joinStr": "03.04.26",
       "lastStr": "28.06.26"
     },
@@ -2877,6 +3196,7 @@
       "daysAgo": 4,
       "ppw": 2.6,
       "memDays": 54,
+      "streak": 2,
       "joinStr": "14.05.26",
       "lastStr": "03.07.26"
     },
@@ -2886,6 +3206,7 @@
       "daysAgo": 1,
       "ppw": 8.8,
       "memDays": 16,
+      "streak": 4,
       "joinStr": "21.06.26",
       "lastStr": "06.07.26"
     },
@@ -2895,6 +3216,7 @@
       "daysAgo": 19,
       "ppw": 0.8,
       "memDays": 159,
+      "streak": 2,
       "joinStr": "29.01.26",
       "lastStr": "18.06.26"
     },
@@ -2904,6 +3226,7 @@
       "daysAgo": 26,
       "ppw": 1,
       "memDays": 130,
+      "streak": 3,
       "joinStr": "27.02.26",
       "lastStr": "11.06.26"
     },
@@ -2913,6 +3236,7 @@
       "daysAgo": 13,
       "ppw": 1.1,
       "memDays": 125,
+      "streak": 2,
       "joinStr": "04.03.26",
       "lastStr": "24.06.26"
     },
@@ -2922,6 +3246,7 @@
       "daysAgo": 92,
       "ppw": 1.2,
       "memDays": 112,
+      "streak": 5,
       "joinStr": "17.03.26",
       "lastStr": "06.04.26"
     },
@@ -2931,6 +3256,7 @@
       "daysAgo": 5,
       "ppw": 1.4,
       "memDays": 95,
+      "streak": 2,
       "joinStr": "03.04.26",
       "lastStr": "02.07.26"
     },
@@ -2940,6 +3266,7 @@
       "daysAgo": 9,
       "ppw": 1.4,
       "memDays": 95,
+      "streak": 4,
       "joinStr": "03.04.26",
       "lastStr": "28.06.26"
     },
@@ -2949,6 +3276,7 @@
       "daysAgo": 46,
       "ppw": 1.6,
       "memDays": 81,
+      "streak": 4,
       "joinStr": "17.04.26",
       "lastStr": "22.05.26"
     },
@@ -2958,6 +3286,7 @@
       "daysAgo": 17,
       "ppw": 1.9,
       "memDays": 71,
+      "streak": 4,
       "joinStr": "27.04.26",
       "lastStr": "20.06.26"
     },
@@ -2967,6 +3296,7 @@
       "daysAgo": 80,
       "ppw": 0.8,
       "memDays": 159,
+      "streak": 1,
       "joinStr": "29.01.26",
       "lastStr": "18.04.26"
     },
@@ -2976,6 +3306,7 @@
       "daysAgo": 82,
       "ppw": 0.8,
       "memDays": 153,
+      "streak": 2,
       "joinStr": "04.02.26",
       "lastStr": "16.04.26"
     },
@@ -2985,6 +3316,7 @@
       "daysAgo": 61,
       "ppw": 0.9,
       "memDays": 146,
+      "streak": 3,
       "joinStr": "11.02.26",
       "lastStr": "07.05.26"
     },
@@ -2994,6 +3326,7 @@
       "daysAgo": 12,
       "ppw": 1,
       "memDays": 122,
+      "streak": 3,
       "joinStr": "07.03.26",
       "lastStr": "25.06.26"
     },
@@ -3003,6 +3336,7 @@
       "daysAgo": 15,
       "ppw": 1,
       "memDays": 121,
+      "streak": 2,
       "joinStr": "08.03.26",
       "lastStr": "22.06.26"
     },
@@ -3012,6 +3346,7 @@
       "daysAgo": 23,
       "ppw": 1.3,
       "memDays": 100,
+      "streak": 3,
       "joinStr": "29.03.26",
       "lastStr": "14.06.26"
     },
@@ -3021,6 +3356,7 @@
       "daysAgo": 12,
       "ppw": 1.4,
       "memDays": 90,
+      "streak": 4,
       "joinStr": "08.04.26",
       "lastStr": "25.06.26"
     },
@@ -3030,6 +3366,7 @@
       "daysAgo": 8,
       "ppw": 1.6,
       "memDays": 80,
+      "streak": 2,
       "joinStr": "18.04.26",
       "lastStr": "29.06.26"
     },
@@ -3039,6 +3376,7 @@
       "daysAgo": 1,
       "ppw": 8.4,
       "memDays": 15,
+      "streak": 4,
       "joinStr": "22.06.26",
       "lastStr": "06.07.26"
     },
@@ -3048,6 +3386,7 @@
       "daysAgo": 117,
       "ppw": 0.8,
       "memDays": 148,
+      "streak": 2,
       "joinStr": "09.02.26",
       "lastStr": "12.03.26"
     },
@@ -3057,6 +3396,7 @@
       "daysAgo": 73,
       "ppw": 0.8,
       "memDays": 149,
+      "streak": 2,
       "joinStr": "08.02.26",
       "lastStr": "25.04.26"
     },
@@ -3066,6 +3406,7 @@
       "daysAgo": 94,
       "ppw": 0.8,
       "memDays": 143,
+      "streak": 7,
       "joinStr": "14.02.26",
       "lastStr": "04.04.26"
     },
@@ -3075,6 +3416,7 @@
       "daysAgo": 40,
       "ppw": 0.8,
       "memDays": 142,
+      "streak": 2,
       "joinStr": "15.02.26",
       "lastStr": "28.05.26"
     },
@@ -3084,6 +3426,7 @@
       "daysAgo": 55,
       "ppw": 1,
       "memDays": 116,
+      "streak": 2,
       "joinStr": "13.03.26",
       "lastStr": "13.05.26"
     },
@@ -3093,6 +3436,7 @@
       "daysAgo": 66,
       "ppw": 1.6,
       "memDays": 73,
+      "streak": 2,
       "joinStr": "25.04.26",
       "lastStr": "02.05.26"
     },
@@ -3102,6 +3446,7 @@
       "daysAgo": 10,
       "ppw": 1.6,
       "memDays": 73,
+      "streak": 2,
       "joinStr": "25.04.26",
       "lastStr": "27.06.26"
     },
@@ -3111,6 +3456,7 @@
       "daysAgo": 19,
       "ppw": 2.2,
       "memDays": 53,
+      "streak": 3,
       "joinStr": "15.05.26",
       "lastStr": "18.06.26"
     },
@@ -3120,6 +3466,7 @@
       "daysAgo": 4,
       "ppw": 2.3,
       "memDays": 52,
+      "streak": 2,
       "joinStr": "16.05.26",
       "lastStr": "03.07.26"
     },
@@ -3129,6 +3476,7 @@
       "daysAgo": 5,
       "ppw": 5.7,
       "memDays": 21,
+      "streak": 2,
       "joinStr": "16.06.26",
       "lastStr": "02.07.26"
     },
@@ -3138,6 +3486,7 @@
       "daysAgo": 75,
       "ppw": 0.7,
       "memDays": 159,
+      "streak": 2,
       "joinStr": "29.01.26",
       "lastStr": "23.04.26"
     },
@@ -3147,6 +3496,7 @@
       "daysAgo": 61,
       "ppw": 0.7,
       "memDays": 151,
+      "streak": 2,
       "joinStr": "06.02.26",
       "lastStr": "07.05.26"
     },
@@ -3156,6 +3506,7 @@
       "daysAgo": 9,
       "ppw": 0.7,
       "memDays": 150,
+      "streak": 2,
       "joinStr": "07.02.26",
       "lastStr": "28.06.26"
     },
@@ -3165,6 +3516,7 @@
       "daysAgo": 93,
       "ppw": 0.8,
       "memDays": 147,
+      "streak": 6,
       "joinStr": "10.02.26",
       "lastStr": "05.04.26"
     },
@@ -3174,6 +3526,7 @@
       "daysAgo": 79,
       "ppw": 0.9,
       "memDays": 127,
+      "streak": 3,
       "joinStr": "02.03.26",
       "lastStr": "19.04.26"
     },
@@ -3183,6 +3536,7 @@
       "daysAgo": 39,
       "ppw": 1.7,
       "memDays": 67,
+      "streak": 2,
       "joinStr": "01.05.26",
       "lastStr": "29.05.26"
     },
@@ -3192,6 +3546,7 @@
       "daysAgo": 17,
       "ppw": 1.8,
       "memDays": 62,
+      "streak": 4,
       "joinStr": "06.05.26",
       "lastStr": "20.06.26"
     },
@@ -3201,6 +3556,7 @@
       "daysAgo": 1,
       "ppw": 2.1,
       "memDays": 54,
+      "streak": 3,
       "joinStr": "14.05.26",
       "lastStr": "06.07.26"
     },
@@ -3210,6 +3566,7 @@
       "daysAgo": 3,
       "ppw": 2.1,
       "memDays": 53,
+      "streak": 4,
       "joinStr": "15.05.26",
       "lastStr": "04.07.26"
     },
@@ -3219,6 +3576,7 @@
       "daysAgo": 16,
       "ppw": 2.1,
       "memDays": 53,
+      "streak": 3,
       "joinStr": "15.05.26",
       "lastStr": "21.06.26"
     },
@@ -3228,6 +3586,7 @@
       "daysAgo": 2,
       "ppw": 2.1,
       "memDays": 53,
+      "streak": 1,
       "joinStr": "15.05.26",
       "lastStr": "05.07.26"
     },
@@ -3237,6 +3596,7 @@
       "daysAgo": 32,
       "ppw": 2.5,
       "memDays": 45,
+      "streak": 2,
       "joinStr": "23.05.26",
       "lastStr": "05.06.26"
     },
@@ -3246,6 +3606,7 @@
       "daysAgo": 3,
       "ppw": 5.6,
       "memDays": 20,
+      "streak": 4,
       "joinStr": "17.06.26",
       "lastStr": "04.07.26"
     },
@@ -3255,6 +3616,7 @@
       "daysAgo": 71,
       "ppw": 0.7,
       "memDays": 158,
+      "streak": 3,
       "joinStr": "30.01.26",
       "lastStr": "27.04.26"
     },
@@ -3264,6 +3626,7 @@
       "daysAgo": 45,
       "ppw": 0.7,
       "memDays": 144,
+      "streak": 3,
       "joinStr": "13.02.26",
       "lastStr": "23.05.26"
     },
@@ -3273,6 +3636,7 @@
       "daysAgo": 111,
       "ppw": 0.8,
       "memDays": 127,
+      "streak": 4,
       "joinStr": "02.03.26",
       "lastStr": "18.03.26"
     },
@@ -3282,6 +3646,7 @@
       "daysAgo": 11,
       "ppw": 0.9,
       "memDays": 123,
+      "streak": 2,
       "joinStr": "06.03.26",
       "lastStr": "26.06.26"
     },
@@ -3291,6 +3656,7 @@
       "daysAgo": 20,
       "ppw": 0.9,
       "memDays": 123,
+      "streak": 3,
       "joinStr": "06.03.26",
       "lastStr": "17.06.26"
     },
@@ -3300,6 +3666,7 @@
       "daysAgo": 44,
       "ppw": 0.9,
       "memDays": 116,
+      "streak": 2,
       "joinStr": "13.03.26",
       "lastStr": "24.05.26"
     },
@@ -3309,6 +3676,7 @@
       "daysAgo": 7,
       "ppw": 0.9,
       "memDays": 115,
+      "streak": 3,
       "joinStr": "14.03.26",
       "lastStr": "30.06.26"
     },
@@ -3318,6 +3686,7 @@
       "daysAgo": 38,
       "ppw": 1,
       "memDays": 110,
+      "streak": 3,
       "joinStr": "19.03.26",
       "lastStr": "30.05.26"
     },
@@ -3327,6 +3696,7 @@
       "daysAgo": 51,
       "ppw": 1,
       "memDays": 101,
+      "streak": 2,
       "joinStr": "28.03.26",
       "lastStr": "17.05.26"
     },
@@ -3336,6 +3706,7 @@
       "daysAgo": 12,
       "ppw": 1.1,
       "memDays": 96,
+      "streak": 1,
       "joinStr": "02.04.26",
       "lastStr": "25.06.26"
     },
@@ -3345,6 +3716,7 @@
       "daysAgo": 44,
       "ppw": 1.4,
       "memDays": 74,
+      "streak": 3,
       "joinStr": "24.04.26",
       "lastStr": "24.05.26"
     },
@@ -3354,6 +3726,7 @@
       "daysAgo": 6,
       "ppw": 1.4,
       "memDays": 75,
+      "streak": 3,
       "joinStr": "23.04.26",
       "lastStr": "01.07.26"
     },
@@ -3363,6 +3736,7 @@
       "daysAgo": 41,
       "ppw": 1.5,
       "memDays": 71,
+      "streak": 3,
       "joinStr": "27.04.26",
       "lastStr": "27.05.26"
     },
@@ -3372,6 +3746,7 @@
       "daysAgo": 46,
       "ppw": 1.5,
       "memDays": 69,
+      "streak": 2,
       "joinStr": "29.04.26",
       "lastStr": "22.05.26"
     },
@@ -3381,6 +3756,7 @@
       "daysAgo": 1,
       "ppw": 1.9,
       "memDays": 54,
+      "streak": 2,
       "joinStr": "14.05.26",
       "lastStr": "06.07.26"
     },
@@ -3390,6 +3766,7 @@
       "daysAgo": 13,
       "ppw": 2.1,
       "memDays": 49,
+      "streak": 2,
       "joinStr": "19.05.26",
       "lastStr": "24.06.26"
     },
@@ -3399,6 +3776,7 @@
       "daysAgo": 18,
       "ppw": 2.1,
       "memDays": 49,
+      "streak": 3,
       "joinStr": "19.05.26",
       "lastStr": "19.06.26"
     },
@@ -3408,6 +3786,7 @@
       "daysAgo": 2,
       "ppw": 3.1,
       "memDays": 34,
+      "streak": 3,
       "joinStr": "03.06.26",
       "lastStr": "05.07.26"
     },
@@ -3417,6 +3796,7 @@
       "daysAgo": 3,
       "ppw": 3.4,
       "memDays": 31,
+      "streak": 4,
       "joinStr": "06.06.26",
       "lastStr": "04.07.26"
     },
@@ -3426,6 +3806,7 @@
       "daysAgo": 2,
       "ppw": 5.8,
       "memDays": 18,
+      "streak": 4,
       "joinStr": "19.06.26",
       "lastStr": "05.07.26"
     },
@@ -3435,6 +3816,7 @@
       "daysAgo": 46,
       "ppw": 0.7,
       "memDays": 145,
+      "streak": 2,
       "joinStr": "12.02.26",
       "lastStr": "22.05.26"
     },
@@ -3444,6 +3826,7 @@
       "daysAgo": 144,
       "ppw": 0.7,
       "memDays": 145,
+      "streak": 2,
       "joinStr": "12.02.26",
       "lastStr": "13.02.26"
     },
@@ -3453,6 +3836,7 @@
       "daysAgo": 10,
       "ppw": 0.7,
       "memDays": 142,
+      "streak": 3,
       "joinStr": "15.02.26",
       "lastStr": "27.06.26"
     },
@@ -3462,6 +3846,7 @@
       "daysAgo": 12,
       "ppw": 0.9,
       "memDays": 115,
+      "streak": 3,
       "joinStr": "14.03.26",
       "lastStr": "25.06.26"
     },
@@ -3471,6 +3856,7 @@
       "daysAgo": 35,
       "ppw": 1,
       "memDays": 102,
+      "streak": 2,
       "joinStr": "27.03.26",
       "lastStr": "02.06.26"
     },
@@ -3480,6 +3866,7 @@
       "daysAgo": 22,
       "ppw": 0.9,
       "memDays": 107,
+      "streak": 2,
       "joinStr": "22.03.26",
       "lastStr": "15.06.26"
     },
@@ -3489,6 +3876,7 @@
       "daysAgo": 58,
       "ppw": 0.5,
       "memDays": 189,
+      "streak": 2,
       "joinStr": "30.12.25",
       "lastStr": "10.05.26"
     },
@@ -3498,6 +3886,7 @@
       "daysAgo": 31,
       "ppw": 1.1,
       "memDays": 87,
+      "streak": 2,
       "joinStr": "11.04.26",
       "lastStr": "06.06.26"
     },
@@ -3507,6 +3896,7 @@
       "daysAgo": 17,
       "ppw": 1.8,
       "memDays": 53,
+      "streak": 3,
       "joinStr": "15.05.26",
       "lastStr": "20.06.26"
     },
@@ -3516,6 +3906,7 @@
       "daysAgo": 24,
       "ppw": 1.9,
       "memDays": 52,
+      "streak": 2,
       "joinStr": "16.05.26",
       "lastStr": "13.06.26"
     },
@@ -3525,6 +3916,7 @@
       "daysAgo": 18,
       "ppw": 2.1,
       "memDays": 46,
+      "streak": 2,
       "joinStr": "22.05.26",
       "lastStr": "19.06.26"
     },
@@ -3534,6 +3926,7 @@
       "daysAgo": 16,
       "ppw": 2.6,
       "memDays": 38,
+      "streak": 6,
       "joinStr": "30.05.26",
       "lastStr": "21.06.26"
     },
@@ -3543,6 +3936,7 @@
       "daysAgo": 4,
       "ppw": 3.9,
       "memDays": 25,
+      "streak": 3,
       "joinStr": "12.06.26",
       "lastStr": "03.07.26"
     },
@@ -3552,6 +3946,7 @@
       "daysAgo": 3,
       "ppw": 8.9,
       "memDays": 11,
+      "streak": 3,
       "joinStr": "26.06.26",
       "lastStr": "04.07.26"
     },
@@ -3561,6 +3956,7 @@
       "daysAgo": 115,
       "ppw": 0.5,
       "memDays": 189,
+      "streak": 3,
       "joinStr": "30.12.25",
       "lastStr": "14.03.26"
     },
@@ -3570,6 +3966,7 @@
       "daysAgo": 130,
       "ppw": 0.6,
       "memDays": 151,
+      "streak": 1,
       "joinStr": "06.02.26",
       "lastStr": "27.02.26"
     },
@@ -3579,6 +3976,7 @@
       "daysAgo": 80,
       "ppw": 0.6,
       "memDays": 150,
+      "streak": 2,
       "joinStr": "07.02.26",
       "lastStr": "18.04.26"
     },
@@ -3588,6 +3986,7 @@
       "daysAgo": 100,
       "ppw": 0.6,
       "memDays": 145,
+      "streak": 2,
       "joinStr": "12.02.26",
       "lastStr": "29.03.26"
     },
@@ -3597,6 +3996,7 @@
       "daysAgo": 61,
       "ppw": 0.6,
       "memDays": 151,
+      "streak": 2,
       "joinStr": "06.02.26",
       "lastStr": "07.05.26"
     },
@@ -3606,6 +4006,7 @@
       "daysAgo": 54,
       "ppw": 0.6,
       "memDays": 144,
+      "streak": 3,
       "joinStr": "13.02.26",
       "lastStr": "14.05.26"
     },
@@ -3615,6 +4016,7 @@
       "daysAgo": 24,
       "ppw": 0.7,
       "memDays": 137,
+      "streak": 2,
       "joinStr": "20.02.26",
       "lastStr": "13.06.26"
     },
@@ -3624,6 +4026,7 @@
       "daysAgo": 25,
       "ppw": 0.6,
       "memDays": 142,
+      "streak": 2,
       "joinStr": "15.02.26",
       "lastStr": "12.06.26"
     },
@@ -3633,6 +4036,7 @@
       "daysAgo": 22,
       "ppw": 0.9,
       "memDays": 97,
+      "streak": 2,
       "joinStr": "01.04.26",
       "lastStr": "15.06.26"
     },
@@ -3642,6 +4046,7 @@
       "daysAgo": 51,
       "ppw": 0.9,
       "memDays": 98,
+      "streak": 3,
       "joinStr": "31.03.26",
       "lastStr": "17.05.26"
     },
@@ -3651,6 +4056,7 @@
       "daysAgo": 20,
       "ppw": 1,
       "memDays": 92,
+      "streak": 1,
       "joinStr": "06.04.26",
       "lastStr": "17.06.26"
     },
@@ -3660,6 +4066,7 @@
       "daysAgo": 3,
       "ppw": 1.2,
       "memDays": 75,
+      "streak": 3,
       "joinStr": "23.04.26",
       "lastStr": "04.07.26"
     },
@@ -3669,6 +4076,7 @@
       "daysAgo": 41,
       "ppw": 1.7,
       "memDays": 54,
+      "streak": 2,
       "joinStr": "14.05.26",
       "lastStr": "27.05.26"
     },
@@ -3678,6 +4086,7 @@
       "daysAgo": 5,
       "ppw": 2.1,
       "memDays": 44,
+      "streak": 4,
       "joinStr": "24.05.26",
       "lastStr": "02.07.26"
     },
@@ -3687,6 +4096,7 @@
       "daysAgo": 8,
       "ppw": 2.5,
       "memDays": 37,
+      "streak": 2,
       "joinStr": "31.05.26",
       "lastStr": "29.06.26"
     },
@@ -3696,6 +4106,7 @@
       "daysAgo": 3,
       "ppw": 8.3,
       "memDays": 11,
+      "streak": 1,
       "joinStr": "26.06.26",
       "lastStr": "04.07.26"
     },
@@ -3705,6 +4116,7 @@
       "daysAgo": 52,
       "ppw": 0.6,
       "memDays": 151,
+      "streak": 2,
       "joinStr": "06.02.26",
       "lastStr": "16.05.26"
     },
@@ -3714,6 +4126,7 @@
       "daysAgo": 24,
       "ppw": 0.5,
       "memDays": 156,
+      "streak": 2,
       "joinStr": "01.02.26",
       "lastStr": "13.06.26"
     },
@@ -3723,6 +4136,7 @@
       "daysAgo": 30,
       "ppw": 0.7,
       "memDays": 126,
+      "streak": 2,
       "joinStr": "03.03.26",
       "lastStr": "07.06.26"
     },
@@ -3732,6 +4146,7 @@
       "daysAgo": 18,
       "ppw": 0.7,
       "memDays": 122,
+      "streak": 2,
       "joinStr": "07.03.26",
       "lastStr": "19.06.26"
     },
@@ -3741,6 +4156,7 @@
       "daysAgo": 100,
       "ppw": 0.7,
       "memDays": 116,
+      "streak": 2,
       "joinStr": "13.03.26",
       "lastStr": "29.03.26"
     },
@@ -3750,6 +4166,7 @@
       "daysAgo": 54,
       "ppw": 0.9,
       "memDays": 98,
+      "streak": 6,
       "joinStr": "31.03.26",
       "lastStr": "14.05.26"
     },
@@ -3759,6 +4176,7 @@
       "daysAgo": 60,
       "ppw": 0.9,
       "memDays": 90,
+      "streak": 2,
       "joinStr": "08.04.26",
       "lastStr": "08.05.26"
     },
@@ -3768,6 +4186,7 @@
       "daysAgo": 9,
       "ppw": 1,
       "memDays": 88,
+      "streak": 2,
       "joinStr": "10.04.26",
       "lastStr": "28.06.26"
     },
@@ -3777,6 +4196,7 @@
       "daysAgo": 43,
       "ppw": 1.3,
       "memDays": 67,
+      "streak": 2,
       "joinStr": "01.05.26",
       "lastStr": "25.05.26"
     },
@@ -3786,6 +4206,7 @@
       "daysAgo": 16,
       "ppw": 1.6,
       "memDays": 53,
+      "streak": 2,
       "joinStr": "15.05.26",
       "lastStr": "21.06.26"
     },
@@ -3795,6 +4216,7 @@
       "daysAgo": 30,
       "ppw": 1.2,
       "memDays": 72,
+      "streak": 3,
       "joinStr": "26.04.26",
       "lastStr": "07.06.26"
     },
@@ -3804,6 +4226,7 @@
       "daysAgo": 29,
       "ppw": 1.8,
       "memDays": 48,
+      "streak": 4,
       "joinStr": "20.05.26",
       "lastStr": "08.06.26"
     },
@@ -3813,6 +4236,7 @@
       "daysAgo": 6,
       "ppw": 1.7,
       "memDays": 50,
+      "streak": 3,
       "joinStr": "18.05.26",
       "lastStr": "01.07.26"
     },
@@ -3822,6 +4246,7 @@
       "daysAgo": 24,
       "ppw": 2,
       "memDays": 42,
+      "streak": 4,
       "joinStr": "26.05.26",
       "lastStr": "13.06.26"
     },
@@ -3831,6 +4256,7 @@
       "daysAgo": 21,
       "ppw": 2.1,
       "memDays": 40,
+      "streak": 4,
       "joinStr": "28.05.26",
       "lastStr": "16.06.26"
     },
@@ -3840,6 +4266,7 @@
       "daysAgo": 17,
       "ppw": 2.9,
       "memDays": 29,
+      "streak": 1,
       "joinStr": "08.06.26",
       "lastStr": "20.06.26"
     },
@@ -3849,6 +4276,7 @@
       "daysAgo": 11,
       "ppw": 2.9,
       "memDays": 29,
+      "streak": 2,
       "joinStr": "08.06.26",
       "lastStr": "26.06.26"
     },
@@ -3858,6 +4286,7 @@
       "daysAgo": 8,
       "ppw": 3.2,
       "memDays": 26,
+      "streak": 1,
       "joinStr": "11.06.26",
       "lastStr": "29.06.26"
     },
@@ -3867,6 +4296,7 @@
       "daysAgo": 19,
       "ppw": 0.5,
       "memDays": 144,
+      "streak": 2,
       "joinStr": "13.02.26",
       "lastStr": "18.06.26"
     },
@@ -3876,6 +4306,7 @@
       "daysAgo": 40,
       "ppw": 0.5,
       "memDays": 142,
+      "streak": 1,
       "joinStr": "15.02.26",
       "lastStr": "28.05.26"
     },
@@ -3885,6 +4316,7 @@
       "daysAgo": 122,
       "ppw": 0.6,
       "memDays": 126,
+      "streak": 5,
       "joinStr": "03.03.26",
       "lastStr": "07.03.26"
     },
@@ -3894,6 +4326,7 @@
       "daysAgo": 83,
       "ppw": 0.6,
       "memDays": 125,
+      "streak": 1,
       "joinStr": "04.03.26",
       "lastStr": "15.04.26"
     },
@@ -3903,6 +4336,7 @@
       "daysAgo": 47,
       "ppw": 0.7,
       "memDays": 103,
+      "streak": 2,
       "joinStr": "26.03.26",
       "lastStr": "21.05.26"
     },
@@ -3912,6 +4346,7 @@
       "daysAgo": 81,
       "ppw": 0.7,
       "memDays": 103,
+      "streak": 1,
       "joinStr": "26.03.26",
       "lastStr": "17.04.26"
     },
@@ -3921,6 +4356,7 @@
       "daysAgo": 17,
       "ppw": 0.6,
       "memDays": 126,
+      "streak": 1,
       "joinStr": "03.03.26",
       "lastStr": "20.06.26"
     },
@@ -3930,6 +4366,7 @@
       "daysAgo": 7,
       "ppw": 0.8,
       "memDays": 98,
+      "streak": 4,
       "joinStr": "31.03.26",
       "lastStr": "30.06.26"
     },
@@ -3939,6 +4376,7 @@
       "daysAgo": 46,
       "ppw": 0.9,
       "memDays": 88,
+      "streak": 1,
       "joinStr": "10.04.26",
       "lastStr": "22.05.26"
     },
@@ -3948,6 +4386,7 @@
       "daysAgo": 10,
       "ppw": 0.9,
       "memDays": 87,
+      "streak": 2,
       "joinStr": "11.04.26",
       "lastStr": "27.06.26"
     },
@@ -3957,6 +4396,7 @@
       "daysAgo": 54,
       "ppw": 0.9,
       "memDays": 87,
+      "streak": 3,
       "joinStr": "11.04.26",
       "lastStr": "14.05.26"
     },
@@ -3966,6 +4406,7 @@
       "daysAgo": 68,
       "ppw": 0.9,
       "memDays": 85,
+      "streak": 2,
       "joinStr": "13.04.26",
       "lastStr": "30.04.26"
     },
@@ -3975,6 +4416,7 @@
       "daysAgo": 44,
       "ppw": 0.9,
       "memDays": 83,
+      "streak": 3,
       "joinStr": "15.04.26",
       "lastStr": "24.05.26"
     },
@@ -3984,6 +4426,7 @@
       "daysAgo": 31,
       "ppw": 1,
       "memDays": 81,
+      "streak": 2,
       "joinStr": "17.04.26",
       "lastStr": "06.06.26"
     },
@@ -3993,6 +4436,7 @@
       "daysAgo": 54,
       "ppw": 1,
       "memDays": 81,
+      "streak": 2,
       "joinStr": "17.04.26",
       "lastStr": "14.05.26"
     },
@@ -4002,6 +4446,7 @@
       "daysAgo": 1,
       "ppw": 0.9,
       "memDays": 86,
+      "streak": 1,
       "joinStr": "12.04.26",
       "lastStr": "06.07.26"
     },
@@ -4011,6 +4456,7 @@
       "daysAgo": 45,
       "ppw": 1,
       "memDays": 74,
+      "streak": 1,
       "joinStr": "24.04.26",
       "lastStr": "23.05.26"
     },
@@ -4020,6 +4466,7 @@
       "daysAgo": 12,
       "ppw": 1.2,
       "memDays": 66,
+      "streak": 3,
       "joinStr": "02.05.26",
       "lastStr": "25.06.26"
     },
@@ -4029,6 +4476,7 @@
       "daysAgo": 3,
       "ppw": 1.3,
       "memDays": 58,
+      "streak": 3,
       "joinStr": "10.05.26",
       "lastStr": "04.07.26"
     },
@@ -4038,6 +4486,7 @@
       "daysAgo": 3,
       "ppw": 1.4,
       "memDays": 54,
+      "streak": 3,
       "joinStr": "14.05.26",
       "lastStr": "04.07.26"
     },
@@ -4047,6 +4496,7 @@
       "daysAgo": 16,
       "ppw": 1.6,
       "memDays": 49,
+      "streak": 2,
       "joinStr": "19.05.26",
       "lastStr": "21.06.26"
     },
@@ -4056,6 +4506,7 @@
       "daysAgo": 3,
       "ppw": 1.5,
       "memDays": 51,
+      "streak": 2,
       "joinStr": "17.05.26",
       "lastStr": "04.07.26"
     },
@@ -4065,6 +4516,7 @@
       "daysAgo": 35,
       "ppw": 1.7,
       "memDays": 46,
+      "streak": 3,
       "joinStr": "22.05.26",
       "lastStr": "02.06.26"
     },
@@ -4074,6 +4526,7 @@
       "daysAgo": 33,
       "ppw": 1.7,
       "memDays": 45,
+      "streak": 2,
       "joinStr": "23.05.26",
       "lastStr": "04.06.26"
     },
@@ -4083,6 +4536,7 @@
       "daysAgo": 33,
       "ppw": 1.8,
       "memDays": 44,
+      "streak": 2,
       "joinStr": "24.05.26",
       "lastStr": "04.06.26"
     },
@@ -4092,6 +4546,7 @@
       "daysAgo": 10,
       "ppw": 1.8,
       "memDays": 44,
+      "streak": 2,
       "joinStr": "24.05.26",
       "lastStr": "27.06.26"
     },
@@ -4101,6 +4556,7 @@
       "daysAgo": 3,
       "ppw": 0.5,
       "memDays": 143,
+      "streak": 2,
       "joinStr": "14.02.26",
       "lastStr": "04.07.26"
     },
@@ -4110,6 +4566,7 @@
       "daysAgo": 14,
       "ppw": 2.7,
       "memDays": 29,
+      "streak": 3,
       "joinStr": "08.06.26",
       "lastStr": "23.06.26"
     },
@@ -4119,6 +4576,7 @@
       "daysAgo": 3,
       "ppw": 3.2,
       "memDays": 24,
+      "streak": 3,
       "joinStr": "13.06.26",
       "lastStr": "04.07.26"
     },
@@ -4128,6 +4586,7 @@
       "daysAgo": 2,
       "ppw": 5.9,
       "memDays": 13,
+      "streak": 2,
       "joinStr": "24.06.26",
       "lastStr": "05.07.26"
     },
@@ -4137,6 +4596,7 @@
       "daysAgo": 79,
       "ppw": 0.5,
       "memDays": 146,
+      "streak": 2,
       "joinStr": "11.02.26",
       "lastStr": "19.04.26"
     },
@@ -4146,6 +4606,7 @@
       "daysAgo": 57,
       "ppw": 0.5,
       "memDays": 145,
+      "streak": 2,
       "joinStr": "12.02.26",
       "lastStr": "11.05.26"
     },
@@ -4155,6 +4616,7 @@
       "daysAgo": 15,
       "ppw": 0.5,
       "memDays": 143,
+      "streak": 2,
       "joinStr": "14.02.26",
       "lastStr": "22.06.26"
     },
@@ -4164,6 +4626,7 @@
       "daysAgo": 25,
       "ppw": 0.5,
       "memDays": 141,
+      "streak": 2,
       "joinStr": "16.02.26",
       "lastStr": "12.06.26"
     },
@@ -4173,6 +4636,7 @@
       "daysAgo": 127,
       "ppw": 0.5,
       "memDays": 141,
+      "streak": 5,
       "joinStr": "16.02.26",
       "lastStr": "02.03.26"
     },
@@ -4182,6 +4646,7 @@
       "daysAgo": 98,
       "ppw": 0.5,
       "memDays": 137,
+      "streak": 1,
       "joinStr": "20.02.26",
       "lastStr": "31.03.26"
     },
@@ -4191,6 +4656,7 @@
       "daysAgo": 31,
       "ppw": 0.6,
       "memDays": 122,
+      "streak": 1,
       "joinStr": "07.03.26",
       "lastStr": "06.06.26"
     },
@@ -4200,6 +4666,7 @@
       "daysAgo": 114,
       "ppw": 0.4,
       "memDays": 189,
+      "streak": 2,
       "joinStr": "30.12.25",
       "lastStr": "15.03.26"
     },
@@ -4209,6 +4676,7 @@
       "daysAgo": 87,
       "ppw": 0.6,
       "memDays": 122,
+      "streak": 2,
       "joinStr": "07.03.26",
       "lastStr": "11.04.26"
     },
@@ -4218,6 +4686,7 @@
       "daysAgo": 18,
       "ppw": 0.6,
       "memDays": 116,
+      "streak": 2,
       "joinStr": "13.03.26",
       "lastStr": "19.06.26"
     },
@@ -4227,6 +4696,7 @@
       "daysAgo": 37,
       "ppw": 0.7,
       "memDays": 102,
+      "streak": 1,
       "joinStr": "27.03.26",
       "lastStr": "31.05.26"
     },
@@ -4236,6 +4706,7 @@
       "daysAgo": 9,
       "ppw": 0.8,
       "memDays": 93,
+      "streak": 1,
       "joinStr": "05.04.26",
       "lastStr": "28.06.26"
     },
@@ -4245,6 +4716,7 @@
       "daysAgo": 32,
       "ppw": 0.8,
       "memDays": 83,
+      "streak": 2,
       "joinStr": "15.04.26",
       "lastStr": "05.06.26"
     },
@@ -4254,6 +4726,7 @@
       "daysAgo": 17,
       "ppw": 0.9,
       "memDays": 81,
+      "streak": 1,
       "joinStr": "17.04.26",
       "lastStr": "20.06.26"
     },
@@ -4263,6 +4736,7 @@
       "daysAgo": 52,
       "ppw": 1,
       "memDays": 67,
+      "streak": 3,
       "joinStr": "01.05.26",
       "lastStr": "16.05.26"
     },
@@ -4272,6 +4746,7 @@
       "daysAgo": 14,
       "ppw": 1.5,
       "memDays": 47,
+      "streak": 2,
       "joinStr": "21.05.26",
       "lastStr": "23.06.26"
     },
@@ -4281,6 +4756,7 @@
       "daysAgo": 13,
       "ppw": 1.4,
       "memDays": 51,
+      "streak": 4,
       "joinStr": "17.05.26",
       "lastStr": "24.06.26"
     },
@@ -4290,6 +4766,7 @@
       "daysAgo": 31,
       "ppw": 1.8,
       "memDays": 39,
+      "streak": 3,
       "joinStr": "29.05.26",
       "lastStr": "06.06.26"
     },
@@ -4299,6 +4776,7 @@
       "daysAgo": 32,
       "ppw": 1.8,
       "memDays": 38,
+      "streak": 2,
       "joinStr": "30.05.26",
       "lastStr": "05.06.26"
     },
@@ -4308,6 +4786,7 @@
       "daysAgo": 2,
       "ppw": 1.9,
       "memDays": 37,
+      "streak": 3,
       "joinStr": "31.05.26",
       "lastStr": "05.07.26"
     },
@@ -4317,6 +4796,7 @@
       "daysAgo": 20,
       "ppw": 2.1,
       "memDays": 33,
+      "streak": 4,
       "joinStr": "04.06.26",
       "lastStr": "17.06.26"
     },
@@ -4326,6 +4806,7 @@
       "daysAgo": 134,
       "ppw": 0.3,
       "memDays": 189,
+      "streak": 2,
       "joinStr": "30.12.25",
       "lastStr": "23.02.26"
     },
@@ -4335,6 +4816,7 @@
       "daysAgo": 18,
       "ppw": 0.4,
       "memDays": 151,
+      "streak": 2,
       "joinStr": "06.02.26",
       "lastStr": "19.06.26"
     },
@@ -4344,6 +4826,7 @@
       "daysAgo": 91,
       "ppw": 0.4,
       "memDays": 144,
+      "streak": 2,
       "joinStr": "13.02.26",
       "lastStr": "07.04.26"
     },
@@ -4353,6 +4836,7 @@
       "daysAgo": 12,
       "ppw": 0.5,
       "memDays": 123,
+      "streak": 1,
       "joinStr": "06.03.26",
       "lastStr": "25.06.26"
     },
@@ -4362,6 +4846,7 @@
       "daysAgo": 39,
       "ppw": 0.6,
       "memDays": 103,
+      "streak": 2,
       "joinStr": "26.03.26",
       "lastStr": "29.05.26"
     },
@@ -4371,6 +4856,7 @@
       "daysAgo": 39,
       "ppw": 0.6,
       "memDays": 102,
+      "streak": 2,
       "joinStr": "27.03.26",
       "lastStr": "29.05.26"
     },
@@ -4380,6 +4866,7 @@
       "daysAgo": 10,
       "ppw": 0.7,
       "memDays": 96,
+      "streak": 2,
       "joinStr": "02.04.26",
       "lastStr": "27.06.26"
     },
@@ -4389,6 +4876,7 @@
       "daysAgo": 66,
       "ppw": 0.7,
       "memDays": 93,
+      "streak": 2,
       "joinStr": "05.04.26",
       "lastStr": "02.05.26"
     },
@@ -4398,6 +4886,7 @@
       "daysAgo": 76,
       "ppw": 0.7,
       "memDays": 88,
+      "streak": 1,
       "joinStr": "10.04.26",
       "lastStr": "22.04.26"
     },
@@ -4407,6 +4896,7 @@
       "daysAgo": 59,
       "ppw": 0.3,
       "memDays": 189,
+      "streak": 5,
       "joinStr": "30.12.25",
       "lastStr": "09.05.26"
     },
@@ -4416,6 +4906,7 @@
       "daysAgo": 11,
       "ppw": 0.7,
       "memDays": 86,
+      "streak": 2,
       "joinStr": "12.04.26",
       "lastStr": "26.06.26"
     },
@@ -4425,6 +4916,7 @@
       "daysAgo": 52,
       "ppw": 0.8,
       "memDays": 81,
+      "streak": 1,
       "joinStr": "17.04.26",
       "lastStr": "16.05.26"
     },
@@ -4434,6 +4926,7 @@
       "daysAgo": 46,
       "ppw": 0.9,
       "memDays": 74,
+      "streak": 3,
       "joinStr": "24.04.26",
       "lastStr": "22.05.26"
     },
@@ -4443,6 +4936,7 @@
       "daysAgo": 72,
       "ppw": 0.9,
       "memDays": 73,
+      "streak": 2,
       "joinStr": "25.04.26",
       "lastStr": "26.04.26"
     },
@@ -4452,6 +4946,7 @@
       "daysAgo": 42,
       "ppw": 0.9,
       "memDays": 73,
+      "streak": 2,
       "joinStr": "25.04.26",
       "lastStr": "26.05.26"
     },
@@ -4461,6 +4956,7 @@
       "daysAgo": 23,
       "ppw": 1,
       "memDays": 66,
+      "streak": 2,
       "joinStr": "02.05.26",
       "lastStr": "14.06.26"
     },
@@ -4470,6 +4966,7 @@
       "daysAgo": 16,
       "ppw": 1.1,
       "memDays": 58,
+      "streak": 3,
       "joinStr": "10.05.26",
       "lastStr": "21.06.26"
     },
@@ -4479,6 +4976,7 @@
       "daysAgo": 1,
       "ppw": 1.1,
       "memDays": 55,
+      "streak": 3,
       "joinStr": "13.05.26",
       "lastStr": "06.07.26"
     },
@@ -4488,6 +4986,7 @@
       "daysAgo": 8,
       "ppw": 1.1,
       "memDays": 55,
+      "streak": 2,
       "joinStr": "13.05.26",
       "lastStr": "29.06.26"
     },
@@ -4497,6 +4996,7 @@
       "daysAgo": 25,
       "ppw": 1.2,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "12.06.26"
     },
@@ -4506,6 +5006,7 @@
       "daysAgo": 11,
       "ppw": 1.4,
       "memDays": 44,
+      "streak": 2,
       "joinStr": "24.05.26",
       "lastStr": "26.06.26"
     },
@@ -4515,6 +5016,7 @@
       "daysAgo": 18,
       "ppw": 1.7,
       "memDays": 38,
+      "streak": 2,
       "joinStr": "30.05.26",
       "lastStr": "19.06.26"
     },
@@ -4524,6 +5026,7 @@
       "daysAgo": 4,
       "ppw": 1.7,
       "memDays": 36,
+      "streak": 2,
       "joinStr": "01.06.26",
       "lastStr": "03.07.26"
     },
@@ -4533,6 +5036,7 @@
       "daysAgo": 23,
       "ppw": 2,
       "memDays": 31,
+      "streak": 2,
       "joinStr": "06.06.26",
       "lastStr": "14.06.26"
     },
@@ -4542,6 +5046,7 @@
       "daysAgo": 47,
       "ppw": 0.4,
       "memDays": 141,
+      "streak": 3,
       "joinStr": "16.02.26",
       "lastStr": "21.05.26"
     },
@@ -4551,6 +5056,7 @@
       "daysAgo": 1,
       "ppw": 0.5,
       "memDays": 123,
+      "streak": 2,
       "joinStr": "06.03.26",
       "lastStr": "06.07.26"
     },
@@ -4560,6 +5066,7 @@
       "daysAgo": 52,
       "ppw": 0.5,
       "memDays": 112,
+      "streak": 2,
       "joinStr": "17.03.26",
       "lastStr": "16.05.26"
     },
@@ -4569,6 +5076,7 @@
       "daysAgo": 59,
       "ppw": 0.6,
       "memDays": 97,
+      "streak": 1,
       "joinStr": "01.04.26",
       "lastStr": "09.05.26"
     },
@@ -4578,6 +5086,7 @@
       "daysAgo": 56,
       "ppw": 0.6,
       "memDays": 96,
+      "streak": 3,
       "joinStr": "02.04.26",
       "lastStr": "12.05.26"
     },
@@ -4587,6 +5096,7 @@
       "daysAgo": 87,
       "ppw": 0.6,
       "memDays": 98,
+      "streak": 1,
       "joinStr": "31.03.26",
       "lastStr": "11.04.26"
     },
@@ -4596,6 +5106,7 @@
       "daysAgo": 61,
       "ppw": 0.6,
       "memDays": 96,
+      "streak": 2,
       "joinStr": "02.04.26",
       "lastStr": "07.05.26"
     },
@@ -4605,6 +5116,7 @@
       "daysAgo": 18,
       "ppw": 0.7,
       "memDays": 86,
+      "streak": 1,
       "joinStr": "12.04.26",
       "lastStr": "19.06.26"
     },
@@ -4614,6 +5126,7 @@
       "daysAgo": 52,
       "ppw": 0.8,
       "memDays": 73,
+      "streak": 2,
       "joinStr": "25.04.26",
       "lastStr": "16.05.26"
     },
@@ -4623,6 +5136,7 @@
       "daysAgo": 39,
       "ppw": 0.8,
       "memDays": 67,
+      "streak": 2,
       "joinStr": "01.05.26",
       "lastStr": "29.05.26"
     },
@@ -4632,6 +5146,7 @@
       "daysAgo": 13,
       "ppw": 1,
       "memDays": 58,
+      "streak": 1,
       "joinStr": "10.05.26",
       "lastStr": "24.06.26"
     },
@@ -4641,6 +5156,7 @@
       "daysAgo": 49,
       "ppw": 1.1,
       "memDays": 53,
+      "streak": 2,
       "joinStr": "15.05.26",
       "lastStr": "19.05.26"
     },
@@ -4650,6 +5166,7 @@
       "daysAgo": 52,
       "ppw": 1.1,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "16.05.26"
     },
@@ -4659,6 +5176,7 @@
       "daysAgo": 17,
       "ppw": 1.1,
       "memDays": 51,
+      "streak": 2,
       "joinStr": "17.05.26",
       "lastStr": "20.06.26"
     },
@@ -4668,6 +5186,7 @@
       "daysAgo": 39,
       "ppw": 1.2,
       "memDays": 47,
+      "streak": 1,
       "joinStr": "21.05.26",
       "lastStr": "29.05.26"
     },
@@ -4677,6 +5196,7 @@
       "daysAgo": 23,
       "ppw": 1.2,
       "memDays": 48,
+      "streak": 2,
       "joinStr": "20.05.26",
       "lastStr": "14.06.26"
     },
@@ -4686,6 +5206,7 @@
       "daysAgo": 33,
       "ppw": 1.4,
       "memDays": 39,
+      "streak": 2,
       "joinStr": "29.05.26",
       "lastStr": "04.06.26"
     },
@@ -4695,6 +5216,7 @@
       "daysAgo": 20,
       "ppw": 1.5,
       "memDays": 38,
+      "streak": 2,
       "joinStr": "30.05.26",
       "lastStr": "17.06.26"
     },
@@ -4704,6 +5226,7 @@
       "daysAgo": 25,
       "ppw": 2.2,
       "memDays": 26,
+      "streak": 2,
       "joinStr": "11.06.26",
       "lastStr": "12.06.26"
     },
@@ -4713,6 +5236,7 @@
       "daysAgo": 23,
       "ppw": 2.1,
       "memDays": 27,
+      "streak": 2,
       "joinStr": "10.06.26",
       "lastStr": "14.06.26"
     },
@@ -4722,6 +5246,7 @@
       "daysAgo": 4,
       "ppw": 3.5,
       "memDays": 16,
+      "streak": 1,
       "joinStr": "21.06.26",
       "lastStr": "03.07.26"
     },
@@ -4731,6 +5256,7 @@
       "daysAgo": 4,
       "ppw": 3.7,
       "memDays": 15,
+      "streak": 3,
       "joinStr": "22.06.26",
       "lastStr": "03.07.26"
     },
@@ -4740,6 +5266,7 @@
       "daysAgo": 20,
       "ppw": 0.3,
       "memDays": 149,
+      "streak": 1,
       "joinStr": "08.02.26",
       "lastStr": "17.06.26"
     },
@@ -4749,6 +5276,7 @@
       "daysAgo": 115,
       "ppw": 0.3,
       "memDays": 144,
+      "streak": 2,
       "joinStr": "13.02.26",
       "lastStr": "14.03.26"
     },
@@ -4758,6 +5286,7 @@
       "daysAgo": 101,
       "ppw": 0.3,
       "memDays": 144,
+      "streak": 3,
       "joinStr": "13.02.26",
       "lastStr": "28.03.26"
     },
@@ -4767,6 +5296,7 @@
       "daysAgo": 125,
       "ppw": 0.3,
       "memDays": 189,
+      "streak": 2,
       "joinStr": "30.12.25",
       "lastStr": "04.03.26"
     },
@@ -4776,6 +5306,7 @@
       "daysAgo": 109,
       "ppw": 0.3,
       "memDays": 142,
+      "streak": 1,
       "joinStr": "15.02.26",
       "lastStr": "20.03.26"
     },
@@ -4785,6 +5316,7 @@
       "daysAgo": 47,
       "ppw": 0.4,
       "memDays": 115,
+      "streak": 2,
       "joinStr": "14.03.26",
       "lastStr": "21.05.26"
     },
@@ -4794,6 +5326,7 @@
       "daysAgo": 62,
       "ppw": 0.4,
       "memDays": 111,
+      "streak": 2,
       "joinStr": "18.03.26",
       "lastStr": "06.05.26"
     },
@@ -4803,6 +5336,7 @@
       "daysAgo": 108,
       "ppw": 0.5,
       "memDays": 108,
+      "streak": 1,
       "joinStr": "21.03.26",
       "lastStr": "21.03.26"
     },
@@ -4812,6 +5346,7 @@
       "daysAgo": 89,
       "ppw": 0.5,
       "memDays": 96,
+      "streak": 1,
       "joinStr": "02.04.26",
       "lastStr": "09.04.26"
     },
@@ -4821,6 +5356,7 @@
       "daysAgo": 17,
       "ppw": 0.5,
       "memDays": 94,
+      "streak": 2,
       "joinStr": "04.04.26",
       "lastStr": "20.06.26"
     },
@@ -4830,6 +5366,7 @@
       "daysAgo": 31,
       "ppw": 0.5,
       "memDays": 93,
+      "streak": 2,
       "joinStr": "05.04.26",
       "lastStr": "06.06.26"
     },
@@ -4839,6 +5376,7 @@
       "daysAgo": 23,
       "ppw": 0.5,
       "memDays": 93,
+      "streak": 2,
       "joinStr": "05.04.26",
       "lastStr": "14.06.26"
     },
@@ -4848,6 +5386,7 @@
       "daysAgo": 54,
       "ppw": 0.7,
       "memDays": 68,
+      "streak": 2,
       "joinStr": "30.04.26",
       "lastStr": "14.05.26"
     },
@@ -4857,6 +5396,7 @@
       "daysAgo": 21,
       "ppw": 0.7,
       "memDays": 68,
+      "streak": 1,
       "joinStr": "30.04.26",
       "lastStr": "16.06.26"
     },
@@ -4866,6 +5406,7 @@
       "daysAgo": 45,
       "ppw": 0.7,
       "memDays": 69,
+      "streak": 3,
       "joinStr": "29.04.26",
       "lastStr": "23.05.26"
     },
@@ -4875,6 +5416,7 @@
       "daysAgo": 14,
       "ppw": 0.7,
       "memDays": 67,
+      "streak": 2,
       "joinStr": "01.05.26",
       "lastStr": "23.06.26"
     },
@@ -4884,6 +5426,7 @@
       "daysAgo": 2,
       "ppw": 0.8,
       "memDays": 63,
+      "streak": 1,
       "joinStr": "05.05.26",
       "lastStr": "05.07.26"
     },
@@ -4893,6 +5436,7 @@
       "daysAgo": 17,
       "ppw": 0.8,
       "memDays": 62,
+      "streak": 1,
       "joinStr": "06.05.26",
       "lastStr": "20.06.26"
     },
@@ -4902,6 +5446,7 @@
       "daysAgo": 3,
       "ppw": 0.8,
       "memDays": 64,
+      "streak": 1,
       "joinStr": "04.05.26",
       "lastStr": "04.07.26"
     },
@@ -4911,6 +5456,7 @@
       "daysAgo": 14,
       "ppw": 0.6,
       "memDays": 81,
+      "streak": 2,
       "joinStr": "17.04.26",
       "lastStr": "23.06.26"
     },
@@ -4920,6 +5466,7 @@
       "daysAgo": 4,
       "ppw": 0.8,
       "memDays": 59,
+      "streak": 1,
       "joinStr": "09.05.26",
       "lastStr": "03.07.26"
     },
@@ -4929,6 +5476,7 @@
       "daysAgo": 20,
       "ppw": 1,
       "memDays": 51,
+      "streak": 2,
       "joinStr": "17.05.26",
       "lastStr": "17.06.26"
     },
@@ -4938,6 +5486,7 @@
       "daysAgo": 16,
       "ppw": 1,
       "memDays": 48,
+      "streak": 2,
       "joinStr": "20.05.26",
       "lastStr": "21.06.26"
     },
@@ -4947,6 +5496,7 @@
       "daysAgo": 39,
       "ppw": 1,
       "memDays": 48,
+      "streak": 2,
       "joinStr": "20.05.26",
       "lastStr": "29.05.26"
     },
@@ -4956,6 +5506,7 @@
       "daysAgo": 8,
       "ppw": 1.1,
       "memDays": 44,
+      "streak": 2,
       "joinStr": "24.05.26",
       "lastStr": "29.06.26"
     },
@@ -4965,6 +5516,7 @@
       "daysAgo": 3,
       "ppw": 2,
       "memDays": 25,
+      "streak": 2,
       "joinStr": "12.06.26",
       "lastStr": "04.07.26"
     },
@@ -4974,6 +5526,7 @@
       "daysAgo": 23,
       "ppw": 2,
       "memDays": 25,
+      "streak": 1,
       "joinStr": "12.06.26",
       "lastStr": "14.06.26"
     },
@@ -4983,6 +5536,7 @@
       "daysAgo": 11,
       "ppw": 2.1,
       "memDays": 23,
+      "streak": 3,
       "joinStr": "14.06.26",
       "lastStr": "26.06.26"
     },
@@ -4992,6 +5546,7 @@
       "daysAgo": 3,
       "ppw": 2.7,
       "memDays": 18,
+      "streak": 3,
       "joinStr": "19.06.26",
       "lastStr": "04.07.26"
     },
@@ -5001,6 +5556,7 @@
       "daysAgo": 157,
       "ppw": 0.3,
       "memDays": 158,
+      "streak": 1,
       "joinStr": "30.01.26",
       "lastStr": "31.01.26"
     },
@@ -5010,6 +5566,7 @@
       "daysAgo": 151,
       "ppw": 0.3,
       "memDays": 159,
+      "streak": 2,
       "joinStr": "29.01.26",
       "lastStr": "06.02.26"
     },
@@ -5019,6 +5576,7 @@
       "daysAgo": 132,
       "ppw": 0.3,
       "memDays": 151,
+      "streak": 2,
       "joinStr": "06.02.26",
       "lastStr": "25.02.26"
     },
@@ -5028,6 +5586,7 @@
       "daysAgo": 23,
       "ppw": 0.3,
       "memDays": 149,
+      "streak": 1,
       "joinStr": "08.02.26",
       "lastStr": "14.06.26"
     },
@@ -5037,6 +5596,7 @@
       "daysAgo": 68,
       "ppw": 0.3,
       "memDays": 149,
+      "streak": 2,
       "joinStr": "08.02.26",
       "lastStr": "30.04.26"
     },
@@ -5046,6 +5606,7 @@
       "daysAgo": 4,
       "ppw": 0.3,
       "memDays": 141,
+      "streak": 1,
       "joinStr": "16.02.26",
       "lastStr": "03.07.26"
     },
@@ -5055,6 +5616,7 @@
       "daysAgo": 97,
       "ppw": 0.3,
       "memDays": 132,
+      "streak": 3,
       "joinStr": "25.02.26",
       "lastStr": "01.04.26"
     },
@@ -5064,6 +5626,7 @@
       "daysAgo": 126,
       "ppw": 0.3,
       "memDays": 129,
+      "streak": 1,
       "joinStr": "28.02.26",
       "lastStr": "03.03.26"
     },
@@ -5073,6 +5636,7 @@
       "daysAgo": 101,
       "ppw": 0.3,
       "memDays": 124,
+      "streak": 3,
       "joinStr": "05.03.26",
       "lastStr": "28.03.26"
     },
@@ -5082,6 +5646,7 @@
       "daysAgo": 87,
       "ppw": 0.3,
       "memDays": 122,
+      "streak": 2,
       "joinStr": "07.03.26",
       "lastStr": "11.04.26"
     },
@@ -5091,6 +5656,7 @@
       "daysAgo": 81,
       "ppw": 0.4,
       "memDays": 112,
+      "streak": 2,
       "joinStr": "17.03.26",
       "lastStr": "17.04.26"
     },
@@ -5100,6 +5666,7 @@
       "daysAgo": 90,
       "ppw": 0.4,
       "memDays": 98,
+      "streak": 1,
       "joinStr": "31.03.26",
       "lastStr": "08.04.26"
     },
@@ -5109,6 +5676,7 @@
       "daysAgo": 65,
       "ppw": 0.4,
       "memDays": 97,
+      "streak": 2,
       "joinStr": "01.04.26",
       "lastStr": "03.05.26"
     },
@@ -5118,6 +5686,7 @@
       "daysAgo": 92,
       "ppw": 0.4,
       "memDays": 94,
+      "streak": 1,
       "joinStr": "04.04.26",
       "lastStr": "06.04.26"
     },
@@ -5127,6 +5696,7 @@
       "daysAgo": 68,
       "ppw": 0.5,
       "memDays": 87,
+      "streak": 2,
       "joinStr": "11.04.26",
       "lastStr": "30.04.26"
     },
@@ -5136,6 +5706,7 @@
       "daysAgo": 34,
       "ppw": 0.4,
       "memDays": 113,
+      "streak": 1,
       "joinStr": "16.03.26",
       "lastStr": "03.06.26"
     },
@@ -5145,6 +5716,7 @@
       "daysAgo": 73,
       "ppw": 0.5,
       "memDays": 86,
+      "streak": 2,
       "joinStr": "12.04.26",
       "lastStr": "25.04.26"
     },
@@ -5154,6 +5726,7 @@
       "daysAgo": 60,
       "ppw": 0.5,
       "memDays": 85,
+      "streak": 1,
       "joinStr": "13.04.26",
       "lastStr": "08.05.26"
     },
@@ -5163,6 +5736,7 @@
       "daysAgo": 14,
       "ppw": 0.5,
       "memDays": 87,
+      "streak": 1,
       "joinStr": "11.04.26",
       "lastStr": "23.06.26"
     },
@@ -5172,6 +5746,7 @@
       "daysAgo": 71,
       "ppw": 0.5,
       "memDays": 79,
+      "streak": 4,
       "joinStr": "19.04.26",
       "lastStr": "27.04.26"
     },
@@ -5181,6 +5756,7 @@
       "daysAgo": 17,
       "ppw": 0.5,
       "memDays": 77,
+      "streak": 1,
       "joinStr": "21.04.26",
       "lastStr": "20.06.26"
     },
@@ -5190,6 +5766,7 @@
       "daysAgo": 69,
       "ppw": 0.6,
       "memDays": 73,
+      "streak": 1,
       "joinStr": "25.04.26",
       "lastStr": "29.04.26"
     },
@@ -5199,6 +5776,7 @@
       "daysAgo": 69,
       "ppw": 0.6,
       "memDays": 72,
+      "streak": 1,
       "joinStr": "26.04.26",
       "lastStr": "29.04.26"
     },
@@ -5208,6 +5786,7 @@
       "daysAgo": 66,
       "ppw": 0.6,
       "memDays": 67,
+      "streak": 2,
       "joinStr": "01.05.26",
       "lastStr": "02.05.26"
     },
@@ -5217,6 +5796,7 @@
       "daysAgo": 32,
       "ppw": 0.7,
       "memDays": 64,
+      "streak": 1,
       "joinStr": "04.05.26",
       "lastStr": "05.06.26"
     },
@@ -5226,6 +5806,7 @@
       "daysAgo": 3,
       "ppw": 0.8,
       "memDays": 54,
+      "streak": 4,
       "joinStr": "14.05.26",
       "lastStr": "04.07.26"
     },
@@ -5235,6 +5816,7 @@
       "daysAgo": 39,
       "ppw": 0.5,
       "memDays": 82,
+      "streak": 1,
       "joinStr": "16.04.26",
       "lastStr": "29.05.26"
     },
@@ -5244,6 +5826,7 @@
       "daysAgo": 10,
       "ppw": 0.8,
       "memDays": 52,
+      "streak": 2,
       "joinStr": "16.05.26",
       "lastStr": "27.06.26"
     },
@@ -5253,6 +5836,7 @@
       "daysAgo": 39,
       "ppw": 0.9,
       "memDays": 46,
+      "streak": 1,
       "joinStr": "22.05.26",
       "lastStr": "29.05.26"
     },
@@ -5262,6 +5846,7 @@
       "daysAgo": 3,
       "ppw": 0.3,
       "memDays": 145,
+      "streak": 1,
       "joinStr": "12.02.26",
       "lastStr": "04.07.26"
     },
@@ -5271,6 +5856,7 @@
       "daysAgo": 3,
       "ppw": 1.1,
       "memDays": 39,
+      "streak": 2,
       "joinStr": "29.05.26",
       "lastStr": "04.07.26"
     },
@@ -5280,6 +5866,7 @@
       "daysAgo": 20,
       "ppw": 1.1,
       "memDays": 37,
+      "streak": 1,
       "joinStr": "31.05.26",
       "lastStr": "17.06.26"
     },
@@ -5289,6 +5876,7 @@
       "daysAgo": 17,
       "ppw": 1.1,
       "memDays": 37,
+      "streak": 1,
       "joinStr": "31.05.26",
       "lastStr": "20.06.26"
     },
@@ -5298,6 +5886,7 @@
       "daysAgo": 17,
       "ppw": 1.3,
       "memDays": 32,
+      "streak": 1,
       "joinStr": "05.06.26",
       "lastStr": "20.06.26"
     },
@@ -5307,6 +5896,7 @@
       "daysAgo": 10,
       "ppw": 1.6,
       "memDays": 26,
+      "streak": 2,
       "joinStr": "11.06.26",
       "lastStr": "27.06.26"
     },
@@ -5316,6 +5906,7 @@
       "daysAgo": 3,
       "ppw": 2.1,
       "memDays": 20,
+      "streak": 3,
       "joinStr": "17.06.26",
       "lastStr": "04.07.26"
     },
@@ -5325,6 +5916,7 @@
       "daysAgo": 2,
       "ppw": 3.5,
       "memDays": 12,
+      "streak": 4,
       "joinStr": "25.06.26",
       "lastStr": "05.07.26"
     },
@@ -5334,6 +5926,7 @@
       "daysAgo": 13,
       "ppw": 0.2,
       "memDays": 164,
+      "streak": 1,
       "joinStr": "24.01.26",
       "lastStr": "24.06.26"
     },
@@ -5343,6 +5936,7 @@
       "daysAgo": 87,
       "ppw": 0.2,
       "memDays": 150,
+      "streak": 1,
       "joinStr": "07.02.26",
       "lastStr": "11.04.26"
     },
@@ -5352,6 +5946,7 @@
       "daysAgo": 143,
       "ppw": 0.2,
       "memDays": 145,
+      "streak": 1,
       "joinStr": "12.02.26",
       "lastStr": "14.02.26"
     },
@@ -5361,6 +5956,7 @@
       "daysAgo": 54,
       "ppw": 0.2,
       "memDays": 143,
+      "streak": 1,
       "joinStr": "14.02.26",
       "lastStr": "14.05.26"
     },
@@ -5370,6 +5966,7 @@
       "daysAgo": 47,
       "ppw": 0.2,
       "memDays": 143,
+      "streak": 1,
       "joinStr": "14.02.26",
       "lastStr": "21.05.26"
     },
@@ -5379,6 +5976,7 @@
       "daysAgo": 111,
       "ppw": 0.3,
       "memDays": 122,
+      "streak": 2,
       "joinStr": "07.03.26",
       "lastStr": "18.03.26"
     },
@@ -5388,6 +5986,7 @@
       "daysAgo": 121,
       "ppw": 0.3,
       "memDays": 121,
+      "streak": 1,
       "joinStr": "08.03.26",
       "lastStr": "08.03.26"
     },
@@ -5397,6 +5996,7 @@
       "daysAgo": 62,
       "ppw": 0.3,
       "memDays": 115,
+      "streak": 2,
       "joinStr": "14.03.26",
       "lastStr": "06.05.26"
     },
@@ -5406,6 +6006,7 @@
       "daysAgo": 66,
       "ppw": 0.3,
       "memDays": 112,
+      "streak": 1,
       "joinStr": "17.03.26",
       "lastStr": "02.05.26"
     },
@@ -5415,6 +6016,7 @@
       "daysAgo": 24,
       "ppw": 0.3,
       "memDays": 101,
+      "streak": 2,
       "joinStr": "28.03.26",
       "lastStr": "13.06.26"
     },
@@ -5424,6 +6026,7 @@
       "daysAgo": 86,
       "ppw": 0.4,
       "memDays": 88,
+      "streak": 3,
       "joinStr": "10.04.26",
       "lastStr": "12.04.26"
     },
@@ -5433,6 +6036,7 @@
       "daysAgo": 81,
       "ppw": 0.4,
       "memDays": 88,
+      "streak": 2,
       "joinStr": "10.04.26",
       "lastStr": "17.04.26"
     },
@@ -5442,6 +6046,7 @@
       "daysAgo": 80,
       "ppw": 0.4,
       "memDays": 87,
+      "streak": 1,
       "joinStr": "11.04.26",
       "lastStr": "18.04.26"
     },
@@ -5451,6 +6056,7 @@
       "daysAgo": 87,
       "ppw": 0.4,
       "memDays": 87,
+      "streak": 1,
       "joinStr": "11.04.26",
       "lastStr": "11.04.26"
     },
@@ -5460,6 +6066,7 @@
       "daysAgo": 18,
       "ppw": 0.4,
       "memDays": 83,
+      "streak": 1,
       "joinStr": "15.04.26",
       "lastStr": "19.06.26"
     },
@@ -5469,6 +6076,7 @@
       "daysAgo": 53,
       "ppw": 0.6,
       "memDays": 54,
+      "streak": 2,
       "joinStr": "14.05.26",
       "lastStr": "15.05.26"
     },
@@ -5478,6 +6086,7 @@
       "daysAgo": 44,
       "ppw": 0.6,
       "memDays": 54,
+      "streak": 1,
       "joinStr": "14.05.26",
       "lastStr": "24.05.26"
     },
@@ -5487,6 +6096,7 @@
       "daysAgo": 47,
       "ppw": 0.7,
       "memDays": 53,
+      "streak": 1,
       "joinStr": "15.05.26",
       "lastStr": "21.05.26"
     },
@@ -5496,6 +6106,7 @@
       "daysAgo": 44,
       "ppw": 0.6,
       "memDays": 57,
+      "streak": 1,
       "joinStr": "11.05.26",
       "lastStr": "24.05.26"
     },
@@ -5505,6 +6116,7 @@
       "daysAgo": 38,
       "ppw": 0.7,
       "memDays": 49,
+      "streak": 4,
       "joinStr": "19.05.26",
       "lastStr": "30.05.26"
     },
@@ -5514,6 +6126,7 @@
       "daysAgo": 10,
       "ppw": 0.8,
       "memDays": 46,
+      "streak": 1,
       "joinStr": "22.05.26",
       "lastStr": "27.06.26"
     },
@@ -5523,6 +6136,7 @@
       "daysAgo": 18,
       "ppw": 0.8,
       "memDays": 44,
+      "streak": 1,
       "joinStr": "24.05.26",
       "lastStr": "19.06.26"
     },
@@ -5532,6 +6146,7 @@
       "daysAgo": 17,
       "ppw": 0.8,
       "memDays": 43,
+      "streak": 1,
       "joinStr": "25.05.26",
       "lastStr": "20.06.26"
     },
@@ -5541,6 +6156,7 @@
       "daysAgo": 24,
       "ppw": 0.9,
       "memDays": 41,
+      "streak": 1,
       "joinStr": "27.05.26",
       "lastStr": "13.06.26"
     },
@@ -5550,6 +6166,7 @@
       "daysAgo": 27,
       "ppw": 1,
       "memDays": 36,
+      "streak": 2,
       "joinStr": "01.06.26",
       "lastStr": "10.06.26"
     },
@@ -5559,6 +6176,7 @@
       "daysAgo": 11,
       "ppw": 1.1,
       "memDays": 32,
+      "streak": 2,
       "joinStr": "05.06.26",
       "lastStr": "26.06.26"
     },
@@ -5568,6 +6186,7 @@
       "daysAgo": 13,
       "ppw": 1.3,
       "memDays": 28,
+      "streak": 2,
       "joinStr": "09.06.26",
       "lastStr": "24.06.26"
     },
@@ -5577,6 +6196,7 @@
       "daysAgo": 24,
       "ppw": 1.4,
       "memDays": 25,
+      "streak": 2,
       "joinStr": "12.06.26",
       "lastStr": "13.06.26"
     },
@@ -5586,6 +6206,7 @@
       "daysAgo": 17,
       "ppw": 1.5,
       "memDays": 24,
+      "streak": 1,
       "joinStr": "13.06.26",
       "lastStr": "20.06.26"
     },
@@ -5595,6 +6216,7 @@
       "daysAgo": 129,
       "ppw": 0.2,
       "memDays": 155,
+      "streak": 1,
       "joinStr": "02.02.26",
       "lastStr": "28.02.26"
     },
@@ -5604,6 +6226,7 @@
       "daysAgo": 149,
       "ppw": 0.2,
       "memDays": 149,
+      "streak": 1,
       "joinStr": "08.02.26",
       "lastStr": "08.02.26"
     },
@@ -5613,6 +6236,7 @@
       "daysAgo": 144,
       "ppw": 0.2,
       "memDays": 145,
+      "streak": 2,
       "joinStr": "12.02.26",
       "lastStr": "13.02.26"
     },
@@ -5622,6 +6246,7 @@
       "daysAgo": 89,
       "ppw": 0.2,
       "memDays": 142,
+      "streak": 1,
       "joinStr": "15.02.26",
       "lastStr": "09.04.26"
     },
@@ -5631,6 +6256,7 @@
       "daysAgo": 58,
       "ppw": 0.2,
       "memDays": 122,
+      "streak": 1,
       "joinStr": "07.03.26",
       "lastStr": "10.05.26"
     },
@@ -5640,6 +6266,7 @@
       "daysAgo": 94,
       "ppw": 0.2,
       "memDays": 115,
+      "streak": 2,
       "joinStr": "14.03.26",
       "lastStr": "04.04.26"
     },
@@ -5649,6 +6276,7 @@
       "daysAgo": 115,
       "ppw": 0.2,
       "memDays": 116,
+      "streak": 1,
       "joinStr": "13.03.26",
       "lastStr": "14.03.26"
     },
@@ -5658,6 +6286,7 @@
       "daysAgo": 75,
       "ppw": 0.3,
       "memDays": 110,
+      "streak": 1,
       "joinStr": "19.03.26",
       "lastStr": "23.04.26"
     },
@@ -5667,6 +6296,7 @@
       "daysAgo": 94,
       "ppw": 0.3,
       "memDays": 109,
+      "streak": 2,
       "joinStr": "20.03.26",
       "lastStr": "04.04.26"
     },
@@ -5676,6 +6306,7 @@
       "daysAgo": 93,
       "ppw": 0.3,
       "memDays": 97,
+      "streak": 2,
       "joinStr": "01.04.26",
       "lastStr": "05.04.26"
     },
@@ -5685,6 +6316,7 @@
       "daysAgo": 17,
       "ppw": 0.3,
       "memDays": 96,
+      "streak": 1,
       "joinStr": "02.04.26",
       "lastStr": "20.06.26"
     },
@@ -5694,6 +6326,7 @@
       "daysAgo": 87,
       "ppw": 0.3,
       "memDays": 87,
+      "streak": 1,
       "joinStr": "11.04.26",
       "lastStr": "11.04.26"
     },
@@ -5703,6 +6336,7 @@
       "daysAgo": 73,
       "ppw": 0.3,
       "memDays": 81,
+      "streak": 1,
       "joinStr": "17.04.26",
       "lastStr": "25.04.26"
     },
@@ -5712,6 +6346,7 @@
       "daysAgo": 17,
       "ppw": 0.3,
       "memDays": 81,
+      "streak": 2,
       "joinStr": "17.04.26",
       "lastStr": "20.06.26"
     },
@@ -5721,6 +6356,7 @@
       "daysAgo": 46,
       "ppw": 0.4,
       "memDays": 80,
+      "streak": 1,
       "joinStr": "18.04.26",
       "lastStr": "22.05.26"
     },
@@ -5730,6 +6366,7 @@
       "daysAgo": 44,
       "ppw": 0.4,
       "memDays": 76,
+      "streak": 1,
       "joinStr": "22.04.26",
       "lastStr": "24.05.26"
     },
@@ -5739,6 +6376,7 @@
       "daysAgo": 73,
       "ppw": 0.4,
       "memDays": 73,
+      "streak": 1,
       "joinStr": "25.04.26",
       "lastStr": "25.04.26"
     },
@@ -5748,6 +6386,7 @@
       "daysAgo": 55,
       "ppw": 0.4,
       "memDays": 73,
+      "streak": 1,
       "joinStr": "25.04.26",
       "lastStr": "13.05.26"
     },
@@ -5757,6 +6396,7 @@
       "daysAgo": 67,
       "ppw": 0.4,
       "memDays": 72,
+      "streak": 1,
       "joinStr": "26.04.26",
       "lastStr": "01.05.26"
     },
@@ -5766,6 +6406,7 @@
       "daysAgo": 4,
       "ppw": 0.4,
       "memDays": 67,
+      "streak": 1,
       "joinStr": "01.05.26",
       "lastStr": "03.07.26"
     },
@@ -5775,6 +6416,7 @@
       "daysAgo": 45,
       "ppw": 0.3,
       "memDays": 93,
+      "streak": 1,
       "joinStr": "05.04.26",
       "lastStr": "23.05.26"
     },
@@ -5784,6 +6426,7 @@
       "daysAgo": 67,
       "ppw": 0.4,
       "memDays": 67,
+      "streak": 1,
       "joinStr": "01.05.26",
       "lastStr": "01.05.26"
     },
@@ -5793,6 +6436,7 @@
       "daysAgo": 32,
       "ppw": 0.5,
       "memDays": 61,
+      "streak": 1,
       "joinStr": "07.05.26",
       "lastStr": "05.06.26"
     },
@@ -5802,6 +6446,7 @@
       "daysAgo": 53,
       "ppw": 0.5,
       "memDays": 60,
+      "streak": 1,
       "joinStr": "08.05.26",
       "lastStr": "15.05.26"
     },
@@ -5811,6 +6456,7 @@
       "daysAgo": 58,
       "ppw": 0.5,
       "memDays": 60,
+      "streak": 3,
       "joinStr": "08.05.26",
       "lastStr": "10.05.26"
     },
@@ -5820,6 +6466,7 @@
       "daysAgo": 31,
       "ppw": 0.5,
       "memDays": 53,
+      "streak": 1,
       "joinStr": "15.05.26",
       "lastStr": "06.06.26"
     },
@@ -5829,6 +6476,7 @@
       "daysAgo": 51,
       "ppw": 0.5,
       "memDays": 52,
+      "streak": 2,
       "joinStr": "16.05.26",
       "lastStr": "17.05.26"
     },
@@ -5838,6 +6486,7 @@
       "daysAgo": 52,
       "ppw": 0.5,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "16.05.26"
     },
@@ -5847,6 +6496,7 @@
       "daysAgo": 44,
       "ppw": 0.5,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "24.05.26"
     },
@@ -5856,6 +6506,7 @@
       "daysAgo": 38,
       "ppw": 0.5,
       "memDays": 54,
+      "streak": 1,
       "joinStr": "14.05.26",
       "lastStr": "30.05.26"
     },
@@ -5865,6 +6516,7 @@
       "daysAgo": 3,
       "ppw": 0.5,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "04.07.26"
     },
@@ -5874,6 +6526,7 @@
       "daysAgo": 33,
       "ppw": 0.6,
       "memDays": 45,
+      "streak": 1,
       "joinStr": "23.05.26",
       "lastStr": "04.06.26"
     },
@@ -5883,6 +6536,7 @@
       "daysAgo": 32,
       "ppw": 0.6,
       "memDays": 45,
+      "streak": 1,
       "joinStr": "23.05.26",
       "lastStr": "05.06.26"
     },
@@ -5892,6 +6546,7 @@
       "daysAgo": 24,
       "ppw": 0.7,
       "memDays": 39,
+      "streak": 1,
       "joinStr": "29.05.26",
       "lastStr": "13.06.26"
     },
@@ -5901,6 +6556,7 @@
       "daysAgo": 19,
       "ppw": 0.8,
       "memDays": 35,
+      "streak": 1,
       "joinStr": "02.06.26",
       "lastStr": "18.06.26"
     },
@@ -5910,6 +6566,7 @@
       "daysAgo": 18,
       "ppw": 0.8,
       "memDays": 35,
+      "streak": 1,
       "joinStr": "02.06.26",
       "lastStr": "19.06.26"
     },
@@ -5919,6 +6576,7 @@
       "daysAgo": 3,
       "ppw": 0.8,
       "memDays": 34,
+      "streak": 2,
       "joinStr": "03.06.26",
       "lastStr": "04.07.26"
     },
@@ -5928,6 +6586,7 @@
       "daysAgo": 5,
       "ppw": 0.8,
       "memDays": 33,
+      "streak": 1,
       "joinStr": "04.06.26",
       "lastStr": "02.07.26"
     },
@@ -5937,6 +6596,7 @@
       "daysAgo": 3,
       "ppw": 0.6,
       "memDays": 44,
+      "streak": 2,
       "joinStr": "24.05.26",
       "lastStr": "04.07.26"
     },
@@ -5946,6 +6606,7 @@
       "daysAgo": 26,
       "ppw": 1.1,
       "memDays": 26,
+      "streak": 1,
       "joinStr": "11.06.26",
       "lastStr": "11.06.26"
     },
@@ -5955,6 +6616,7 @@
       "daysAgo": 24,
       "ppw": 1.1,
       "memDays": 26,
+      "streak": 3,
       "joinStr": "11.06.26",
       "lastStr": "13.06.26"
     },
@@ -5964,6 +6626,7 @@
       "daysAgo": 3,
       "ppw": 1.2,
       "memDays": 24,
+      "streak": 1,
       "joinStr": "13.06.26",
       "lastStr": "04.07.26"
     },
@@ -5973,6 +6636,7 @@
       "daysAgo": 2,
       "ppw": 1.6,
       "memDays": 17,
+      "streak": 1,
       "joinStr": "20.06.26",
       "lastStr": "05.07.26"
     },
@@ -5982,6 +6646,7 @@
       "daysAgo": 3,
       "ppw": 2.5,
       "memDays": 11,
+      "streak": 1,
       "joinStr": "26.06.26",
       "lastStr": "04.07.26"
     },
@@ -5991,6 +6656,7 @@
       "daysAgo": 4,
       "ppw": 4.7,
       "memDays": 6,
+      "streak": 1,
       "joinStr": "01.07.26",
       "lastStr": "03.07.26"
     },
@@ -6000,6 +6666,7 @@
       "daysAgo": 118,
       "ppw": 0.1,
       "memDays": 168,
+      "streak": 1,
       "joinStr": "20.01.26",
       "lastStr": "11.03.26"
     },
@@ -6009,6 +6676,7 @@
       "daysAgo": 157,
       "ppw": 0.1,
       "memDays": 157,
+      "streak": 1,
       "joinStr": "31.01.26",
       "lastStr": "31.01.26"
     },
@@ -6018,6 +6686,7 @@
       "daysAgo": 91,
       "ppw": 0.1,
       "memDays": 154,
+      "streak": 1,
       "joinStr": "03.02.26",
       "lastStr": "07.04.26"
     },
@@ -6027,6 +6696,7 @@
       "daysAgo": 151,
       "ppw": 0.1,
       "memDays": 151,
+      "streak": 1,
       "joinStr": "06.02.26",
       "lastStr": "06.02.26"
     },
@@ -6036,6 +6706,7 @@
       "daysAgo": 150,
       "ppw": 0.1,
       "memDays": 151,
+      "streak": 2,
       "joinStr": "06.02.26",
       "lastStr": "07.02.26"
     },
@@ -6045,6 +6716,7 @@
       "daysAgo": 44,
       "ppw": 0.1,
       "memDays": 152,
+      "streak": 1,
       "joinStr": "05.02.26",
       "lastStr": "24.05.26"
     },
@@ -6054,6 +6726,7 @@
       "daysAgo": 38,
       "ppw": 0.1,
       "memDays": 143,
+      "streak": 2,
       "joinStr": "14.02.26",
       "lastStr": "30.05.26"
     },
@@ -6063,6 +6736,7 @@
       "daysAgo": 136,
       "ppw": 0.2,
       "memDays": 136,
+      "streak": 1,
       "joinStr": "21.02.26",
       "lastStr": "21.02.26"
     },
@@ -6072,6 +6746,7 @@
       "daysAgo": 136,
       "ppw": 0.2,
       "memDays": 136,
+      "streak": 1,
       "joinStr": "21.02.26",
       "lastStr": "21.02.26"
     },
@@ -6081,6 +6756,7 @@
       "daysAgo": 128,
       "ppw": 0.2,
       "memDays": 131,
+      "streak": 2,
       "joinStr": "26.02.26",
       "lastStr": "01.03.26"
     },
@@ -6090,6 +6766,7 @@
       "daysAgo": 111,
       "ppw": 0.2,
       "memDays": 130,
+      "streak": 1,
       "joinStr": "27.02.26",
       "lastStr": "18.03.26"
     },
@@ -6099,6 +6776,7 @@
       "daysAgo": 97,
       "ppw": 0.2,
       "memDays": 130,
+      "streak": 1,
       "joinStr": "27.02.26",
       "lastStr": "01.04.26"
     },
@@ -6108,6 +6786,7 @@
       "daysAgo": 111,
       "ppw": 0.2,
       "memDays": 130,
+      "streak": 1,
       "joinStr": "27.02.26",
       "lastStr": "18.03.26"
     },
@@ -6117,6 +6796,7 @@
       "daysAgo": 108,
       "ppw": 0.1,
       "memDays": 142,
+      "streak": 1,
       "joinStr": "15.02.26",
       "lastStr": "21.03.26"
     },
@@ -6126,6 +6806,7 @@
       "daysAgo": 116,
       "ppw": 0.2,
       "memDays": 127,
+      "streak": 1,
       "joinStr": "02.03.26",
       "lastStr": "13.03.26"
     },
@@ -6135,6 +6816,7 @@
       "daysAgo": 124,
       "ppw": 0.2,
       "memDays": 126,
+      "streak": 2,
       "joinStr": "03.03.26",
       "lastStr": "05.03.26"
     },
@@ -6144,6 +6826,7 @@
       "daysAgo": 107,
       "ppw": 0.2,
       "memDays": 128,
+      "streak": 2,
       "joinStr": "01.03.26",
       "lastStr": "22.03.26"
     },
@@ -6153,6 +6836,7 @@
       "daysAgo": 94,
       "ppw": 0.2,
       "memDays": 122,
+      "streak": 2,
       "joinStr": "07.03.26",
       "lastStr": "04.04.26"
     },
@@ -6162,6 +6846,7 @@
       "daysAgo": 120,
       "ppw": 0.2,
       "memDays": 121,
+      "streak": 2,
       "joinStr": "08.03.26",
       "lastStr": "09.03.26"
     },
@@ -6171,6 +6856,7 @@
       "daysAgo": 80,
       "ppw": 0.2,
       "memDays": 115,
+      "streak": 1,
       "joinStr": "14.03.26",
       "lastStr": "18.04.26"
     },
@@ -6180,6 +6866,7 @@
       "daysAgo": 95,
       "ppw": 0.2,
       "memDays": 109,
+      "streak": 1,
       "joinStr": "20.03.26",
       "lastStr": "03.04.26"
     },
@@ -6189,6 +6876,7 @@
       "daysAgo": 87,
       "ppw": 0.2,
       "memDays": 103,
+      "streak": 1,
       "joinStr": "26.03.26",
       "lastStr": "11.04.26"
     },
@@ -6198,6 +6886,7 @@
       "daysAgo": 95,
       "ppw": 0.2,
       "memDays": 102,
+      "streak": 2,
       "joinStr": "27.03.26",
       "lastStr": "03.04.26"
     },
@@ -6207,6 +6896,7 @@
       "daysAgo": 94,
       "ppw": 0.2,
       "memDays": 102,
+      "streak": 1,
       "joinStr": "27.03.26",
       "lastStr": "04.04.26"
     },
@@ -6216,6 +6906,7 @@
       "daysAgo": 40,
       "ppw": 0.2,
       "memDays": 100,
+      "streak": 1,
       "joinStr": "29.03.26",
       "lastStr": "28.05.26"
     },
@@ -6225,6 +6916,7 @@
       "daysAgo": 94,
       "ppw": 0.2,
       "memDays": 94,
+      "streak": 1,
       "joinStr": "04.04.26",
       "lastStr": "04.04.26"
     },
@@ -6234,6 +6926,7 @@
       "daysAgo": 62,
       "ppw": 0.2,
       "memDays": 95,
+      "streak": 1,
       "joinStr": "03.04.26",
       "lastStr": "06.05.26"
     },
@@ -6243,6 +6936,7 @@
       "daysAgo": 90,
       "ppw": 0.2,
       "memDays": 92,
+      "streak": 2,
       "joinStr": "06.04.26",
       "lastStr": "08.04.26"
     },
@@ -6252,6 +6946,7 @@
       "daysAgo": 84,
       "ppw": 0.2,
       "memDays": 90,
+      "streak": 1,
       "joinStr": "08.04.26",
       "lastStr": "14.04.26"
     },
@@ -6261,6 +6956,7 @@
       "daysAgo": 76,
       "ppw": 0.3,
       "memDays": 83,
+      "streak": 1,
       "joinStr": "15.04.26",
       "lastStr": "22.04.26"
     },
@@ -6270,6 +6966,7 @@
       "daysAgo": 23,
       "ppw": 0.2,
       "memDays": 122,
+      "streak": 1,
       "joinStr": "07.03.26",
       "lastStr": "14.06.26"
     },
@@ -6279,6 +6976,7 @@
       "daysAgo": 74,
       "ppw": 0.3,
       "memDays": 74,
+      "streak": 1,
       "joinStr": "24.04.26",
       "lastStr": "24.04.26"
     },
@@ -6288,6 +6986,7 @@
       "daysAgo": 17,
       "ppw": 0.3,
       "memDays": 74,
+      "streak": 1,
       "joinStr": "24.04.26",
       "lastStr": "20.06.26"
     },
@@ -6297,6 +6996,7 @@
       "daysAgo": 73,
       "ppw": 0.3,
       "memDays": 74,
+      "streak": 2,
       "joinStr": "24.04.26",
       "lastStr": "25.04.26"
     },
@@ -6306,6 +7006,7 @@
       "daysAgo": 70,
       "ppw": 0.3,
       "memDays": 74,
+      "streak": 2,
       "joinStr": "24.04.26",
       "lastStr": "28.04.26"
     },
@@ -6315,6 +7016,7 @@
       "daysAgo": 66,
       "ppw": 0.3,
       "memDays": 80,
+      "streak": 1,
       "joinStr": "18.04.26",
       "lastStr": "02.05.26"
     },
@@ -6324,6 +7026,7 @@
       "daysAgo": 5,
       "ppw": 0.3,
       "memDays": 71,
+      "streak": 1,
       "joinStr": "27.04.26",
       "lastStr": "02.07.26"
     },
@@ -6333,6 +7036,7 @@
       "daysAgo": 52,
       "ppw": 0.3,
       "memDays": 73,
+      "streak": 2,
       "joinStr": "25.04.26",
       "lastStr": "16.05.26"
     },
@@ -6342,6 +7046,7 @@
       "daysAgo": 31,
       "ppw": 0.4,
       "memDays": 59,
+      "streak": 1,
       "joinStr": "09.05.26",
       "lastStr": "06.06.26"
     },
@@ -6351,6 +7056,7 @@
       "daysAgo": 58,
       "ppw": 0.4,
       "memDays": 59,
+      "streak": 2,
       "joinStr": "09.05.26",
       "lastStr": "10.05.26"
     },
@@ -6360,6 +7066,7 @@
       "daysAgo": 17,
       "ppw": 0.4,
       "memDays": 59,
+      "streak": 1,
       "joinStr": "09.05.26",
       "lastStr": "20.06.26"
     },
@@ -6369,6 +7076,7 @@
       "daysAgo": 19,
       "ppw": 0.4,
       "memDays": 55,
+      "streak": 1,
       "joinStr": "13.05.26",
       "lastStr": "18.06.26"
     },
@@ -6378,6 +7086,7 @@
       "daysAgo": 54,
       "ppw": 0.4,
       "memDays": 54,
+      "streak": 1,
       "joinStr": "14.05.26",
       "lastStr": "14.05.26"
     },
@@ -6387,6 +7096,7 @@
       "daysAgo": 45,
       "ppw": 0.4,
       "memDays": 55,
+      "streak": 1,
       "joinStr": "13.05.26",
       "lastStr": "23.05.26"
     },
@@ -6396,6 +7106,7 @@
       "daysAgo": 23,
       "ppw": 0.4,
       "memDays": 51,
+      "streak": 1,
       "joinStr": "17.05.26",
       "lastStr": "14.06.26"
     },
@@ -6405,6 +7116,7 @@
       "daysAgo": 30,
       "ppw": 0.4,
       "memDays": 54,
+      "streak": 1,
       "joinStr": "14.05.26",
       "lastStr": "07.06.26"
     },
@@ -6414,6 +7126,7 @@
       "daysAgo": 49,
       "ppw": 0.4,
       "memDays": 50,
+      "streak": 2,
       "joinStr": "18.05.26",
       "lastStr": "19.05.26"
     },
@@ -6423,6 +7136,7 @@
       "daysAgo": 19,
       "ppw": 0.4,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "18.06.26"
     },
@@ -6432,6 +7146,7 @@
       "daysAgo": 43,
       "ppw": 0.3,
       "memDays": 62,
+      "streak": 1,
       "joinStr": "06.05.26",
       "lastStr": "25.05.26"
     },
@@ -6441,6 +7156,7 @@
       "daysAgo": 34,
       "ppw": 0.4,
       "memDays": 48,
+      "streak": 1,
       "joinStr": "20.05.26",
       "lastStr": "03.06.26"
     },
@@ -6450,6 +7166,7 @@
       "daysAgo": 39,
       "ppw": 0.4,
       "memDays": 48,
+      "streak": 1,
       "joinStr": "20.05.26",
       "lastStr": "29.05.26"
     },
@@ -6459,6 +7176,7 @@
       "daysAgo": 20,
       "ppw": 0.4,
       "memDays": 48,
+      "streak": 1,
       "joinStr": "20.05.26",
       "lastStr": "17.06.26"
     },
@@ -6468,6 +7186,7 @@
       "daysAgo": 45,
       "ppw": 0.5,
       "memDays": 46,
+      "streak": 1,
       "joinStr": "22.05.26",
       "lastStr": "23.05.26"
     },
@@ -6477,6 +7196,7 @@
       "daysAgo": 39,
       "ppw": 0.4,
       "memDays": 48,
+      "streak": 2,
       "joinStr": "20.05.26",
       "lastStr": "29.05.26"
     },
@@ -6486,6 +7206,7 @@
       "daysAgo": 44,
       "ppw": 0.5,
       "memDays": 46,
+      "streak": 2,
       "joinStr": "22.05.26",
       "lastStr": "24.05.26"
     },
@@ -6495,6 +7216,7 @@
       "daysAgo": 32,
       "ppw": 0.5,
       "memDays": 45,
+      "streak": 1,
       "joinStr": "23.05.26",
       "lastStr": "05.06.26"
     },
@@ -6504,6 +7226,7 @@
       "daysAgo": 41,
       "ppw": 0.3,
       "memDays": 66,
+      "streak": 2,
       "joinStr": "02.05.26",
       "lastStr": "27.05.26"
     },
@@ -6513,6 +7236,7 @@
       "daysAgo": 37,
       "ppw": 0.5,
       "memDays": 39,
+      "streak": 3,
       "joinStr": "29.05.26",
       "lastStr": "31.05.26"
     },
@@ -6522,6 +7246,7 @@
       "daysAgo": 24,
       "ppw": 0.5,
       "memDays": 41,
+      "streak": 1,
       "joinStr": "27.05.26",
       "lastStr": "13.06.26"
     },
@@ -6531,6 +7256,7 @@
       "daysAgo": 33,
       "ppw": 0.6,
       "memDays": 35,
+      "streak": 3,
       "joinStr": "02.06.26",
       "lastStr": "04.06.26"
     },
@@ -6540,6 +7266,7 @@
       "daysAgo": 32,
       "ppw": 0.6,
       "memDays": 35,
+      "streak": 1,
       "joinStr": "02.06.26",
       "lastStr": "05.06.26"
     },
@@ -6549,6 +7276,7 @@
       "daysAgo": 33,
       "ppw": 0.6,
       "memDays": 35,
+      "streak": 2,
       "joinStr": "02.06.26",
       "lastStr": "04.06.26"
     },
@@ -6558,6 +7286,7 @@
       "daysAgo": 34,
       "ppw": 0.6,
       "memDays": 34,
+      "streak": 1,
       "joinStr": "03.06.26",
       "lastStr": "03.06.26"
     },
@@ -6567,6 +7296,7 @@
       "daysAgo": 33,
       "ppw": 0.6,
       "memDays": 34,
+      "streak": 2,
       "joinStr": "03.06.26",
       "lastStr": "04.06.26"
     },
@@ -6576,6 +7306,7 @@
       "daysAgo": 18,
       "ppw": 0.8,
       "memDays": 25,
+      "streak": 1,
       "joinStr": "12.06.26",
       "lastStr": "19.06.26"
     },
@@ -6585,6 +7316,7 @@
       "daysAgo": 23,
       "ppw": 0.9,
       "memDays": 24,
+      "streak": 1,
       "joinStr": "13.06.26",
       "lastStr": "14.06.26"
     },
@@ -6594,6 +7326,7 @@
       "daysAgo": 6,
       "ppw": 0.6,
       "memDays": 37,
+      "streak": 1,
       "joinStr": "31.05.26",
       "lastStr": "01.07.26"
     },
@@ -6603,6 +7336,7 @@
       "daysAgo": 10,
       "ppw": 0.9,
       "memDays": 24,
+      "streak": 1,
       "joinStr": "13.06.26",
       "lastStr": "27.06.26"
     },
@@ -6612,6 +7346,7 @@
       "daysAgo": 11,
       "ppw": 1.2,
       "memDays": 18,
+      "streak": 1,
       "joinStr": "19.06.26",
       "lastStr": "26.06.26"
     },
@@ -6621,6 +7356,7 @@
       "daysAgo": 2,
       "ppw": 0.5,
       "memDays": 45,
+      "streak": 1,
       "joinStr": "23.05.26",
       "lastStr": "05.07.26"
     },
@@ -6630,6 +7366,7 @@
       "daysAgo": 156,
       "ppw": 0.1,
       "memDays": 159,
+      "streak": 1,
       "joinStr": "29.01.26",
       "lastStr": "01.02.26"
     },
@@ -6639,6 +7376,7 @@
       "daysAgo": 151,
       "ppw": 0.1,
       "memDays": 151,
+      "streak": 1,
       "joinStr": "06.02.26",
       "lastStr": "06.02.26"
     },
@@ -6648,6 +7386,7 @@
       "daysAgo": 9,
       "ppw": 0.1,
       "memDays": 150,
+      "streak": 1,
       "joinStr": "07.02.26",
       "lastStr": "28.06.26"
     },
@@ -6657,6 +7396,7 @@
       "daysAgo": 141,
       "ppw": 0.1,
       "memDays": 189,
+      "streak": 1,
       "joinStr": "30.12.25",
       "lastStr": "16.02.26"
     },
@@ -6666,6 +7406,7 @@
       "daysAgo": 143,
       "ppw": 0.1,
       "memDays": 145,
+      "streak": 1,
       "joinStr": "12.02.26",
       "lastStr": "14.02.26"
     },
@@ -6675,6 +7416,7 @@
       "daysAgo": 143,
       "ppw": 0.1,
       "memDays": 189,
+      "streak": 2,
       "joinStr": "30.12.25",
       "lastStr": "14.02.26"
     },
@@ -6684,6 +7426,7 @@
       "daysAgo": 142,
       "ppw": 0.1,
       "memDays": 143,
+      "streak": 2,
       "joinStr": "14.02.26",
       "lastStr": "15.02.26"
     },
@@ -6693,6 +7436,7 @@
       "daysAgo": 142,
       "ppw": 0.1,
       "memDays": 142,
+      "streak": 1,
       "joinStr": "15.02.26",
       "lastStr": "15.02.26"
     },
@@ -6702,6 +7446,7 @@
       "daysAgo": 142,
       "ppw": 0.1,
       "memDays": 143,
+      "streak": 1,
       "joinStr": "14.02.26",
       "lastStr": "15.02.26"
     },
@@ -6711,6 +7456,7 @@
       "daysAgo": 137,
       "ppw": 0.1,
       "memDays": 189,
+      "streak": 1,
       "joinStr": "30.12.25",
       "lastStr": "20.02.26"
     },
@@ -6720,6 +7466,7 @@
       "daysAgo": 136,
       "ppw": 0.1,
       "memDays": 136,
+      "streak": 1,
       "joinStr": "21.02.26",
       "lastStr": "21.02.26"
     },
@@ -6729,6 +7476,7 @@
       "daysAgo": 46,
       "ppw": 0.1,
       "memDays": 136,
+      "streak": 1,
       "joinStr": "21.02.26",
       "lastStr": "22.05.26"
     },
@@ -6738,6 +7486,7 @@
       "daysAgo": 130,
       "ppw": 0.1,
       "memDays": 130,
+      "streak": 1,
       "joinStr": "27.02.26",
       "lastStr": "27.02.26"
     },
@@ -6747,6 +7496,7 @@
       "daysAgo": 121,
       "ppw": 0.1,
       "memDays": 123,
+      "streak": 1,
       "joinStr": "06.03.26",
       "lastStr": "08.03.26"
     },
@@ -6756,6 +7506,7 @@
       "daysAgo": 115,
       "ppw": 0.1,
       "memDays": 116,
+      "streak": 2,
       "joinStr": "13.03.26",
       "lastStr": "14.03.26"
     },
@@ -6765,6 +7516,7 @@
       "daysAgo": 102,
       "ppw": 0.1,
       "memDays": 116,
+      "streak": 1,
       "joinStr": "13.03.26",
       "lastStr": "27.03.26"
     },
@@ -6774,6 +7526,7 @@
       "daysAgo": 115,
       "ppw": 0.1,
       "memDays": 117,
+      "streak": 1,
       "joinStr": "12.03.26",
       "lastStr": "14.03.26"
     },
@@ -6783,6 +7536,7 @@
       "daysAgo": 101,
       "ppw": 0.1,
       "memDays": 115,
+      "streak": 1,
       "joinStr": "14.03.26",
       "lastStr": "28.03.26"
     },
@@ -6792,6 +7546,7 @@
       "daysAgo": 110,
       "ppw": 0.1,
       "memDays": 111,
+      "streak": 2,
       "joinStr": "18.03.26",
       "lastStr": "19.03.26"
     },
@@ -6801,6 +7556,7 @@
       "daysAgo": 98,
       "ppw": 0.1,
       "memDays": 98,
+      "streak": 1,
       "joinStr": "31.03.26",
       "lastStr": "31.03.26"
     },
@@ -6810,6 +7566,7 @@
       "daysAgo": 98,
       "ppw": 0.1,
       "memDays": 98,
+      "streak": 1,
       "joinStr": "31.03.26",
       "lastStr": "31.03.26"
     },
@@ -6819,6 +7576,7 @@
       "daysAgo": 96,
       "ppw": 0.1,
       "memDays": 97,
+      "streak": 2,
       "joinStr": "01.04.26",
       "lastStr": "02.04.26"
     },
@@ -6828,6 +7586,7 @@
       "daysAgo": 96,
       "ppw": 0.1,
       "memDays": 97,
+      "streak": 1,
       "joinStr": "01.04.26",
       "lastStr": "02.04.26"
     },
@@ -6837,6 +7596,7 @@
       "daysAgo": 96,
       "ppw": 0.1,
       "memDays": 96,
+      "streak": 1,
       "joinStr": "02.04.26",
       "lastStr": "02.04.26"
     },
@@ -6846,6 +7606,7 @@
       "daysAgo": 91,
       "ppw": 0.1,
       "memDays": 128,
+      "streak": 1,
       "joinStr": "01.03.26",
       "lastStr": "07.04.26"
     },
@@ -6855,6 +7616,7 @@
       "daysAgo": 94,
       "ppw": 0.1,
       "memDays": 95,
+      "streak": 2,
       "joinStr": "03.04.26",
       "lastStr": "04.04.26"
     },
@@ -6864,6 +7626,7 @@
       "daysAgo": 95,
       "ppw": 0.1,
       "memDays": 95,
+      "streak": 1,
       "joinStr": "03.04.26",
       "lastStr": "03.04.26"
     },
@@ -6873,6 +7636,7 @@
       "daysAgo": 93,
       "ppw": 0.1,
       "memDays": 94,
+      "streak": 2,
       "joinStr": "04.04.26",
       "lastStr": "05.04.26"
     },
@@ -6882,6 +7646,7 @@
       "daysAgo": 67,
       "ppw": 0.1,
       "memDays": 95,
+      "streak": 1,
       "joinStr": "03.04.26",
       "lastStr": "01.05.26"
     },
@@ -6891,6 +7656,7 @@
       "daysAgo": 88,
       "ppw": 0.2,
       "memDays": 93,
+      "streak": 1,
       "joinStr": "05.04.26",
       "lastStr": "10.04.26"
     },
@@ -6900,6 +7666,7 @@
       "daysAgo": 89,
       "ppw": 0.2,
       "memDays": 90,
+      "streak": 2,
       "joinStr": "08.04.26",
       "lastStr": "09.04.26"
     },
@@ -6909,6 +7676,7 @@
       "daysAgo": 87,
       "ppw": 0.2,
       "memDays": 87,
+      "streak": 1,
       "joinStr": "11.04.26",
       "lastStr": "11.04.26"
     },
@@ -6918,6 +7686,7 @@
       "daysAgo": 31,
       "ppw": 0.2,
       "memDays": 87,
+      "streak": 1,
       "joinStr": "11.04.26",
       "lastStr": "06.06.26"
     },
@@ -6927,6 +7696,7 @@
       "daysAgo": 80,
       "ppw": 0.2,
       "memDays": 87,
+      "streak": 1,
       "joinStr": "11.04.26",
       "lastStr": "18.04.26"
     },
@@ -6936,6 +7706,7 @@
       "daysAgo": 82,
       "ppw": 0.2,
       "memDays": 86,
+      "streak": 1,
       "joinStr": "12.04.26",
       "lastStr": "16.04.26"
     },
@@ -6945,6 +7716,7 @@
       "daysAgo": 79,
       "ppw": 0.2,
       "memDays": 82,
+      "streak": 1,
       "joinStr": "16.04.26",
       "lastStr": "19.04.26"
     },
@@ -6954,6 +7726,7 @@
       "daysAgo": 81,
       "ppw": 0.2,
       "memDays": 81,
+      "streak": 1,
       "joinStr": "17.04.26",
       "lastStr": "17.04.26"
     },
@@ -6963,6 +7736,7 @@
       "daysAgo": 81,
       "ppw": 0.2,
       "memDays": 81,
+      "streak": 1,
       "joinStr": "17.04.26",
       "lastStr": "17.04.26"
     },
@@ -6972,6 +7746,7 @@
       "daysAgo": 80,
       "ppw": 0.2,
       "memDays": 80,
+      "streak": 1,
       "joinStr": "18.04.26",
       "lastStr": "18.04.26"
     },
@@ -6981,6 +7756,7 @@
       "daysAgo": 79,
       "ppw": 0.2,
       "memDays": 79,
+      "streak": 1,
       "joinStr": "19.04.26",
       "lastStr": "19.04.26"
     },
@@ -6990,6 +7766,7 @@
       "daysAgo": 76,
       "ppw": 0.2,
       "memDays": 79,
+      "streak": 1,
       "joinStr": "19.04.26",
       "lastStr": "22.04.26"
     },
@@ -6999,6 +7776,7 @@
       "daysAgo": 45,
       "ppw": 0.2,
       "memDays": 80,
+      "streak": 1,
       "joinStr": "18.04.26",
       "lastStr": "23.05.26"
     },
@@ -7008,6 +7786,7 @@
       "daysAgo": 54,
       "ppw": 0.2,
       "memDays": 80,
+      "streak": 1,
       "joinStr": "18.04.26",
       "lastStr": "14.05.26"
     },
@@ -7017,6 +7796,7 @@
       "daysAgo": 75,
       "ppw": 0.2,
       "memDays": 79,
+      "streak": 1,
       "joinStr": "19.04.26",
       "lastStr": "23.04.26"
     },
@@ -7026,6 +7806,7 @@
       "daysAgo": 45,
       "ppw": 0.2,
       "memDays": 75,
+      "streak": 1,
       "joinStr": "23.04.26",
       "lastStr": "23.05.26"
     },
@@ -7035,6 +7816,7 @@
       "daysAgo": 71,
       "ppw": 0.2,
       "memDays": 74,
+      "streak": 1,
       "joinStr": "24.04.26",
       "lastStr": "27.04.26"
     },
@@ -7044,6 +7826,7 @@
       "daysAgo": 54,
       "ppw": 0.2,
       "memDays": 75,
+      "streak": 1,
       "joinStr": "23.04.26",
       "lastStr": "14.05.26"
     },
@@ -7053,6 +7836,7 @@
       "daysAgo": 67,
       "ppw": 0.2,
       "memDays": 76,
+      "streak": 1,
       "joinStr": "22.04.26",
       "lastStr": "01.05.26"
     },
@@ -7062,6 +7846,7 @@
       "daysAgo": 73,
       "ppw": 0.2,
       "memDays": 73,
+      "streak": 1,
       "joinStr": "25.04.26",
       "lastStr": "25.04.26"
     },
@@ -7071,6 +7856,7 @@
       "daysAgo": 73,
       "ppw": 0.2,
       "memDays": 73,
+      "streak": 1,
       "joinStr": "25.04.26",
       "lastStr": "25.04.26"
     },
@@ -7080,6 +7866,7 @@
       "daysAgo": 66,
       "ppw": 0.2,
       "memDays": 74,
+      "streak": 1,
       "joinStr": "24.04.26",
       "lastStr": "02.05.26"
     },
@@ -7089,6 +7876,7 @@
       "daysAgo": 73,
       "ppw": 0.2,
       "memDays": 73,
+      "streak": 1,
       "joinStr": "25.04.26",
       "lastStr": "25.04.26"
     },
@@ -7098,6 +7886,7 @@
       "daysAgo": 68,
       "ppw": 0.2,
       "memDays": 72,
+      "streak": 1,
       "joinStr": "26.04.26",
       "lastStr": "30.04.26"
     },
@@ -7107,6 +7896,7 @@
       "daysAgo": 32,
       "ppw": 0.2,
       "memDays": 69,
+      "streak": 1,
       "joinStr": "29.04.26",
       "lastStr": "05.06.26"
     },
@@ -7116,6 +7906,7 @@
       "daysAgo": 68,
       "ppw": 0.2,
       "memDays": 68,
+      "streak": 1,
       "joinStr": "30.04.26",
       "lastStr": "30.04.26"
     },
@@ -7125,6 +7916,7 @@
       "daysAgo": 60,
       "ppw": 0.2,
       "memDays": 62,
+      "streak": 1,
       "joinStr": "06.05.26",
       "lastStr": "08.05.26"
     },
@@ -7134,6 +7926,7 @@
       "daysAgo": 58,
       "ppw": 0.2,
       "memDays": 59,
+      "streak": 2,
       "joinStr": "09.05.26",
       "lastStr": "10.05.26"
     },
@@ -7143,6 +7936,7 @@
       "daysAgo": 52,
       "ppw": 0.3,
       "memDays": 54,
+      "streak": 1,
       "joinStr": "14.05.26",
       "lastStr": "16.05.26"
     },
@@ -7152,6 +7946,7 @@
       "daysAgo": 52,
       "ppw": 0.2,
       "memDays": 57,
+      "streak": 2,
       "joinStr": "11.05.26",
       "lastStr": "16.05.26"
     },
@@ -7161,6 +7956,7 @@
       "daysAgo": 38,
       "ppw": 0.3,
       "memDays": 53,
+      "streak": 1,
       "joinStr": "15.05.26",
       "lastStr": "30.05.26"
     },
@@ -7170,6 +7966,7 @@
       "daysAgo": 44,
       "ppw": 0.3,
       "memDays": 54,
+      "streak": 1,
       "joinStr": "14.05.26",
       "lastStr": "24.05.26"
     },
@@ -7179,6 +7976,7 @@
       "daysAgo": 33,
       "ppw": 0.3,
       "memDays": 53,
+      "streak": 1,
       "joinStr": "15.05.26",
       "lastStr": "04.06.26"
     },
@@ -7188,6 +7986,7 @@
       "daysAgo": 52,
       "ppw": 0.3,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "16.05.26"
     },
@@ -7197,6 +7996,7 @@
       "daysAgo": 44,
       "ppw": 0.3,
       "memDays": 53,
+      "streak": 1,
       "joinStr": "15.05.26",
       "lastStr": "24.05.26"
     },
@@ -7206,6 +8006,7 @@
       "daysAgo": 46,
       "ppw": 0.3,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "22.05.26"
     },
@@ -7215,6 +8016,7 @@
       "daysAgo": 44,
       "ppw": 0.3,
       "memDays": 47,
+      "streak": 1,
       "joinStr": "21.05.26",
       "lastStr": "24.05.26"
     },
@@ -7224,6 +8026,7 @@
       "daysAgo": 44,
       "ppw": 0.3,
       "memDays": 48,
+      "streak": 1,
       "joinStr": "20.05.26",
       "lastStr": "24.05.26"
     },
@@ -7233,6 +8036,7 @@
       "daysAgo": 46,
       "ppw": 0.3,
       "memDays": 47,
+      "streak": 1,
       "joinStr": "21.05.26",
       "lastStr": "22.05.26"
     },
@@ -7242,6 +8046,7 @@
       "daysAgo": 45,
       "ppw": 0.3,
       "memDays": 46,
+      "streak": 2,
       "joinStr": "22.05.26",
       "lastStr": "23.05.26"
     },
@@ -7251,6 +8056,7 @@
       "daysAgo": 46,
       "ppw": 0.3,
       "memDays": 46,
+      "streak": 1,
       "joinStr": "22.05.26",
       "lastStr": "22.05.26"
     },
@@ -7260,6 +8066,7 @@
       "daysAgo": 37,
       "ppw": 0.3,
       "memDays": 46,
+      "streak": 1,
       "joinStr": "22.05.26",
       "lastStr": "31.05.26"
     },
@@ -7269,6 +8076,7 @@
       "daysAgo": 45,
       "ppw": 0.3,
       "memDays": 45,
+      "streak": 1,
       "joinStr": "23.05.26",
       "lastStr": "23.05.26"
     },
@@ -7278,6 +8086,7 @@
       "daysAgo": 6,
       "ppw": 0.3,
       "memDays": 46,
+      "streak": 1,
       "joinStr": "22.05.26",
       "lastStr": "01.07.26"
     },
@@ -7287,6 +8096,7 @@
       "daysAgo": 45,
       "ppw": 0.2,
       "memDays": 81,
+      "streak": 1,
       "joinStr": "17.04.26",
       "lastStr": "23.05.26"
     },
@@ -7296,6 +8106,7 @@
       "daysAgo": 16,
       "ppw": 0.3,
       "memDays": 47,
+      "streak": 1,
       "joinStr": "21.05.26",
       "lastStr": "21.06.26"
     },
@@ -7305,6 +8116,7 @@
       "daysAgo": 2,
       "ppw": 0.3,
       "memDays": 44,
+      "streak": 1,
       "joinStr": "24.05.26",
       "lastStr": "05.07.26"
     },
@@ -7314,6 +8126,7 @@
       "daysAgo": 41,
       "ppw": 0.1,
       "memDays": 189,
+      "streak": 1,
       "joinStr": "30.12.25",
       "lastStr": "27.05.26"
     },
@@ -7323,6 +8136,7 @@
       "daysAgo": 43,
       "ppw": 0.2,
       "memDays": 91,
+      "streak": 1,
       "joinStr": "07.04.26",
       "lastStr": "25.05.26"
     },
@@ -7332,6 +8146,7 @@
       "daysAgo": 23,
       "ppw": 0.3,
       "memDays": 46,
+      "streak": 1,
       "joinStr": "22.05.26",
       "lastStr": "14.06.26"
     },
@@ -7341,6 +8156,7 @@
       "daysAgo": 24,
       "ppw": 0.1,
       "memDays": 108,
+      "streak": 1,
       "joinStr": "21.03.26",
       "lastStr": "13.06.26"
     },
@@ -7350,6 +8166,7 @@
       "daysAgo": 38,
       "ppw": 0.3,
       "memDays": 45,
+      "streak": 2,
       "joinStr": "23.05.26",
       "lastStr": "30.05.26"
     },
@@ -7359,6 +8176,7 @@
       "daysAgo": 24,
       "ppw": 0.3,
       "memDays": 47,
+      "streak": 1,
       "joinStr": "21.05.26",
       "lastStr": "13.06.26"
     },
@@ -7368,6 +8186,7 @@
       "daysAgo": 30,
       "ppw": 0.4,
       "memDays": 38,
+      "streak": 1,
       "joinStr": "30.05.26",
       "lastStr": "07.06.26"
     },
@@ -7377,6 +8196,7 @@
       "daysAgo": 17,
       "ppw": 0.4,
       "memDays": 37,
+      "streak": 1,
       "joinStr": "31.05.26",
       "lastStr": "20.06.26"
     },
@@ -7386,6 +8206,7 @@
       "daysAgo": 34,
       "ppw": 0.4,
       "memDays": 37,
+      "streak": 1,
       "joinStr": "31.05.26",
       "lastStr": "03.06.26"
     },
@@ -7395,6 +8216,7 @@
       "daysAgo": 3,
       "ppw": 0.4,
       "memDays": 35,
+      "streak": 1,
       "joinStr": "02.06.26",
       "lastStr": "04.07.26"
     },
@@ -7404,6 +8226,7 @@
       "daysAgo": 34,
       "ppw": 0.3,
       "memDays": 53,
+      "streak": 1,
       "joinStr": "15.05.26",
       "lastStr": "03.06.26"
     },
@@ -7413,6 +8236,7 @@
       "daysAgo": 25,
       "ppw": 0.4,
       "memDays": 34,
+      "streak": 1,
       "joinStr": "03.06.26",
       "lastStr": "12.06.26"
     },
@@ -7422,6 +8246,7 @@
       "daysAgo": 33,
       "ppw": 0.4,
       "memDays": 34,
+      "streak": 2,
       "joinStr": "03.06.26",
       "lastStr": "04.06.26"
     },
@@ -7431,6 +8256,7 @@
       "daysAgo": 33,
       "ppw": 0.4,
       "memDays": 33,
+      "streak": 1,
       "joinStr": "04.06.26",
       "lastStr": "04.06.26"
     },
@@ -7440,6 +8266,7 @@
       "daysAgo": 31,
       "ppw": 0.5,
       "memDays": 31,
+      "streak": 1,
       "joinStr": "06.06.26",
       "lastStr": "06.06.26"
     },
@@ -7449,6 +8276,7 @@
       "daysAgo": 24,
       "ppw": 0.5,
       "memDays": 31,
+      "streak": 1,
       "joinStr": "06.06.26",
       "lastStr": "13.06.26"
     },
@@ -7458,6 +8286,7 @@
       "daysAgo": 17,
       "ppw": 0.6,
       "memDays": 25,
+      "streak": 1,
       "joinStr": "12.06.26",
       "lastStr": "20.06.26"
     },
@@ -7467,6 +8296,7 @@
       "daysAgo": 24,
       "ppw": 0.6,
       "memDays": 25,
+      "streak": 2,
       "joinStr": "12.06.26",
       "lastStr": "13.06.26"
     },
@@ -7476,6 +8306,7 @@
       "daysAgo": 14,
       "ppw": 0.6,
       "memDays": 23,
+      "streak": 1,
       "joinStr": "14.06.26",
       "lastStr": "23.06.26"
     },
@@ -7485,6 +8316,7 @@
       "daysAgo": 3,
       "ppw": 0.5,
       "memDays": 29,
+      "streak": 1,
       "joinStr": "08.06.26",
       "lastStr": "04.07.26"
     },
@@ -7494,6 +8326,7 @@
       "daysAgo": 9,
       "ppw": 1.4,
       "memDays": 10,
+      "streak": 1,
       "joinStr": "27.06.26",
       "lastStr": "28.06.26"
     },
@@ -7503,6 +8336,7 @@
       "daysAgo": 5,
       "ppw": 2.3,
       "memDays": 6,
+      "streak": 1,
       "joinStr": "01.07.26",
       "lastStr": "02.07.26"
     },
@@ -7512,6 +8346,7 @@
       "daysAgo": 3,
       "ppw": 3.5,
       "memDays": 4,
+      "streak": 2,
       "joinStr": "03.07.26",
       "lastStr": "04.07.26"
     },
@@ -7521,6 +8356,7 @@
       "daysAgo": 4,
       "ppw": 2.3,
       "memDays": 6,
+      "streak": 1,
       "joinStr": "01.07.26",
       "lastStr": "03.07.26"
     },
@@ -7530,6 +8366,7 @@
       "daysAgo": 150,
       "ppw": 0,
       "memDays": 150,
+      "streak": 1,
       "joinStr": "07.02.26",
       "lastStr": "07.02.26"
     },
@@ -7539,6 +8376,7 @@
       "daysAgo": 150,
       "ppw": 0,
       "memDays": 150,
+      "streak": 1,
       "joinStr": "07.02.26",
       "lastStr": "07.02.26"
     },
@@ -7548,6 +8386,7 @@
       "daysAgo": 149,
       "ppw": 0,
       "memDays": 150,
+      "streak": 1,
       "joinStr": "07.02.26",
       "lastStr": "08.02.26"
     },
@@ -7557,6 +8396,7 @@
       "daysAgo": 145,
       "ppw": 0,
       "memDays": 145,
+      "streak": 1,
       "joinStr": "12.02.26",
       "lastStr": "12.02.26"
     },
@@ -7566,6 +8406,7 @@
       "daysAgo": 145,
       "ppw": 0,
       "memDays": 145,
+      "streak": 1,
       "joinStr": "12.02.26",
       "lastStr": "12.02.26"
     },
@@ -7575,6 +8416,7 @@
       "daysAgo": 144,
       "ppw": 0,
       "memDays": 144,
+      "streak": 1,
       "joinStr": "13.02.26",
       "lastStr": "13.02.26"
     },
@@ -7584,6 +8426,7 @@
       "daysAgo": 144,
       "ppw": 0,
       "memDays": 144,
+      "streak": 1,
       "joinStr": "13.02.26",
       "lastStr": "13.02.26"
     },
@@ -7593,6 +8436,7 @@
       "daysAgo": 144,
       "ppw": 0,
       "memDays": 189,
+      "streak": 1,
       "joinStr": "30.12.25",
       "lastStr": "13.02.26"
     },
@@ -7602,6 +8446,7 @@
       "daysAgo": 144,
       "ppw": 0,
       "memDays": 146,
+      "streak": 1,
       "joinStr": "11.02.26",
       "lastStr": "13.02.26"
     },
@@ -7611,6 +8456,7 @@
       "daysAgo": 144,
       "ppw": 0,
       "memDays": 189,
+      "streak": 1,
       "joinStr": "30.12.25",
       "lastStr": "13.02.26"
     },
@@ -7620,6 +8466,7 @@
       "daysAgo": 142,
       "ppw": 0,
       "memDays": 142,
+      "streak": 1,
       "joinStr": "15.02.26",
       "lastStr": "15.02.26"
     },
@@ -7629,6 +8476,7 @@
       "daysAgo": 141,
       "ppw": 0,
       "memDays": 141,
+      "streak": 1,
       "joinStr": "16.02.26",
       "lastStr": "16.02.26"
     },
@@ -7638,6 +8486,7 @@
       "daysAgo": 137,
       "ppw": 0.1,
       "memDays": 137,
+      "streak": 1,
       "joinStr": "20.02.26",
       "lastStr": "20.02.26"
     },
@@ -7647,6 +8496,7 @@
       "daysAgo": 137,
       "ppw": 0.1,
       "memDays": 137,
+      "streak": 1,
       "joinStr": "20.02.26",
       "lastStr": "20.02.26"
     },
@@ -7656,6 +8506,7 @@
       "daysAgo": 136,
       "ppw": 0,
       "memDays": 149,
+      "streak": 1,
       "joinStr": "08.02.26",
       "lastStr": "21.02.26"
     },
@@ -7665,6 +8516,7 @@
       "daysAgo": 126,
       "ppw": 0.1,
       "memDays": 130,
+      "streak": 1,
       "joinStr": "27.02.26",
       "lastStr": "03.03.26"
     },
@@ -7674,6 +8526,7 @@
       "daysAgo": 122,
       "ppw": 0.1,
       "memDays": 122,
+      "streak": 1,
       "joinStr": "07.03.26",
       "lastStr": "07.03.26"
     },
@@ -7683,6 +8536,7 @@
       "daysAgo": 121,
       "ppw": 0.1,
       "memDays": 121,
+      "streak": 1,
       "joinStr": "08.03.26",
       "lastStr": "08.03.26"
     },
@@ -7692,6 +8546,7 @@
       "daysAgo": 116,
       "ppw": 0.1,
       "memDays": 116,
+      "streak": 1,
       "joinStr": "13.03.26",
       "lastStr": "13.03.26"
     },
@@ -7701,6 +8556,7 @@
       "daysAgo": 116,
       "ppw": 0.1,
       "memDays": 116,
+      "streak": 1,
       "joinStr": "13.03.26",
       "lastStr": "13.03.26"
     },
@@ -7710,6 +8566,7 @@
       "daysAgo": 116,
       "ppw": 0.1,
       "memDays": 125,
+      "streak": 1,
       "joinStr": "04.03.26",
       "lastStr": "13.03.26"
     },
@@ -7719,6 +8576,7 @@
       "daysAgo": 115,
       "ppw": 0.1,
       "memDays": 115,
+      "streak": 1,
       "joinStr": "14.03.26",
       "lastStr": "14.03.26"
     },
@@ -7728,6 +8586,7 @@
       "daysAgo": 113,
       "ppw": 0.1,
       "memDays": 118,
+      "streak": 1,
       "joinStr": "11.03.26",
       "lastStr": "16.03.26"
     },
@@ -7737,6 +8596,7 @@
       "daysAgo": 109,
       "ppw": 0.1,
       "memDays": 111,
+      "streak": 1,
       "joinStr": "18.03.26",
       "lastStr": "20.03.26"
     },
@@ -7746,6 +8606,7 @@
       "daysAgo": 109,
       "ppw": 0.1,
       "memDays": 109,
+      "streak": 1,
       "joinStr": "20.03.26",
       "lastStr": "20.03.26"
     },
@@ -7755,6 +8616,7 @@
       "daysAgo": 108,
       "ppw": 0.1,
       "memDays": 108,
+      "streak": 1,
       "joinStr": "21.03.26",
       "lastStr": "21.03.26"
     },
@@ -7764,6 +8626,7 @@
       "daysAgo": 97,
       "ppw": 0.1,
       "memDays": 97,
+      "streak": 1,
       "joinStr": "01.04.26",
       "lastStr": "01.04.26"
     },
@@ -7773,6 +8636,7 @@
       "daysAgo": 94,
       "ppw": 0.1,
       "memDays": 94,
+      "streak": 1,
       "joinStr": "04.04.26",
       "lastStr": "04.04.26"
     },
@@ -7782,6 +8646,7 @@
       "daysAgo": 94,
       "ppw": 0.1,
       "memDays": 94,
+      "streak": 1,
       "joinStr": "04.04.26",
       "lastStr": "04.04.26"
     },
@@ -7791,6 +8656,7 @@
       "daysAgo": 94,
       "ppw": 0.1,
       "memDays": 94,
+      "streak": 1,
       "joinStr": "04.04.26",
       "lastStr": "04.04.26"
     },
@@ -7800,6 +8666,7 @@
       "daysAgo": 93,
       "ppw": 0.1,
       "memDays": 100,
+      "streak": 1,
       "joinStr": "29.03.26",
       "lastStr": "05.04.26"
     },
@@ -7809,6 +8676,7 @@
       "daysAgo": 92,
       "ppw": 0.1,
       "memDays": 93,
+      "streak": 1,
       "joinStr": "05.04.26",
       "lastStr": "06.04.26"
     },
@@ -7818,6 +8686,7 @@
       "daysAgo": 92,
       "ppw": 0.1,
       "memDays": 92,
+      "streak": 1,
       "joinStr": "06.04.26",
       "lastStr": "06.04.26"
     },
@@ -7827,6 +8696,7 @@
       "daysAgo": 89,
       "ppw": 0.1,
       "memDays": 89,
+      "streak": 1,
       "joinStr": "09.04.26",
       "lastStr": "09.04.26"
     },
@@ -7836,6 +8706,7 @@
       "daysAgo": 87,
       "ppw": 0.1,
       "memDays": 96,
+      "streak": 1,
       "joinStr": "02.04.26",
       "lastStr": "11.04.26"
     },
@@ -7845,6 +8716,7 @@
       "daysAgo": 81,
       "ppw": 0.1,
       "memDays": 81,
+      "streak": 1,
       "joinStr": "17.04.26",
       "lastStr": "17.04.26"
     },
@@ -7854,6 +8726,7 @@
       "daysAgo": 77,
       "ppw": 0.1,
       "memDays": 77,
+      "streak": 1,
       "joinStr": "21.04.26",
       "lastStr": "21.04.26"
     },
@@ -7863,6 +8736,7 @@
       "daysAgo": 75,
       "ppw": 0.1,
       "memDays": 76,
+      "streak": 1,
       "joinStr": "22.04.26",
       "lastStr": "23.04.26"
     },
@@ -7872,6 +8746,7 @@
       "daysAgo": 74,
       "ppw": 0.1,
       "memDays": 74,
+      "streak": 1,
       "joinStr": "24.04.26",
       "lastStr": "24.04.26"
     },
@@ -7881,6 +8756,7 @@
       "daysAgo": 73,
       "ppw": 0.1,
       "memDays": 73,
+      "streak": 1,
       "joinStr": "25.04.26",
       "lastStr": "25.04.26"
     },
@@ -7890,6 +8766,7 @@
       "daysAgo": 73,
       "ppw": 0.1,
       "memDays": 96,
+      "streak": 1,
       "joinStr": "02.04.26",
       "lastStr": "25.04.26"
     },
@@ -7899,6 +8776,7 @@
       "daysAgo": 73,
       "ppw": 0.1,
       "memDays": 73,
+      "streak": 1,
       "joinStr": "25.04.26",
       "lastStr": "25.04.26"
     },
@@ -7908,6 +8786,7 @@
       "daysAgo": 73,
       "ppw": 0.1,
       "memDays": 73,
+      "streak": 1,
       "joinStr": "25.04.26",
       "lastStr": "25.04.26"
     },
@@ -7917,6 +8796,7 @@
       "daysAgo": 70,
       "ppw": 0.1,
       "memDays": 100,
+      "streak": 1,
       "joinStr": "29.03.26",
       "lastStr": "28.04.26"
     },
@@ -7926,6 +8806,7 @@
       "daysAgo": 68,
       "ppw": 0.1,
       "memDays": 77,
+      "streak": 1,
       "joinStr": "21.04.26",
       "lastStr": "30.04.26"
     },
@@ -7935,6 +8816,7 @@
       "daysAgo": 67,
       "ppw": 0.1,
       "memDays": 68,
+      "streak": 1,
       "joinStr": "30.04.26",
       "lastStr": "01.05.26"
     },
@@ -7944,6 +8826,7 @@
       "daysAgo": 67,
       "ppw": 0.1,
       "memDays": 67,
+      "streak": 1,
       "joinStr": "01.05.26",
       "lastStr": "01.05.26"
     },
@@ -7953,6 +8836,7 @@
       "daysAgo": 66,
       "ppw": 0.1,
       "memDays": 66,
+      "streak": 1,
       "joinStr": "02.05.26",
       "lastStr": "02.05.26"
     },
@@ -7962,6 +8846,7 @@
       "daysAgo": 66,
       "ppw": 0.1,
       "memDays": 74,
+      "streak": 1,
       "joinStr": "24.04.26",
       "lastStr": "02.05.26"
     },
@@ -7971,6 +8856,7 @@
       "daysAgo": 60,
       "ppw": 0.1,
       "memDays": 65,
+      "streak": 1,
       "joinStr": "03.05.26",
       "lastStr": "08.05.26"
     },
@@ -7980,6 +8866,7 @@
       "daysAgo": 55,
       "ppw": 0.1,
       "memDays": 55,
+      "streak": 1,
       "joinStr": "13.05.26",
       "lastStr": "13.05.26"
     },
@@ -7989,6 +8876,7 @@
       "daysAgo": 54,
       "ppw": 0.1,
       "memDays": 108,
+      "streak": 1,
       "joinStr": "21.03.26",
       "lastStr": "14.05.26"
     },
@@ -7998,6 +8886,7 @@
       "daysAgo": 53,
       "ppw": 0.1,
       "memDays": 97,
+      "streak": 1,
       "joinStr": "01.04.26",
       "lastStr": "15.05.26"
     },
@@ -8007,6 +8896,7 @@
       "daysAgo": 53,
       "ppw": 0.1,
       "memDays": 59,
+      "streak": 1,
       "joinStr": "09.05.26",
       "lastStr": "15.05.26"
     },
@@ -8016,6 +8906,7 @@
       "daysAgo": 52,
       "ppw": 0.1,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "16.05.26"
     },
@@ -8025,6 +8916,7 @@
       "daysAgo": 52,
       "ppw": 0.1,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "16.05.26"
     },
@@ -8034,6 +8926,7 @@
       "daysAgo": 51,
       "ppw": 0.1,
       "memDays": 75,
+      "streak": 1,
       "joinStr": "23.04.26",
       "lastStr": "17.05.26"
     },
@@ -8043,6 +8936,7 @@
       "daysAgo": 47,
       "ppw": 0,
       "memDays": 144,
+      "streak": 1,
       "joinStr": "13.02.26",
       "lastStr": "21.05.26"
     },
@@ -8052,6 +8946,7 @@
       "daysAgo": 46,
       "ppw": 0.1,
       "memDays": 47,
+      "streak": 1,
       "joinStr": "21.05.26",
       "lastStr": "22.05.26"
     },
@@ -8061,6 +8956,7 @@
       "daysAgo": 45,
       "ppw": 0.2,
       "memDays": 45,
+      "streak": 1,
       "joinStr": "23.05.26",
       "lastStr": "23.05.26"
     },
@@ -8070,6 +8966,7 @@
       "daysAgo": 45,
       "ppw": 0.1,
       "memDays": 52,
+      "streak": 1,
       "joinStr": "16.05.26",
       "lastStr": "23.05.26"
     },
@@ -8079,6 +8976,7 @@
       "daysAgo": 45,
       "ppw": 0.2,
       "memDays": 46,
+      "streak": 1,
       "joinStr": "22.05.26",
       "lastStr": "23.05.26"
     },
@@ -8088,6 +8986,7 @@
       "daysAgo": 45,
       "ppw": 0.2,
       "memDays": 45,
+      "streak": 1,
       "joinStr": "23.05.26",
       "lastStr": "23.05.26"
     },
@@ -8097,6 +8996,7 @@
       "daysAgo": 44,
       "ppw": 0.2,
       "memDays": 44,
+      "streak": 1,
       "joinStr": "24.05.26",
       "lastStr": "24.05.26"
     },
@@ -8106,6 +9006,7 @@
       "daysAgo": 44,
       "ppw": 0.1,
       "memDays": 72,
+      "streak": 1,
       "joinStr": "26.04.26",
       "lastStr": "24.05.26"
     },
@@ -8115,6 +9016,7 @@
       "daysAgo": 44,
       "ppw": 0.2,
       "memDays": 44,
+      "streak": 1,
       "joinStr": "24.05.26",
       "lastStr": "24.05.26"
     },
@@ -8124,6 +9026,7 @@
       "daysAgo": 44,
       "ppw": 0.2,
       "memDays": 44,
+      "streak": 1,
       "joinStr": "24.05.26",
       "lastStr": "24.05.26"
     },
@@ -8133,6 +9036,7 @@
       "daysAgo": 44,
       "ppw": 0.2,
       "memDays": 45,
+      "streak": 1,
       "joinStr": "23.05.26",
       "lastStr": "24.05.26"
     },
@@ -8142,6 +9046,7 @@
       "daysAgo": 43,
       "ppw": 0.2,
       "memDays": 46,
+      "streak": 1,
       "joinStr": "22.05.26",
       "lastStr": "25.05.26"
     },
@@ -8151,6 +9056,7 @@
       "daysAgo": 43,
       "ppw": 0.2,
       "memDays": 43,
+      "streak": 1,
       "joinStr": "25.05.26",
       "lastStr": "25.05.26"
     },
@@ -8160,6 +9066,7 @@
       "daysAgo": 42,
       "ppw": 0.2,
       "memDays": 42,
+      "streak": 1,
       "joinStr": "26.05.26",
       "lastStr": "26.05.26"
     },
@@ -8169,6 +9076,7 @@
       "daysAgo": 40,
       "ppw": 0.2,
       "memDays": 40,
+      "streak": 1,
       "joinStr": "28.05.26",
       "lastStr": "28.05.26"
     },
@@ -8178,6 +9086,7 @@
       "daysAgo": 39,
       "ppw": 0.2,
       "memDays": 45,
+      "streak": 1,
       "joinStr": "23.05.26",
       "lastStr": "29.05.26"
     },
@@ -8187,6 +9096,7 @@
       "daysAgo": 39,
       "ppw": 0.2,
       "memDays": 39,
+      "streak": 1,
       "joinStr": "29.05.26",
       "lastStr": "29.05.26"
     },
@@ -8196,6 +9106,7 @@
       "daysAgo": 38,
       "ppw": 0.2,
       "memDays": 38,
+      "streak": 1,
       "joinStr": "30.05.26",
       "lastStr": "30.05.26"
     },
@@ -8205,6 +9116,7 @@
       "daysAgo": 38,
       "ppw": 0.2,
       "memDays": 38,
+      "streak": 1,
       "joinStr": "30.05.26",
       "lastStr": "30.05.26"
     },
@@ -8214,6 +9126,7 @@
       "daysAgo": 38,
       "ppw": 0.2,
       "memDays": 38,
+      "streak": 1,
       "joinStr": "30.05.26",
       "lastStr": "30.05.26"
     },
@@ -8223,6 +9136,7 @@
       "daysAgo": 38,
       "ppw": 0.2,
       "memDays": 38,
+      "streak": 1,
       "joinStr": "30.05.26",
       "lastStr": "30.05.26"
     },
@@ -8232,6 +9146,7 @@
       "daysAgo": 38,
       "ppw": 0.2,
       "memDays": 38,
+      "streak": 1,
       "joinStr": "30.05.26",
       "lastStr": "30.05.26"
     },
@@ -8241,6 +9156,7 @@
       "daysAgo": 31,
       "ppw": 0.2,
       "memDays": 44,
+      "streak": 1,
       "joinStr": "24.05.26",
       "lastStr": "06.06.26"
     },
@@ -8250,6 +9166,7 @@
       "daysAgo": 31,
       "ppw": 0.2,
       "memDays": 31,
+      "streak": 1,
       "joinStr": "06.06.26",
       "lastStr": "06.06.26"
     },
@@ -8259,6 +9176,7 @@
       "daysAgo": 28,
       "ppw": 0.3,
       "memDays": 28,
+      "streak": 1,
       "joinStr": "09.06.26",
       "lastStr": "09.06.26"
     },
@@ -8268,6 +9186,7 @@
       "daysAgo": 27,
       "ppw": 0.3,
       "memDays": 27,
+      "streak": 1,
       "joinStr": "10.06.26",
       "lastStr": "10.06.26"
     },
@@ -8277,6 +9196,7 @@
       "daysAgo": 26,
       "ppw": 0.3,
       "memDays": 26,
+      "streak": 1,
       "joinStr": "11.06.26",
       "lastStr": "11.06.26"
     },
@@ -8286,6 +9206,7 @@
       "daysAgo": 26,
       "ppw": 0.3,
       "memDays": 26,
+      "streak": 1,
       "joinStr": "11.06.26",
       "lastStr": "11.06.26"
     },
@@ -8295,6 +9216,7 @@
       "daysAgo": 25,
       "ppw": 0.3,
       "memDays": 27,
+      "streak": 1,
       "joinStr": "10.06.26",
       "lastStr": "12.06.26"
     },
@@ -8304,6 +9226,7 @@
       "daysAgo": 25,
       "ppw": 0.3,
       "memDays": 26,
+      "streak": 1,
       "joinStr": "11.06.26",
       "lastStr": "12.06.26"
     },
@@ -8313,6 +9236,7 @@
       "daysAgo": 24,
       "ppw": 0.3,
       "memDays": 24,
+      "streak": 1,
       "joinStr": "13.06.26",
       "lastStr": "13.06.26"
     },
@@ -8322,6 +9246,7 @@
       "daysAgo": 24,
       "ppw": 0.1,
       "memDays": 80,
+      "streak": 1,
       "joinStr": "18.04.26",
       "lastStr": "13.06.26"
     },
@@ -8331,6 +9256,7 @@
       "daysAgo": 23,
       "ppw": 0.3,
       "memDays": 26,
+      "streak": 1,
       "joinStr": "11.06.26",
       "lastStr": "14.06.26"
     },
@@ -8340,6 +9266,7 @@
       "daysAgo": 19,
       "ppw": 0.2,
       "memDays": 39,
+      "streak": 1,
       "joinStr": "29.05.26",
       "lastStr": "18.06.26"
     },
@@ -8349,6 +9276,7 @@
       "daysAgo": 17,
       "ppw": 0.2,
       "memDays": 40,
+      "streak": 1,
       "joinStr": "28.05.26",
       "lastStr": "20.06.26"
     },
@@ -8358,6 +9286,7 @@
       "daysAgo": 17,
       "ppw": 0.2,
       "memDays": 37,
+      "streak": 1,
       "joinStr": "31.05.26",
       "lastStr": "20.06.26"
     },
@@ -8367,6 +9296,7 @@
       "daysAgo": 16,
       "ppw": 0.4,
       "memDays": 17,
+      "streak": 1,
       "joinStr": "20.06.26",
       "lastStr": "21.06.26"
     },
@@ -8376,6 +9306,7 @@
       "daysAgo": 10,
       "ppw": 0.7,
       "memDays": 10,
+      "streak": 1,
       "joinStr": "27.06.26",
       "lastStr": "27.06.26"
     },
@@ -8385,6 +9316,7 @@
       "daysAgo": 6,
       "ppw": 0.5,
       "memDays": 13,
+      "streak": 1,
       "joinStr": "24.06.26",
       "lastStr": "01.07.26"
     },
@@ -8394,6 +9326,7 @@
       "daysAgo": 6,
       "ppw": 1.2,
       "memDays": 6,
+      "streak": 1,
       "joinStr": "01.07.26",
       "lastStr": "01.07.26"
     },
@@ -8403,6 +9336,7 @@
       "daysAgo": 3,
       "ppw": 2.3,
       "memDays": 3,
+      "streak": 1,
       "joinStr": "04.07.26",
       "lastStr": "04.07.26"
     },
@@ -8412,6 +9346,7 @@
       "daysAgo": 3,
       "ppw": 0.2,
       "memDays": 38,
+      "streak": 1,
       "joinStr": "30.05.26",
       "lastStr": "04.07.26"
     },
@@ -8421,6 +9356,7 @@
       "daysAgo": 2,
       "ppw": 3.5,
       "memDays": 2,
+      "streak": 1,
       "joinStr": "05.07.26",
       "lastStr": "05.07.26"
     },
@@ -8430,6 +9366,7 @@
       "daysAgo": 2,
       "ppw": 3.5,
       "memDays": 2,
+      "streak": 1,
       "joinStr": "05.07.26",
       "lastStr": "05.07.26"
     },
@@ -8439,10 +9376,11 @@
       "daysAgo": 1,
       "ppw": 7,
       "memDays": 1,
+      "streak": 1,
       "joinStr": "06.07.26",
       "lastStr": "06.07.26"
     }
   ],
   "totalPosts": 34516,
-  "updated": "07.07.2026, 11:51"
+  "updated": "07.07.2026, 11:53"
 }
