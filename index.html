@@ -191,8 +191,8 @@ let members = [], tab = 'all', sort = 'posts', page = 0;
 
 function status(m) {
   if (m.memDays < ND) return 'n';
-  if (m.posts   < KT) return 'k';
-  if (m.ppw     < RP) return 'r';
+  if (m.posts < KT || m.daysAgo > 30) return 'k';
+  if (m.ppw < RP) return 'r';
   return 'o';
 }
 
