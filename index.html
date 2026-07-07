@@ -244,7 +244,7 @@ function render() {
       const pct = Math.round(m.posts / maxP * 100);
       const last = m.daysAgo === 0 ? 'today' : m.daysAgo === 1 ? 'yesterday' : `${m.daysAgo}d ago`;
       const streakVal = m.streak || 0;
-      const streakDisplay = streakVal >= 7 ? `🔥 ${streakVal}d` : `${streakVal}d`;
+      const streakDisplay = `${streakVal}d`;
       const badge = s==='k' ? `<span class="bdg k">Kick</span>`
                   : s==='r' ? `<span class="bdg r">At-risk</span>`
                   : s==='n' ? `<span class="bdg n">New</span>`
