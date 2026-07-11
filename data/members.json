@@ -3,7 +3,7 @@
     {
       "name": "Marvin Scheben",
       "posts": 1197,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 43.6,
       "memDays": 192,
       "streak": 19,
@@ -14,7 +14,7 @@
     {
       "name": "Johannes",
       "posts": 1013,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 36.7,
       "memDays": 193,
       "streak": 18,
@@ -25,7 +25,7 @@
     {
       "name": "Daniel Reuter",
       "posts": 720,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 26.3,
       "memDays": 192,
       "streak": 12,
@@ -36,7 +36,7 @@
     {
       "name": "Steffen Schnitzler",
       "posts": 697,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 25.3,
       "memDays": 193,
       "streak": 8,
@@ -47,7 +47,7 @@
     {
       "name": "Gonçalo d'Orey",
       "posts": 551,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 23.7,
       "memDays": 163,
       "streak": 4,
@@ -58,7 +58,7 @@
     {
       "name": "David Sliwka",
       "posts": 468,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 17.1,
       "memDays": 192,
       "streak": 13,
@@ -69,7 +69,7 @@
     {
       "name": "~ Tobi Bartel",
       "posts": 371,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 15.6,
       "memDays": 167,
       "streak": 7,
@@ -78,9 +78,20 @@
       "lastStr": "10.07.26"
     },
     {
-      "name": "~ Chris🦅",
+      "name": "Finn Opdenhovel",
       "posts": 367,
       "daysAgo": 0,
+      "ppw": 14.7,
+      "memDays": 175,
+      "streak": 7,
+      "hasLeft": false,
+      "joinStr": "17.01.26",
+      "lastStr": "11.07.26"
+    },
+    {
+      "name": "~ Chris🦅",
+      "posts": 367,
+      "daysAgo": 1,
       "ppw": 15.8,
       "memDays": 163,
       "streak": 6,
@@ -89,20 +100,9 @@
       "lastStr": "10.07.26"
     },
     {
-      "name": "Finn Opdenhovel",
-      "posts": 363,
-      "daysAgo": 1,
-      "ppw": 14.5,
-      "memDays": 175,
-      "streak": 7,
-      "hasLeft": false,
-      "joinStr": "17.01.26",
-      "lastStr": "09.07.26"
-    },
-    {
       "name": "Backes",
       "posts": 362,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 13.1,
       "memDays": 193,
       "streak": 7,
@@ -113,7 +113,7 @@
     {
       "name": "Felix Sievert",
       "posts": 348,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 13.7,
       "memDays": 178,
       "streak": 7,
@@ -124,7 +124,7 @@
     {
       "name": "Leo Girke",
       "posts": 343,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 12.6,
       "memDays": 190,
       "streak": 7,
@@ -135,7 +135,7 @@
     {
       "name": "Leo Zensen",
       "posts": 328,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 11.9,
       "memDays": 193,
       "streak": 8,
@@ -146,7 +146,7 @@
     {
       "name": "~ Dani",
       "posts": 325,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 13,
       "memDays": 175,
       "streak": 11,
@@ -157,7 +157,7 @@
     {
       "name": "Knotti",
       "posts": 324,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 12.7,
       "memDays": 178,
       "streak": 9,
@@ -168,7 +168,7 @@
     {
       "name": "~ Evelyn🤍",
       "posts": 314,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 14.2,
       "memDays": 155,
       "streak": 8,
@@ -179,7 +179,7 @@
     {
       "name": "~ Theo",
       "posts": 306,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 13.3,
       "memDays": 161,
       "streak": 10,
@@ -190,7 +190,7 @@
     {
       "name": "~ Niko",
       "posts": 286,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 13.6,
       "memDays": 147,
       "streak": 10,
@@ -200,8 +200,8 @@
     },
     {
       "name": "~ Simon",
-      "posts": 284,
-      "daysAgo": 0,
+      "posts": 285,
+      "daysAgo": 1,
       "ppw": 12.2,
       "memDays": 163,
       "streak": 9,
@@ -212,7 +212,7 @@
     {
       "name": "~ Jan",
       "posts": 277,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 12,
       "memDays": 162,
       "streak": 10,
@@ -223,7 +223,7 @@
     {
       "name": "~ Vincent Brandner",
       "posts": 263,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 10.6,
       "memDays": 173,
       "streak": 5,
@@ -234,7 +234,7 @@
     {
       "name": "~ Juli",
       "posts": 262,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 9.5,
       "memDays": 193,
       "streak": 7,
@@ -244,9 +244,9 @@
     },
     {
       "name": "~ Fabi F",
-      "posts": 254,
-      "daysAgo": 0,
-      "ppw": 10.8,
+      "posts": 255,
+      "daysAgo": 1,
+      "ppw": 10.9,
       "memDays": 164,
       "streak": 5,
       "hasLeft": false,
@@ -256,7 +256,7 @@
     {
       "name": "~ MaxiK",
       "posts": 249,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 10.9,
       "memDays": 160,
       "streak": 8,
@@ -266,19 +266,19 @@
     },
     {
       "name": "~ Ben",
-      "posts": 248,
+      "posts": 249,
       "daysAgo": 0,
-      "ppw": 11.8,
+      "ppw": 11.9,
       "memDays": 147,
       "streak": 6,
       "hasLeft": false,
       "joinStr": "14.02.26",
-      "lastStr": "10.07.26"
+      "lastStr": "11.07.26"
     },
     {
       "name": "~ Mata",
       "posts": 245,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 13.9,
       "memDays": 123,
       "streak": 4,
@@ -289,7 +289,7 @@
     {
       "name": "~ Philipp",
       "posts": 239,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 10.7,
       "memDays": 157,
       "streak": 14,
@@ -299,30 +299,30 @@
     },
     {
       "name": "~ Nils",
-      "posts": 237,
-      "daysAgo": 6,
+      "posts": 238,
+      "daysAgo": 0,
       "ppw": 10.2,
       "memDays": 163,
       "streak": 13,
       "hasLeft": false,
       "joinStr": "29.01.26",
-      "lastStr": "04.07.26"
+      "lastStr": "11.07.26"
     },
     {
       "name": "~ Leo",
-      "posts": 237,
+      "posts": 238,
       "daysAgo": 0,
       "ppw": 10.8,
       "memDays": 154,
       "streak": 6,
       "hasLeft": false,
       "joinStr": "07.02.26",
-      "lastStr": "10.07.26"
+      "lastStr": "11.07.26"
     },
     {
       "name": "~ Julius",
       "posts": 236,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 10.1,
       "memDays": 163,
       "streak": 5,
@@ -333,7 +333,7 @@
     {
       "name": "~ Nico",
       "posts": 230,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 9.6,
       "memDays": 167,
       "streak": 6,
@@ -344,7 +344,7 @@
     {
       "name": "~ Luis S",
       "posts": 225,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 14.9,
       "memDays": 106,
       "streak": 6,
@@ -355,7 +355,7 @@
     {
       "name": "~ Poldi",
       "posts": 221,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 15.9,
       "memDays": 97,
       "streak": 5,
@@ -365,8 +365,8 @@
     },
     {
       "name": "~ Felix E.",
-      "posts": 206,
-      "daysAgo": 0,
+      "posts": 207,
+      "daysAgo": 1,
       "ppw": 8.6,
       "memDays": 168,
       "streak": 5,
@@ -377,7 +377,7 @@
     {
       "name": "Tarek",
       "posts": 206,
-      "daysAgo": 30,
+      "daysAgo": 31,
       "ppw": 8.9,
       "memDays": 162,
       "streak": 4,
@@ -388,7 +388,7 @@
     {
       "name": "~ Joschi",
       "posts": 199,
-      "daysAgo": 15,
+      "daysAgo": 16,
       "ppw": 8.8,
       "memDays": 158,
       "streak": 9,
@@ -399,7 +399,7 @@
     {
       "name": "~ Obi®️",
       "posts": 199,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 9.3,
       "memDays": 150,
       "streak": 5,
@@ -410,7 +410,7 @@
     {
       "name": "Dohle",
       "posts": 196,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 7.7,
       "memDays": 178,
       "streak": 7,
@@ -421,7 +421,7 @@
     {
       "name": "~ Alex",
       "posts": 194,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 9.1,
       "memDays": 149,
       "streak": 4,
@@ -430,9 +430,20 @@
       "lastStr": "10.07.26"
     },
     {
+      "name": "~ Louis",
+      "posts": 188,
+      "daysAgo": 0,
+      "ppw": 8.8,
+      "memDays": 149,
+      "streak": 6,
+      "hasLeft": false,
+      "joinStr": "12.02.26",
+      "lastStr": "11.07.26"
+    },
+    {
       "name": "~ Janis",
       "posts": 186,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 18.6,
       "memDays": 70,
       "streak": 5,
@@ -441,20 +452,9 @@
       "lastStr": "10.07.26"
     },
     {
-      "name": "~ Louis",
-      "posts": 185,
-      "daysAgo": 0,
-      "ppw": 8.7,
-      "memDays": 149,
-      "streak": 6,
-      "hasLeft": false,
-      "joinStr": "12.02.26",
-      "lastStr": "10.07.26"
-    },
-    {
       "name": "~ Valentin",
       "posts": 184,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 8,
       "memDays": 161,
       "streak": 10,
@@ -465,7 +465,7 @@
     {
       "name": "~ Michael",
       "posts": 182,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 14,
       "memDays": 91,
       "streak": 10,
@@ -476,7 +476,7 @@
     {
       "name": "Kai Wiesner",
       "posts": 178,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 6.8,
       "memDays": 182,
       "streak": 3,
@@ -487,7 +487,7 @@
     {
       "name": "~ Moritz",
       "posts": 178,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 8.1,
       "memDays": 154,
       "streak": 7,
@@ -498,7 +498,7 @@
     {
       "name": "Fabi Girke",
       "posts": 177,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 6.8,
       "memDays": 183,
       "streak": 8,
@@ -509,7 +509,7 @@
     {
       "name": "~ Big.O💥",
       "posts": 175,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 8.8,
       "memDays": 140,
       "streak": 9,
@@ -520,7 +520,7 @@
     {
       "name": "~ Dominik",
       "posts": 172,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 7.1,
       "memDays": 169,
       "streak": 5,
@@ -531,7 +531,7 @@
     {
       "name": "~ Niklas",
       "posts": 169,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 7.7,
       "memDays": 153,
       "streak": 8,
@@ -542,7 +542,7 @@
     {
       "name": "Pascal Bönsch",
       "posts": 169,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 11.1,
       "memDays": 107,
       "streak": 4,
@@ -553,7 +553,7 @@
     {
       "name": "~ Pascal",
       "posts": 166,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 16.6,
       "memDays": 70,
       "streak": 7,
@@ -564,7 +564,7 @@
     {
       "name": "~ Paul",
       "posts": 164,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 7.7,
       "memDays": 150,
       "streak": 10,
@@ -575,7 +575,7 @@
     {
       "name": "~ Lukas",
       "posts": 163,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 7.1,
       "memDays": 161,
       "streak": 9,
@@ -586,7 +586,7 @@
     {
       "name": "~ Georgios",
       "posts": 163,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 10.2,
       "memDays": 112,
       "streak": 5,
@@ -597,7 +597,7 @@
     {
       "name": "~ Christian",
       "posts": 154,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.9,
       "memDays": 182,
       "streak": 7,
@@ -607,19 +607,19 @@
     },
     {
       "name": "~ Peter Mattmann",
-      "posts": 153,
+      "posts": 154,
       "daysAgo": 0,
-      "ppw": 6.5,
+      "ppw": 6.6,
       "memDays": 164,
       "streak": 6,
       "hasLeft": false,
       "joinStr": "28.01.26",
-      "lastStr": "10.07.26"
+      "lastStr": "11.07.26"
     },
     {
       "name": "~ Fabian",
       "posts": 153,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 6.9,
       "memDays": 155,
       "streak": 6,
@@ -630,7 +630,7 @@
     {
       "name": "~ David",
       "posts": 151,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 7.2,
       "memDays": 147,
       "streak": 7,
@@ -641,7 +641,7 @@
     {
       "name": "~ Mattis",
       "posts": 151,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 7.4,
       "memDays": 143,
       "streak": 6,
@@ -652,7 +652,7 @@
     {
       "name": "Niknak",
       "posts": 142,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 6,
       "memDays": 167,
       "streak": 4,
@@ -663,7 +663,7 @@
     {
       "name": "~ Katrin💫",
       "posts": 142,
-      "daysAgo": 12,
+      "daysAgo": 13,
       "ppw": 7.7,
       "memDays": 129,
       "streak": 4,
@@ -674,7 +674,7 @@
     {
       "name": "~ Jonas Hillesheim",
       "posts": 140,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 7,
       "memDays": 141,
       "streak": 8,
@@ -685,7 +685,7 @@
     {
       "name": "~ Luis",
       "posts": 136,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.7,
       "memDays": 168,
       "streak": 5,
@@ -696,7 +696,7 @@
     {
       "name": "~ Max🦕",
       "posts": 135,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 10.4,
       "memDays": 91,
       "streak": 9,
@@ -707,7 +707,7 @@
     {
       "name": "Felix Pleyer",
       "posts": 132,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 5.5,
       "memDays": 168,
       "streak": 3,
@@ -718,7 +718,7 @@
     {
       "name": "~ S",
       "posts": 129,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 7.1,
       "memDays": 127,
       "streak": 3,
@@ -729,7 +729,7 @@
     {
       "name": "~ Jonas Knöpfli",
       "posts": 123,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 5.6,
       "memDays": 155,
       "streak": 6,
@@ -740,7 +740,7 @@
     {
       "name": "~ Felix",
       "posts": 122,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 4.9,
       "memDays": 175,
       "streak": 11,
@@ -751,7 +751,7 @@
     {
       "name": "~ Luca Klenner",
       "posts": 122,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.7,
       "memDays": 151,
       "streak": 5,
@@ -762,7 +762,7 @@
     {
       "name": "~ DavidKnoll",
       "posts": 117,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 5.4,
       "memDays": 151,
       "streak": 3,
@@ -773,7 +773,7 @@
     {
       "name": "~ Franz",
       "posts": 117,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.5,
       "memDays": 150,
       "streak": 6,
@@ -784,7 +784,7 @@
     {
       "name": "~ Christopher",
       "posts": 117,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 6.4,
       "memDays": 127,
       "streak": 5,
@@ -795,7 +795,7 @@
     {
       "name": "~ Maxi",
       "posts": 117,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 7.2,
       "memDays": 113,
       "streak": 4,
@@ -806,7 +806,7 @@
     {
       "name": "~ Kian",
       "posts": 114,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 9.5,
       "memDays": 84,
       "streak": 6,
@@ -817,7 +817,7 @@
     {
       "name": "~ Marco",
       "posts": 113,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 7.7,
       "memDays": 103,
       "streak": 4,
@@ -828,7 +828,7 @@
     {
       "name": "~ Francisco Nobre",
       "posts": 110,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 13.5,
       "memDays": 57,
       "streak": 5,
@@ -839,7 +839,7 @@
     {
       "name": "~ Julian",
       "posts": 109,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 5.1,
       "memDays": 150,
       "streak": 4,
@@ -850,7 +850,7 @@
     {
       "name": "~ Robin",
       "posts": 107,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 4.8,
       "memDays": 155,
       "streak": 6,
@@ -861,7 +861,7 @@
     {
       "name": "~ Lara",
       "posts": 106,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5,
       "memDays": 147,
       "streak": 5,
@@ -872,7 +872,7 @@
     {
       "name": "~ Wolfgang Schiffbauer",
       "posts": 106,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 8.2,
       "memDays": 90,
       "streak": 4,
@@ -883,7 +883,7 @@
     {
       "name": "~ Navid",
       "posts": 105,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 4.5,
       "memDays": 163,
       "streak": 4,
@@ -893,9 +893,9 @@
     },
     {
       "name": "~ nicolas",
-      "posts": 100,
-      "daysAgo": 0,
-      "ppw": 4.3,
+      "posts": 101,
+      "daysAgo": 1,
+      "ppw": 4.4,
       "memDays": 161,
       "streak": 4,
       "hasLeft": false,
@@ -905,7 +905,7 @@
     {
       "name": "~ Til",
       "posts": 100,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 9.9,
       "memDays": 71,
       "streak": 6,
@@ -916,7 +916,7 @@
     {
       "name": "~ Birdie✨",
       "posts": 99,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 5,
       "memDays": 140,
       "streak": 8,
@@ -927,7 +927,7 @@
     {
       "name": "~ Verena 💕",
       "posts": 99,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5,
       "memDays": 140,
       "streak": 4,
@@ -938,7 +938,7 @@
     {
       "name": "~ richard",
       "posts": 98,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 6.1,
       "memDays": 112,
       "streak": 2,
@@ -949,7 +949,7 @@
     {
       "name": "~ Brandon",
       "posts": 98,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 7.6,
       "memDays": 90,
       "streak": 3,
@@ -958,9 +958,20 @@
       "lastStr": "02.07.26"
     },
     {
-      "name": "~ Janek",
+      "name": "~ Tom",
       "posts": 97,
       "daysAgo": 0,
+      "ppw": 4.4,
+      "memDays": 155,
+      "streak": 6,
+      "hasLeft": false,
+      "joinStr": "06.02.26",
+      "lastStr": "11.07.26"
+    },
+    {
+      "name": "~ Janek",
+      "posts": 97,
+      "daysAgo": 1,
       "ppw": 4.4,
       "memDays": 154,
       "streak": 3,
@@ -969,20 +980,9 @@
       "lastStr": "10.07.26"
     },
     {
-      "name": "~ Tom",
-      "posts": 96,
-      "daysAgo": 0,
-      "ppw": 4.3,
-      "memDays": 155,
-      "streak": 6,
-      "hasLeft": false,
-      "joinStr": "06.02.26",
-      "lastStr": "10.07.26"
-    },
-    {
       "name": "~ Timo",
       "posts": 96,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 4.5,
       "memDays": 149,
       "streak": 4,
@@ -993,7 +993,7 @@
     {
       "name": "~ Campino",
       "posts": 96,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 15.3,
       "memDays": 44,
       "streak": 5,
@@ -1002,9 +1002,20 @@
       "lastStr": "10.07.26"
     },
     {
+      "name": "~ Freddie Schulz",
+      "posts": 94,
+      "daysAgo": 1,
+      "ppw": 5.2,
+      "memDays": 126,
+      "streak": 5,
+      "hasLeft": false,
+      "joinStr": "07.03.26",
+      "lastStr": "10.07.26"
+    },
+    {
       "name": "~ BrunoUno",
       "posts": 94,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 6.5,
       "memDays": 102,
       "streak": 6,
@@ -1015,7 +1026,7 @@
     {
       "name": "~ Jill",
       "posts": 93,
-      "daysAgo": 4,
+      "daysAgo": 5,
       "ppw": 4,
       "memDays": 162,
       "streak": 4,
@@ -1024,20 +1035,9 @@
       "lastStr": "06.07.26"
     },
     {
-      "name": "~ Freddie Schulz",
-      "posts": 93,
-      "daysAgo": 0,
-      "ppw": 5.2,
-      "memDays": 126,
-      "streak": 5,
-      "hasLeft": false,
-      "joinStr": "07.03.26",
-      "lastStr": "10.07.26"
-    },
-    {
       "name": "~ Luca",
       "posts": 90,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.9,
       "memDays": 161,
       "streak": 4,
@@ -1048,7 +1048,7 @@
     {
       "name": "~ justin",
       "posts": 90,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 4.5,
       "memDays": 140,
       "streak": 5,
@@ -1059,7 +1059,7 @@
     {
       "name": "~ Jonas",
       "posts": 90,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5,
       "memDays": 127,
       "streak": 8,
@@ -1070,7 +1070,7 @@
     {
       "name": "~ Lukas Wehrle",
       "posts": 90,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 9.1,
       "memDays": 69,
       "streak": 3,
@@ -1081,7 +1081,7 @@
     {
       "name": "~ Max",
       "posts": 88,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 4.1,
       "memDays": 150,
       "streak": 10,
@@ -1092,7 +1092,7 @@
     {
       "name": "~ Chris S.",
       "posts": 86,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.9,
       "memDays": 102,
       "streak": 6,
@@ -1103,7 +1103,7 @@
     {
       "name": "~ Jonas M K.",
       "posts": 86,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 6.2,
       "memDays": 97,
       "streak": 5,
@@ -1112,9 +1112,20 @@
       "lastStr": "10.07.26"
     },
     {
+      "name": "~ leander",
+      "posts": 85,
+      "daysAgo": 1,
+      "ppw": 6.1,
+      "memDays": 98,
+      "streak": 8,
+      "hasLeft": false,
+      "joinStr": "04.04.26",
+      "lastStr": "10.07.26"
+    },
+    {
       "name": "Marco",
       "posts": 84,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 4.9,
       "memDays": 119,
       "streak": 3,
@@ -1125,7 +1136,7 @@
     {
       "name": "~ Patrick",
       "posts": 84,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 4.7,
       "memDays": 126,
       "streak": 5,
@@ -1134,20 +1145,9 @@
       "lastStr": "07.07.26"
     },
     {
-      "name": "~ leander",
-      "posts": 84,
-      "daysAgo": 2,
-      "ppw": 6,
-      "memDays": 98,
-      "streak": 8,
-      "hasLeft": false,
-      "joinStr": "04.04.26",
-      "lastStr": "08.07.26"
-    },
-    {
       "name": "Yanick",
       "posts": 82,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 3,
       "memDays": 193,
       "streak": 4,
@@ -1158,7 +1158,7 @@
     {
       "name": "~ Dash",
       "posts": 81,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 3.8,
       "memDays": 150,
       "streak": 4,
@@ -1169,7 +1169,7 @@
     {
       "name": "~ Tobi",
       "posts": 81,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 4.8,
       "memDays": 118,
       "streak": 4,
@@ -1180,7 +1180,7 @@
     {
       "name": "~ AFB",
       "posts": 80,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.8,
       "memDays": 147,
       "streak": 5,
@@ -1191,7 +1191,7 @@
     {
       "name": "~ Johannes Gütlhuber",
       "posts": 80,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 6.2,
       "memDays": 91,
       "streak": 5,
@@ -1202,7 +1202,7 @@
     {
       "name": "~ Mathis",
       "posts": 79,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.8,
       "memDays": 147,
       "streak": 4,
@@ -1213,7 +1213,7 @@
     {
       "name": "~ Flexer",
       "posts": 79,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 6.1,
       "memDays": 90,
       "streak": 3,
@@ -1224,7 +1224,7 @@
     {
       "name": "~ Finn",
       "posts": 78,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.4,
       "memDays": 161,
       "streak": 4,
@@ -1235,7 +1235,7 @@
     {
       "name": "~ Michi Wallner",
       "posts": 78,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 4.6,
       "memDays": 118,
       "streak": 3,
@@ -1246,7 +1246,7 @@
     {
       "name": "~ Nelle",
       "posts": 78,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.6,
       "memDays": 98,
       "streak": 4,
@@ -1257,7 +1257,7 @@
     {
       "name": "~ Oskar",
       "posts": 77,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.6,
       "memDays": 151,
       "streak": 6,
@@ -1268,7 +1268,7 @@
     {
       "name": "~ Severin",
       "posts": 77,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 4,
       "memDays": 135,
       "streak": 4,
@@ -1279,7 +1279,7 @@
     {
       "name": "~ Kai",
       "posts": 76,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 5,
       "memDays": 107,
       "streak": 3,
@@ -1290,7 +1290,7 @@
     {
       "name": "~ Gonçalo Ramos Dias",
       "posts": 75,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 3.7,
       "memDays": 141,
       "streak": 4,
@@ -1301,7 +1301,7 @@
     {
       "name": "~ Luis Wolf",
       "posts": 74,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.2,
       "memDays": 160,
       "streak": 4,
@@ -1312,7 +1312,7 @@
     {
       "name": "~ Ränä ⭐️⭐️⭐️⭐️",
       "posts": 74,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 4.9,
       "memDays": 105,
       "streak": 5,
@@ -1323,7 +1323,7 @@
     {
       "name": "~ Marcel",
       "posts": 74,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.3,
       "memDays": 97,
       "streak": 4,
@@ -1334,7 +1334,7 @@
     {
       "name": "~ Grrt",
       "posts": 74,
-      "daysAgo": 10,
+      "daysAgo": 11,
       "ppw": 5.7,
       "memDays": 91,
       "streak": 3,
@@ -1345,7 +1345,7 @@
     {
       "name": "Paula Englert",
       "posts": 73,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.6,
       "memDays": 193,
       "streak": 6,
@@ -1356,7 +1356,7 @@
     {
       "name": "~ Flo",
       "posts": 73,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.7,
       "memDays": 140,
       "streak": 3,
@@ -1367,7 +1367,7 @@
     {
       "name": "~ Laurin",
       "posts": 73,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.8,
       "memDays": 134,
       "streak": 4,
@@ -1378,7 +1378,7 @@
     {
       "name": "~ Lutz",
       "posts": 73,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.9,
       "memDays": 131,
       "streak": 9,
@@ -1389,7 +1389,7 @@
     {
       "name": "~ Lenny",
       "posts": 72,
-      "daysAgo": 15,
+      "daysAgo": 16,
       "ppw": 3.3,
       "memDays": 153,
       "streak": 2,
@@ -1400,7 +1400,7 @@
     {
       "name": "~ Leandro",
       "posts": 72,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 4.5,
       "memDays": 112,
       "streak": 4,
@@ -1411,7 +1411,7 @@
     {
       "name": "~ Julien",
       "posts": 72,
-      "daysAgo": 11,
+      "daysAgo": 12,
       "ppw": 4.5,
       "memDays": 111,
       "streak": 5,
@@ -1420,9 +1420,20 @@
       "lastStr": "29.06.26"
     },
     {
+      "name": "~ Cyriel",
+      "posts": 71,
+      "daysAgo": 0,
+      "ppw": 31.1,
+      "memDays": 16,
+      "streak": 9,
+      "hasLeft": false,
+      "joinStr": "25.06.26",
+      "lastStr": "11.07.26"
+    },
+    {
       "name": "~ Marc G.",
       "posts": 70,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 3.3,
       "memDays": 150,
       "streak": 4,
@@ -1433,7 +1444,7 @@
     {
       "name": "~ Mats P",
       "posts": 70,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 3.3,
       "memDays": 149,
       "streak": 3,
@@ -1444,7 +1455,7 @@
     {
       "name": "~ M.ChodosFigueiredo",
       "posts": 70,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 3.3,
       "memDays": 148,
       "streak": 5,
@@ -1455,7 +1466,7 @@
     {
       "name": "~ Johanna",
       "posts": 70,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.3,
       "memDays": 92,
       "streak": 4,
@@ -1464,21 +1475,10 @@
       "lastStr": "10.07.26"
     },
     {
-      "name": "~ Cyriel",
-      "posts": 69,
-      "daysAgo": 0,
-      "ppw": 30.2,
-      "memDays": 16,
-      "streak": 8,
-      "hasLeft": false,
-      "joinStr": "25.06.26",
-      "lastStr": "10.07.26"
-    },
-    {
       "name": "~ Carlo",
-      "posts": 68,
-      "daysAgo": 0,
-      "ppw": 2.9,
+      "posts": 69,
+      "daysAgo": 1,
+      "ppw": 3,
       "memDays": 162,
       "streak": 3,
       "hasLeft": false,
@@ -1488,7 +1488,7 @@
     {
       "name": "~ Dirk Grafschmidt",
       "posts": 68,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 6.1,
       "memDays": 78,
       "streak": 8,
@@ -1499,7 +1499,7 @@
     {
       "name": "~ Jona",
       "posts": 67,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 3.1,
       "memDays": 151,
       "streak": 6,
@@ -1510,7 +1510,7 @@
     {
       "name": "~ Tim",
       "posts": 67,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 3.1,
       "memDays": 150,
       "streak": 4,
@@ -1519,9 +1519,20 @@
       "lastStr": "27.06.26"
     },
     {
+      "name": "~ Leon Krause",
+      "posts": 67,
+      "daysAgo": 1,
+      "ppw": 3.1,
+      "memDays": 150,
+      "streak": 4,
+      "hasLeft": false,
+      "joinStr": "11.02.26",
+      "lastStr": "10.07.26"
+    },
+    {
       "name": "~ Ugne Gabriele",
       "posts": 67,
-      "daysAgo": 4,
+      "daysAgo": 5,
       "ppw": 3.6,
       "memDays": 131,
       "streak": 6,
@@ -1532,7 +1543,7 @@
     {
       "name": "~ Benjamin Grafschmidt",
       "posts": 67,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.1,
       "memDays": 150,
       "streak": 4,
@@ -1541,20 +1552,9 @@
       "lastStr": "10.07.26"
     },
     {
-      "name": "~ Leon Krause",
-      "posts": 66,
-      "daysAgo": 1,
-      "ppw": 3.1,
-      "memDays": 150,
-      "streak": 4,
-      "hasLeft": false,
-      "joinStr": "11.02.26",
-      "lastStr": "09.07.26"
-    },
-    {
       "name": "~ Jannik",
       "posts": 66,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 10.5,
       "memDays": 44,
       "streak": 4,
@@ -1565,7 +1565,7 @@
     {
       "name": "~ Leo Fenner",
       "posts": 64,
-      "daysAgo": 16,
+      "daysAgo": 17,
       "ppw": 3.9,
       "memDays": 116,
       "streak": 6,
@@ -1576,7 +1576,7 @@
     {
       "name": "~ Stan",
       "posts": 64,
-      "daysAgo": 26,
+      "daysAgo": 27,
       "ppw": 4.6,
       "memDays": 98,
       "streak": 2,
@@ -1587,7 +1587,7 @@
     {
       "name": "~ Guilherme Costa Matos",
       "posts": 64,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 4.6,
       "memDays": 97,
       "streak": 3,
@@ -1596,9 +1596,20 @@
       "lastStr": "04.07.26"
     },
     {
+      "name": "~ Consti",
+      "posts": 64,
+      "daysAgo": 0,
+      "ppw": 4.2,
+      "memDays": 106,
+      "streak": 3,
+      "hasLeft": false,
+      "joinStr": "27.03.26",
+      "lastStr": "11.07.26"
+    },
+    {
       "name": "~ Raman",
       "posts": 63,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 3,
       "memDays": 149,
       "streak": 3,
@@ -1609,7 +1620,7 @@
     {
       "name": "Lena Louhs",
       "posts": 62,
-      "daysAgo": 11,
+      "daysAgo": 12,
       "ppw": 2.9,
       "memDays": 149,
       "streak": 6,
@@ -1620,7 +1631,7 @@
     {
       "name": "~ Moritz Kannengießer",
       "posts": 62,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 3.6,
       "memDays": 120,
       "streak": 3,
@@ -1629,20 +1640,20 @@
       "lastStr": "09.07.26"
     },
     {
-      "name": "~ Consti",
+      "name": "~ Flo Erlacher",
       "posts": 62,
       "daysAgo": 0,
-      "ppw": 4.1,
-      "memDays": 106,
-      "streak": 3,
+      "ppw": 4.4,
+      "memDays": 99,
+      "streak": 4,
       "hasLeft": false,
-      "joinStr": "27.03.26",
-      "lastStr": "10.07.26"
+      "joinStr": "03.04.26",
+      "lastStr": "11.07.26"
     },
     {
       "name": "~ Niklas Vincenz",
       "posts": 62,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 5.1,
       "memDays": 85,
       "streak": 5,
@@ -1653,7 +1664,7 @@
     {
       "name": "~ Felix!",
       "posts": 62,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.2,
       "memDays": 83,
       "streak": 4,
@@ -1664,7 +1675,7 @@
     {
       "name": "~ Leo L",
       "posts": 61,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.6,
       "memDays": 120,
       "streak": 4,
@@ -1673,20 +1684,9 @@
       "lastStr": "10.07.26"
     },
     {
-      "name": "~ Flo Erlacher",
-      "posts": 61,
-      "daysAgo": 0,
-      "ppw": 4.3,
-      "memDays": 99,
-      "streak": 4,
-      "hasLeft": false,
-      "joinStr": "03.04.26",
-      "lastStr": "10.07.26"
-    },
-    {
       "name": "~ Francisco",
       "posts": 60,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 4.3,
       "memDays": 98,
       "streak": 3,
@@ -1697,7 +1697,7 @@
     {
       "name": "David Lach",
       "posts": 58,
-      "daysAgo": 9,
+      "daysAgo": 10,
       "ppw": 2.1,
       "memDays": 193,
       "streak": 4,
@@ -1708,7 +1708,7 @@
     {
       "name": "~ Julio C.",
       "posts": 58,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 2.6,
       "memDays": 155,
       "streak": 3,
@@ -1719,7 +1719,7 @@
     {
       "name": "~ Grant",
       "posts": 58,
-      "daysAgo": 11,
+      "daysAgo": 12,
       "ppw": 2.6,
       "memDays": 154,
       "streak": 4,
@@ -1730,7 +1730,7 @@
     {
       "name": "~ Philip",
       "posts": 58,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 3.4,
       "memDays": 120,
       "streak": 8,
@@ -1739,9 +1739,20 @@
       "lastStr": "22.05.26"
     },
     {
+      "name": "~ Martin S.",
+      "posts": 57,
+      "daysAgo": 0,
+      "ppw": 2.9,
+      "memDays": 140,
+      "streak": 3,
+      "hasLeft": false,
+      "joinStr": "21.02.26",
+      "lastStr": "11.07.26"
+    },
+    {
       "name": "~ Thomas",
       "posts": 56,
-      "daysAgo": 14,
+      "daysAgo": 15,
       "ppw": 2.8,
       "memDays": 141,
       "streak": 3,
@@ -1750,20 +1761,9 @@
       "lastStr": "26.06.26"
     },
     {
-      "name": "~ Martin S.",
-      "posts": 56,
-      "daysAgo": 15,
-      "ppw": 2.8,
-      "memDays": 140,
-      "streak": 3,
-      "hasLeft": false,
-      "joinStr": "21.02.26",
-      "lastStr": "25.06.26"
-    },
-    {
       "name": "~ Simi",
       "posts": 56,
-      "daysAgo": 28,
+      "daysAgo": 29,
       "ppw": 3.3,
       "memDays": 120,
       "streak": 3,
@@ -1774,7 +1774,7 @@
     {
       "name": "~ Ilija Krtalic",
       "posts": 55,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 4.5,
       "memDays": 85,
       "streak": 3,
@@ -1783,9 +1783,20 @@
       "lastStr": "10.07.26"
     },
     {
+      "name": "~ Julius M.",
+      "posts": 55,
+      "daysAgo": 1,
+      "ppw": 4,
+      "memDays": 97,
+      "streak": 3,
+      "hasLeft": false,
+      "joinStr": "05.04.26",
+      "lastStr": "10.07.26"
+    },
+    {
       "name": "~ Noah",
       "posts": 54,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 2.4,
       "memDays": 155,
       "streak": 3,
@@ -1796,7 +1807,7 @@
     {
       "name": "Malte",
       "posts": 54,
-      "daysAgo": 26,
+      "daysAgo": 27,
       "ppw": 2,
       "memDays": 193,
       "streak": 2,
@@ -1807,7 +1818,7 @@
     {
       "name": "~ Fabio",
       "posts": 54,
-      "daysAgo": 25,
+      "daysAgo": 26,
       "ppw": 2.7,
       "memDays": 140,
       "streak": 3,
@@ -1818,7 +1829,7 @@
     {
       "name": "~ Gabriel Ostolaza",
       "posts": 54,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.3,
       "memDays": 115,
       "streak": 5,
@@ -1829,7 +1840,7 @@
     {
       "name": "~ Enno",
       "posts": 54,
-      "daysAgo": 22,
+      "daysAgo": 23,
       "ppw": 4.2,
       "memDays": 91,
       "streak": 4,
@@ -1838,20 +1849,9 @@
       "lastStr": "18.06.26"
     },
     {
-      "name": "~ Julius M.",
-      "posts": 54,
-      "daysAgo": 0,
-      "ppw": 3.9,
-      "memDays": 97,
-      "streak": 3,
-      "hasLeft": false,
-      "joinStr": "05.04.26",
-      "lastStr": "10.07.26"
-    },
-    {
       "name": "~ Zé Ferreira Martins",
       "posts": 53,
-      "daysAgo": 16,
+      "daysAgo": 17,
       "ppw": 2.3,
       "memDays": 162,
       "streak": 5,
@@ -1862,7 +1862,7 @@
     {
       "name": "~ Vincent",
       "posts": 53,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 2.5,
       "memDays": 150,
       "streak": 4,
@@ -1873,7 +1873,7 @@
     {
       "name": "~ Simeon🧜‍♂️",
       "posts": 53,
-      "daysAgo": 91,
+      "daysAgo": 92,
       "ppw": 2.7,
       "memDays": 136,
       "streak": 11,
@@ -1884,7 +1884,7 @@
     {
       "name": "~ Alexander",
       "posts": 53,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 4.8,
       "memDays": 77,
       "streak": 4,
@@ -1895,7 +1895,7 @@
     {
       "name": "~ António Pacheco",
       "posts": 53,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 9,
       "memDays": 41,
       "streak": 18,
@@ -1906,7 +1906,7 @@
     {
       "name": "~ M",
       "posts": 52,
-      "daysAgo": 37,
+      "daysAgo": 38,
       "ppw": 4.4,
       "memDays": 83,
       "streak": 3,
@@ -1917,7 +1917,7 @@
     {
       "name": "~ Daniel",
       "posts": 51,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 2.2,
       "memDays": 163,
       "streak": 3,
@@ -1928,7 +1928,7 @@
     {
       "name": "~ Gabriel",
       "posts": 51,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 2.3,
       "memDays": 155,
       "streak": 4,
@@ -1939,7 +1939,7 @@
     {
       "name": "~ Tristan",
       "posts": 51,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 8.9,
       "memDays": 40,
       "streak": 3,
@@ -1950,7 +1950,7 @@
     {
       "name": "~ charly",
       "posts": 51,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 2.6,
       "memDays": 137,
       "streak": 4,
@@ -1961,7 +1961,7 @@
     {
       "name": "~ Anton",
       "posts": 50,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 2.1,
       "memDays": 164,
       "streak": 4,
@@ -1972,7 +1972,7 @@
     {
       "name": "~ Johannes",
       "posts": 50,
-      "daysAgo": 4,
+      "daysAgo": 5,
       "ppw": 2.2,
       "memDays": 161,
       "streak": 4,
@@ -1983,7 +1983,7 @@
     {
       "name": "~ philipp",
       "posts": 50,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 2.5,
       "memDays": 138,
       "streak": 3,
@@ -1994,7 +1994,7 @@
     {
       "name": "~ Ricardo Santos Silva",
       "posts": 50,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 4.3,
       "memDays": 82,
       "streak": 2,
@@ -2005,7 +2005,7 @@
     {
       "name": "~ Justin",
       "posts": 49,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 2.1,
       "memDays": 163,
       "streak": 3,
@@ -2016,7 +2016,7 @@
     {
       "name": "~ tom",
       "posts": 49,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.5,
       "memDays": 98,
       "streak": 2,
@@ -2027,7 +2027,7 @@
     {
       "name": "~ Pedro",
       "posts": 49,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 3.5,
       "memDays": 98,
       "streak": 5,
@@ -2038,7 +2038,7 @@
     {
       "name": "~ Höfi",
       "posts": 48,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 2.4,
       "memDays": 140,
       "streak": 4,
@@ -2049,7 +2049,7 @@
     {
       "name": "~ Gianluca",
       "posts": 47,
-      "daysAgo": 14,
+      "daysAgo": 15,
       "ppw": 1.9,
       "memDays": 175,
       "streak": 3,
@@ -2060,7 +2060,7 @@
     {
       "name": "~ Luca Schikowski",
       "posts": 47,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.1,
       "memDays": 107,
       "streak": 8,
@@ -2071,7 +2071,7 @@
     {
       "name": "~ hanna",
       "posts": 46,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 2.2,
       "memDays": 147,
       "streak": 8,
@@ -2082,7 +2082,7 @@
     {
       "name": "~ Maxi+",
       "posts": 46,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 3,
       "memDays": 108,
       "streak": 3,
@@ -2093,7 +2093,7 @@
     {
       "name": "~ Amma🔨",
       "posts": 46,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 3.4,
       "memDays": 95,
       "streak": 4,
@@ -2104,7 +2104,7 @@
     {
       "name": "~ Schwanni",
       "posts": 46,
-      "daysAgo": 4,
+      "daysAgo": 5,
       "ppw": 4.2,
       "memDays": 77,
       "streak": 5,
@@ -2115,7 +2115,7 @@
     {
       "name": "~ Shayan Rashgin",
       "posts": 46,
-      "daysAgo": 11,
+      "daysAgo": 12,
       "ppw": 4.5,
       "memDays": 71,
       "streak": 4,
@@ -2126,7 +2126,7 @@
     {
       "name": "~ Yannick",
       "posts": 45,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.1,
       "memDays": 150,
       "streak": 3,
@@ -2137,7 +2137,7 @@
     {
       "name": "~ Schmelle Melle🤘🏻",
       "posts": 45,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 4,
       "memDays": 78,
       "streak": 3,
@@ -2148,7 +2148,7 @@
     {
       "name": "~ Laurens",
       "posts": 45,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 19.7,
       "memDays": 16,
       "streak": 4,
@@ -2159,7 +2159,7 @@
     {
       "name": "~ Erin",
       "posts": 44,
-      "daysAgo": 56,
+      "daysAgo": 57,
       "ppw": 3.5,
       "memDays": 87,
       "streak": 5,
@@ -2170,7 +2170,7 @@
     {
       "name": "~ Leon H.",
       "posts": 44,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 4.9,
       "memDays": 63,
       "streak": 6,
@@ -2181,7 +2181,7 @@
     {
       "name": "~ Heiner Westerkamp",
       "posts": 43,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 2,
       "memDays": 151,
       "streak": 3,
@@ -2192,7 +2192,7 @@
     {
       "name": "~ Tobias",
       "posts": 43,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 2,
       "memDays": 147,
       "streak": 3,
@@ -2203,7 +2203,7 @@
     {
       "name": "~ Flavio",
       "posts": 43,
-      "daysAgo": 118,
+      "daysAgo": 119,
       "ppw": 2,
       "memDays": 147,
       "streak": 2,
@@ -2214,7 +2214,7 @@
     {
       "name": "~ Luca T",
       "posts": 43,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 3.1,
       "memDays": 97,
       "streak": 3,
@@ -2225,7 +2225,7 @@
     {
       "name": "~ walter",
       "posts": 43,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 3.2,
       "memDays": 94,
       "streak": 3,
@@ -2236,7 +2236,7 @@
     {
       "name": "~ Jannis",
       "posts": 43,
-      "daysAgo": 12,
+      "daysAgo": 13,
       "ppw": 3.3,
       "memDays": 91,
       "streak": 3,
@@ -2247,7 +2247,7 @@
     {
       "name": "~ Johann",
       "posts": 42,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 2,
       "memDays": 150,
       "streak": 5,
@@ -2258,7 +2258,7 @@
     {
       "name": "~ Franz Bird 🕊️",
       "posts": 42,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2,
       "memDays": 150,
       "streak": 2,
@@ -2269,7 +2269,7 @@
     {
       "name": "~ Mirco",
       "posts": 42,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 2.8,
       "memDays": 105,
       "streak": 4,
@@ -2278,9 +2278,31 @@
       "lastStr": "03.07.26"
     },
     {
+      "name": "~ Bruno",
+      "posts": 42,
+      "daysAgo": 1,
+      "ppw": 3,
+      "memDays": 98,
+      "streak": 3,
+      "hasLeft": false,
+      "joinStr": "04.04.26",
+      "lastStr": "10.07.26"
+    },
+    {
+      "name": "~ Lourenço Ferreira",
+      "posts": 42,
+      "daysAgo": 0,
+      "ppw": 5.3,
+      "memDays": 55,
+      "streak": 3,
+      "hasLeft": false,
+      "joinStr": "17.05.26",
+      "lastStr": "11.07.26"
+    },
+    {
       "name": "~ Luca Hoehl",
       "posts": 42,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 7.9,
       "memDays": 37,
       "streak": 3,
@@ -2289,20 +2311,9 @@
       "lastStr": "04.07.26"
     },
     {
-      "name": "~ Bruno",
-      "posts": 41,
-      "daysAgo": 0,
-      "ppw": 2.9,
-      "memDays": 98,
-      "streak": 3,
-      "hasLeft": false,
-      "joinStr": "04.04.26",
-      "lastStr": "10.07.26"
-    },
-    {
       "name": "~ Tobi  Weidling",
       "posts": 41,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.2,
       "memDays": 91,
       "streak": 2,
@@ -2313,7 +2324,7 @@
     {
       "name": "~ Jannis Malle",
       "posts": 41,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 4.3,
       "memDays": 67,
       "streak": 3,
@@ -2324,7 +2335,7 @@
     {
       "name": "~ Nick",
       "posts": 41,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 5.1,
       "memDays": 56,
       "streak": 5,
@@ -2333,20 +2344,9 @@
       "lastStr": "07.07.26"
     },
     {
-      "name": "~ Lourenço Ferreira",
-      "posts": 41,
-      "daysAgo": 20,
-      "ppw": 5.2,
-      "memDays": 55,
-      "streak": 3,
-      "hasLeft": false,
-      "joinStr": "17.05.26",
-      "lastStr": "20.06.26"
-    },
-    {
       "name": "~ Hynek Tikal",
       "posts": 41,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 6.1,
       "memDays": 47,
       "streak": 5,
@@ -2357,7 +2357,7 @@
     {
       "name": "~ Karl",
       "posts": 40,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 1.7,
       "memDays": 163,
       "streak": 3,
@@ -2368,7 +2368,7 @@
     {
       "name": "~ Robby",
       "posts": 40,
-      "daysAgo": 96,
+      "daysAgo": 97,
       "ppw": 2,
       "memDays": 140,
       "streak": 4,
@@ -2379,7 +2379,7 @@
     {
       "name": "~ Jacob",
       "posts": 40,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 2.8,
       "memDays": 99,
       "streak": 3,
@@ -2390,7 +2390,7 @@
     {
       "name": "~ Salvador Mendes",
       "posts": 40,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 6.8,
       "memDays": 41,
       "streak": 5,
@@ -2401,7 +2401,7 @@
     {
       "name": "~ Dennis",
       "posts": 39,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2,
       "memDays": 140,
       "streak": 3,
@@ -2412,7 +2412,7 @@
     {
       "name": "~ Donald Kirste",
       "posts": 39,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 4.9,
       "memDays": 56,
       "streak": 3,
@@ -2423,7 +2423,7 @@
     {
       "name": "~ Maximilian",
       "posts": 39,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 9.4,
       "memDays": 29,
       "streak": 9,
@@ -2434,7 +2434,7 @@
     {
       "name": "Luca Grossmann",
       "posts": 38,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 1.4,
       "memDays": 193,
       "streak": 3,
@@ -2445,7 +2445,7 @@
     {
       "name": "~ Henry",
       "posts": 38,
-      "daysAgo": 9,
+      "daysAgo": 10,
       "ppw": 1.8,
       "memDays": 149,
       "streak": 2,
@@ -2456,7 +2456,7 @@
     {
       "name": "~ Olli",
       "posts": 38,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.9,
       "memDays": 140,
       "streak": 3,
@@ -2467,7 +2467,7 @@
     {
       "name": "~ Pauline",
       "posts": 38,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 2.3,
       "memDays": 114,
       "streak": 2,
@@ -2478,7 +2478,7 @@
     {
       "name": "~ Mats",
       "posts": 38,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.9,
       "memDays": 93,
       "streak": 3,
@@ -2489,7 +2489,7 @@
     {
       "name": "~ Mo G 🍻",
       "posts": 37,
-      "daysAgo": 16,
+      "daysAgo": 17,
       "ppw": 3.1,
       "memDays": 83,
       "streak": 3,
@@ -2500,7 +2500,7 @@
     {
       "name": "~ Zoë",
       "posts": 37,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.3,
       "memDays": 78,
       "streak": 4,
@@ -2511,7 +2511,7 @@
     {
       "name": "~ Rik Van de Moortel",
       "posts": 36,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 2.3,
       "memDays": 111,
       "streak": 4,
@@ -2522,7 +2522,7 @@
     {
       "name": "~ Ansgar Kleine",
       "posts": 36,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.5,
       "memDays": 101,
       "streak": 3,
@@ -2533,7 +2533,7 @@
     {
       "name": "~ Stefan",
       "posts": 36,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3,
       "memDays": 84,
       "streak": 3,
@@ -2544,7 +2544,7 @@
     {
       "name": "~ Guilherme Fontoura",
       "posts": 36,
-      "daysAgo": 12,
+      "daysAgo": 13,
       "ppw": 5.1,
       "memDays": 49,
       "streak": 7,
@@ -2555,7 +2555,7 @@
     {
       "name": "~ Annika",
       "posts": 36,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.5,
       "memDays": 71,
       "streak": 5,
@@ -2566,7 +2566,7 @@
     {
       "name": "~ Knut Ole Tim",
       "posts": 35,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.5,
       "memDays": 162,
       "streak": 3,
@@ -2577,7 +2577,7 @@
     {
       "name": "~ Dennis S.",
       "posts": 35,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 1.7,
       "memDays": 147,
       "streak": 2,
@@ -2588,7 +2588,7 @@
     {
       "name": "~ Chris",
       "posts": 35,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 1.7,
       "memDays": 147,
       "streak": 3,
@@ -2599,7 +2599,7 @@
     {
       "name": "~ Anski",
       "posts": 35,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 2.5,
       "memDays": 98,
       "streak": 4,
@@ -2610,7 +2610,7 @@
     {
       "name": "~ Rödi",
       "posts": 34,
-      "daysAgo": 132,
+      "daysAgo": 133,
       "ppw": 1.5,
       "memDays": 162,
       "streak": 4,
@@ -2621,7 +2621,7 @@
     {
       "name": "~ Ibon Aranbarri",
       "posts": 34,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 1.6,
       "memDays": 147,
       "streak": 3,
@@ -2632,7 +2632,7 @@
     {
       "name": "~ Dome",
       "posts": 34,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.4,
       "memDays": 100,
       "streak": 4,
@@ -2643,7 +2643,7 @@
     {
       "name": "~ Philipp Bamberger",
       "posts": 34,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 2.8,
       "memDays": 84,
       "streak": 3,
@@ -2654,7 +2654,7 @@
     {
       "name": "~ luis",
       "posts": 34,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 2.8,
       "memDays": 85,
       "streak": 2,
@@ -2665,7 +2665,7 @@
     {
       "name": "~ Mo",
       "posts": 33,
-      "daysAgo": 29,
+      "daysAgo": 30,
       "ppw": 1.5,
       "memDays": 150,
       "streak": 3,
@@ -2676,7 +2676,7 @@
     {
       "name": "~ Devran",
       "posts": 33,
-      "daysAgo": 40,
+      "daysAgo": 41,
       "ppw": 2.2,
       "memDays": 106,
       "streak": 3,
@@ -2687,7 +2687,7 @@
     {
       "name": "~ jones",
       "posts": 33,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 2.7,
       "memDays": 87,
       "streak": 5,
@@ -2698,7 +2698,7 @@
     {
       "name": "~ Yannik",
       "posts": 32,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 1.4,
       "memDays": 155,
       "streak": 3,
@@ -2709,7 +2709,7 @@
     {
       "name": "~ Oli",
       "posts": 32,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 1.8,
       "memDays": 127,
       "streak": 4,
@@ -2720,7 +2720,7 @@
     {
       "name": "~ Dario",
       "posts": 32,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.9,
       "memDays": 120,
       "streak": 4,
@@ -2731,7 +2731,7 @@
     {
       "name": "~ Antoine",
       "posts": 32,
-      "daysAgo": 24,
+      "daysAgo": 25,
       "ppw": 2.9,
       "memDays": 78,
       "streak": 3,
@@ -2742,7 +2742,7 @@
     {
       "name": "~ Johannes Mahl",
       "posts": 32,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.5,
       "memDays": 41,
       "streak": 3,
@@ -2753,7 +2753,7 @@
     {
       "name": "~ Michael Dahmen",
       "posts": 32,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 7.5,
       "memDays": 30,
       "streak": 3,
@@ -2764,7 +2764,7 @@
     {
       "name": "~ Mika Bädorf",
       "posts": 32,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 7.7,
       "memDays": 29,
       "streak": 2,
@@ -2775,7 +2775,7 @@
     {
       "name": "~ Carsten",
       "posts": 32,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 10.7,
       "memDays": 21,
       "streak": 5,
@@ -2786,7 +2786,7 @@
     {
       "name": "Björn",
       "posts": 31,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 1.3,
       "memDays": 163,
       "streak": 2,
@@ -2797,7 +2797,7 @@
     {
       "name": "~ Denis",
       "posts": 31,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.5,
       "memDays": 149,
       "streak": 2,
@@ -2808,7 +2808,7 @@
     {
       "name": "~ Cosimo Hunt",
       "posts": 31,
-      "daysAgo": 36,
+      "daysAgo": 37,
       "ppw": 1.8,
       "memDays": 123,
       "streak": 3,
@@ -2819,7 +2819,7 @@
     {
       "name": "~ Gontschi",
       "posts": 31,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.9,
       "memDays": 113,
       "streak": 3,
@@ -2830,7 +2830,7 @@
     {
       "name": "~ Lola",
       "posts": 31,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 2.4,
       "memDays": 91,
       "streak": 6,
@@ -2841,7 +2841,7 @@
     {
       "name": "~ Max Ulrich",
       "posts": 31,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 3.9,
       "memDays": 56,
       "streak": 4,
@@ -2850,9 +2850,20 @@
       "lastStr": "27.06.26"
     },
     {
+      "name": "~ Manuel Aurora",
+      "posts": 31,
+      "daysAgo": 0,
+      "ppw": 5.4,
+      "memDays": 40,
+      "streak": 4,
+      "hasLeft": false,
+      "joinStr": "01.06.26",
+      "lastStr": "11.07.26"
+    },
+    {
       "name": "~ Lars Rossel",
       "posts": 30,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 1.4,
       "memDays": 147,
       "streak": 4,
@@ -2863,7 +2874,7 @@
     {
       "name": "~ Eric",
       "posts": 30,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 1.6,
       "memDays": 135,
       "streak": 3,
@@ -2874,7 +2885,7 @@
     {
       "name": "~ Dario Schmid",
       "posts": 30,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 1.9,
       "memDays": 112,
       "streak": 2,
@@ -2885,7 +2896,7 @@
     {
       "name": "~ Fion",
       "posts": 30,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.3,
       "memDays": 92,
       "streak": 3,
@@ -2896,7 +2907,7 @@
     {
       "name": "~ Elisa Fontanella",
       "posts": 30,
-      "daysAgo": 23,
+      "daysAgo": 24,
       "ppw": 2.9,
       "memDays": 72,
       "streak": 2,
@@ -2907,7 +2918,7 @@
     {
       "name": "~ ni🥤🥤",
       "posts": 30,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 3.7,
       "memDays": 57,
       "streak": 3,
@@ -2918,7 +2929,7 @@
     {
       "name": "Tim Kolster",
       "posts": 29,
-      "daysAgo": 95,
+      "daysAgo": 96,
       "ppw": 1.4,
       "memDays": 148,
       "streak": 3,
@@ -2929,7 +2940,7 @@
     {
       "name": "~ Leon",
       "posts": 29,
-      "daysAgo": 11,
+      "daysAgo": 12,
       "ppw": 1.4,
       "memDays": 147,
       "streak": 2,
@@ -2940,7 +2951,7 @@
     {
       "name": "~ Antje Fischer",
       "posts": 29,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.8,
       "memDays": 112,
       "streak": 3,
@@ -2951,7 +2962,7 @@
     {
       "name": "~ Sebastian",
       "posts": 29,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2,
       "memDays": 100,
       "streak": 5,
@@ -2962,7 +2973,7 @@
     {
       "name": "~ Milan",
       "posts": 29,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.3,
       "memDays": 90,
       "streak": 2,
@@ -2973,7 +2984,7 @@
     {
       "name": "~ Manuel Barreto",
       "posts": 29,
-      "daysAgo": 40,
+      "daysAgo": 41,
       "ppw": 3.6,
       "memDays": 57,
       "streak": 5,
@@ -2984,7 +2995,7 @@
     {
       "name": "~ Sebastião Maria Condado",
       "posts": 29,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 3.6,
       "memDays": 57,
       "streak": 6,
@@ -2995,7 +3006,7 @@
     {
       "name": "~ Stephan May",
       "posts": 29,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 4.1,
       "memDays": 50,
       "streak": 9,
@@ -3004,20 +3015,9 @@
       "lastStr": "20.06.26"
     },
     {
-      "name": "~ Manuel Aurora",
-      "posts": 29,
-      "daysAgo": 1,
-      "ppw": 5.1,
-      "memDays": 40,
-      "streak": 4,
-      "hasLeft": false,
-      "joinStr": "01.06.26",
-      "lastStr": "09.07.26"
-    },
-    {
       "name": "~ Robert",
       "posts": 29,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 5.3,
       "memDays": 38,
       "streak": 4,
@@ -3028,7 +3028,7 @@
     {
       "name": "~ Frankie",
       "posts": 29,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 6.3,
       "memDays": 32,
       "streak": 6,
@@ -3039,7 +3039,7 @@
     {
       "name": "~ Dominik Zelger",
       "posts": 28,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 1.5,
       "memDays": 129,
       "streak": 4,
@@ -3050,7 +3050,7 @@
     {
       "name": "~ Robert Lehmann",
       "posts": 28,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.2,
       "memDays": 91,
       "streak": 3,
@@ -3061,7 +3061,7 @@
     {
       "name": "~ Sandro",
       "posts": 27,
-      "daysAgo": 12,
+      "daysAgo": 13,
       "ppw": 2.2,
       "memDays": 85,
       "streak": 3,
@@ -3072,7 +3072,7 @@
     {
       "name": "~ Caspar",
       "posts": 27,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 2.1,
       "memDays": 92,
       "streak": 4,
@@ -3083,7 +3083,7 @@
     {
       "name": "~ Antonio Pinto Basto",
       "posts": 27,
-      "daysAgo": 17,
+      "daysAgo": 18,
       "ppw": 3.5,
       "memDays": 54,
       "streak": 2,
@@ -3094,7 +3094,7 @@
     {
       "name": "~ Jules",
       "posts": 27,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.7,
       "memDays": 109,
       "streak": 8,
@@ -3105,7 +3105,7 @@
     {
       "name": "~ Julez",
       "posts": 27,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 9.5,
       "memDays": 20,
       "streak": 5,
@@ -3116,7 +3116,7 @@
     {
       "name": "~ Mike",
       "posts": 26,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 1.3,
       "memDays": 140,
       "streak": 2,
@@ -3127,7 +3127,7 @@
     {
       "name": "~ Julian H.",
       "posts": 26,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.5,
       "memDays": 120,
       "streak": 3,
@@ -3138,7 +3138,7 @@
     {
       "name": "~ Jimmy",
       "posts": 26,
-      "daysAgo": 22,
+      "daysAgo": 23,
       "ppw": 1.5,
       "memDays": 121,
       "streak": 3,
@@ -3149,7 +3149,7 @@
     {
       "name": "~ kilian",
       "posts": 26,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 1.9,
       "memDays": 95,
       "streak": 4,
@@ -3160,7 +3160,7 @@
     {
       "name": "~ Paloma 💖",
       "posts": 26,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.6,
       "memDays": 71,
       "streak": 4,
@@ -3171,7 +3171,7 @@
     {
       "name": "~ Lionel",
       "posts": 26,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 4.7,
       "memDays": 39,
       "streak": 1,
@@ -3182,7 +3182,7 @@
     {
       "name": "~ benjamin",
       "posts": 25,
-      "daysAgo": 146,
+      "daysAgo": 147,
       "ppw": 1.1,
       "memDays": 161,
       "streak": 2,
@@ -3193,7 +3193,7 @@
     {
       "name": "~ João Frazão",
       "posts": 25,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 1.1,
       "memDays": 154,
       "streak": 2,
@@ -3204,7 +3204,7 @@
     {
       "name": "~ Marc",
       "posts": 25,
-      "daysAgo": 4,
+      "daysAgo": 5,
       "ppw": 1.4,
       "memDays": 127,
       "streak": 4,
@@ -3215,7 +3215,7 @@
     {
       "name": "~ Ruben",
       "posts": 25,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2,
       "memDays": 89,
       "streak": 2,
@@ -3226,7 +3226,7 @@
     {
       "name": "~ Rodrigo Neves",
       "posts": 25,
-      "daysAgo": 4,
+      "daysAgo": 5,
       "ppw": 4.2,
       "memDays": 42,
       "streak": 2,
@@ -3237,7 +3237,7 @@
     {
       "name": "~ Lukas (YOINK)",
       "posts": 25,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 5,
       "memDays": 35,
       "streak": 4,
@@ -3248,7 +3248,7 @@
     {
       "name": "Alex Judith",
       "posts": 24,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.9,
       "memDays": 193,
       "streak": 2,
@@ -3257,9 +3257,20 @@
       "lastStr": "13.06.26"
     },
     {
-      "name": "~ Levi",
+      "name": "~ Francisco Mascarenhas",
       "posts": 24,
       "daysAgo": 1,
+      "ppw": 1.7,
+      "memDays": 98,
+      "streak": 3,
+      "hasLeft": false,
+      "joinStr": "04.04.26",
+      "lastStr": "10.07.26"
+    },
+    {
+      "name": "~ Levi",
+      "posts": 24,
+      "daysAgo": 2,
       "ppw": 2.1,
       "memDays": 80,
       "streak": 2,
@@ -3270,7 +3281,7 @@
     {
       "name": "~ Lukas S",
       "posts": 24,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.7,
       "memDays": 63,
       "streak": 2,
@@ -3281,7 +3292,7 @@
     {
       "name": "~ Vasco Amaral",
       "posts": 24,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 3.5,
       "memDays": 48,
       "streak": 3,
@@ -3292,7 +3303,7 @@
     {
       "name": "~ Luca Beuth",
       "posts": 23,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.1,
       "memDays": 147,
       "streak": 3,
@@ -3303,7 +3314,7 @@
     {
       "name": "~ Manuel",
       "posts": 23,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 1.5,
       "memDays": 107,
       "streak": 3,
@@ -3314,7 +3325,7 @@
     {
       "name": "~ Joschka",
       "posts": 23,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 1.6,
       "memDays": 99,
       "streak": 2,
@@ -3323,20 +3334,9 @@
       "lastStr": "08.07.26"
     },
     {
-      "name": "~ Francisco Mascarenhas",
-      "posts": 23,
-      "daysAgo": 6,
-      "ppw": 1.6,
-      "memDays": 98,
-      "streak": 3,
-      "hasLeft": false,
-      "joinStr": "04.04.26",
-      "lastStr": "04.07.26"
-    },
-    {
       "name": "~ Henri",
       "posts": 23,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 1.6,
       "memDays": 98,
       "streak": 2,
@@ -3347,7 +3347,7 @@
     {
       "name": "~ Velene",
       "posts": 23,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.9,
       "memDays": 85,
       "streak": 3,
@@ -3358,7 +3358,7 @@
     {
       "name": "~ Bodo",
       "posts": 23,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.1,
       "memDays": 77,
       "streak": 4,
@@ -3369,7 +3369,7 @@
     {
       "name": "~ Jnrur",
       "posts": 23,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 3.2,
       "memDays": 50,
       "streak": 3,
@@ -3380,7 +3380,7 @@
     {
       "name": "~ Joachim Hinz",
       "posts": 23,
-      "daysAgo": 33,
+      "daysAgo": 34,
       "ppw": 3.2,
       "memDays": 50,
       "streak": 2,
@@ -3391,7 +3391,7 @@
     {
       "name": "~ Yannick  Moukala",
       "posts": 22,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 1,
       "memDays": 153,
       "streak": 2,
@@ -3402,7 +3402,7 @@
     {
       "name": "~ Marvin",
       "posts": 22,
-      "daysAgo": 63,
+      "daysAgo": 64,
       "ppw": 1,
       "memDays": 151,
       "streak": 2,
@@ -3413,7 +3413,7 @@
     {
       "name": "~ Julia",
       "posts": 22,
-      "daysAgo": 96,
+      "daysAgo": 97,
       "ppw": 1,
       "memDays": 150,
       "streak": 5,
@@ -3422,9 +3422,20 @@
       "lastStr": "05.04.26"
     },
     {
+      "name": "~ älex",
+      "posts": 22,
+      "daysAgo": 0,
+      "ppw": 1,
+      "memDays": 149,
+      "streak": 3,
+      "hasLeft": false,
+      "joinStr": "12.02.26",
+      "lastStr": "11.07.26"
+    },
+    {
       "name": "~ Elias",
       "posts": 22,
-      "daysAgo": 28,
+      "daysAgo": 29,
       "ppw": 1.5,
       "memDays": 102,
       "streak": 2,
@@ -3435,7 +3446,7 @@
     {
       "name": "~ Jorge Dias",
       "posts": 22,
-      "daysAgo": 16,
+      "daysAgo": 17,
       "ppw": 1.7,
       "memDays": 92,
       "streak": 3,
@@ -3446,7 +3457,7 @@
     {
       "name": "~ Seb",
       "posts": 22,
-      "daysAgo": 40,
+      "daysAgo": 41,
       "ppw": 1.8,
       "memDays": 86,
       "streak": 3,
@@ -3457,7 +3468,7 @@
     {
       "name": "~ Luca 🍻🍺🥃",
       "posts": 22,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 1.8,
       "memDays": 84,
       "streak": 3,
@@ -3468,7 +3479,7 @@
     {
       "name": "~ Diego",
       "posts": 22,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.1,
       "memDays": 75,
       "streak": 4,
@@ -3479,7 +3490,7 @@
     {
       "name": "~ Luke🇩🇪🦅",
       "posts": 22,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 3,
       "memDays": 52,
       "streak": 3,
@@ -3490,7 +3501,7 @@
     {
       "name": "~ Arian",
       "posts": 21,
-      "daysAgo": 95,
+      "daysAgo": 96,
       "ppw": 0.9,
       "memDays": 163,
       "streak": 2,
@@ -3499,20 +3510,9 @@
       "lastStr": "06.04.26"
     },
     {
-      "name": "~ älex",
-      "posts": 21,
-      "daysAgo": 56,
-      "ppw": 1,
-      "memDays": 149,
-      "streak": 3,
-      "hasLeft": false,
-      "joinStr": "12.02.26",
-      "lastStr": "15.05.26"
-    },
-    {
       "name": "~ Jakob",
       "posts": 21,
-      "daysAgo": 11,
+      "daysAgo": 12,
       "ppw": 0.9,
       "memDays": 155,
       "streak": 2,
@@ -3523,7 +3523,7 @@
     {
       "name": "~ Stanislas",
       "posts": 21,
-      "daysAgo": 89,
+      "daysAgo": 90,
       "ppw": 1,
       "memDays": 146,
       "streak": 4,
@@ -3534,7 +3534,7 @@
     {
       "name": "~ luisa",
       "posts": 21,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 1.1,
       "memDays": 129,
       "streak": 2,
@@ -3545,7 +3545,7 @@
     {
       "name": "~ Basti",
       "posts": 21,
-      "daysAgo": 31,
+      "daysAgo": 32,
       "ppw": 1.3,
       "memDays": 115,
       "streak": 3,
@@ -3556,7 +3556,7 @@
     {
       "name": "~ Tjan Meinecke",
       "posts": 21,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 1.4,
       "memDays": 107,
       "streak": 2,
@@ -3567,7 +3567,7 @@
     {
       "name": "~ Markus Petersen",
       "posts": 21,
-      "daysAgo": 17,
+      "daysAgo": 18,
       "ppw": 1.5,
       "memDays": 99,
       "streak": 3,
@@ -3578,7 +3578,7 @@
     {
       "name": "~ Caro",
       "posts": 21,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 1.5,
       "memDays": 97,
       "streak": 2,
@@ -3589,7 +3589,7 @@
     {
       "name": "~ Kev",
       "posts": 21,
-      "daysAgo": 62,
+      "daysAgo": 63,
       "ppw": 1.5,
       "memDays": 95,
       "streak": 2,
@@ -3600,7 +3600,7 @@
     {
       "name": "~ Freddy",
       "posts": 21,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 1.6,
       "memDays": 92,
       "streak": 2,
@@ -3611,7 +3611,7 @@
     {
       "name": "~ Konrad",
       "posts": 21,
-      "daysAgo": 12,
+      "daysAgo": 13,
       "ppw": 1.6,
       "memDays": 91,
       "streak": 2,
@@ -3622,7 +3622,7 @@
     {
       "name": "~ t.alex",
       "posts": 21,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 2.1,
       "memDays": 70,
       "streak": 2,
@@ -3633,7 +3633,7 @@
     {
       "name": "~ Maximilian Schäfer",
       "posts": 21,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.6,
       "memDays": 57,
       "streak": 4,
@@ -3644,7 +3644,7 @@
     {
       "name": "~ Valle",
       "posts": 21,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 5.9,
       "memDays": 25,
       "streak": 3,
@@ -3653,9 +3653,20 @@
       "lastStr": "05.07.26"
     },
     {
+      "name": "~ Ferdi",
+      "posts": 21,
+      "daysAgo": 1,
+      "ppw": 6.1,
+      "memDays": 24,
+      "streak": 4,
+      "hasLeft": false,
+      "joinStr": "17.06.26",
+      "lastStr": "10.07.26"
+    },
+    {
       "name": "~ Philipp Werth",
       "posts": 21,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 7.7,
       "memDays": 19,
       "streak": 4,
@@ -3666,7 +3677,7 @@
     {
       "name": "~ Tim S.",
       "posts": 20,
-      "daysAgo": 58,
+      "daysAgo": 59,
       "ppw": 0.9,
       "memDays": 148,
       "streak": 2,
@@ -3677,7 +3688,7 @@
     {
       "name": "~ HB",
       "posts": 20,
-      "daysAgo": 70,
+      "daysAgo": 71,
       "ppw": 0.9,
       "memDays": 148,
       "streak": 2,
@@ -3688,7 +3699,7 @@
     {
       "name": "~ CP",
       "posts": 20,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 1.4,
       "memDays": 100,
       "streak": 2,
@@ -3699,7 +3710,7 @@
     {
       "name": "~ André",
       "posts": 20,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.4,
       "memDays": 100,
       "streak": 3,
@@ -3710,7 +3721,7 @@
     {
       "name": "~ Marius",
       "posts": 20,
-      "daysAgo": 12,
+      "daysAgo": 13,
       "ppw": 1.4,
       "memDays": 99,
       "streak": 2,
@@ -3721,7 +3732,7 @@
     {
       "name": "~ Yannilu",
       "posts": 20,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 1.5,
       "memDays": 94,
       "streak": 7,
@@ -3732,7 +3743,7 @@
     {
       "name": "~ Alex R***",
       "posts": 20,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.4,
       "memDays": 99,
       "streak": 4,
@@ -3743,7 +3754,7 @@
     {
       "name": "~ Bibi💕✨",
       "posts": 20,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 2.4,
       "memDays": 59,
       "streak": 2,
@@ -3752,20 +3763,9 @@
       "lastStr": "03.07.26"
     },
     {
-      "name": "~ Ferdi",
-      "posts": 20,
-      "daysAgo": 0,
-      "ppw": 5.8,
-      "memDays": 24,
-      "streak": 4,
-      "hasLeft": false,
-      "joinStr": "17.06.26",
-      "lastStr": "10.07.26"
-    },
-    {
       "name": "~ Donski",
       "posts": 20,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 9.3,
       "memDays": 15,
       "streak": 3,
@@ -3776,7 +3776,7 @@
     {
       "name": "~ teo",
       "posts": 19,
-      "daysAgo": 22,
+      "daysAgo": 23,
       "ppw": 0.8,
       "memDays": 163,
       "streak": 2,
@@ -3787,7 +3787,7 @@
     {
       "name": "~ Diogo Mata",
       "posts": 19,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 0.9,
       "memDays": 154,
       "streak": 2,
@@ -3798,7 +3798,7 @@
     {
       "name": "~ Linus",
       "posts": 19,
-      "daysAgo": 29,
+      "daysAgo": 30,
       "ppw": 1,
       "memDays": 134,
       "streak": 3,
@@ -3809,7 +3809,7 @@
     {
       "name": "~ Emma",
       "posts": 19,
-      "daysAgo": 95,
+      "daysAgo": 96,
       "ppw": 1.1,
       "memDays": 116,
       "streak": 5,
@@ -3820,7 +3820,7 @@
     {
       "name": "~ Karla",
       "posts": 18,
-      "daysAgo": 83,
+      "daysAgo": 84,
       "ppw": 0.8,
       "memDays": 163,
       "streak": 1,
@@ -3831,7 +3831,7 @@
     {
       "name": "Lotte",
       "posts": 18,
-      "daysAgo": 85,
+      "daysAgo": 86,
       "ppw": 0.8,
       "memDays": 157,
       "streak": 2,
@@ -3842,7 +3842,7 @@
     {
       "name": "~ Laurenz",
       "posts": 18,
-      "daysAgo": 64,
+      "daysAgo": 65,
       "ppw": 0.8,
       "memDays": 150,
       "streak": 3,
@@ -3853,7 +3853,7 @@
     {
       "name": "~ Deuster Simon",
       "posts": 18,
-      "daysAgo": 15,
+      "daysAgo": 16,
       "ppw": 1,
       "memDays": 126,
       "streak": 3,
@@ -3864,7 +3864,7 @@
     {
       "name": "~ Feli de la Cruz",
       "posts": 18,
-      "daysAgo": 18,
+      "daysAgo": 19,
       "ppw": 1,
       "memDays": 125,
       "streak": 2,
@@ -3875,7 +3875,7 @@
     {
       "name": "~ Gereon",
       "posts": 18,
-      "daysAgo": 26,
+      "daysAgo": 27,
       "ppw": 1.2,
       "memDays": 104,
       "streak": 3,
@@ -3886,7 +3886,7 @@
     {
       "name": "~ Jonas P.",
       "posts": 18,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.3,
       "memDays": 56,
       "streak": 3,
@@ -3897,7 +3897,7 @@
     {
       "name": "~ Clarita",
       "posts": 17,
-      "daysAgo": 121,
+      "daysAgo": 122,
       "ppw": 0.8,
       "memDays": 152,
       "streak": 2,
@@ -3908,7 +3908,7 @@
     {
       "name": "~ Jim",
       "posts": 17,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.8,
       "memDays": 153,
       "streak": 2,
@@ -3919,7 +3919,7 @@
     {
       "name": "~ Kjell",
       "posts": 17,
-      "daysAgo": 97,
+      "daysAgo": 98,
       "ppw": 0.8,
       "memDays": 147,
       "streak": 7,
@@ -3930,7 +3930,7 @@
     {
       "name": "~ Marina 🐦‍🔥",
       "posts": 17,
-      "daysAgo": 43,
+      "daysAgo": 44,
       "ppw": 0.8,
       "memDays": 146,
       "streak": 2,
@@ -3941,7 +3941,7 @@
     {
       "name": "~ Schorschi",
       "posts": 17,
-      "daysAgo": 58,
+      "daysAgo": 59,
       "ppw": 1,
       "memDays": 120,
       "streak": 1,
@@ -3952,7 +3952,7 @@
     {
       "name": "~ Niklas S.",
       "posts": 17,
-      "daysAgo": 69,
+      "daysAgo": 70,
       "ppw": 1.5,
       "memDays": 77,
       "streak": 2,
@@ -3963,7 +3963,7 @@
     {
       "name": "~ Matthias Roßkopf",
       "posts": 17,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 1.5,
       "memDays": 77,
       "streak": 2,
@@ -3974,7 +3974,7 @@
     {
       "name": "~ Diogo Dorey Rodrigues",
       "posts": 17,
-      "daysAgo": 22,
+      "daysAgo": 23,
       "ppw": 2.1,
       "memDays": 57,
       "streak": 2,
@@ -3985,7 +3985,7 @@
     {
       "name": "~ Diogo Neves",
       "posts": 17,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 2.1,
       "memDays": 56,
       "streak": 2,
@@ -3996,7 +3996,7 @@
     {
       "name": "~ Emilia",
       "posts": 17,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 4.8,
       "memDays": 25,
       "streak": 2,
@@ -4007,7 +4007,7 @@
     {
       "name": "~ Angelina",
       "posts": 17,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 5.4,
       "memDays": 22,
       "streak": 3,
@@ -4018,7 +4018,7 @@
     {
       "name": "~ Björn",
       "posts": 17,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 59.5,
       "memDays": 2,
       "streak": 2,
@@ -4029,7 +4029,7 @@
     {
       "name": "~ Tommy",
       "posts": 16,
-      "daysAgo": 78,
+      "daysAgo": 79,
       "ppw": 0.7,
       "memDays": 163,
       "streak": 2,
@@ -4040,7 +4040,7 @@
     {
       "name": "~ Wim",
       "posts": 16,
-      "daysAgo": 64,
+      "daysAgo": 65,
       "ppw": 0.7,
       "memDays": 155,
       "streak": 2,
@@ -4051,7 +4051,7 @@
     {
       "name": "~ Mika",
       "posts": 16,
-      "daysAgo": 96,
+      "daysAgo": 97,
       "ppw": 0.7,
       "memDays": 151,
       "streak": 6,
@@ -4062,7 +4062,7 @@
     {
       "name": "~ Lennox",
       "posts": 16,
-      "daysAgo": 82,
+      "daysAgo": 83,
       "ppw": 0.9,
       "memDays": 131,
       "streak": 2,
@@ -4073,7 +4073,7 @@
     {
       "name": "~ Aaron",
       "posts": 16,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 0.9,
       "memDays": 127,
       "streak": 2,
@@ -4084,7 +4084,7 @@
     {
       "name": "~ Roman",
       "posts": 16,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.9,
       "memDays": 119,
       "streak": 3,
@@ -4095,7 +4095,7 @@
     {
       "name": "~ Timon Stockhaus",
       "posts": 16,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 1,
       "memDays": 114,
       "streak": 3,
@@ -4106,7 +4106,7 @@
     {
       "name": "~ shania",
       "posts": 16,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 1.6,
       "memDays": 71,
       "streak": 2,
@@ -4117,7 +4117,7 @@
     {
       "name": "~ jonaaaas",
       "posts": 16,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 1.7,
       "memDays": 66,
       "streak": 4,
@@ -4128,7 +4128,7 @@
     {
       "name": "~ Agi",
       "posts": 16,
-      "daysAgo": 4,
+      "daysAgo": 5,
       "ppw": 1.9,
       "memDays": 58,
       "streak": 3,
@@ -4139,7 +4139,7 @@
     {
       "name": "~ Fischer",
       "posts": 16,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 2,
       "memDays": 57,
       "streak": 4,
@@ -4150,7 +4150,7 @@
     {
       "name": "~ ADB",
       "posts": 16,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 2,
       "memDays": 57,
       "streak": 3,
@@ -4161,7 +4161,7 @@
     {
       "name": "~ Francisco Lousa",
       "posts": 16,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 2.3,
       "memDays": 49,
       "streak": 2,
@@ -4172,7 +4172,7 @@
     {
       "name": "~ Susi",
       "posts": 16,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 2.7,
       "memDays": 41,
       "streak": 2,
@@ -4183,7 +4183,7 @@
     {
       "name": "~ Etienne Hörnchen",
       "posts": 16,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 7.5,
       "memDays": 15,
       "streak": 1,
@@ -4194,7 +4194,7 @@
     {
       "name": "~ max",
       "posts": 15,
-      "daysAgo": 74,
+      "daysAgo": 75,
       "ppw": 0.6,
       "memDays": 162,
       "streak": 3,
@@ -4205,7 +4205,7 @@
     {
       "name": "~ Lu",
       "posts": 15,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.7,
       "memDays": 148,
       "streak": 3,
@@ -4216,7 +4216,7 @@
     {
       "name": "~ Kremer",
       "posts": 15,
-      "daysAgo": 114,
+      "daysAgo": 115,
       "ppw": 0.8,
       "memDays": 131,
       "streak": 4,
@@ -4227,7 +4227,7 @@
     {
       "name": "~ Jan Trautwein",
       "posts": 15,
-      "daysAgo": 23,
+      "daysAgo": 24,
       "ppw": 0.8,
       "memDays": 127,
       "streak": 3,
@@ -4238,7 +4238,7 @@
     {
       "name": "~ Momo",
       "posts": 15,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.9,
       "memDays": 120,
       "streak": 2,
@@ -4249,7 +4249,7 @@
     {
       "name": "~ Jo☔",
       "posts": 15,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1,
       "memDays": 107,
       "streak": 1,
@@ -4260,7 +4260,7 @@
     {
       "name": "~ Luca-Flavio Melita",
       "posts": 15,
-      "daysAgo": 54,
+      "daysAgo": 55,
       "ppw": 1,
       "memDays": 106,
       "streak": 2,
@@ -4271,7 +4271,7 @@
     {
       "name": "~ Jasper",
       "posts": 15,
-      "daysAgo": 15,
+      "daysAgo": 16,
       "ppw": 1.1,
       "memDays": 100,
       "streak": 1,
@@ -4282,7 +4282,7 @@
     {
       "name": "~ Hube",
       "posts": 15,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 1.3,
       "memDays": 78,
       "streak": 2,
@@ -4293,7 +4293,7 @@
     {
       "name": "~ clemens h.",
       "posts": 15,
-      "daysAgo": 9,
+      "daysAgo": 10,
       "ppw": 1.3,
       "memDays": 79,
       "streak": 3,
@@ -4304,7 +4304,7 @@
     {
       "name": "~ Marvin ;)",
       "posts": 15,
-      "daysAgo": 44,
+      "daysAgo": 45,
       "ppw": 1.4,
       "memDays": 75,
       "streak": 4,
@@ -4315,7 +4315,7 @@
     {
       "name": "~ Lenni",
       "posts": 15,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 1.4,
       "memDays": 73,
       "streak": 2,
@@ -4326,7 +4326,7 @@
     {
       "name": "~ Jérôme",
       "posts": 15,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.6,
       "memDays": 67,
       "streak": 2,
@@ -4337,7 +4337,7 @@
     {
       "name": "~ Benni Holschbach",
       "posts": 15,
-      "daysAgo": 4,
+      "daysAgo": 5,
       "ppw": 1.8,
       "memDays": 58,
       "streak": 2,
@@ -4348,7 +4348,7 @@
     {
       "name": "~ Gonçalo Das Neves Ramos",
       "posts": 15,
-      "daysAgo": 16,
+      "daysAgo": 17,
       "ppw": 2,
       "memDays": 53,
       "streak": 2,
@@ -4359,7 +4359,7 @@
     {
       "name": "~ João",
       "posts": 15,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 2,
       "memDays": 53,
       "streak": 3,
@@ -4370,7 +4370,7 @@
     {
       "name": "~ Jürgen",
       "posts": 15,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2.4,
       "memDays": 43,
       "streak": 4,
@@ -4381,7 +4381,7 @@
     {
       "name": "~ Bastian Welter",
       "posts": 15,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 2.8,
       "memDays": 38,
       "streak": 3,
@@ -4392,7 +4392,7 @@
     {
       "name": "~ jakob",
       "posts": 15,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 3,
       "memDays": 35,
       "streak": 4,
@@ -4403,7 +4403,7 @@
     {
       "name": "~ Niklas Bereuter",
       "posts": 14,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 0.7,
       "memDays": 149,
       "streak": 2,
@@ -4414,7 +4414,7 @@
     {
       "name": "Ruben",
       "posts": 14,
-      "daysAgo": 147,
+      "daysAgo": 148,
       "ppw": 0.7,
       "memDays": 149,
       "streak": 2,
@@ -4425,7 +4425,7 @@
     {
       "name": "~ Joe",
       "posts": 14,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 0.7,
       "memDays": 146,
       "streak": 3,
@@ -4436,7 +4436,7 @@
     {
       "name": "~ Matthew",
       "posts": 14,
-      "daysAgo": 15,
+      "daysAgo": 16,
       "ppw": 0.8,
       "memDays": 119,
       "streak": 3,
@@ -4447,7 +4447,7 @@
     {
       "name": "~ Joao Trindade",
       "posts": 14,
-      "daysAgo": 38,
+      "daysAgo": 39,
       "ppw": 0.9,
       "memDays": 106,
       "streak": 2,
@@ -4458,7 +4458,7 @@
     {
       "name": "~ Juan",
       "posts": 14,
-      "daysAgo": 25,
+      "daysAgo": 26,
       "ppw": 0.9,
       "memDays": 111,
       "streak": 1,
@@ -4469,7 +4469,7 @@
     {
       "name": "Toni Giglia",
       "posts": 14,
-      "daysAgo": 61,
+      "daysAgo": 62,
       "ppw": 0.5,
       "memDays": 193,
       "streak": 2,
@@ -4480,7 +4480,7 @@
     {
       "name": "~ 🙈🙊🙉",
       "posts": 14,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 1.1,
       "memDays": 91,
       "streak": 3,
@@ -4491,7 +4491,7 @@
     {
       "name": "~ Tiago Pinto Portela",
       "posts": 14,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 1.7,
       "memDays": 57,
       "streak": 3,
@@ -4502,7 +4502,7 @@
     {
       "name": "~ João QV",
       "posts": 14,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 1.8,
       "memDays": 56,
       "streak": 2,
@@ -4513,7 +4513,7 @@
     {
       "name": "~ Mini-Harri😆",
       "posts": 14,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 2,
       "memDays": 50,
       "streak": 2,
@@ -4524,7 +4524,7 @@
     {
       "name": "~ Bene 🛸",
       "posts": 14,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2,
       "memDays": 48,
       "streak": 4,
@@ -4535,7 +4535,7 @@
     {
       "name": "~ Magnus",
       "posts": 14,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 2.3,
       "memDays": 42,
       "streak": 6,
@@ -4546,7 +4546,7 @@
     {
       "name": "~ Tim Homann",
       "posts": 14,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 3.4,
       "memDays": 29,
       "streak": 3,
@@ -4557,7 +4557,7 @@
     {
       "name": "~ Floko",
       "posts": 14,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 4.9,
       "memDays": 20,
       "streak": 4,
@@ -4568,7 +4568,7 @@
     {
       "name": "~ Hodenkobold",
       "posts": 14,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 19.6,
       "memDays": 5,
       "streak": 5,
@@ -4579,7 +4579,7 @@
     {
       "name": "Hannes Schuette",
       "posts": 13,
-      "daysAgo": 118,
+      "daysAgo": 119,
       "ppw": 0.5,
       "memDays": 193,
       "streak": 3,
@@ -4590,7 +4590,7 @@
     {
       "name": "~ Isac Mota",
       "posts": 13,
-      "daysAgo": 133,
+      "daysAgo": 134,
       "ppw": 0.6,
       "memDays": 155,
       "streak": 1,
@@ -4601,7 +4601,7 @@
     {
       "name": "~ Lorenz",
       "posts": 13,
-      "daysAgo": 83,
+      "daysAgo": 84,
       "ppw": 0.6,
       "memDays": 154,
       "streak": 2,
@@ -4612,7 +4612,7 @@
     {
       "name": "~ Álvaro Tello",
       "posts": 13,
-      "daysAgo": 103,
+      "daysAgo": 104,
       "ppw": 0.6,
       "memDays": 149,
       "streak": 2,
@@ -4623,7 +4623,7 @@
     {
       "name": "~ Mauro Hendrickx",
       "posts": 13,
-      "daysAgo": 64,
+      "daysAgo": 65,
       "ppw": 0.6,
       "memDays": 155,
       "streak": 2,
@@ -4634,7 +4634,7 @@
     {
       "name": "~ Josh",
       "posts": 13,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 0.6,
       "memDays": 148,
       "streak": 3,
@@ -4645,7 +4645,7 @@
     {
       "name": "~ Manu",
       "posts": 13,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.6,
       "memDays": 141,
       "streak": 2,
@@ -4656,7 +4656,7 @@
     {
       "name": "~ Luca Hohmann",
       "posts": 13,
-      "daysAgo": 28,
+      "daysAgo": 29,
       "ppw": 0.6,
       "memDays": 146,
       "streak": 2,
@@ -4667,7 +4667,7 @@
     {
       "name": "~ Lasse Bornemann",
       "posts": 13,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 0.9,
       "memDays": 107,
       "streak": 2,
@@ -4678,7 +4678,7 @@
     {
       "name": "~ Luca Jeserer",
       "posts": 13,
-      "daysAgo": 25,
+      "daysAgo": 26,
       "ppw": 0.9,
       "memDays": 101,
       "streak": 2,
@@ -4689,7 +4689,7 @@
     {
       "name": "~ Hannes",
       "posts": 13,
-      "daysAgo": 54,
+      "daysAgo": 55,
       "ppw": 0.9,
       "memDays": 102,
       "streak": 3,
@@ -4700,7 +4700,7 @@
     {
       "name": "~ Dennis Theis",
       "posts": 13,
-      "daysAgo": 23,
+      "daysAgo": 24,
       "ppw": 0.9,
       "memDays": 96,
       "streak": 1,
@@ -4711,7 +4711,7 @@
     {
       "name": "~ Jonas Sieben",
       "posts": 13,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1,
       "memDays": 87,
       "streak": 3,
@@ -4722,7 +4722,7 @@
     {
       "name": "~ Phillip Strunk",
       "posts": 13,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 1.2,
       "memDays": 79,
       "streak": 2,
@@ -4733,7 +4733,7 @@
     {
       "name": "~ Hagen",
       "posts": 13,
-      "daysAgo": 44,
+      "daysAgo": 45,
       "ppw": 1.6,
       "memDays": 58,
       "streak": 3,
@@ -4744,7 +4744,7 @@
     {
       "name": "~ Kim",
       "posts": 12,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.5,
       "memDays": 155,
       "streak": 2,
@@ -4755,7 +4755,7 @@
     {
       "name": "~ Duarte Carvalho",
       "posts": 12,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.5,
       "memDays": 160,
       "streak": 1,
@@ -4766,7 +4766,7 @@
     {
       "name": "~ Kili",
       "posts": 12,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 0.6,
       "memDays": 130,
       "streak": 2,
@@ -4777,7 +4777,7 @@
     {
       "name": "~ Aumer",
       "posts": 12,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 0.7,
       "memDays": 126,
       "streak": 2,
@@ -4788,7 +4788,7 @@
     {
       "name": "~ Luke Dohmen",
       "posts": 12,
-      "daysAgo": 103,
+      "daysAgo": 104,
       "ppw": 0.7,
       "memDays": 120,
       "streak": 2,
@@ -4799,7 +4799,7 @@
     {
       "name": "~ Maxi Sennebogen",
       "posts": 12,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 0.8,
       "memDays": 102,
       "streak": 3,
@@ -4810,7 +4810,7 @@
     {
       "name": "~ Arne",
       "posts": 12,
-      "daysAgo": 63,
+      "daysAgo": 64,
       "ppw": 0.9,
       "memDays": 94,
       "streak": 2,
@@ -4821,7 +4821,7 @@
     {
       "name": "~ Nicole",
       "posts": 12,
-      "daysAgo": 12,
+      "daysAgo": 13,
       "ppw": 0.9,
       "memDays": 92,
       "streak": 2,
@@ -4832,7 +4832,7 @@
     {
       "name": "~ Maximilian Siebenhütter",
       "posts": 12,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1,
       "memDays": 85,
       "streak": 1,
@@ -4843,7 +4843,7 @@
     {
       "name": "~ Flori Feuerdrache",
       "posts": 12,
-      "daysAgo": 46,
+      "daysAgo": 47,
       "ppw": 1.2,
       "memDays": 71,
       "streak": 2,
@@ -4854,7 +4854,7 @@
     {
       "name": "~ Sebastiao Pires da Silva",
       "posts": 12,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 1.5,
       "memDays": 57,
       "streak": 2,
@@ -4865,7 +4865,7 @@
     {
       "name": "~ Pem Pem PAM",
       "posts": 12,
-      "daysAgo": 33,
+      "daysAgo": 34,
       "ppw": 1.1,
       "memDays": 77,
       "streak": 3,
@@ -4876,7 +4876,7 @@
     {
       "name": "~ Pineapple The Fruit Dude",
       "posts": 12,
-      "daysAgo": 32,
+      "daysAgo": 33,
       "ppw": 1.6,
       "memDays": 52,
       "streak": 2,
@@ -4887,7 +4887,7 @@
     {
       "name": "~ .",
       "posts": 12,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.5,
       "memDays": 55,
       "streak": 2,
@@ -4898,7 +4898,7 @@
     {
       "name": "~ Justus K",
       "posts": 12,
-      "daysAgo": 9,
+      "daysAgo": 10,
       "ppw": 1.6,
       "memDays": 54,
       "streak": 3,
@@ -4909,7 +4909,7 @@
     {
       "name": "~ Mika Höfemann",
       "posts": 12,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 1.8,
       "memDays": 46,
       "streak": 4,
@@ -4920,7 +4920,7 @@
     {
       "name": "~ Luca S.",
       "posts": 12,
-      "daysAgo": 24,
+      "daysAgo": 25,
       "ppw": 1.9,
       "memDays": 44,
       "streak": 4,
@@ -4931,7 +4931,7 @@
     {
       "name": "~ Chalina✨",
       "posts": 12,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 2.5,
       "memDays": 33,
       "streak": 1,
@@ -4942,7 +4942,7 @@
     {
       "name": "~ Kasi",
       "posts": 12,
-      "daysAgo": 14,
+      "daysAgo": 15,
       "ppw": 2.5,
       "memDays": 33,
       "streak": 3,
@@ -4953,7 +4953,7 @@
     {
       "name": "~ Vasco Camacho",
       "posts": 12,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 2.5,
       "memDays": 33,
       "streak": 3,
@@ -4964,7 +4964,7 @@
     {
       "name": "~ Kuba",
       "posts": 12,
-      "daysAgo": 11,
+      "daysAgo": 12,
       "ppw": 2.8,
       "memDays": 30,
       "streak": 1,
@@ -4975,7 +4975,7 @@
     {
       "name": "~ Maroš",
       "posts": 12,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 3,
       "memDays": 28,
       "streak": 3,
@@ -4986,7 +4986,7 @@
     {
       "name": "~ Chraiser",
       "posts": 12,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 4.9,
       "memDays": 17,
       "streak": 2,
@@ -4997,7 +4997,7 @@
     {
       "name": "~ Schmidtchen",
       "posts": 11,
-      "daysAgo": 22,
+      "daysAgo": 23,
       "ppw": 0.5,
       "memDays": 148,
       "streak": 2,
@@ -5008,7 +5008,7 @@
     {
       "name": "~ lukas",
       "posts": 11,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 0.5,
       "memDays": 145,
       "streak": 2,
@@ -5019,7 +5019,7 @@
     {
       "name": "~ Alina",
       "posts": 11,
-      "daysAgo": 43,
+      "daysAgo": 44,
       "ppw": 0.5,
       "memDays": 146,
       "streak": 1,
@@ -5030,7 +5030,7 @@
     {
       "name": "~ Eugenio Nocera",
       "posts": 11,
-      "daysAgo": 125,
+      "daysAgo": 126,
       "ppw": 0.6,
       "memDays": 130,
       "streak": 5,
@@ -5041,7 +5041,7 @@
     {
       "name": "~ Tommaso",
       "posts": 11,
-      "daysAgo": 86,
+      "daysAgo": 87,
       "ppw": 0.6,
       "memDays": 129,
       "streak": 2,
@@ -5052,7 +5052,7 @@
     {
       "name": "~ Matti",
       "posts": 11,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 0.6,
       "memDays": 130,
       "streak": 1,
@@ -5063,7 +5063,7 @@
     {
       "name": "~ Lukas Fierbeck",
       "posts": 11,
-      "daysAgo": 11,
+      "daysAgo": 12,
       "ppw": 0.8,
       "memDays": 102,
       "streak": 4,
@@ -5074,7 +5074,7 @@
     {
       "name": "~ ac",
       "posts": 11,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 0.8,
       "memDays": 97,
       "streak": 1,
@@ -5085,7 +5085,7 @@
     {
       "name": "~ eva",
       "posts": 11,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 0.8,
       "memDays": 92,
       "streak": 1,
@@ -5096,7 +5096,7 @@
     {
       "name": "~ Basti Görler",
       "posts": 11,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 0.8,
       "memDays": 91,
       "streak": 2,
@@ -5107,7 +5107,7 @@
     {
       "name": "~ Tiago Lobo",
       "posts": 11,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 0.8,
       "memDays": 91,
       "streak": 3,
@@ -5118,7 +5118,7 @@
     {
       "name": "~ mats",
       "posts": 11,
-      "daysAgo": 71,
+      "daysAgo": 72,
       "ppw": 0.9,
       "memDays": 89,
       "streak": 2,
@@ -5129,7 +5129,7 @@
     {
       "name": "~ Bianca",
       "posts": 11,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 0.9,
       "memDays": 85,
       "streak": 2,
@@ -5140,7 +5140,7 @@
     {
       "name": "~ Niklas Gerth",
       "posts": 11,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 0.9,
       "memDays": 85,
       "streak": 2,
@@ -5151,7 +5151,7 @@
     {
       "name": "~ Samuel Leibner Vieira",
       "posts": 11,
-      "daysAgo": 4,
+      "daysAgo": 5,
       "ppw": 0.9,
       "memDays": 90,
       "streak": 1,
@@ -5162,7 +5162,7 @@
     {
       "name": "~ Sander",
       "posts": 11,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 1,
       "memDays": 78,
       "streak": 1,
@@ -5173,7 +5173,7 @@
     {
       "name": "~ Andre",
       "posts": 11,
-      "daysAgo": 15,
+      "daysAgo": 16,
       "ppw": 1.1,
       "memDays": 70,
       "streak": 3,
@@ -5184,7 +5184,7 @@
     {
       "name": "~ MB",
       "posts": 11,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 1.2,
       "memDays": 62,
       "streak": 1,
@@ -5195,7 +5195,7 @@
     {
       "name": "~ Tobias~",
       "posts": 11,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 1.3,
       "memDays": 58,
       "streak": 2,
@@ -5206,7 +5206,7 @@
     {
       "name": "~ Joris",
       "posts": 11,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 1.5,
       "memDays": 53,
       "streak": 2,
@@ -5217,7 +5217,7 @@
     {
       "name": "~ Martim Seabra Cardoso",
       "posts": 11,
-      "daysAgo": 38,
+      "daysAgo": 39,
       "ppw": 1.5,
       "memDays": 50,
       "streak": 3,
@@ -5228,7 +5228,7 @@
     {
       "name": "~ Korbinian",
       "posts": 11,
-      "daysAgo": 36,
+      "daysAgo": 37,
       "ppw": 1.6,
       "memDays": 49,
       "streak": 2,
@@ -5239,7 +5239,7 @@
     {
       "name": "~ Christian Bamberger",
       "posts": 11,
-      "daysAgo": 36,
+      "daysAgo": 37,
       "ppw": 1.6,
       "memDays": 48,
       "streak": 2,
@@ -5250,7 +5250,7 @@
     {
       "name": "~ yves",
       "posts": 11,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 1.6,
       "memDays": 48,
       "streak": 2,
@@ -5261,7 +5261,7 @@
     {
       "name": "~ Marv",
       "posts": 11,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.4,
       "memDays": 55,
       "streak": 4,
@@ -5272,7 +5272,7 @@
     {
       "name": "~ Micha",
       "posts": 11,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 0.5,
       "memDays": 147,
       "streak": 2,
@@ -5283,7 +5283,7 @@
     {
       "name": "~ João Rodrigues",
       "posts": 11,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.5,
       "memDays": 22,
       "streak": 2,
@@ -5294,7 +5294,7 @@
     {
       "name": "~ Hugo Lista Kristensen",
       "posts": 10,
-      "daysAgo": 82,
+      "daysAgo": 83,
       "ppw": 0.5,
       "memDays": 150,
       "streak": 2,
@@ -5305,7 +5305,7 @@
     {
       "name": "~ Jana",
       "posts": 10,
-      "daysAgo": 60,
+      "daysAgo": 61,
       "ppw": 0.5,
       "memDays": 149,
       "streak": 2,
@@ -5316,7 +5316,7 @@
     {
       "name": "~ Karl Heinen",
       "posts": 10,
-      "daysAgo": 18,
+      "daysAgo": 19,
       "ppw": 0.5,
       "memDays": 147,
       "streak": 1,
@@ -5327,7 +5327,7 @@
     {
       "name": "~ Jonas Mülders",
       "posts": 10,
-      "daysAgo": 130,
+      "daysAgo": 131,
       "ppw": 0.5,
       "memDays": 145,
       "streak": 3,
@@ -5338,7 +5338,7 @@
     {
       "name": "~ H.C.",
       "posts": 10,
-      "daysAgo": 101,
+      "daysAgo": 102,
       "ppw": 0.5,
       "memDays": 141,
       "streak": 1,
@@ -5349,7 +5349,7 @@
     {
       "name": "~ Ben-Ole",
       "posts": 10,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.6,
       "memDays": 127,
       "streak": 1,
@@ -5360,7 +5360,7 @@
     {
       "name": "~ Joey",
       "posts": 10,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 0.6,
       "memDays": 126,
       "streak": 1,
@@ -5371,7 +5371,7 @@
     {
       "name": "Tobi Wenzel",
       "posts": 10,
-      "daysAgo": 118,
+      "daysAgo": 119,
       "ppw": 0.4,
       "memDays": 193,
       "streak": 1,
@@ -5382,7 +5382,7 @@
     {
       "name": "~ Till",
       "posts": 10,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 0.6,
       "memDays": 126,
       "streak": 2,
@@ -5393,7 +5393,7 @@
     {
       "name": "~ Meltem",
       "posts": 10,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 0.6,
       "memDays": 120,
       "streak": 2,
@@ -5404,7 +5404,7 @@
     {
       "name": "~ Guilherme Ferreira",
       "posts": 10,
-      "daysAgo": 40,
+      "daysAgo": 41,
       "ppw": 0.7,
       "memDays": 106,
       "streak": 1,
@@ -5415,7 +5415,7 @@
     {
       "name": "~ Danil",
       "posts": 10,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 0.8,
       "memDays": 87,
       "streak": 3,
@@ -5426,7 +5426,7 @@
     {
       "name": "~ Jens Marose",
       "posts": 10,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 0.8,
       "memDays": 90,
       "streak": 2,
@@ -5437,7 +5437,7 @@
     {
       "name": "~ tim 🍉",
       "posts": 10,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 1,
       "memDays": 71,
       "streak": 3,
@@ -5448,7 +5448,7 @@
     {
       "name": "~ Mia",
       "posts": 10,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.9,
       "memDays": 77,
       "streak": 1,
@@ -5459,7 +5459,7 @@
     {
       "name": "~ mia",
       "posts": 10,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1,
       "memDays": 70,
       "streak": 2,
@@ -5470,7 +5470,7 @@
     {
       "name": "~ Duarte Ribeiro",
       "posts": 10,
-      "daysAgo": 17,
+      "daysAgo": 18,
       "ppw": 1.4,
       "memDays": 51,
       "streak": 2,
@@ -5481,7 +5481,7 @@
     {
       "name": "~ André Gomes",
       "posts": 10,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 1.6,
       "memDays": 43,
       "streak": 3,
@@ -5492,7 +5492,7 @@
     {
       "name": "~ Afonso Amaro",
       "posts": 10,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 1.7,
       "memDays": 42,
       "streak": 1,
@@ -5503,7 +5503,7 @@
     {
       "name": "~ Silas Erberich",
       "posts": 10,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 1.7,
       "memDays": 41,
       "streak": 3,
@@ -5514,7 +5514,7 @@
     {
       "name": "~ Christoph Bombeck",
       "posts": 10,
-      "daysAgo": 23,
+      "daysAgo": 24,
       "ppw": 1.9,
       "memDays": 37,
       "streak": 4,
@@ -5525,7 +5525,7 @@
     {
       "name": "~ Evelīna",
       "posts": 10,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 3.7,
       "memDays": 19,
       "streak": 3,
@@ -5536,7 +5536,7 @@
     {
       "name": "Sara Kheldoun",
       "posts": 9,
-      "daysAgo": 137,
+      "daysAgo": 138,
       "ppw": 0.3,
       "memDays": 193,
       "streak": 2,
@@ -5547,7 +5547,7 @@
     {
       "name": "~ Niclas",
       "posts": 9,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 0.4,
       "memDays": 155,
       "streak": 2,
@@ -5558,7 +5558,7 @@
     {
       "name": "~ Can Luca",
       "posts": 9,
-      "daysAgo": 94,
+      "daysAgo": 95,
       "ppw": 0.4,
       "memDays": 148,
       "streak": 1,
@@ -5569,7 +5569,7 @@
     {
       "name": "~ ML",
       "posts": 9,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.5,
       "memDays": 127,
       "streak": 2,
@@ -5580,7 +5580,7 @@
     {
       "name": "~ Gerrit Jasmut",
       "posts": 9,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.5,
       "memDays": 119,
       "streak": 1,
@@ -5591,7 +5591,7 @@
     {
       "name": "~ Malte",
       "posts": 9,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.5,
       "memDays": 116,
       "streak": 2,
@@ -5602,7 +5602,7 @@
     {
       "name": "~ jonas",
       "posts": 9,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 0.6,
       "memDays": 107,
       "streak": 2,
@@ -5613,7 +5613,7 @@
     {
       "name": "~ Helena H.",
       "posts": 9,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 0.6,
       "memDays": 106,
       "streak": 2,
@@ -5624,7 +5624,7 @@
     {
       "name": "~ Emil",
       "posts": 9,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 0.6,
       "memDays": 100,
       "streak": 2,
@@ -5635,7 +5635,7 @@
     {
       "name": "~ finn",
       "posts": 9,
-      "daysAgo": 69,
+      "daysAgo": 70,
       "ppw": 0.6,
       "memDays": 97,
       "streak": 2,
@@ -5646,7 +5646,7 @@
     {
       "name": "~ Luca Gödde",
       "posts": 9,
-      "daysAgo": 79,
+      "daysAgo": 80,
       "ppw": 0.7,
       "memDays": 92,
       "streak": 1,
@@ -5657,7 +5657,7 @@
     {
       "name": "Jannik Uni",
       "posts": 9,
-      "daysAgo": 62,
+      "daysAgo": 63,
       "ppw": 0.3,
       "memDays": 193,
       "streak": 5,
@@ -5668,7 +5668,7 @@
     {
       "name": "~ Tobias Frankl",
       "posts": 9,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.7,
       "memDays": 85,
       "streak": 1,
@@ -5679,7 +5679,7 @@
     {
       "name": "~ Dustin Hoffmann",
       "posts": 9,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 0.8,
       "memDays": 78,
       "streak": 3,
@@ -5690,7 +5690,7 @@
     {
       "name": "~ Dario Lemke",
       "posts": 9,
-      "daysAgo": 75,
+      "daysAgo": 76,
       "ppw": 0.8,
       "memDays": 77,
       "streak": 2,
@@ -5701,7 +5701,7 @@
     {
       "name": "~ Louis Koe",
       "posts": 9,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 1,
       "memDays": 62,
       "streak": 3,
@@ -5712,7 +5712,7 @@
     {
       "name": "~ Paul Hashagen",
       "posts": 9,
-      "daysAgo": 4,
+      "daysAgo": 5,
       "ppw": 1.1,
       "memDays": 59,
       "streak": 1,
@@ -5723,7 +5723,7 @@
     {
       "name": "~ Kevin",
       "posts": 9,
-      "daysAgo": 11,
+      "daysAgo": 12,
       "ppw": 1.1,
       "memDays": 59,
       "streak": 2,
@@ -5734,7 +5734,7 @@
     {
       "name": "~ Manuel Bragança Santos",
       "posts": 9,
-      "daysAgo": 28,
+      "daysAgo": 29,
       "ppw": 1.1,
       "memDays": 56,
       "streak": 1,
@@ -5745,7 +5745,7 @@
     {
       "name": "~ Christoph Wortmann",
       "posts": 9,
-      "daysAgo": 14,
+      "daysAgo": 15,
       "ppw": 1.3,
       "memDays": 48,
       "streak": 2,
@@ -5756,7 +5756,7 @@
     {
       "name": "~ Kai Mörs",
       "posts": 9,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 1.5,
       "memDays": 42,
       "streak": 2,
@@ -5767,7 +5767,7 @@
     {
       "name": "~ Diogo Nóbrega",
       "posts": 9,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 1.6,
       "memDays": 40,
       "streak": 2,
@@ -5778,7 +5778,7 @@
     {
       "name": "~ João Azevedo",
       "posts": 9,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 1.8,
       "memDays": 35,
       "streak": 1,
@@ -5789,7 +5789,7 @@
     {
       "name": "~ Fabi",
       "posts": 8,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.3,
       "memDays": 170,
       "streak": 2,
@@ -5800,7 +5800,7 @@
     {
       "name": "~ Julijan",
       "posts": 8,
-      "daysAgo": 50,
+      "daysAgo": 51,
       "ppw": 0.4,
       "memDays": 145,
       "streak": 2,
@@ -5811,7 +5811,7 @@
     {
       "name": "~ ~Montero",
       "posts": 8,
-      "daysAgo": 62,
+      "daysAgo": 63,
       "ppw": 0.6,
       "memDays": 101,
       "streak": 1,
@@ -5822,7 +5822,7 @@
     {
       "name": "~ Dominikus Kerl",
       "posts": 8,
-      "daysAgo": 59,
+      "daysAgo": 60,
       "ppw": 0.6,
       "memDays": 100,
       "streak": 2,
@@ -5833,7 +5833,7 @@
     {
       "name": "~ Kai Grimm",
       "posts": 8,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 0.5,
       "memDays": 102,
       "streak": 1,
@@ -5844,7 +5844,7 @@
     {
       "name": "~ Mateo Hofmann",
       "posts": 8,
-      "daysAgo": 64,
+      "daysAgo": 65,
       "ppw": 0.6,
       "memDays": 100,
       "streak": 2,
@@ -5855,7 +5855,7 @@
     {
       "name": "~ Alessandro Costa",
       "posts": 8,
-      "daysAgo": 22,
+      "daysAgo": 23,
       "ppw": 0.6,
       "memDays": 90,
       "streak": 1,
@@ -5866,7 +5866,7 @@
     {
       "name": "~ Damo",
       "posts": 8,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.7,
       "memDays": 77,
       "streak": 2,
@@ -5877,7 +5877,7 @@
     {
       "name": "~ Dina",
       "posts": 8,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 0.8,
       "memDays": 71,
       "streak": 2,
@@ -5888,7 +5888,7 @@
     {
       "name": "~ Anna",
       "posts": 8,
-      "daysAgo": 16,
+      "daysAgo": 17,
       "ppw": 0.9,
       "memDays": 62,
       "streak": 1,
@@ -5899,7 +5899,7 @@
     {
       "name": "~ Pia",
       "posts": 8,
-      "daysAgo": 52,
+      "daysAgo": 53,
       "ppw": 1,
       "memDays": 57,
       "streak": 2,
@@ -5910,7 +5910,7 @@
     {
       "name": "~ Hugo Figueira",
       "posts": 8,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 1,
       "memDays": 56,
       "streak": 1,
@@ -5921,7 +5921,7 @@
     {
       "name": "~ Daniel Gil",
       "posts": 8,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 1,
       "memDays": 55,
       "streak": 2,
@@ -5932,7 +5932,7 @@
     {
       "name": "~ K.D",
       "posts": 8,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 1.1,
       "memDays": 51,
       "streak": 1,
@@ -5943,7 +5943,7 @@
     {
       "name": "~ jojo",
       "posts": 8,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 1.1,
       "memDays": 52,
       "streak": 3,
@@ -5954,7 +5954,7 @@
     {
       "name": "~ Justus",
       "posts": 8,
-      "daysAgo": 36,
+      "daysAgo": 37,
       "ppw": 1.3,
       "memDays": 43,
       "streak": 2,
@@ -5965,7 +5965,7 @@
     {
       "name": "~ PaTrick",
       "posts": 8,
-      "daysAgo": 23,
+      "daysAgo": 24,
       "ppw": 1.3,
       "memDays": 42,
       "streak": 2,
@@ -5976,7 +5976,7 @@
     {
       "name": "~ leon",
       "posts": 8,
-      "daysAgo": 28,
+      "daysAgo": 29,
       "ppw": 1.9,
       "memDays": 30,
       "streak": 2,
@@ -5987,7 +5987,7 @@
     {
       "name": "~ Brittany",
       "posts": 8,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.9,
       "memDays": 29,
       "streak": 2,
@@ -5998,7 +5998,7 @@
     {
       "name": "~ Ryan",
       "posts": 8,
-      "daysAgo": 26,
+      "daysAgo": 27,
       "ppw": 1.8,
       "memDays": 31,
       "streak": 1,
@@ -6009,7 +6009,7 @@
     {
       "name": "Jörn",
       "posts": 7,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.3,
       "memDays": 153,
       "streak": 1,
@@ -6020,7 +6020,7 @@
     {
       "name": "~ Baudouin",
       "posts": 7,
-      "daysAgo": 24,
+      "daysAgo": 25,
       "ppw": 0.3,
       "memDays": 153,
       "streak": 1,
@@ -6031,7 +6031,7 @@
     {
       "name": "~ Lars",
       "posts": 7,
-      "daysAgo": 118,
+      "daysAgo": 119,
       "ppw": 0.3,
       "memDays": 148,
       "streak": 2,
@@ -6042,7 +6042,7 @@
     {
       "name": "~ Ole",
       "posts": 7,
-      "daysAgo": 104,
+      "daysAgo": 105,
       "ppw": 0.3,
       "memDays": 148,
       "streak": 3,
@@ -6053,7 +6053,7 @@
     {
       "name": "~ Melina",
       "posts": 7,
-      "daysAgo": 128,
+      "daysAgo": 129,
       "ppw": 0.3,
       "memDays": 193,
       "streak": 2,
@@ -6064,7 +6064,7 @@
     {
       "name": "~ Moritz🤝",
       "posts": 7,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.3,
       "memDays": 145,
       "streak": 1,
@@ -6075,7 +6075,7 @@
     {
       "name": "~ Luk",
       "posts": 7,
-      "daysAgo": 112,
+      "daysAgo": 113,
       "ppw": 0.3,
       "memDays": 146,
       "streak": 1,
@@ -6086,7 +6086,7 @@
     {
       "name": "~ Ben Sanderson",
       "posts": 7,
-      "daysAgo": 50,
+      "daysAgo": 51,
       "ppw": 0.4,
       "memDays": 119,
       "streak": 1,
@@ -6097,7 +6097,7 @@
     {
       "name": "~ Mathis Ollagnon",
       "posts": 7,
-      "daysAgo": 65,
+      "daysAgo": 66,
       "ppw": 0.4,
       "memDays": 115,
       "streak": 2,
@@ -6108,7 +6108,7 @@
     {
       "name": "~ Asten",
       "posts": 7,
-      "daysAgo": 111,
+      "daysAgo": 112,
       "ppw": 0.4,
       "memDays": 112,
       "streak": 1,
@@ -6119,7 +6119,7 @@
     {
       "name": "~ Nikan",
       "posts": 7,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 0.5,
       "memDays": 101,
       "streak": 2,
@@ -6130,7 +6130,7 @@
     {
       "name": "~ T.R.S.",
       "posts": 7,
-      "daysAgo": 92,
+      "daysAgo": 93,
       "ppw": 0.5,
       "memDays": 100,
       "streak": 1,
@@ -6141,7 +6141,7 @@
     {
       "name": "~ Moritz F",
       "posts": 7,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 0.5,
       "memDays": 98,
       "streak": 2,
@@ -6152,7 +6152,7 @@
     {
       "name": "~ Tobias Sagstetter🍻",
       "posts": 7,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 0.5,
       "memDays": 97,
       "streak": 2,
@@ -6163,7 +6163,7 @@
     {
       "name": "~ Louis Dräger",
       "posts": 7,
-      "daysAgo": 26,
+      "daysAgo": 27,
       "ppw": 0.5,
       "memDays": 97,
       "streak": 2,
@@ -6174,7 +6174,7 @@
     {
       "name": "~ Jonas K",
       "posts": 7,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 0.7,
       "memDays": 72,
       "streak": 2,
@@ -6185,7 +6185,7 @@
     {
       "name": "~ Dubsky",
       "posts": 7,
-      "daysAgo": 24,
+      "daysAgo": 25,
       "ppw": 0.7,
       "memDays": 72,
       "streak": 1,
@@ -6196,7 +6196,7 @@
     {
       "name": "~ Maddes",
       "posts": 7,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.7,
       "memDays": 73,
       "streak": 3,
@@ -6207,7 +6207,7 @@
     {
       "name": "~ Kilian",
       "posts": 7,
-      "daysAgo": 17,
+      "daysAgo": 18,
       "ppw": 0.7,
       "memDays": 71,
       "streak": 2,
@@ -6218,7 +6218,7 @@
     {
       "name": "~ malin",
       "posts": 7,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 0.7,
       "memDays": 66,
       "streak": 1,
@@ -6229,7 +6229,7 @@
     {
       "name": "~ Kento",
       "posts": 7,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 0.7,
       "memDays": 68,
       "streak": 1,
@@ -6240,7 +6240,7 @@
     {
       "name": "~ fabi",
       "posts": 7,
-      "daysAgo": 17,
+      "daysAgo": 18,
       "ppw": 0.6,
       "memDays": 85,
       "streak": 1,
@@ -6251,7 +6251,7 @@
     {
       "name": "~ Hundsi",
       "posts": 7,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 0.8,
       "memDays": 63,
       "streak": 1,
@@ -6262,7 +6262,7 @@
     {
       "name": "~ Simon Rohlfing",
       "posts": 7,
-      "daysAgo": 23,
+      "daysAgo": 24,
       "ppw": 0.9,
       "memDays": 55,
       "streak": 2,
@@ -6273,7 +6273,7 @@
     {
       "name": "~ Julian Buchta",
       "posts": 7,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 0.9,
       "memDays": 52,
       "streak": 3,
@@ -6284,7 +6284,7 @@
     {
       "name": "~ Diogo Mota",
       "posts": 7,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 0.9,
       "memDays": 52,
       "streak": 2,
@@ -6295,7 +6295,7 @@
     {
       "name": "~ lucas",
       "posts": 7,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 0.3,
       "memDays": 149,
       "streak": 2,
@@ -6306,7 +6306,7 @@
     {
       "name": "~ Johan",
       "posts": 7,
-      "daysAgo": 11,
+      "daysAgo": 12,
       "ppw": 1,
       "memDays": 48,
       "streak": 2,
@@ -6317,7 +6317,7 @@
     {
       "name": "~ Luis Wiest",
       "posts": 7,
-      "daysAgo": 26,
+      "daysAgo": 27,
       "ppw": 1.7,
       "memDays": 29,
       "streak": 1,
@@ -6328,7 +6328,7 @@
     {
       "name": "~ Xavi Cerejo",
       "posts": 7,
-      "daysAgo": 14,
+      "daysAgo": 15,
       "ppw": 1.8,
       "memDays": 27,
       "streak": 3,
@@ -6337,9 +6337,20 @@
       "lastStr": "26.06.26"
     },
     {
+      "name": "~ DavidMW",
+      "posts": 7,
+      "daysAgo": 1,
+      "ppw": 1.2,
+      "memDays": 41,
+      "streak": 1,
+      "hasLeft": false,
+      "joinStr": "31.05.26",
+      "lastStr": "10.07.26"
+    },
+    {
       "name": "~ Maro",
       "posts": 7,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 2,
       "memDays": 24,
       "streak": 3,
@@ -6350,7 +6361,7 @@
     {
       "name": "~ Sebastiaan",
       "posts": 6,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 0.3,
       "memDays": 168,
       "streak": 1,
@@ -6361,7 +6372,7 @@
     {
       "name": "Simon",
       "posts": 6,
-      "daysAgo": 160,
+      "daysAgo": 161,
       "ppw": 0.3,
       "memDays": 162,
       "streak": 1,
@@ -6372,7 +6383,7 @@
     {
       "name": "~ Vasco Townshend",
       "posts": 6,
-      "daysAgo": 154,
+      "daysAgo": 155,
       "ppw": 0.3,
       "memDays": 163,
       "streak": 2,
@@ -6383,7 +6394,7 @@
     {
       "name": "~ ~",
       "posts": 6,
-      "daysAgo": 135,
+      "daysAgo": 136,
       "ppw": 0.3,
       "memDays": 155,
       "streak": 2,
@@ -6394,7 +6405,7 @@
     {
       "name": "Jona",
       "posts": 6,
-      "daysAgo": 71,
+      "daysAgo": 72,
       "ppw": 0.3,
       "memDays": 153,
       "streak": 1,
@@ -6405,7 +6416,7 @@
     {
       "name": "~ Phili",
       "posts": 6,
-      "daysAgo": 100,
+      "daysAgo": 101,
       "ppw": 0.3,
       "memDays": 136,
       "streak": 3,
@@ -6416,7 +6427,7 @@
     {
       "name": "~ Elias Kumbrink",
       "posts": 6,
-      "daysAgo": 129,
+      "daysAgo": 130,
       "ppw": 0.3,
       "memDays": 133,
       "streak": 1,
@@ -6427,7 +6438,7 @@
     {
       "name": "~ Sahith t",
       "posts": 6,
-      "daysAgo": 104,
+      "daysAgo": 105,
       "ppw": 0.3,
       "memDays": 128,
       "streak": 3,
@@ -6438,7 +6449,7 @@
     {
       "name": "~ Sascha",
       "posts": 6,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 0.3,
       "memDays": 125,
       "streak": 1,
@@ -6449,7 +6460,7 @@
     {
       "name": "~ Andrés Rothgiesser",
       "posts": 6,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 0.3,
       "memDays": 126,
       "streak": 2,
@@ -6460,7 +6471,7 @@
     {
       "name": "~ Ben (Ich)",
       "posts": 6,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.4,
       "memDays": 116,
       "streak": 1,
@@ -6471,7 +6482,7 @@
     {
       "name": "~ chiara",
       "posts": 6,
-      "daysAgo": 84,
+      "daysAgo": 85,
       "ppw": 0.4,
       "memDays": 116,
       "streak": 2,
@@ -6482,7 +6493,7 @@
     {
       "name": "~ …",
       "posts": 6,
-      "daysAgo": 93,
+      "daysAgo": 94,
       "ppw": 0.4,
       "memDays": 102,
       "streak": 1,
@@ -6493,7 +6504,7 @@
     {
       "name": "~ 🏍️",
       "posts": 6,
-      "daysAgo": 95,
+      "daysAgo": 96,
       "ppw": 0.4,
       "memDays": 98,
       "streak": 1,
@@ -6504,7 +6515,7 @@
     {
       "name": "~ Felix 🐼",
       "posts": 6,
-      "daysAgo": 71,
+      "daysAgo": 72,
       "ppw": 0.5,
       "memDays": 91,
       "streak": 1,
@@ -6515,7 +6526,7 @@
     {
       "name": "~ Duarte Teotónio Pereira",
       "posts": 6,
-      "daysAgo": 37,
+      "daysAgo": 38,
       "ppw": 0.4,
       "memDays": 117,
       "streak": 1,
@@ -6526,7 +6537,7 @@
     {
       "name": "~ Titus",
       "posts": 6,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.5,
       "memDays": 90,
       "streak": 1,
@@ -6537,7 +6548,7 @@
     {
       "name": "~ jannik",
       "posts": 6,
-      "daysAgo": 63,
+      "daysAgo": 64,
       "ppw": 0.5,
       "memDays": 89,
       "streak": 2,
@@ -6548,7 +6559,7 @@
     {
       "name": "~ Seif",
       "posts": 6,
-      "daysAgo": 17,
+      "daysAgo": 18,
       "ppw": 0.5,
       "memDays": 91,
       "streak": 1,
@@ -6559,7 +6570,7 @@
     {
       "name": "~ Ramiro Ithurriague",
       "posts": 6,
-      "daysAgo": 74,
+      "daysAgo": 75,
       "ppw": 0.5,
       "memDays": 83,
       "streak": 4,
@@ -6570,7 +6581,7 @@
     {
       "name": "~ Ben@",
       "posts": 6,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 0.5,
       "memDays": 81,
       "streak": 1,
@@ -6581,7 +6592,7 @@
     {
       "name": "~ Sydney Upchurch",
       "posts": 6,
-      "daysAgo": 72,
+      "daysAgo": 73,
       "ppw": 0.5,
       "memDays": 77,
       "streak": 1,
@@ -6592,7 +6603,7 @@
     {
       "name": "~ Evalyn Ledezma",
       "posts": 6,
-      "daysAgo": 72,
+      "daysAgo": 73,
       "ppw": 0.6,
       "memDays": 76,
       "streak": 1,
@@ -6603,7 +6614,7 @@
     {
       "name": "~ Mario",
       "posts": 6,
-      "daysAgo": 69,
+      "daysAgo": 70,
       "ppw": 0.6,
       "memDays": 71,
       "streak": 2,
@@ -6614,7 +6625,7 @@
     {
       "name": "~ Jero",
       "posts": 6,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 0.6,
       "memDays": 68,
       "streak": 1,
@@ -6625,7 +6636,7 @@
     {
       "name": "~ flexa",
       "posts": 6,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 0.7,
       "memDays": 58,
       "streak": 4,
@@ -6636,7 +6647,7 @@
     {
       "name": "~ Julian Trips",
       "posts": 6,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 0.5,
       "memDays": 86,
       "streak": 1,
@@ -6647,7 +6658,7 @@
     {
       "name": "~ Isi",
       "posts": 6,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 0.8,
       "memDays": 56,
       "streak": 2,
@@ -6658,7 +6669,7 @@
     {
       "name": "~ Raphael",
       "posts": 6,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 0.8,
       "memDays": 50,
       "streak": 1,
@@ -6669,7 +6680,7 @@
     {
       "name": "~ Michel Umbach",
       "posts": 6,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 0.9,
       "memDays": 45,
       "streak": 1,
@@ -6680,7 +6691,7 @@
     {
       "name": "~ Golez",
       "posts": 6,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 1,
       "memDays": 43,
       "streak": 2,
@@ -6691,7 +6702,7 @@
     {
       "name": "~ Hauke ✌️",
       "posts": 6,
-      "daysAgo": 23,
+      "daysAgo": 24,
       "ppw": 1,
       "memDays": 41,
       "streak": 1,
@@ -6702,7 +6713,7 @@
     {
       "name": "~ Konsti",
       "posts": 6,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 1,
       "memDays": 41,
       "streak": 1,
@@ -6713,7 +6724,7 @@
     {
       "name": "~ Patrick H",
       "posts": 6,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 1.2,
       "memDays": 36,
       "streak": 1,
@@ -6724,7 +6735,7 @@
     {
       "name": "~ Miguel Martins",
       "posts": 6,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 1.4,
       "memDays": 30,
       "streak": 3,
@@ -6735,7 +6746,7 @@
     {
       "name": "~ Matan",
       "posts": 6,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 1.5,
       "memDays": 28,
       "streak": 1,
@@ -6744,20 +6755,9 @@
       "lastStr": "09.07.26"
     },
     {
-      "name": "~ DavidMW",
-      "posts": 6,
-      "daysAgo": 0,
-      "ppw": 1,
-      "memDays": 41,
-      "streak": 1,
-      "hasLeft": false,
-      "joinStr": "31.05.26",
-      "lastStr": "10.07.26"
-    },
-    {
       "name": "~ Svenson",
       "posts": 6,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 7,
       "memDays": 6,
       "streak": 3,
@@ -6768,7 +6768,7 @@
     {
       "name": "~ Tobias Petri",
       "posts": 5,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 0.2,
       "memDays": 154,
       "streak": 1,
@@ -6779,7 +6779,7 @@
     {
       "name": "Merlin Hoenika",
       "posts": 5,
-      "daysAgo": 146,
+      "daysAgo": 147,
       "ppw": 0.2,
       "memDays": 149,
       "streak": 1,
@@ -6790,7 +6790,7 @@
     {
       "name": "~ Maximilian Maus",
       "posts": 5,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 0.2,
       "memDays": 147,
       "streak": 1,
@@ -6801,7 +6801,7 @@
     {
       "name": "~ Oscar Lewis-Ward",
       "posts": 5,
-      "daysAgo": 50,
+      "daysAgo": 51,
       "ppw": 0.2,
       "memDays": 147,
       "streak": 1,
@@ -6812,7 +6812,7 @@
     {
       "name": "~ Iker Ahedo",
       "posts": 5,
-      "daysAgo": 114,
+      "daysAgo": 115,
       "ppw": 0.3,
       "memDays": 126,
       "streak": 2,
@@ -6823,7 +6823,7 @@
     {
       "name": "~ Mörls",
       "posts": 5,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.3,
       "memDays": 105,
       "streak": 1,
@@ -6834,7 +6834,7 @@
     {
       "name": "~ Hamy",
       "posts": 5,
-      "daysAgo": 89,
+      "daysAgo": 90,
       "ppw": 0.4,
       "memDays": 93,
       "streak": 4,
@@ -6845,7 +6845,7 @@
     {
       "name": "~ patrick",
       "posts": 5,
-      "daysAgo": 84,
+      "daysAgo": 85,
       "ppw": 0.4,
       "memDays": 92,
       "streak": 2,
@@ -6856,7 +6856,7 @@
     {
       "name": "~ Rufus",
       "posts": 5,
-      "daysAgo": 83,
+      "daysAgo": 84,
       "ppw": 0.4,
       "memDays": 91,
       "streak": 1,
@@ -6867,7 +6867,7 @@
     {
       "name": "~ Vico",
       "posts": 5,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 0.4,
       "memDays": 91,
       "streak": 1,
@@ -6878,7 +6878,7 @@
     {
       "name": "~ Elisa",
       "posts": 5,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 0.4,
       "memDays": 87,
       "streak": 1,
@@ -6889,7 +6889,7 @@
     {
       "name": "~ Aigner Julian",
       "posts": 5,
-      "daysAgo": 56,
+      "daysAgo": 57,
       "ppw": 0.6,
       "memDays": 58,
       "streak": 2,
@@ -6900,7 +6900,7 @@
     {
       "name": "~ Paul Schlauch",
       "posts": 5,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.6,
       "memDays": 58,
       "streak": 1,
@@ -6911,7 +6911,7 @@
     {
       "name": "~ Lourenço Barreto",
       "posts": 5,
-      "daysAgo": 50,
+      "daysAgo": 51,
       "ppw": 0.6,
       "memDays": 57,
       "streak": 1,
@@ -6922,7 +6922,7 @@
     {
       "name": "~ Bennett",
       "posts": 5,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.6,
       "memDays": 61,
       "streak": 1,
@@ -6933,7 +6933,7 @@
     {
       "name": "~ Jeremy",
       "posts": 5,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.7,
       "memDays": 53,
       "streak": 4,
@@ -6944,7 +6944,7 @@
     {
       "name": "~ Tomás Viçoso",
       "posts": 5,
-      "daysAgo": 14,
+      "daysAgo": 15,
       "ppw": 0.7,
       "memDays": 51,
       "streak": 1,
@@ -6955,7 +6955,7 @@
     {
       "name": "Marie",
       "posts": 5,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 0.7,
       "memDays": 48,
       "streak": 1,
@@ -6966,7 +6966,7 @@
     {
       "name": "~ Lukas Vdh",
       "posts": 5,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 0.7,
       "memDays": 48,
       "streak": 1,
@@ -6977,7 +6977,7 @@
     {
       "name": "~ Gonçalo Coelho",
       "posts": 5,
-      "daysAgo": 30,
+      "daysAgo": 31,
       "ppw": 0.9,
       "memDays": 40,
       "streak": 2,
@@ -6988,7 +6988,7 @@
     {
       "name": "~ 😁",
       "posts": 5,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 0.9,
       "memDays": 39,
       "streak": 1,
@@ -6999,7 +6999,7 @@
     {
       "name": "~ Jannes ✌🏼",
       "posts": 5,
-      "daysAgo": 14,
+      "daysAgo": 15,
       "ppw": 1,
       "memDays": 36,
       "streak": 2,
@@ -7010,7 +7010,7 @@
     {
       "name": "~ Ju",
       "posts": 5,
-      "daysAgo": 16,
+      "daysAgo": 17,
       "ppw": 1.1,
       "memDays": 32,
       "streak": 2,
@@ -7021,7 +7021,7 @@
     {
       "name": "~ Justus Aulbur",
       "posts": 5,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 1.2,
       "memDays": 29,
       "streak": 2,
@@ -7032,7 +7032,7 @@
     {
       "name": "~ Peter",
       "posts": 5,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 1.3,
       "memDays": 28,
       "streak": 1,
@@ -7043,7 +7043,7 @@
     {
       "name": "~ Düsti",
       "posts": 5,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 35,
       "memDays": 1,
       "streak": 1,
@@ -7054,7 +7054,7 @@
     {
       "name": "~ Felipe",
       "posts": 4,
-      "daysAgo": 132,
+      "daysAgo": 133,
       "ppw": 0.2,
       "memDays": 159,
       "streak": 1,
@@ -7065,7 +7065,7 @@
     {
       "name": "~ Ken Lucas",
       "posts": 4,
-      "daysAgo": 152,
+      "daysAgo": 153,
       "ppw": 0.2,
       "memDays": 153,
       "streak": 1,
@@ -7076,7 +7076,7 @@
     {
       "name": "~ Jenny",
       "posts": 4,
-      "daysAgo": 147,
+      "daysAgo": 148,
       "ppw": 0.2,
       "memDays": 149,
       "streak": 2,
@@ -7087,7 +7087,7 @@
     {
       "name": "~ Jannette",
       "posts": 4,
-      "daysAgo": 92,
+      "daysAgo": 93,
       "ppw": 0.2,
       "memDays": 146,
       "streak": 1,
@@ -7098,7 +7098,7 @@
     {
       "name": "~ Rabea",
       "posts": 4,
-      "daysAgo": 61,
+      "daysAgo": 62,
       "ppw": 0.2,
       "memDays": 126,
       "streak": 1,
@@ -7109,7 +7109,7 @@
     {
       "name": "~ Luis G",
       "posts": 4,
-      "daysAgo": 98,
+      "daysAgo": 99,
       "ppw": 0.2,
       "memDays": 119,
       "streak": 1,
@@ -7120,7 +7120,7 @@
     {
       "name": "~ Nathan",
       "posts": 4,
-      "daysAgo": 118,
+      "daysAgo": 119,
       "ppw": 0.2,
       "memDays": 120,
       "streak": 1,
@@ -7131,7 +7131,7 @@
     {
       "name": "~ NK",
       "posts": 4,
-      "daysAgo": 78,
+      "daysAgo": 79,
       "ppw": 0.2,
       "memDays": 114,
       "streak": 1,
@@ -7142,7 +7142,7 @@
     {
       "name": "~ börschi",
       "posts": 4,
-      "daysAgo": 97,
+      "daysAgo": 98,
       "ppw": 0.2,
       "memDays": 113,
       "streak": 2,
@@ -7153,7 +7153,7 @@
     {
       "name": "~ klara",
       "posts": 4,
-      "daysAgo": 96,
+      "daysAgo": 97,
       "ppw": 0.3,
       "memDays": 101,
       "streak": 2,
@@ -7164,7 +7164,7 @@
     {
       "name": "~ Natalia",
       "posts": 4,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 0.3,
       "memDays": 100,
       "streak": 1,
@@ -7175,7 +7175,7 @@
     {
       "name": "~ Max Leinfelder",
       "posts": 4,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 0.3,
       "memDays": 91,
       "streak": 1,
@@ -7186,7 +7186,7 @@
     {
       "name": "~ Christoph",
       "posts": 4,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.3,
       "memDays": 85,
       "streak": 1,
@@ -7197,7 +7197,7 @@
     {
       "name": "~ Leonardo Storti",
       "posts": 4,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 0.3,
       "memDays": 85,
       "streak": 2,
@@ -7208,7 +7208,7 @@
     {
       "name": "~ Dasha",
       "posts": 4,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 0.3,
       "memDays": 84,
       "streak": 1,
@@ -7219,7 +7219,7 @@
     {
       "name": "~ Friedemann",
       "posts": 4,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.4,
       "memDays": 80,
       "streak": 2,
@@ -7230,7 +7230,7 @@
     {
       "name": "~ Vinz",
       "posts": 4,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.4,
       "memDays": 77,
       "streak": 1,
@@ -7241,7 +7241,7 @@
     {
       "name": "~ danielgraca879",
       "posts": 4,
-      "daysAgo": 58,
+      "daysAgo": 59,
       "ppw": 0.4,
       "memDays": 77,
       "streak": 1,
@@ -7252,7 +7252,7 @@
     {
       "name": "J0nes",
       "posts": 4,
-      "daysAgo": 70,
+      "daysAgo": 71,
       "ppw": 0.4,
       "memDays": 76,
       "streak": 1,
@@ -7263,7 +7263,7 @@
     {
       "name": "~ Benjamin",
       "posts": 4,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 0.4,
       "memDays": 72,
       "streak": 1,
@@ -7274,7 +7274,7 @@
     {
       "name": "~ Luisa",
       "posts": 4,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.3,
       "memDays": 97,
       "streak": 1,
@@ -7285,7 +7285,7 @@
     {
       "name": "~ sascha",
       "posts": 4,
-      "daysAgo": 70,
+      "daysAgo": 71,
       "ppw": 0.4,
       "memDays": 71,
       "streak": 1,
@@ -7296,7 +7296,7 @@
     {
       "name": "~ P",
       "posts": 4,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 0.4,
       "memDays": 65,
       "streak": 1,
@@ -7307,7 +7307,7 @@
     {
       "name": "~ Sebastian Hilger",
       "posts": 4,
-      "daysAgo": 56,
+      "daysAgo": 57,
       "ppw": 0.4,
       "memDays": 64,
       "streak": 1,
@@ -7318,7 +7318,7 @@
     {
       "name": "~ g",
       "posts": 4,
-      "daysAgo": 61,
+      "daysAgo": 62,
       "ppw": 0.4,
       "memDays": 64,
       "streak": 1,
@@ -7329,7 +7329,7 @@
     {
       "name": "~ Caterina Daller",
       "posts": 4,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 0.4,
       "memDays": 63,
       "streak": 1,
@@ -7340,7 +7340,7 @@
     {
       "name": "~ Lauri",
       "posts": 4,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 0.5,
       "memDays": 57,
       "streak": 2,
@@ -7351,7 +7351,7 @@
     {
       "name": "~ Mario Abel",
       "posts": 4,
-      "daysAgo": 54,
+      "daysAgo": 55,
       "ppw": 0.5,
       "memDays": 56,
       "streak": 2,
@@ -7362,7 +7362,7 @@
     {
       "name": "~ André Reis",
       "posts": 4,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.5,
       "memDays": 56,
       "streak": 1,
@@ -7373,7 +7373,7 @@
     {
       "name": "~ Gonçalo Duarte",
       "posts": 4,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.5,
       "memDays": 56,
       "streak": 1,
@@ -7384,7 +7384,7 @@
     {
       "name": "~ Daniel Buchs",
       "posts": 4,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.5,
       "memDays": 58,
       "streak": 1,
@@ -7395,7 +7395,7 @@
     {
       "name": "~ lou",
       "posts": 4,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 0.5,
       "memDays": 56,
       "streak": 1,
@@ -7406,7 +7406,7 @@
     {
       "name": "~ jng",
       "posts": 4,
-      "daysAgo": 36,
+      "daysAgo": 37,
       "ppw": 0.6,
       "memDays": 50,
       "streak": 1,
@@ -7417,7 +7417,7 @@
     {
       "name": "~ Aline",
       "posts": 4,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 0.6,
       "memDays": 49,
       "streak": 1,
@@ -7428,7 +7428,7 @@
     {
       "name": "~ Morian",
       "posts": 4,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 0.7,
       "memDays": 39,
       "streak": 1,
@@ -7439,7 +7439,7 @@
     {
       "name": "~ Morten",
       "posts": 4,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 0.7,
       "memDays": 38,
       "streak": 2,
@@ -7450,7 +7450,7 @@
     {
       "name": "~ Friedrich Weiler",
       "posts": 4,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 0.8,
       "memDays": 37,
       "streak": 1,
@@ -7461,7 +7461,7 @@
     {
       "name": "~ Dave",
       "posts": 4,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 0.6,
       "memDays": 48,
       "streak": 2,
@@ -7472,7 +7472,7 @@
     {
       "name": "~ Leo🥰",
       "posts": 4,
-      "daysAgo": 29,
+      "daysAgo": 30,
       "ppw": 0.9,
       "memDays": 30,
       "streak": 1,
@@ -7483,7 +7483,7 @@
     {
       "name": "~ fjp",
       "posts": 4,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.9,
       "memDays": 30,
       "streak": 3,
@@ -7494,7 +7494,7 @@
     {
       "name": "~ Yannic",
       "posts": 4,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.9,
       "memDays": 30,
       "streak": 1,
@@ -7505,7 +7505,7 @@
     {
       "name": "~ angelina",
       "posts": 4,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 0.6,
       "memDays": 49,
       "streak": 1,
@@ -7516,7 +7516,7 @@
     {
       "name": "~ Christian Kallienke",
       "posts": 4,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 1.3,
       "memDays": 21,
       "streak": 1,
@@ -7527,7 +7527,7 @@
     {
       "name": "~ Julian F.",
       "posts": 4,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 1.9,
       "memDays": 15,
       "streak": 1,
@@ -7538,7 +7538,7 @@
     {
       "name": "~ Erik Doni",
       "posts": 4,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 2.8,
       "memDays": 10,
       "streak": 1,
@@ -7547,9 +7547,20 @@
       "lastStr": "03.07.26"
     },
     {
+      "name": "~ Cristian",
+      "posts": 4,
+      "daysAgo": 1,
+      "ppw": 14,
+      "memDays": 2,
+      "streak": 2,
+      "hasLeft": false,
+      "joinStr": "09.07.26",
+      "lastStr": "10.07.26"
+    },
+    {
       "name": "~ raphael",
       "posts": 3,
-      "daysAgo": 121,
+      "daysAgo": 122,
       "ppw": 0.1,
       "memDays": 172,
       "streak": 1,
@@ -7560,7 +7571,7 @@
     {
       "name": "~ Aron",
       "posts": 3,
-      "daysAgo": 160,
+      "daysAgo": 161,
       "ppw": 0.1,
       "memDays": 161,
       "streak": 1,
@@ -7571,7 +7582,7 @@
     {
       "name": "~ jan",
       "posts": 3,
-      "daysAgo": 94,
+      "daysAgo": 95,
       "ppw": 0.1,
       "memDays": 158,
       "streak": 1,
@@ -7582,7 +7593,7 @@
     {
       "name": "~ Conner",
       "posts": 3,
-      "daysAgo": 154,
+      "daysAgo": 155,
       "ppw": 0.1,
       "memDays": 155,
       "streak": 1,
@@ -7593,7 +7604,7 @@
     {
       "name": "~ Ramon",
       "posts": 3,
-      "daysAgo": 153,
+      "daysAgo": 154,
       "ppw": 0.1,
       "memDays": 155,
       "streak": 2,
@@ -7604,7 +7615,7 @@
     {
       "name": "~ Oscar",
       "posts": 3,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.1,
       "memDays": 156,
       "streak": 1,
@@ -7615,7 +7626,7 @@
     {
       "name": "~ Znami",
       "posts": 3,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.1,
       "memDays": 147,
       "streak": 2,
@@ -7626,7 +7637,7 @@
     {
       "name": "~ Laslo",
       "posts": 3,
-      "daysAgo": 139,
+      "daysAgo": 140,
       "ppw": 0.2,
       "memDays": 140,
       "streak": 1,
@@ -7637,7 +7648,7 @@
     {
       "name": "~ Hias",
       "posts": 3,
-      "daysAgo": 139,
+      "daysAgo": 140,
       "ppw": 0.2,
       "memDays": 140,
       "streak": 1,
@@ -7648,7 +7659,7 @@
     {
       "name": "~ Emanuel",
       "posts": 3,
-      "daysAgo": 131,
+      "daysAgo": 132,
       "ppw": 0.2,
       "memDays": 135,
       "streak": 2,
@@ -7659,7 +7670,7 @@
     {
       "name": "~ Michi",
       "posts": 3,
-      "daysAgo": 114,
+      "daysAgo": 115,
       "ppw": 0.2,
       "memDays": 134,
       "streak": 1,
@@ -7670,7 +7681,7 @@
     {
       "name": "~ Sophie F",
       "posts": 3,
-      "daysAgo": 100,
+      "daysAgo": 101,
       "ppw": 0.2,
       "memDays": 134,
       "streak": 1,
@@ -7681,7 +7692,7 @@
     {
       "name": "~ Lukas Köpf",
       "posts": 3,
-      "daysAgo": 114,
+      "daysAgo": 115,
       "ppw": 0.2,
       "memDays": 134,
       "streak": 1,
@@ -7692,7 +7703,7 @@
     {
       "name": "~ Paula",
       "posts": 3,
-      "daysAgo": 111,
+      "daysAgo": 112,
       "ppw": 0.1,
       "memDays": 146,
       "streak": 1,
@@ -7703,7 +7714,7 @@
     {
       "name": "~ David Hofmann",
       "posts": 3,
-      "daysAgo": 119,
+      "daysAgo": 120,
       "ppw": 0.2,
       "memDays": 131,
       "streak": 1,
@@ -7714,7 +7725,7 @@
     {
       "name": "~ Jannes",
       "posts": 3,
-      "daysAgo": 128,
+      "daysAgo": 129,
       "ppw": 0.2,
       "memDays": 130,
       "streak": 1,
@@ -7725,7 +7736,7 @@
     {
       "name": "~ Luigi Angelo Cacciatore",
       "posts": 3,
-      "daysAgo": 110,
+      "daysAgo": 111,
       "ppw": 0.2,
       "memDays": 132,
       "streak": 1,
@@ -7736,7 +7747,7 @@
     {
       "name": "~ Manuel Ferreira do Amaral",
       "posts": 3,
-      "daysAgo": 97,
+      "daysAgo": 98,
       "ppw": 0.2,
       "memDays": 126,
       "streak": 2,
@@ -7747,7 +7758,7 @@
     {
       "name": "Alessandro",
       "posts": 3,
-      "daysAgo": 123,
+      "daysAgo": 124,
       "ppw": 0.2,
       "memDays": 125,
       "streak": 2,
@@ -7758,7 +7769,7 @@
     {
       "name": "~ Finn Jankowiak",
       "posts": 3,
-      "daysAgo": 83,
+      "daysAgo": 84,
       "ppw": 0.2,
       "memDays": 119,
       "streak": 1,
@@ -7769,7 +7780,7 @@
     {
       "name": "~ benny",
       "posts": 3,
-      "daysAgo": 98,
+      "daysAgo": 99,
       "ppw": 0.2,
       "memDays": 113,
       "streak": 1,
@@ -7780,7 +7791,7 @@
     {
       "name": "~ Yassin",
       "posts": 3,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 0.2,
       "memDays": 107,
       "streak": 1,
@@ -7791,7 +7802,7 @@
     {
       "name": "~ Gaspar",
       "posts": 3,
-      "daysAgo": 99,
+      "daysAgo": 100,
       "ppw": 0.2,
       "memDays": 106,
       "streak": 2,
@@ -7802,7 +7813,7 @@
     {
       "name": "~ Henrieke",
       "posts": 3,
-      "daysAgo": 97,
+      "daysAgo": 98,
       "ppw": 0.2,
       "memDays": 106,
       "streak": 1,
@@ -7813,7 +7824,7 @@
     {
       "name": "~ Schluuns",
       "posts": 3,
-      "daysAgo": 43,
+      "daysAgo": 44,
       "ppw": 0.2,
       "memDays": 104,
       "streak": 1,
@@ -7824,7 +7835,7 @@
     {
       "name": "~ Lennart",
       "posts": 3,
-      "daysAgo": 97,
+      "daysAgo": 98,
       "ppw": 0.2,
       "memDays": 98,
       "streak": 1,
@@ -7835,7 +7846,7 @@
     {
       "name": "~ Moritz Rother",
       "posts": 3,
-      "daysAgo": 65,
+      "daysAgo": 66,
       "ppw": 0.2,
       "memDays": 100,
       "streak": 1,
@@ -7846,7 +7857,7 @@
     {
       "name": "~ Felix Schenk",
       "posts": 3,
-      "daysAgo": 94,
+      "daysAgo": 95,
       "ppw": 0.2,
       "memDays": 96,
       "streak": 1,
@@ -7857,7 +7868,7 @@
     {
       "name": "~ Timo Steinheimer",
       "posts": 3,
-      "daysAgo": 87,
+      "daysAgo": 88,
       "ppw": 0.2,
       "memDays": 94,
       "streak": 1,
@@ -7868,7 +7879,7 @@
     {
       "name": "~ Sophie",
       "posts": 3,
-      "daysAgo": 79,
+      "daysAgo": 80,
       "ppw": 0.2,
       "memDays": 87,
       "streak": 1,
@@ -7879,7 +7890,7 @@
     {
       "name": "~ Wouter Smulders",
       "posts": 3,
-      "daysAgo": 26,
+      "daysAgo": 27,
       "ppw": 0.2,
       "memDays": 126,
       "streak": 1,
@@ -7890,7 +7901,7 @@
     {
       "name": "~ Edda",
       "posts": 3,
-      "daysAgo": 77,
+      "daysAgo": 78,
       "ppw": 0.3,
       "memDays": 78,
       "streak": 1,
@@ -7901,7 +7912,7 @@
     {
       "name": "~ nele",
       "posts": 3,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 0.3,
       "memDays": 78,
       "streak": 1,
@@ -7912,7 +7923,7 @@
     {
       "name": "~ theo",
       "posts": 3,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.3,
       "memDays": 78,
       "streak": 2,
@@ -7923,7 +7934,7 @@
     {
       "name": "~ hannahrx",
       "posts": 3,
-      "daysAgo": 73,
+      "daysAgo": 74,
       "ppw": 0.3,
       "memDays": 78,
       "streak": 2,
@@ -7934,7 +7945,7 @@
     {
       "name": "~ Olivia",
       "posts": 3,
-      "daysAgo": 69,
+      "daysAgo": 70,
       "ppw": 0.2,
       "memDays": 85,
       "streak": 1,
@@ -7945,7 +7956,7 @@
     {
       "name": "~ Elia",
       "posts": 3,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 0.3,
       "memDays": 75,
       "streak": 1,
@@ -7956,7 +7967,7 @@
     {
       "name": "~ Matze",
       "posts": 3,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.3,
       "memDays": 77,
       "streak": 2,
@@ -7967,7 +7978,7 @@
     {
       "name": "~ Milla",
       "posts": 3,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 0.3,
       "memDays": 63,
       "streak": 1,
@@ -7978,7 +7989,7 @@
     {
       "name": "~ Marino Kortbus",
       "posts": 3,
-      "daysAgo": 62,
+      "daysAgo": 63,
       "ppw": 0.3,
       "memDays": 63,
       "streak": 1,
@@ -7989,7 +8000,7 @@
     {
       "name": "~ Henrik",
       "posts": 3,
-      "daysAgo": 22,
+      "daysAgo": 23,
       "ppw": 0.4,
       "memDays": 59,
       "streak": 1,
@@ -8000,7 +8011,7 @@
     {
       "name": "~ Andreas Zeitler",
       "posts": 3,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 0.4,
       "memDays": 58,
       "streak": 1,
@@ -8011,7 +8022,7 @@
     {
       "name": "~ Richard",
       "posts": 3,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.4,
       "memDays": 59,
       "streak": 1,
@@ -8022,7 +8033,7 @@
     {
       "name": "~ Gabriela Lafratta🧿",
       "posts": 3,
-      "daysAgo": 26,
+      "daysAgo": 27,
       "ppw": 0.4,
       "memDays": 55,
       "streak": 1,
@@ -8033,7 +8044,7 @@
     {
       "name": "~ Adrian",
       "posts": 3,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 0.4,
       "memDays": 59,
       "streak": 1,
@@ -8044,7 +8055,7 @@
     {
       "name": "~ nikolas",
       "posts": 3,
-      "daysAgo": 52,
+      "daysAgo": 53,
       "ppw": 0.4,
       "memDays": 54,
       "streak": 2,
@@ -8055,7 +8066,7 @@
     {
       "name": "~ Damian",
       "posts": 3,
-      "daysAgo": 22,
+      "daysAgo": 23,
       "ppw": 0.4,
       "memDays": 56,
       "streak": 1,
@@ -8066,7 +8077,7 @@
     {
       "name": "~ Lasse",
       "posts": 3,
-      "daysAgo": 46,
+      "daysAgo": 47,
       "ppw": 0.3,
       "memDays": 66,
       "streak": 1,
@@ -8077,7 +8088,7 @@
     {
       "name": "~ Tomás Graciano",
       "posts": 3,
-      "daysAgo": 37,
+      "daysAgo": 38,
       "ppw": 0.4,
       "memDays": 52,
       "streak": 1,
@@ -8088,7 +8099,7 @@
     {
       "name": "~ Tomas Brito",
       "posts": 3,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 0.4,
       "memDays": 52,
       "streak": 1,
@@ -8099,7 +8110,7 @@
     {
       "name": "~ Öykü Süoglu",
       "posts": 3,
-      "daysAgo": 23,
+      "daysAgo": 24,
       "ppw": 0.4,
       "memDays": 52,
       "streak": 1,
@@ -8110,7 +8121,7 @@
     {
       "name": "~ Moritz Thiele",
       "posts": 3,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.4,
       "memDays": 50,
       "streak": 1,
@@ -8121,7 +8132,7 @@
     {
       "name": "~ Lia",
       "posts": 3,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 0.4,
       "memDays": 52,
       "streak": 2,
@@ -8132,7 +8143,7 @@
     {
       "name": "~ João SB",
       "posts": 3,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.4,
       "memDays": 51,
       "streak": 2,
@@ -8143,7 +8154,7 @@
     {
       "name": "~ Miguel Ferreira",
       "posts": 3,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 0.4,
       "memDays": 49,
       "streak": 1,
@@ -8154,7 +8165,7 @@
     {
       "name": "~ Jambo",
       "posts": 3,
-      "daysAgo": 44,
+      "daysAgo": 45,
       "ppw": 0.3,
       "memDays": 70,
       "streak": 2,
@@ -8165,7 +8176,7 @@
     {
       "name": "~ Nikola",
       "posts": 3,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.2,
       "memDays": 95,
       "streak": 1,
@@ -8176,7 +8187,7 @@
     {
       "name": "~ Bernardo Oliveira",
       "posts": 3,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.5,
       "memDays": 43,
       "streak": 2,
@@ -8187,7 +8198,7 @@
     {
       "name": "~ Jordan",
       "posts": 3,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.5,
       "memDays": 45,
       "streak": 1,
@@ -8198,7 +8209,7 @@
     {
       "name": "~ Antonio Sobral",
       "posts": 3,
-      "daysAgo": 36,
+      "daysAgo": 37,
       "ppw": 0.5,
       "memDays": 39,
       "streak": 3,
@@ -8207,9 +8218,20 @@
       "lastStr": "04.06.26"
     },
     {
+      "name": "~ Moses",
+      "posts": 3,
+      "daysAgo": 1,
+      "ppw": 0.5,
+      "memDays": 39,
+      "streak": 1,
+      "hasLeft": false,
+      "joinStr": "02.06.26",
+      "lastStr": "10.07.26"
+    },
+    {
       "name": "~ João Maria Coelho",
       "posts": 3,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 0.5,
       "memDays": 39,
       "streak": 1,
@@ -8220,7 +8242,7 @@
     {
       "name": "~ Luís Souto Barreiros",
       "posts": 3,
-      "daysAgo": 36,
+      "daysAgo": 37,
       "ppw": 0.5,
       "memDays": 39,
       "streak": 2,
@@ -8231,7 +8253,7 @@
     {
       "name": "~ Kendra",
       "posts": 3,
-      "daysAgo": 37,
+      "daysAgo": 38,
       "ppw": 0.6,
       "memDays": 38,
       "streak": 1,
@@ -8242,7 +8264,7 @@
     {
       "name": "~ Clara",
       "posts": 3,
-      "daysAgo": 37,
+      "daysAgo": 38,
       "ppw": 0.6,
       "memDays": 38,
       "streak": 1,
@@ -8253,7 +8275,7 @@
     {
       "name": "~ Nuno Correia",
       "posts": 3,
-      "daysAgo": 22,
+      "daysAgo": 23,
       "ppw": 0.7,
       "memDays": 29,
       "streak": 1,
@@ -8264,7 +8286,7 @@
     {
       "name": "~ Javi ☀️",
       "posts": 3,
-      "daysAgo": 26,
+      "daysAgo": 27,
       "ppw": 0.8,
       "memDays": 28,
       "streak": 1,
@@ -8275,7 +8297,7 @@
     {
       "name": "~ Gonçalo Marques",
       "posts": 3,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 0.8,
       "memDays": 28,
       "streak": 1,
@@ -8286,7 +8308,7 @@
     {
       "name": "~ Niede⚪️🔵",
       "posts": 3,
-      "daysAgo": 14,
+      "daysAgo": 15,
       "ppw": 1,
       "memDays": 22,
       "streak": 1,
@@ -8297,7 +8319,7 @@
     {
       "name": "~ Ben Johnscher",
       "posts": 3,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 2.6,
       "memDays": 8,
       "streak": 2,
@@ -8308,7 +8330,7 @@
     {
       "name": "~ Niklas Haas",
       "posts": 3,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3,
       "memDays": 7,
       "streak": 1,
@@ -8317,20 +8339,9 @@
       "lastStr": "10.07.26"
     },
     {
-      "name": "~ Cristian",
-      "posts": 3,
-      "daysAgo": 0,
-      "ppw": 10.5,
-      "memDays": 2,
-      "streak": 2,
-      "hasLeft": false,
-      "joinStr": "09.07.26",
-      "lastStr": "10.07.26"
-    },
-    {
       "name": "~ Neeske 🌻",
       "posts": 3,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1,
       "memDays": 21,
       "streak": 2,
@@ -8341,7 +8352,7 @@
     {
       "name": "~ Katja",
       "posts": 2,
-      "daysAgo": 160,
+      "daysAgo": 161,
       "ppw": 0.1,
       "memDays": 163,
       "streak": 2,
@@ -8352,7 +8363,7 @@
     {
       "name": "~ niklas",
       "posts": 2,
-      "daysAgo": 154,
+      "daysAgo": 155,
       "ppw": 0.1,
       "memDays": 155,
       "streak": 1,
@@ -8363,7 +8374,7 @@
     {
       "name": "~ Jure Udovč",
       "posts": 2,
-      "daysAgo": 12,
+      "daysAgo": 13,
       "ppw": 0.1,
       "memDays": 154,
       "streak": 1,
@@ -8374,7 +8385,7 @@
     {
       "name": "~ Julius Collet",
       "posts": 2,
-      "daysAgo": 144,
+      "daysAgo": 145,
       "ppw": 0.1,
       "memDays": 193,
       "streak": 1,
@@ -8385,7 +8396,7 @@
     {
       "name": "~ Otto Jendrek",
       "posts": 2,
-      "daysAgo": 146,
+      "daysAgo": 147,
       "ppw": 0.1,
       "memDays": 149,
       "streak": 1,
@@ -8396,7 +8407,7 @@
     {
       "name": "Nina Lindemann",
       "posts": 2,
-      "daysAgo": 146,
+      "daysAgo": 147,
       "ppw": 0.1,
       "memDays": 193,
       "streak": 2,
@@ -8407,7 +8418,7 @@
     {
       "name": "~ martinerft",
       "posts": 2,
-      "daysAgo": 145,
+      "daysAgo": 146,
       "ppw": 0.1,
       "memDays": 147,
       "streak": 2,
@@ -8418,7 +8429,7 @@
     {
       "name": "~ dominic dre",
       "posts": 2,
-      "daysAgo": 145,
+      "daysAgo": 146,
       "ppw": 0.1,
       "memDays": 146,
       "streak": 1,
@@ -8429,7 +8440,7 @@
     {
       "name": "~ Susanne Groten",
       "posts": 2,
-      "daysAgo": 145,
+      "daysAgo": 146,
       "ppw": 0.1,
       "memDays": 147,
       "streak": 1,
@@ -8440,7 +8451,7 @@
     {
       "name": "~ Federico",
       "posts": 2,
-      "daysAgo": 140,
+      "daysAgo": 141,
       "ppw": 0.1,
       "memDays": 193,
       "streak": 1,
@@ -8451,7 +8462,7 @@
     {
       "name": "~ John",
       "posts": 2,
-      "daysAgo": 139,
+      "daysAgo": 140,
       "ppw": 0.1,
       "memDays": 140,
       "streak": 1,
@@ -8462,7 +8473,7 @@
     {
       "name": "~ Andrea",
       "posts": 2,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 0.1,
       "memDays": 140,
       "streak": 1,
@@ -8473,7 +8484,7 @@
     {
       "name": "~ mattia h",
       "posts": 2,
-      "daysAgo": 133,
+      "daysAgo": 134,
       "ppw": 0.1,
       "memDays": 134,
       "streak": 1,
@@ -8484,7 +8495,7 @@
     {
       "name": "~ Jose Brito",
       "posts": 2,
-      "daysAgo": 124,
+      "daysAgo": 125,
       "ppw": 0.1,
       "memDays": 127,
       "streak": 1,
@@ -8495,7 +8506,7 @@
     {
       "name": "~ T.G",
       "posts": 2,
-      "daysAgo": 118,
+      "daysAgo": 119,
       "ppw": 0.1,
       "memDays": 120,
       "streak": 2,
@@ -8506,7 +8517,7 @@
     {
       "name": "~ Max D.",
       "posts": 2,
-      "daysAgo": 105,
+      "daysAgo": 106,
       "ppw": 0.1,
       "memDays": 120,
       "streak": 1,
@@ -8517,7 +8528,7 @@
     {
       "name": "~ Anja 🌻",
       "posts": 2,
-      "daysAgo": 118,
+      "daysAgo": 119,
       "ppw": 0.1,
       "memDays": 121,
       "streak": 1,
@@ -8528,7 +8539,7 @@
     {
       "name": "~ 🍑",
       "posts": 2,
-      "daysAgo": 104,
+      "daysAgo": 105,
       "ppw": 0.1,
       "memDays": 119,
       "streak": 1,
@@ -8539,7 +8550,7 @@
     {
       "name": "~ Matthieu Bouchet",
       "posts": 2,
-      "daysAgo": 113,
+      "daysAgo": 114,
       "ppw": 0.1,
       "memDays": 115,
       "streak": 2,
@@ -8550,7 +8561,7 @@
     {
       "name": "~ Matteo",
       "posts": 2,
-      "daysAgo": 101,
+      "daysAgo": 102,
       "ppw": 0.1,
       "memDays": 103,
       "streak": 1,
@@ -8561,7 +8572,7 @@
     {
       "name": "~ Robin Hülse",
       "posts": 2,
-      "daysAgo": 101,
+      "daysAgo": 102,
       "ppw": 0.1,
       "memDays": 102,
       "streak": 1,
@@ -8572,7 +8583,7 @@
     {
       "name": "~ Jakub",
       "posts": 2,
-      "daysAgo": 99,
+      "daysAgo": 100,
       "ppw": 0.1,
       "memDays": 101,
       "streak": 2,
@@ -8583,7 +8594,7 @@
     {
       "name": "~ Felix Weinzierl",
       "posts": 2,
-      "daysAgo": 99,
+      "daysAgo": 100,
       "ppw": 0.1,
       "memDays": 101,
       "streak": 1,
@@ -8594,7 +8605,7 @@
     {
       "name": "~ 🍺",
       "posts": 2,
-      "daysAgo": 99,
+      "daysAgo": 100,
       "ppw": 0.1,
       "memDays": 100,
       "streak": 1,
@@ -8605,7 +8616,7 @@
     {
       "name": "~ tini",
       "posts": 2,
-      "daysAgo": 94,
+      "daysAgo": 95,
       "ppw": 0.1,
       "memDays": 132,
       "streak": 1,
@@ -8616,7 +8627,7 @@
     {
       "name": "~ Simon Pritscher",
       "posts": 2,
-      "daysAgo": 97,
+      "daysAgo": 98,
       "ppw": 0.1,
       "memDays": 99,
       "streak": 2,
@@ -8627,7 +8638,7 @@
     {
       "name": "~ Harders",
       "posts": 2,
-      "daysAgo": 98,
+      "daysAgo": 99,
       "ppw": 0.1,
       "memDays": 99,
       "streak": 1,
@@ -8638,7 +8649,7 @@
     {
       "name": "~ Felix Held",
       "posts": 2,
-      "daysAgo": 97,
+      "daysAgo": 98,
       "ppw": 0.1,
       "memDays": 98,
       "streak": 1,
@@ -8649,7 +8660,7 @@
     {
       "name": "~ Elena Zacarias",
       "posts": 2,
-      "daysAgo": 70,
+      "daysAgo": 71,
       "ppw": 0.1,
       "memDays": 99,
       "streak": 1,
@@ -8660,7 +8671,7 @@
     {
       "name": "~ Romain Fauvel",
       "posts": 2,
-      "daysAgo": 91,
+      "daysAgo": 92,
       "ppw": 0.1,
       "memDays": 97,
       "streak": 1,
@@ -8671,7 +8682,7 @@
     {
       "name": "~ Eren",
       "posts": 2,
-      "daysAgo": 92,
+      "daysAgo": 93,
       "ppw": 0.1,
       "memDays": 94,
       "streak": 2,
@@ -8682,7 +8693,7 @@
     {
       "name": "~ Vinzenz Löw",
       "posts": 2,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 0.2,
       "memDays": 91,
       "streak": 1,
@@ -8693,7 +8704,7 @@
     {
       "name": "~ Rich",
       "posts": 2,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 0.2,
       "memDays": 91,
       "streak": 1,
@@ -8704,7 +8715,7 @@
     {
       "name": "~ Markus",
       "posts": 2,
-      "daysAgo": 83,
+      "daysAgo": 84,
       "ppw": 0.2,
       "memDays": 91,
       "streak": 1,
@@ -8715,7 +8726,7 @@
     {
       "name": "~ Helena",
       "posts": 2,
-      "daysAgo": 85,
+      "daysAgo": 86,
       "ppw": 0.2,
       "memDays": 90,
       "streak": 1,
@@ -8726,7 +8737,7 @@
     {
       "name": "~ Sebastian Schmidt",
       "posts": 2,
-      "daysAgo": 83,
+      "daysAgo": 84,
       "ppw": 0.2,
       "memDays": 86,
       "streak": 2,
@@ -8737,7 +8748,7 @@
     {
       "name": "~ Mafalda Namora",
       "posts": 2,
-      "daysAgo": 84,
+      "daysAgo": 85,
       "ppw": 0.2,
       "memDays": 85,
       "streak": 1,
@@ -8748,7 +8759,7 @@
     {
       "name": "~ João Salazar Braga",
       "posts": 2,
-      "daysAgo": 84,
+      "daysAgo": 85,
       "ppw": 0.2,
       "memDays": 85,
       "streak": 1,
@@ -8759,7 +8770,7 @@
     {
       "name": "~ Clemens",
       "posts": 2,
-      "daysAgo": 83,
+      "daysAgo": 84,
       "ppw": 0.2,
       "memDays": 84,
       "streak": 1,
@@ -8770,7 +8781,7 @@
     {
       "name": "~ Manuel Alves",
       "posts": 2,
-      "daysAgo": 82,
+      "daysAgo": 83,
       "ppw": 0.2,
       "memDays": 83,
       "streak": 1,
@@ -8781,7 +8792,7 @@
     {
       "name": "~ hanni",
       "posts": 2,
-      "daysAgo": 79,
+      "daysAgo": 80,
       "ppw": 0.2,
       "memDays": 83,
       "streak": 1,
@@ -8792,7 +8803,7 @@
     {
       "name": "~ Veronica Slanzi",
       "posts": 2,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.2,
       "memDays": 84,
       "streak": 1,
@@ -8803,7 +8814,7 @@
     {
       "name": "~ Can / ZoneX",
       "posts": 2,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 0.2,
       "memDays": 84,
       "streak": 1,
@@ -8814,7 +8825,7 @@
     {
       "name": "~ Thore",
       "posts": 2,
-      "daysAgo": 78,
+      "daysAgo": 79,
       "ppw": 0.2,
       "memDays": 84,
       "streak": 1,
@@ -8825,7 +8836,7 @@
     {
       "name": "~ Fernando",
       "posts": 2,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.2,
       "memDays": 79,
       "streak": 1,
@@ -8836,7 +8847,7 @@
     {
       "name": "~ Quentin",
       "posts": 2,
-      "daysAgo": 74,
+      "daysAgo": 75,
       "ppw": 0.2,
       "memDays": 78,
       "streak": 1,
@@ -8847,7 +8858,7 @@
     {
       "name": "~ Lorenz Vogelheim",
       "posts": 2,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 0.2,
       "memDays": 79,
       "streak": 1,
@@ -8858,7 +8869,7 @@
     {
       "name": "~ Johanna aka Joe 🌞",
       "posts": 2,
-      "daysAgo": 70,
+      "daysAgo": 71,
       "ppw": 0.2,
       "memDays": 80,
       "streak": 1,
@@ -8869,7 +8880,7 @@
     {
       "name": "~ Tim Tschubel",
       "posts": 2,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.2,
       "memDays": 77,
       "streak": 1,
@@ -8880,7 +8891,7 @@
     {
       "name": "~ Pablo",
       "posts": 2,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.2,
       "memDays": 77,
       "streak": 1,
@@ -8891,7 +8902,7 @@
     {
       "name": "~ Viola",
       "posts": 2,
-      "daysAgo": 69,
+      "daysAgo": 70,
       "ppw": 0.2,
       "memDays": 78,
       "streak": 1,
@@ -8902,7 +8913,7 @@
     {
       "name": "~ Klemens",
       "posts": 2,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.2,
       "memDays": 77,
       "streak": 1,
@@ -8913,7 +8924,7 @@
     {
       "name": "~ David Salvador",
       "posts": 2,
-      "daysAgo": 71,
+      "daysAgo": 72,
       "ppw": 0.2,
       "memDays": 76,
       "streak": 1,
@@ -8924,7 +8935,7 @@
     {
       "name": "~ Niklas Placzek",
       "posts": 2,
-      "daysAgo": 35,
+      "daysAgo": 36,
       "ppw": 0.2,
       "memDays": 73,
       "streak": 1,
@@ -8935,7 +8946,7 @@
     {
       "name": "~ Beni",
       "posts": 2,
-      "daysAgo": 71,
+      "daysAgo": 72,
       "ppw": 0.2,
       "memDays": 72,
       "streak": 1,
@@ -8946,7 +8957,7 @@
     {
       "name": "~ Malte Kuhnle",
       "posts": 2,
-      "daysAgo": 63,
+      "daysAgo": 64,
       "ppw": 0.2,
       "memDays": 66,
       "streak": 1,
@@ -8957,7 +8968,7 @@
     {
       "name": "~ Phil Brüggemann",
       "posts": 2,
-      "daysAgo": 61,
+      "daysAgo": 62,
       "ppw": 0.2,
       "memDays": 63,
       "streak": 2,
@@ -8968,7 +8979,7 @@
     {
       "name": "~ Tim R.",
       "posts": 2,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.2,
       "memDays": 58,
       "streak": 1,
@@ -8979,7 +8990,7 @@
     {
       "name": "~ David Carvalho",
       "posts": 2,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.2,
       "memDays": 61,
       "streak": 2,
@@ -8990,7 +9001,7 @@
     {
       "name": "~ Randolf / ランドルフ",
       "posts": 2,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.2,
       "memDays": 57,
       "streak": 1,
@@ -9001,7 +9012,7 @@
     {
       "name": "~ Pfefffiiii",
       "posts": 2,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.2,
       "memDays": 58,
       "streak": 1,
@@ -9012,7 +9023,7 @@
     {
       "name": "~ Bernardo Madeira",
       "posts": 2,
-      "daysAgo": 36,
+      "daysAgo": 37,
       "ppw": 0.2,
       "memDays": 57,
       "streak": 1,
@@ -9023,7 +9034,7 @@
     {
       "name": "~ jonas | paco",
       "posts": 2,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.3,
       "memDays": 56,
       "streak": 1,
@@ -9034,7 +9045,7 @@
     {
       "name": "~ Francisco Pires",
       "posts": 2,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.2,
       "memDays": 57,
       "streak": 1,
@@ -9045,7 +9056,7 @@
     {
       "name": "~ Tabea",
       "posts": 2,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 0.3,
       "memDays": 56,
       "streak": 1,
@@ -9056,7 +9067,7 @@
     {
       "name": "~ Gil Melo",
       "posts": 2,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.3,
       "memDays": 51,
       "streak": 1,
@@ -9067,7 +9078,7 @@
     {
       "name": "~ Gian Luca La Tragna",
       "posts": 2,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.3,
       "memDays": 52,
       "streak": 1,
@@ -9078,7 +9089,7 @@
     {
       "name": "~ erdem",
       "posts": 2,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 0.3,
       "memDays": 51,
       "streak": 1,
@@ -9089,7 +9100,7 @@
     {
       "name": "~ Phillip",
       "posts": 2,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.3,
       "memDays": 50,
       "streak": 2,
@@ -9100,7 +9111,7 @@
     {
       "name": "~ Nicolas",
       "posts": 2,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 0.3,
       "memDays": 50,
       "streak": 1,
@@ -9111,7 +9122,7 @@
     {
       "name": "~ Francisco Sousa",
       "posts": 2,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.3,
       "memDays": 50,
       "streak": 1,
@@ -9122,7 +9133,7 @@
     {
       "name": "~ Nina Feldmann",
       "posts": 2,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.3,
       "memDays": 49,
       "streak": 1,
@@ -9133,7 +9144,7 @@
     {
       "name": "~ Dorian Peters",
       "posts": 2,
-      "daysAgo": 9,
+      "daysAgo": 10,
       "ppw": 0.3,
       "memDays": 50,
       "streak": 1,
@@ -9144,7 +9155,7 @@
     {
       "name": "~ Akram",
       "posts": 2,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.2,
       "memDays": 85,
       "streak": 1,
@@ -9155,7 +9166,7 @@
     {
       "name": "~ Joao Rodrigues",
       "posts": 2,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 0.2,
       "memDays": 77,
       "streak": 1,
@@ -9166,7 +9177,7 @@
     {
       "name": "~ Lena",
       "posts": 2,
-      "daysAgo": 19,
+      "daysAgo": 20,
       "ppw": 0.3,
       "memDays": 51,
       "streak": 1,
@@ -9177,7 +9188,7 @@
     {
       "name": "~ Andy🐱",
       "posts": 2,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 0.3,
       "memDays": 48,
       "streak": 1,
@@ -9188,7 +9199,7 @@
     {
       "name": "Rune f.",
       "posts": 2,
-      "daysAgo": 44,
+      "daysAgo": 45,
       "ppw": 0.1,
       "memDays": 193,
       "streak": 1,
@@ -9199,7 +9210,7 @@
     {
       "name": "~ Matis",
       "posts": 2,
-      "daysAgo": 26,
+      "daysAgo": 27,
       "ppw": 0.3,
       "memDays": 50,
       "streak": 1,
@@ -9210,7 +9221,7 @@
     {
       "name": "~ Liam Ahern",
       "posts": 2,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.1,
       "memDays": 112,
       "streak": 1,
@@ -9221,7 +9232,7 @@
     {
       "name": "~ Manuel Tapadas",
       "posts": 2,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.3,
       "memDays": 49,
       "streak": 2,
@@ -9232,7 +9243,7 @@
     {
       "name": "~ Ricardo Ruas",
       "posts": 2,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.3,
       "memDays": 51,
       "streak": 1,
@@ -9243,7 +9254,7 @@
     {
       "name": "~ Alexander Faller",
       "posts": 2,
-      "daysAgo": 33,
+      "daysAgo": 34,
       "ppw": 0.3,
       "memDays": 42,
       "streak": 1,
@@ -9254,7 +9265,7 @@
     {
       "name": "~ Sönke",
       "posts": 2,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 0.3,
       "memDays": 41,
       "streak": 1,
@@ -9265,7 +9276,7 @@
     {
       "name": "~ Manel Bon",
       "posts": 2,
-      "daysAgo": 37,
+      "daysAgo": 38,
       "ppw": 0.3,
       "memDays": 41,
       "streak": 1,
@@ -9274,20 +9285,9 @@
       "lastStr": "03.06.26"
     },
     {
-      "name": "~ Moses",
-      "posts": 2,
-      "daysAgo": 6,
-      "ppw": 0.4,
-      "memDays": 39,
-      "streak": 1,
-      "hasLeft": false,
-      "joinStr": "02.06.26",
-      "lastStr": "04.07.26"
-    },
-    {
       "name": "~ Afonso Bento",
       "posts": 2,
-      "daysAgo": 37,
+      "daysAgo": 38,
       "ppw": 0.2,
       "memDays": 57,
       "streak": 1,
@@ -9298,7 +9298,7 @@
     {
       "name": "~ Nicco",
       "posts": 2,
-      "daysAgo": 28,
+      "daysAgo": 29,
       "ppw": 0.4,
       "memDays": 38,
       "streak": 1,
@@ -9309,7 +9309,7 @@
     {
       "name": "~ Consti Sanders",
       "posts": 2,
-      "daysAgo": 36,
+      "daysAgo": 37,
       "ppw": 0.4,
       "memDays": 38,
       "streak": 2,
@@ -9320,7 +9320,7 @@
     {
       "name": "~ Luis Sistermanns",
       "posts": 2,
-      "daysAgo": 36,
+      "daysAgo": 37,
       "ppw": 0.4,
       "memDays": 37,
       "streak": 1,
@@ -9331,7 +9331,7 @@
     {
       "name": "~ André Eira",
       "posts": 2,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 0.4,
       "memDays": 35,
       "streak": 1,
@@ -9342,7 +9342,7 @@
     {
       "name": "~ Paul Scholes",
       "posts": 2,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.4,
       "memDays": 35,
       "streak": 1,
@@ -9353,7 +9353,7 @@
     {
       "name": "~ nora",
       "posts": 2,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 0.5,
       "memDays": 30,
       "streak": 1,
@@ -9364,7 +9364,7 @@
     {
       "name": "~ Amy",
       "posts": 2,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 0.5,
       "memDays": 31,
       "streak": 1,
@@ -9375,7 +9375,7 @@
     {
       "name": "~ Rudi",
       "posts": 2,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.5,
       "memDays": 29,
       "streak": 2,
@@ -9386,7 +9386,7 @@
     {
       "name": "~ René",
       "posts": 2,
-      "daysAgo": 17,
+      "daysAgo": 18,
       "ppw": 0.5,
       "memDays": 27,
       "streak": 1,
@@ -9397,7 +9397,7 @@
     {
       "name": "~ Patty",
       "posts": 2,
-      "daysAgo": 3,
+      "daysAgo": 4,
       "ppw": 0.3,
       "memDays": 41,
       "streak": 1,
@@ -9408,7 +9408,7 @@
     {
       "name": "~ António Maria Miranda",
       "posts": 2,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 0.4,
       "memDays": 33,
       "streak": 1,
@@ -9419,7 +9419,7 @@
     {
       "name": "~ Konstantin Finster",
       "posts": 2,
-      "daysAgo": 12,
+      "daysAgo": 13,
       "ppw": 1,
       "memDays": 14,
       "streak": 1,
@@ -9430,7 +9430,7 @@
     {
       "name": "~ Pedro Pacheco",
       "posts": 2,
-      "daysAgo": 8,
+      "daysAgo": 9,
       "ppw": 1.4,
       "memDays": 10,
       "streak": 1,
@@ -9441,7 +9441,7 @@
     {
       "name": "~ Joshua",
       "posts": 2,
-      "daysAgo": 7,
+      "daysAgo": 8,
       "ppw": 1.4,
       "memDays": 10,
       "streak": 1,
@@ -9452,7 +9452,7 @@
     {
       "name": "~ Ben Frankenstein",
       "posts": 2,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 1.3,
       "memDays": 11,
       "streak": 1,
@@ -9463,7 +9463,7 @@
     {
       "name": "~ Anaïs",
       "posts": 2,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 4.7,
       "memDays": 3,
       "streak": 1,
@@ -9474,7 +9474,7 @@
     {
       "name": "~ Daniel Hackl",
       "posts": 2,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 4.7,
       "memDays": 3,
       "streak": 1,
@@ -9483,9 +9483,20 @@
       "lastStr": "08.07.26"
     },
     {
+      "name": "~ Anton Grießhammer",
+      "posts": 2,
+      "daysAgo": 0,
+      "ppw": 4.7,
+      "memDays": 3,
+      "streak": 1,
+      "hasLeft": false,
+      "joinStr": "08.07.26",
+      "lastStr": "11.07.26"
+    },
+    {
       "name": "~ Julian Battenstein",
       "posts": 1,
-      "daysAgo": 153,
+      "daysAgo": 154,
       "ppw": 0,
       "memDays": 154,
       "streak": 1,
@@ -9496,7 +9507,7 @@
     {
       "name": "~ Tilman",
       "posts": 1,
-      "daysAgo": 153,
+      "daysAgo": 154,
       "ppw": 0,
       "memDays": 154,
       "streak": 1,
@@ -9507,7 +9518,7 @@
     {
       "name": "~ Jonas Schröder",
       "posts": 1,
-      "daysAgo": 153,
+      "daysAgo": 154,
       "ppw": 0,
       "memDays": 154,
       "streak": 1,
@@ -9518,7 +9529,7 @@
     {
       "name": "~ Eric Scheffler",
       "posts": 1,
-      "daysAgo": 148,
+      "daysAgo": 149,
       "ppw": 0,
       "memDays": 149,
       "streak": 1,
@@ -9529,7 +9540,7 @@
     {
       "name": "~ Janik",
       "posts": 1,
-      "daysAgo": 148,
+      "daysAgo": 149,
       "ppw": 0,
       "memDays": 149,
       "streak": 1,
@@ -9540,7 +9551,7 @@
     {
       "name": "~ Lukas Hartmann",
       "posts": 1,
-      "daysAgo": 147,
+      "daysAgo": 148,
       "ppw": 0,
       "memDays": 148,
       "streak": 1,
@@ -9551,7 +9562,7 @@
     {
       "name": "~ Mira",
       "posts": 1,
-      "daysAgo": 147,
+      "daysAgo": 148,
       "ppw": 0,
       "memDays": 148,
       "streak": 1,
@@ -9562,7 +9573,7 @@
     {
       "name": "Pia Schüller",
       "posts": 1,
-      "daysAgo": 147,
+      "daysAgo": 148,
       "ppw": 0,
       "memDays": 193,
       "streak": 1,
@@ -9573,7 +9584,7 @@
     {
       "name": "~ Raphi",
       "posts": 1,
-      "daysAgo": 147,
+      "daysAgo": 148,
       "ppw": 0,
       "memDays": 150,
       "streak": 1,
@@ -9584,7 +9595,7 @@
     {
       "name": "Julius Hugelshofer",
       "posts": 1,
-      "daysAgo": 147,
+      "daysAgo": 148,
       "ppw": 0,
       "memDays": 193,
       "streak": 1,
@@ -9595,7 +9606,7 @@
     {
       "name": "~ Tobia Cosentini",
       "posts": 1,
-      "daysAgo": 145,
+      "daysAgo": 146,
       "ppw": 0,
       "memDays": 146,
       "streak": 1,
@@ -9606,7 +9617,7 @@
     {
       "name": "~ Lennard",
       "posts": 1,
-      "daysAgo": 144,
+      "daysAgo": 145,
       "ppw": 0,
       "memDays": 145,
       "streak": 1,
@@ -9617,7 +9628,7 @@
     {
       "name": "~ Afonso Henriques Jorge",
       "posts": 1,
-      "daysAgo": 140,
+      "daysAgo": 141,
       "ppw": 0,
       "memDays": 141,
       "streak": 1,
@@ -9628,7 +9639,7 @@
     {
       "name": "~ Nicolas Tiltmann",
       "posts": 1,
-      "daysAgo": 140,
+      "daysAgo": 141,
       "ppw": 0,
       "memDays": 141,
       "streak": 1,
@@ -9639,7 +9650,7 @@
     {
       "name": "~ zuters",
       "posts": 1,
-      "daysAgo": 139,
+      "daysAgo": 140,
       "ppw": 0,
       "memDays": 153,
       "streak": 1,
@@ -9650,7 +9661,7 @@
     {
       "name": "~ hermela",
       "posts": 1,
-      "daysAgo": 129,
+      "daysAgo": 130,
       "ppw": 0.1,
       "memDays": 134,
       "streak": 1,
@@ -9661,7 +9672,7 @@
     {
       "name": "~ Michael Stork",
       "posts": 1,
-      "daysAgo": 125,
+      "daysAgo": 126,
       "ppw": 0.1,
       "memDays": 126,
       "streak": 1,
@@ -9672,7 +9683,7 @@
     {
       "name": "~ Marco Mayer",
       "posts": 1,
-      "daysAgo": 124,
+      "daysAgo": 125,
       "ppw": 0.1,
       "memDays": 125,
       "streak": 1,
@@ -9683,7 +9694,7 @@
     {
       "name": "~ Taylan",
       "posts": 1,
-      "daysAgo": 119,
+      "daysAgo": 120,
       "ppw": 0.1,
       "memDays": 120,
       "streak": 1,
@@ -9694,7 +9705,7 @@
     {
       "name": "~ Hauke",
       "posts": 1,
-      "daysAgo": 119,
+      "daysAgo": 120,
       "ppw": 0.1,
       "memDays": 120,
       "streak": 1,
@@ -9705,7 +9716,7 @@
     {
       "name": "~ Juozas",
       "posts": 1,
-      "daysAgo": 119,
+      "daysAgo": 120,
       "ppw": 0.1,
       "memDays": 129,
       "streak": 1,
@@ -9716,7 +9727,7 @@
     {
       "name": "~ Tinus",
       "posts": 1,
-      "daysAgo": 118,
+      "daysAgo": 119,
       "ppw": 0.1,
       "memDays": 119,
       "streak": 1,
@@ -9727,7 +9738,7 @@
     {
       "name": "~ Teresa",
       "posts": 1,
-      "daysAgo": 116,
+      "daysAgo": 117,
       "ppw": 0.1,
       "memDays": 122,
       "streak": 1,
@@ -9738,7 +9749,7 @@
     {
       "name": "~ magnus",
       "posts": 1,
-      "daysAgo": 113,
+      "daysAgo": 114,
       "ppw": 0.1,
       "memDays": 115,
       "streak": 1,
@@ -9749,7 +9760,7 @@
     {
       "name": "~ Jan Linnert",
       "posts": 1,
-      "daysAgo": 112,
+      "daysAgo": 113,
       "ppw": 0.1,
       "memDays": 113,
       "streak": 1,
@@ -9760,7 +9771,7 @@
     {
       "name": "~ Nico Vogt",
       "posts": 1,
-      "daysAgo": 111,
+      "daysAgo": 112,
       "ppw": 0.1,
       "memDays": 112,
       "streak": 1,
@@ -9771,7 +9782,7 @@
     {
       "name": "~ lasse joost",
       "posts": 1,
-      "daysAgo": 100,
+      "daysAgo": 101,
       "ppw": 0.1,
       "memDays": 101,
       "streak": 1,
@@ -9782,7 +9793,7 @@
     {
       "name": "~ Mauro",
       "posts": 1,
-      "daysAgo": 97,
+      "daysAgo": 98,
       "ppw": 0.1,
       "memDays": 98,
       "streak": 1,
@@ -9793,7 +9804,7 @@
     {
       "name": "~ Ben Pleyer",
       "posts": 1,
-      "daysAgo": 97,
+      "daysAgo": 98,
       "ppw": 0.1,
       "memDays": 98,
       "streak": 1,
@@ -9804,7 +9815,7 @@
     {
       "name": "~ Louis Irmer",
       "posts": 1,
-      "daysAgo": 97,
+      "daysAgo": 98,
       "ppw": 0.1,
       "memDays": 98,
       "streak": 1,
@@ -9815,7 +9826,7 @@
     {
       "name": "~ leonzschocke",
       "posts": 1,
-      "daysAgo": 96,
+      "daysAgo": 97,
       "ppw": 0.1,
       "memDays": 104,
       "streak": 1,
@@ -9826,7 +9837,7 @@
     {
       "name": "~ 🤝",
       "posts": 1,
-      "daysAgo": 96,
+      "daysAgo": 97,
       "ppw": 0.1,
       "memDays": 97,
       "streak": 1,
@@ -9837,7 +9848,7 @@
     {
       "name": "~ Tim Schurse",
       "posts": 1,
-      "daysAgo": 96,
+      "daysAgo": 97,
       "ppw": 0.1,
       "memDays": 97,
       "streak": 1,
@@ -9848,7 +9859,7 @@
     {
       "name": "~ Eric Collin",
       "posts": 1,
-      "daysAgo": 92,
+      "daysAgo": 93,
       "ppw": 0.1,
       "memDays": 93,
       "streak": 1,
@@ -9859,7 +9870,7 @@
     {
       "name": "~ Calvin",
       "posts": 1,
-      "daysAgo": 90,
+      "daysAgo": 91,
       "ppw": 0.1,
       "memDays": 100,
       "streak": 1,
@@ -9870,7 +9881,7 @@
     {
       "name": "~ Vasco Varão",
       "posts": 1,
-      "daysAgo": 84,
+      "daysAgo": 85,
       "ppw": 0.1,
       "memDays": 85,
       "streak": 1,
@@ -9881,7 +9892,7 @@
     {
       "name": "~ Desirée",
       "posts": 1,
-      "daysAgo": 80,
+      "daysAgo": 81,
       "ppw": 0.1,
       "memDays": 81,
       "streak": 1,
@@ -9892,7 +9903,7 @@
     {
       "name": "~ Jens",
       "posts": 1,
-      "daysAgo": 78,
+      "daysAgo": 79,
       "ppw": 0.1,
       "memDays": 80,
       "streak": 1,
@@ -9903,7 +9914,7 @@
     {
       "name": "~ Niklas Göhrs",
       "posts": 1,
-      "daysAgo": 77,
+      "daysAgo": 78,
       "ppw": 0.1,
       "memDays": 78,
       "streak": 1,
@@ -9914,7 +9925,7 @@
     {
       "name": "~ lara",
       "posts": 1,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.1,
       "memDays": 77,
       "streak": 1,
@@ -9925,7 +9936,7 @@
     {
       "name": "Julius Lach",
       "posts": 1,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.1,
       "memDays": 100,
       "streak": 1,
@@ -9936,7 +9947,7 @@
     {
       "name": "~ Nicolás Guzmán",
       "posts": 1,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.1,
       "memDays": 77,
       "streak": 1,
@@ -9947,7 +9958,7 @@
     {
       "name": "~ Andrés",
       "posts": 1,
-      "daysAgo": 76,
+      "daysAgo": 77,
       "ppw": 0.1,
       "memDays": 77,
       "streak": 1,
@@ -9958,7 +9969,7 @@
     {
       "name": "~ Lennart Nettler",
       "posts": 1,
-      "daysAgo": 73,
+      "daysAgo": 74,
       "ppw": 0.1,
       "memDays": 104,
       "streak": 1,
@@ -9969,7 +9980,7 @@
     {
       "name": "Niko",
       "posts": 1,
-      "daysAgo": 71,
+      "daysAgo": 72,
       "ppw": 0.1,
       "memDays": 81,
       "streak": 1,
@@ -9980,7 +9991,7 @@
     {
       "name": "~ oskar",
       "posts": 1,
-      "daysAgo": 71,
+      "daysAgo": 72,
       "ppw": 0.1,
       "memDays": 72,
       "streak": 1,
@@ -9991,7 +10002,7 @@
     {
       "name": "~ Rebecca",
       "posts": 1,
-      "daysAgo": 70,
+      "daysAgo": 71,
       "ppw": 0.1,
       "memDays": 71,
       "streak": 1,
@@ -10002,7 +10013,7 @@
     {
       "name": "~ Konstantin Lutz",
       "posts": 1,
-      "daysAgo": 69,
+      "daysAgo": 70,
       "ppw": 0.1,
       "memDays": 70,
       "streak": 1,
@@ -10013,7 +10024,7 @@
     {
       "name": "~ lilli",
       "posts": 1,
-      "daysAgo": 69,
+      "daysAgo": 70,
       "ppw": 0.1,
       "memDays": 78,
       "streak": 1,
@@ -10024,7 +10035,7 @@
     {
       "name": "~ Klara",
       "posts": 1,
-      "daysAgo": 63,
+      "daysAgo": 64,
       "ppw": 0.1,
       "memDays": 69,
       "streak": 1,
@@ -10035,7 +10046,7 @@
     {
       "name": "~ Laura",
       "posts": 1,
-      "daysAgo": 58,
+      "daysAgo": 59,
       "ppw": 0.1,
       "memDays": 59,
       "streak": 1,
@@ -10046,7 +10057,7 @@
     {
       "name": "~ Gino",
       "posts": 1,
-      "daysAgo": 57,
+      "daysAgo": 58,
       "ppw": 0.1,
       "memDays": 112,
       "streak": 1,
@@ -10057,7 +10068,7 @@
     {
       "name": "~ Simon Bugl",
       "posts": 1,
-      "daysAgo": 56,
+      "daysAgo": 57,
       "ppw": 0.1,
       "memDays": 101,
       "streak": 1,
@@ -10068,7 +10079,7 @@
     {
       "name": "~ Klöcki",
       "posts": 1,
-      "daysAgo": 56,
+      "daysAgo": 57,
       "ppw": 0.1,
       "memDays": 63,
       "streak": 1,
@@ -10079,7 +10090,7 @@
     {
       "name": "~ NH",
       "posts": 1,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.1,
       "memDays": 56,
       "streak": 1,
@@ -10090,7 +10101,7 @@
     {
       "name": "~ Duarte Reis",
       "posts": 1,
-      "daysAgo": 55,
+      "daysAgo": 56,
       "ppw": 0.1,
       "memDays": 56,
       "streak": 1,
@@ -10101,7 +10112,7 @@
     {
       "name": "~ Oliver Maurer",
       "posts": 1,
-      "daysAgo": 54,
+      "daysAgo": 55,
       "ppw": 0.1,
       "memDays": 79,
       "streak": 1,
@@ -10112,7 +10123,7 @@
     {
       "name": "~ Vincent Sanne",
       "posts": 1,
-      "daysAgo": 51,
+      "daysAgo": 52,
       "ppw": 0,
       "memDays": 148,
       "streak": 1,
@@ -10123,7 +10134,7 @@
     {
       "name": "~ Lourenço",
       "posts": 1,
-      "daysAgo": 49,
+      "daysAgo": 50,
       "ppw": 0.1,
       "memDays": 51,
       "streak": 1,
@@ -10134,7 +10145,7 @@
     {
       "name": "~ Sebastião Fragoso",
       "posts": 1,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.1,
       "memDays": 49,
       "streak": 1,
@@ -10145,7 +10156,7 @@
     {
       "name": "~ Tiago Boura",
       "posts": 1,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.1,
       "memDays": 56,
       "streak": 1,
@@ -10156,7 +10167,7 @@
     {
       "name": "~ Tim 😅",
       "posts": 1,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.1,
       "memDays": 50,
       "streak": 1,
@@ -10167,7 +10178,7 @@
     {
       "name": "~ Chiara",
       "posts": 1,
-      "daysAgo": 48,
+      "daysAgo": 49,
       "ppw": 0.1,
       "memDays": 49,
       "streak": 1,
@@ -10178,7 +10189,7 @@
     {
       "name": "~ Roni",
       "posts": 1,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.1,
       "memDays": 48,
       "streak": 1,
@@ -10189,7 +10200,7 @@
     {
       "name": "~ Zeljko",
       "posts": 1,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.1,
       "memDays": 48,
       "streak": 1,
@@ -10200,7 +10211,7 @@
     {
       "name": "~ Arne Müller",
       "posts": 1,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.1,
       "memDays": 48,
       "streak": 1,
@@ -10211,7 +10222,7 @@
     {
       "name": "~ Marco Gamito",
       "posts": 1,
-      "daysAgo": 47,
+      "daysAgo": 48,
       "ppw": 0.1,
       "memDays": 49,
       "streak": 1,
@@ -10222,7 +10233,7 @@
     {
       "name": "~ Marlon",
       "posts": 1,
-      "daysAgo": 46,
+      "daysAgo": 47,
       "ppw": 0.1,
       "memDays": 50,
       "streak": 1,
@@ -10233,7 +10244,7 @@
     {
       "name": "~ Jano",
       "posts": 1,
-      "daysAgo": 46,
+      "daysAgo": 47,
       "ppw": 0.1,
       "memDays": 47,
       "streak": 1,
@@ -10244,7 +10255,7 @@
     {
       "name": "~ Honza Křůmal",
       "posts": 1,
-      "daysAgo": 45,
+      "daysAgo": 46,
       "ppw": 0.2,
       "memDays": 46,
       "streak": 1,
@@ -10255,7 +10266,7 @@
     {
       "name": "~ Diogo Alcobia",
       "posts": 1,
-      "daysAgo": 43,
+      "daysAgo": 44,
       "ppw": 0.2,
       "memDays": 44,
       "streak": 1,
@@ -10266,7 +10277,7 @@
     {
       "name": "~ João Maria Côdea",
       "posts": 1,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 0.1,
       "memDays": 49,
       "streak": 1,
@@ -10277,7 +10288,7 @@
     {
       "name": "~ jannis",
       "posts": 1,
-      "daysAgo": 42,
+      "daysAgo": 43,
       "ppw": 0.2,
       "memDays": 43,
       "streak": 1,
@@ -10288,7 +10299,7 @@
     {
       "name": "~ Philip🐦",
       "posts": 1,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.2,
       "memDays": 43,
       "streak": 1,
@@ -10299,7 +10310,7 @@
     {
       "name": "~ Maria do Carmo Moraes",
       "posts": 1,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.2,
       "memDays": 42,
       "streak": 1,
@@ -10310,7 +10321,7 @@
     {
       "name": "~ Francisco Molina",
       "posts": 1,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.2,
       "memDays": 42,
       "streak": 1,
@@ -10321,7 +10332,7 @@
     {
       "name": "~ Paul s",
       "posts": 1,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.2,
       "memDays": 42,
       "streak": 1,
@@ -10332,7 +10343,7 @@
     {
       "name": "~ paul",
       "posts": 1,
-      "daysAgo": 41,
+      "daysAgo": 42,
       "ppw": 0.2,
       "memDays": 42,
       "streak": 1,
@@ -10343,7 +10354,7 @@
     {
       "name": "~ Michael🌋",
       "posts": 1,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 0.1,
       "memDays": 48,
       "streak": 1,
@@ -10354,7 +10365,7 @@
     {
       "name": "~ Charlotte Bernard",
       "posts": 1,
-      "daysAgo": 34,
+      "daysAgo": 35,
       "ppw": 0.2,
       "memDays": 35,
       "streak": 1,
@@ -10365,7 +10376,7 @@
     {
       "name": "~ Thimo",
       "posts": 1,
-      "daysAgo": 31,
+      "daysAgo": 32,
       "ppw": 0.2,
       "memDays": 32,
       "streak": 1,
@@ -10376,7 +10387,7 @@
     {
       "name": "~ Alexi",
       "posts": 1,
-      "daysAgo": 30,
+      "daysAgo": 31,
       "ppw": 0.2,
       "memDays": 31,
       "streak": 1,
@@ -10387,7 +10398,7 @@
     {
       "name": "~ Jan Giesguth",
       "posts": 1,
-      "daysAgo": 29,
+      "daysAgo": 30,
       "ppw": 0.2,
       "memDays": 30,
       "streak": 1,
@@ -10398,7 +10409,7 @@
     {
       "name": "~ Tiago Mota",
       "posts": 1,
-      "daysAgo": 28,
+      "daysAgo": 29,
       "ppw": 0.2,
       "memDays": 30,
       "streak": 1,
@@ -10409,7 +10420,7 @@
     {
       "name": "~ VF",
       "posts": 1,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.3,
       "memDays": 28,
       "streak": 1,
@@ -10420,7 +10431,7 @@
     {
       "name": "~ Calli",
       "posts": 1,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.1,
       "memDays": 84,
       "streak": 1,
@@ -10431,7 +10442,7 @@
     {
       "name": "~ Frederico Maldonado Beija",
       "posts": 1,
-      "daysAgo": 27,
+      "daysAgo": 28,
       "ppw": 0.2,
       "memDays": 30,
       "streak": 1,
@@ -10442,7 +10453,7 @@
     {
       "name": "~ Frederik",
       "posts": 1,
-      "daysAgo": 22,
+      "daysAgo": 23,
       "ppw": 0.2,
       "memDays": 43,
       "streak": 1,
@@ -10453,7 +10464,7 @@
     {
       "name": "~ Leonie",
       "posts": 1,
-      "daysAgo": 21,
+      "daysAgo": 22,
       "ppw": 0.2,
       "memDays": 44,
       "streak": 1,
@@ -10464,7 +10475,7 @@
     {
       "name": "~ Enrico",
       "posts": 1,
-      "daysAgo": 20,
+      "daysAgo": 21,
       "ppw": 0.3,
       "memDays": 21,
       "streak": 1,
@@ -10475,7 +10486,7 @@
     {
       "name": "~ Samy",
       "posts": 1,
-      "daysAgo": 13,
+      "daysAgo": 14,
       "ppw": 0.5,
       "memDays": 14,
       "streak": 1,
@@ -10486,7 +10497,7 @@
     {
       "name": "~ Ash",
       "posts": 1,
-      "daysAgo": 9,
+      "daysAgo": 10,
       "ppw": 0.4,
       "memDays": 17,
       "streak": 1,
@@ -10497,7 +10508,7 @@
     {
       "name": "~ nacho",
       "posts": 1,
-      "daysAgo": 9,
+      "daysAgo": 10,
       "ppw": 0.7,
       "memDays": 10,
       "streak": 1,
@@ -10508,7 +10519,7 @@
     {
       "name": "~ Gilli",
       "posts": 1,
-      "daysAgo": 6,
+      "daysAgo": 7,
       "ppw": 0.2,
       "memDays": 43,
       "streak": 1,
@@ -10519,7 +10530,7 @@
     {
       "name": "~ Robbert",
       "posts": 1,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 1.2,
       "memDays": 6,
       "streak": 1,
@@ -10530,7 +10541,7 @@
     {
       "name": "~ Luc",
       "posts": 1,
-      "daysAgo": 5,
+      "daysAgo": 6,
       "ppw": 1.2,
       "memDays": 6,
       "streak": 1,
@@ -10541,7 +10552,7 @@
     {
       "name": "~ Alex Hochhaus",
       "posts": 1,
-      "daysAgo": 2,
+      "daysAgo": 3,
       "ppw": 1.8,
       "memDays": 4,
       "streak": 1,
@@ -10550,20 +10561,9 @@
       "lastStr": "08.07.26"
     },
     {
-      "name": "~ Anton Grießhammer",
-      "posts": 1,
-      "daysAgo": 2,
-      "ppw": 2.3,
-      "memDays": 3,
-      "streak": 1,
-      "hasLeft": false,
-      "joinStr": "08.07.26",
-      "lastStr": "08.07.26"
-    },
-    {
       "name": "~ luca",
       "posts": 1,
-      "daysAgo": 1,
+      "daysAgo": 2,
       "ppw": 3.5,
       "memDays": 2,
       "streak": 1,
@@ -10574,7 +10574,7 @@
     {
       "name": "~ Luis Carneiro",
       "posts": 1,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 0.2,
       "memDays": 35,
       "streak": 1,
@@ -10585,7 +10585,7 @@
     {
       "name": "~ Tim⚡️",
       "posts": 1,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 7,
       "memDays": 1,
       "streak": 1,
@@ -10596,7 +10596,7 @@
     {
       "name": "~ Bela",
       "posts": 1,
-      "daysAgo": 0,
+      "daysAgo": 1,
       "ppw": 3.5,
       "memDays": 2,
       "streak": 1,
@@ -10605,6 +10605,6 @@
       "lastStr": "10.07.26"
     }
   ],
-  "totalPosts": 35602,
-  "updated": "10.07.2026, 22:55"
+  "totalPosts": 35640,
+  "updated": "11.07.2026, 08:28"
 }
