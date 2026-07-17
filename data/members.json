@@ -362,7 +362,7 @@
     },
     {
       "name": "~ Poldi",
-      "posts": 234,
+      "posts": 235,
       "daysAgo": 0,
       "ppw": 15.8,
       "memDays": 104,
@@ -398,9 +398,9 @@
     },
     {
       "name": "Pascal Bönsch",
-      "posts": 215,
+      "posts": 218,
       "daysAgo": 0,
-      "ppw": 13.2,
+      "ppw": 13.4,
       "memDays": 114,
       "streak": 4,
       "currentStreak": 4,
@@ -625,6 +625,18 @@
       "lastStr": "14.07.26"
     },
     {
+      "name": "~ Luca Klenner",
+      "posts": 163,
+      "daysAgo": 0,
+      "ppw": 7.2,
+      "memDays": 158,
+      "streak": 6,
+      "currentStreak": 4,
+      "hasLeft": false,
+      "joinStr": "10.02.26",
+      "lastStr": "17.07.26"
+    },
+    {
       "name": "~ Christian",
       "posts": 162,
       "daysAgo": 1,
@@ -635,18 +647,6 @@
       "hasLeft": false,
       "joinStr": "10.01.26",
       "lastStr": "16.07.26"
-    },
-    {
-      "name": "~ Luca Klenner",
-      "posts": 162,
-      "daysAgo": 0,
-      "ppw": 7.2,
-      "memDays": 158,
-      "streak": 6,
-      "currentStreak": 4,
-      "hasLeft": false,
-      "joinStr": "10.02.26",
-      "lastStr": "17.07.26"
     },
     {
       "name": "~ Peter Mattmann",
@@ -710,15 +710,15 @@
     },
     {
       "name": "~ Jonas Hillesheim",
-      "posts": 153,
-      "daysAgo": 6,
-      "ppw": 7.2,
+      "posts": 154,
+      "daysAgo": 0,
+      "ppw": 7.3,
       "memDays": 148,
       "streak": 8,
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "20.02.26",
-      "lastStr": "11.07.26"
+      "lastStr": "17.07.26"
     },
     {
       "name": "~ Mattis",
@@ -865,6 +865,18 @@
       "lastStr": "10.07.26"
     },
     {
+      "name": "~ Marco",
+      "posts": 128,
+      "daysAgo": 0,
+      "ppw": 8.1,
+      "memDays": 110,
+      "streak": 5,
+      "currentStreak": 5,
+      "hasLeft": false,
+      "joinStr": "30.03.26",
+      "lastStr": "17.07.26"
+    },
+    {
       "name": "~ Jonas Knöpfli",
       "posts": 127,
       "daysAgo": 3,
@@ -875,18 +887,6 @@
       "hasLeft": false,
       "joinStr": "06.02.26",
       "lastStr": "14.07.26"
-    },
-    {
-      "name": "~ Marco",
-      "posts": 127,
-      "daysAgo": 1,
-      "ppw": 8.1,
-      "memDays": 110,
-      "streak": 4,
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "30.03.26",
-      "lastStr": "16.07.26"
     },
     {
       "name": "~ Kian",
@@ -1093,6 +1093,18 @@
       "lastStr": "15.07.26"
     },
     {
+      "name": "~ Cyriel",
+      "posts": 103,
+      "daysAgo": 0,
+      "ppw": 31.3,
+      "memDays": 23,
+      "streak": 12,
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "25.06.26",
+      "lastStr": "17.07.26"
+    },
+    {
       "name": "~ Birdie✨",
       "posts": 102,
       "daysAgo": 2,
@@ -1127,18 +1139,6 @@
       "hasLeft": false,
       "joinStr": "21.03.26",
       "lastStr": "12.07.26"
-    },
-    {
-      "name": "~ Cyriel",
-      "posts": 101,
-      "daysAgo": 1,
-      "ppw": 30.7,
-      "memDays": 23,
-      "streak": 12,
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "25.06.26",
-      "lastStr": "16.07.26"
     },
     {
       "name": "~ Jill",
@@ -1202,15 +1202,15 @@
     },
     {
       "name": "~ Laurens",
-      "posts": 95,
-      "daysAgo": 1,
-      "ppw": 28.9,
+      "posts": 96,
+      "daysAgo": 0,
+      "ppw": 29.2,
       "memDays": 23,
       "streak": 8,
-      "currentStreak": 0,
+      "currentStreak": 2,
       "hasLeft": false,
       "joinStr": "25.06.26",
-      "lastStr": "16.07.26"
+      "lastStr": "17.07.26"
     },
     {
       "name": "~ justin",
@@ -1453,6 +1453,18 @@
       "lastStr": "15.07.26"
     },
     {
+      "name": "~ Johanna",
+      "posts": 80,
+      "daysAgo": 0,
+      "ppw": 5.7,
+      "memDays": 99,
+      "streak": 4,
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "10.04.26",
+      "lastStr": "17.07.26"
+    },
+    {
       "name": "~ Laurin",
       "posts": 79,
       "daysAgo": 1,
@@ -1463,18 +1475,6 @@
       "hasLeft": false,
       "joinStr": "27.02.26",
       "lastStr": "16.07.26"
-    },
-    {
-      "name": "~ Johanna",
-      "posts": 79,
-      "daysAgo": 2,
-      "ppw": 5.6,
-      "memDays": 99,
-      "streak": 4,
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "10.04.26",
-      "lastStr": "15.07.26"
     },
     {
       "name": "~ Severin",
@@ -1558,6 +1558,18 @@
       "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "30.12.25",
+      "lastStr": "17.07.26"
+    },
+    {
+      "name": "~ Thomas",
+      "posts": 76,
+      "daysAgo": 0,
+      "ppw": 3.6,
+      "memDays": 148,
+      "streak": 3,
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "20.02.26",
       "lastStr": "17.07.26"
     },
     {
@@ -1669,18 +1681,6 @@
       "lastStr": "21.06.26"
     },
     {
-      "name": "~ Thomas",
-      "posts": 74,
-      "daysAgo": 0,
-      "ppw": 3.5,
-      "memDays": 148,
-      "streak": 3,
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "20.02.26",
-      "lastStr": "17.07.26"
-    },
-    {
       "name": "~ António Pacheco",
       "posts": 73,
       "daysAgo": 0,
@@ -1690,6 +1690,18 @@
       "currentStreak": 2,
       "hasLeft": false,
       "joinStr": "31.05.26",
+      "lastStr": "17.07.26"
+    },
+    {
+      "name": "~ Moritz Kannengießer",
+      "posts": 72,
+      "daysAgo": 0,
+      "ppw": 4,
+      "memDays": 127,
+      "streak": 3,
+      "currentStreak": 3,
+      "hasLeft": false,
+      "joinStr": "13.03.26",
       "lastStr": "17.07.26"
     },
     {
@@ -1705,15 +1717,15 @@
       "lastStr": "14.07.26"
     },
     {
-      "name": "~ Moritz Kannengießer",
+      "name": "~ Michael Dahmen",
       "posts": 71,
       "daysAgo": 0,
-      "ppw": 3.9,
-      "memDays": 127,
+      "ppw": 13.4,
+      "memDays": 37,
       "streak": 3,
-      "currentStreak": 3,
+      "currentStreak": 2,
       "hasLeft": false,
-      "joinStr": "13.03.26",
+      "joinStr": "11.06.26",
       "lastStr": "17.07.26"
     },
     {
@@ -1741,18 +1753,6 @@
       "lastStr": "14.07.26"
     },
     {
-      "name": "~ Michael Dahmen",
-      "posts": 70,
-      "daysAgo": 0,
-      "ppw": 13.2,
-      "memDays": 37,
-      "streak": 3,
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "11.06.26",
-      "lastStr": "17.07.26"
-    },
-    {
       "name": "~ Jona",
       "posts": 68,
       "daysAgo": 48,
@@ -1763,6 +1763,18 @@
       "hasLeft": false,
       "joinStr": "10.02.26",
       "lastStr": "30.05.26"
+    },
+    {
+      "name": "~ Ugne Gabriele",
+      "posts": 68,
+      "daysAgo": 0,
+      "ppw": 3.4,
+      "memDays": 138,
+      "streak": 6,
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "02.03.26",
+      "lastStr": "17.07.26"
     },
     {
       "name": "~ Guilherme Costa Matos",
@@ -1799,18 +1811,6 @@
       "hasLeft": true,
       "joinStr": "11.02.26",
       "lastStr": "27.06.26"
-    },
-    {
-      "name": "~ Ugne Gabriele",
-      "posts": 67,
-      "daysAgo": 11,
-      "ppw": 3.4,
-      "memDays": 138,
-      "streak": 6,
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "02.03.26",
-      "lastStr": "06.07.26"
     },
     {
       "name": "~ Francisco",
@@ -2461,6 +2461,30 @@
       "lastStr": "13.07.26"
     },
     {
+      "name": "~ Annika",
+      "posts": 47,
+      "daysAgo": 0,
+      "ppw": 4.2,
+      "memDays": 78,
+      "streak": 7,
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "01.05.26",
+      "lastStr": "17.07.26"
+    },
+    {
+      "name": "~ Jannis",
+      "posts": 46,
+      "daysAgo": 0,
+      "ppw": 3.3,
+      "memDays": 98,
+      "streak": 3,
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "11.04.26",
+      "lastStr": "17.07.26"
+    },
+    {
       "name": "~ Shayan Rashgin",
       "posts": 46,
       "daysAgo": 18,
@@ -2473,18 +2497,6 @@
       "lastStr": "29.06.26"
     },
     {
-      "name": "~ Annika",
-      "posts": 46,
-      "daysAgo": 2,
-      "ppw": 4.1,
-      "memDays": 78,
-      "streak": 7,
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "01.05.26",
-      "lastStr": "15.07.26"
-    },
-    {
       "name": "~ Luca Hoehl",
       "posts": 46,
       "daysAgo": 5,
@@ -2494,18 +2506,6 @@
       "currentStreak": 0,
       "hasLeft": false,
       "joinStr": "04.06.26",
-      "lastStr": "12.07.26"
-    },
-    {
-      "name": "~ Jannis",
-      "posts": 45,
-      "daysAgo": 5,
-      "ppw": 3.2,
-      "memDays": 98,
-      "streak": 3,
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "11.04.26",
       "lastStr": "12.07.26"
     },
     {
@@ -2543,6 +2543,18 @@
       "hasLeft": true,
       "joinStr": "21.02.26",
       "lastStr": "05.04.26"
+    },
+    {
+      "name": "~ Rik Van de Moortel",
+      "posts": 44,
+      "daysAgo": 0,
+      "ppw": 2.6,
+      "memDays": 118,
+      "streak": 4,
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "22.03.26",
+      "lastStr": "17.07.26"
     },
     {
       "name": "~ Erin",
@@ -2617,6 +2629,18 @@
       "lastStr": "11.07.26"
     },
     {
+      "name": "~ Dome",
+      "posts": 43,
+      "daysAgo": 0,
+      "ppw": 2.8,
+      "memDays": 107,
+      "streak": 4,
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "02.04.26",
+      "lastStr": "17.07.26"
+    },
+    {
       "name": "~ Luca T",
       "posts": 43,
       "daysAgo": 8,
@@ -2675,30 +2699,6 @@
       "hasLeft": false,
       "joinStr": "12.06.26",
       "lastStr": "16.07.26"
-    },
-    {
-      "name": "~ Rik Van de Moortel",
-      "posts": 42,
-      "daysAgo": 6,
-      "ppw": 2.5,
-      "memDays": 118,
-      "streak": 4,
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "22.03.26",
-      "lastStr": "11.07.26"
-    },
-    {
-      "name": "~ Dome",
-      "posts": 42,
-      "daysAgo": 0,
-      "ppw": 2.7,
-      "memDays": 107,
-      "streak": 4,
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "02.04.26",
-      "lastStr": "17.07.26"
     },
     {
       "name": "~ Jannis Malle",
@@ -2905,6 +2905,18 @@
       "lastStr": "17.07.26"
     },
     {
+      "name": "~ Johannes Mahl",
+      "posts": 38,
+      "daysAgo": 0,
+      "ppw": 5.5,
+      "memDays": 48,
+      "streak": 4,
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "31.05.26",
+      "lastStr": "17.07.26"
+    },
+    {
       "name": "~ Dennis S.",
       "posts": 37,
       "daysAgo": 2,
@@ -2953,16 +2965,16 @@
       "lastStr": "17.07.26"
     },
     {
-      "name": "~ Johannes Mahl",
+      "name": "~ Luke🇩🇪🦅",
       "posts": 37,
-      "daysAgo": 2,
-      "ppw": 5.4,
-      "memDays": 48,
-      "streak": 4,
-      "currentStreak": 0,
+      "daysAgo": 0,
+      "ppw": 4.4,
+      "memDays": 59,
+      "streak": 3,
+      "currentStreak": 1,
       "hasLeft": false,
-      "joinStr": "31.05.26",
-      "lastStr": "15.07.26"
+      "joinStr": "20.05.26",
+      "lastStr": "17.07.26"
     },
     {
       "name": "Björn",
@@ -3143,18 +3155,6 @@
       "hasLeft": true,
       "joinStr": "18.04.26",
       "lastStr": "22.05.26"
-    },
-    {
-      "name": "~ Luke🇩🇪🦅",
-      "posts": 34,
-      "daysAgo": 3,
-      "ppw": 4,
-      "memDays": 59,
-      "streak": 3,
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "20.05.26",
-      "lastStr": "14.07.26"
     },
     {
       "name": "~ Mo",
@@ -6337,18 +6337,6 @@
       "lastStr": "23.02.26"
     },
     {
-      "name": "~ Ole",
-      "posts": 9,
-      "daysAgo": 2,
-      "ppw": 0.4,
-      "memDays": 155,
-      "streak": 3,
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "13.02.26",
-      "lastStr": "15.07.26"
-    },
-    {
       "name": "~ Jan Schulz",
       "posts": 9,
       "daysAgo": 6,
@@ -6887,6 +6875,18 @@
       "hasLeft": true,
       "joinStr": "13.02.26",
       "lastStr": "14.03.26"
+    },
+    {
+      "name": "~ Ole",
+      "posts": 7,
+      "daysAgo": 111,
+      "ppw": 0.3,
+      "memDays": 155,
+      "streak": 3,
+      "currentStreak": 0,
+      "hasLeft": true,
+      "joinStr": "13.02.26",
+      "lastStr": "28.03.26"
     },
     {
       "name": "~ Melina",
@@ -9421,6 +9421,18 @@
       "lastStr": "10.07.26"
     },
     {
+      "name": "~ Ole M",
+      "posts": 3,
+      "daysAgo": 0,
+      "ppw": 5.3,
+      "memDays": 4,
+      "streak": 2,
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "14.07.26",
+      "lastStr": "17.07.26"
+    },
+    {
       "name": "~ Svenja",
       "posts": 3,
       "daysAgo": 2,
@@ -11867,8 +11879,20 @@
       "hasLeft": false,
       "joinStr": "30.06.26",
       "lastStr": "17.07.26"
+    },
+    {
+      "name": "~ M.",
+      "posts": 1,
+      "daysAgo": 0,
+      "ppw": 7,
+      "memDays": 1,
+      "streak": 1,
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "17.07.26",
+      "lastStr": "17.07.26"
     }
   ],
-  "totalPosts": 38528,
-  "updated": "17.07.2026, 18:01"
+  "totalPosts": 38555,
+  "updated": "17.07.2026, 18:50"
 }
