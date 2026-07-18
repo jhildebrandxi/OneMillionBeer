@@ -2965,6 +2965,18 @@
       "lastStr": "17.07.26"
     },
     {
+      "name": "~ Björn",
+      "posts": 38,
+      "daysAgo": 0,
+      "ppw": 29.6,
+      "memDays": 9,
+      "streak": 5,
+      "currentStreak": 5,
+      "hasLeft": false,
+      "joinStr": "09.07.26",
+      "lastStr": "18.07.26"
+    },
+    {
       "name": "~ Dennis S.",
       "posts": 37,
       "daysAgo": 3,
@@ -3011,18 +3023,6 @@
       "hasLeft": false,
       "joinStr": "30.05.26",
       "lastStr": "17.07.26"
-    },
-    {
-      "name": "~ Björn",
-      "posts": 37,
-      "daysAgo": 0,
-      "ppw": 28.8,
-      "memDays": 9,
-      "streak": 5,
-      "currentStreak": 5,
-      "hasLeft": false,
-      "joinStr": "09.07.26",
-      "lastStr": "18.07.26"
     },
     {
       "name": "Björn",
@@ -11941,6 +11941,6 @@
       "lastStr": "17.07.26"
     }
   ],
-  "totalPosts": 38991,
-  "updated": "18.07.2026, 09:26"
+  "totalPosts": 38992,
+  "updated": "18.07.2026, 09:40"
 }
