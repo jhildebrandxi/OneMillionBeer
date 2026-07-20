@@ -1820,7 +1820,7 @@
       "memDays": 161,
       "streak": 6,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "10.02.26",
       "lastStr": "30.05.26"
     },
@@ -3392,7 +3392,7 @@
       "memDays": 165,
       "streak": 3,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "06.02.26",
       "lastStr": "11.04.26"
     },
@@ -3548,7 +3548,7 @@
       "memDays": 157,
       "streak": 4,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "14.02.26",
       "lastStr": "13.06.26"
     },
@@ -4064,7 +4064,7 @@
       "memDays": 96,
       "streak": 3,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "16.04.26",
       "lastStr": "31.05.26"
     },
@@ -4328,7 +4328,7 @@
       "memDays": 158,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "13.02.26",
       "lastStr": "13.05.26"
     },
@@ -4508,7 +4508,7 @@
       "memDays": 173,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "29.01.26",
       "lastStr": "18.06.26"
     },
@@ -4700,7 +4700,7 @@
       "memDays": 165,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "06.02.26",
       "lastStr": "07.05.26"
     },
@@ -4724,7 +4724,7 @@
       "memDays": 163,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "08.02.26",
       "lastStr": "25.04.26"
     },
@@ -4844,7 +4844,7 @@
       "memDays": 158,
       "streak": 3,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "13.02.26",
       "lastStr": "23.05.26"
     },
@@ -4964,7 +4964,7 @@
       "memDays": 59,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "23.05.26",
       "lastStr": "05.06.26"
     },
@@ -5096,7 +5096,7 @@
       "memDays": 85,
       "streak": 3,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "27.04.26",
       "lastStr": "27.05.26"
     },
@@ -5120,7 +5120,7 @@
       "memDays": 63,
       "streak": 3,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "19.05.26",
       "lastStr": "19.06.26"
     },
@@ -5312,9 +5312,21 @@
       "memDays": 66,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "16.05.26",
       "lastStr": "13.06.26"
+    },
+    {
+      "name": "~ .",
+      "posts": 14,
+      "daysAgo": 0,
+      "ppw": 1.5,
+      "memDays": 65,
+      "streak": 2,
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "17.05.26",
+      "lastStr": "20.07.26"
     },
     {
       "name": "~ Mini-Harri😆",
@@ -5324,7 +5336,7 @@
       "memDays": 60,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "22.05.26",
       "lastStr": "19.06.26"
     },
@@ -5552,21 +5564,9 @@
       "memDays": 68,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "14.05.26",
       "lastStr": "27.05.26"
-    },
-    {
-      "name": "~ .",
-      "posts": 13,
-      "daysAgo": 1,
-      "ppw": 1.4,
-      "memDays": 65,
-      "streak": 2,
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "17.05.26",
-      "lastStr": "19.07.26"
     },
     {
       "name": "~ Justus K",
@@ -5780,7 +5780,7 @@
       "memDays": 86,
       "streak": 3,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "26.04.26",
       "lastStr": "07.06.26"
     },
@@ -5804,7 +5804,7 @@
       "memDays": 54,
       "streak": 4,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "28.05.26",
       "lastStr": "16.06.26"
     },
@@ -5984,7 +5984,7 @@
       "memDays": 88,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "24.04.26",
       "lastStr": "23.05.26"
     },
@@ -6164,7 +6164,7 @@
       "memDays": 160,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "11.02.26",
       "lastStr": "19.04.26"
     },
@@ -6296,7 +6296,7 @@
       "memDays": 97,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "15.04.26",
       "lastStr": "05.06.26"
     },
@@ -6524,7 +6524,7 @@
       "memDays": 203,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "30.12.25",
       "lastStr": "23.02.26"
     },
@@ -6632,7 +6632,7 @@
       "memDays": 102,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "10.04.26",
       "lastStr": "22.04.26"
     },
@@ -6716,7 +6716,7 @@
       "memDays": 65,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "17.05.26",
       "lastStr": "06.06.26"
     },
@@ -6752,7 +6752,7 @@
       "memDays": 45,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "06.06.26",
       "lastStr": "14.06.26"
     },
@@ -6848,7 +6848,7 @@
       "memDays": 110,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "02.04.26",
       "lastStr": "07.05.26"
     },
@@ -6872,7 +6872,7 @@
       "memDays": 100,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "12.04.26",
       "lastStr": "19.06.26"
     },
@@ -6896,7 +6896,7 @@
       "memDays": 81,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "01.05.26",
       "lastStr": "29.05.26"
     },
@@ -6980,7 +6980,7 @@
       "memDays": 62,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "20.05.26",
       "lastStr": "14.06.26"
     },
@@ -6992,7 +6992,7 @@
       "memDays": 53,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "29.05.26",
       "lastStr": "04.06.26"
     },
@@ -7004,7 +7004,7 @@
       "memDays": 52,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "30.05.26",
       "lastStr": "17.06.26"
     },
@@ -7016,7 +7016,7 @@
       "memDays": 41,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "10.06.26",
       "lastStr": "14.06.26"
     },
@@ -7268,7 +7268,7 @@
       "memDays": 107,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "05.04.26",
       "lastStr": "14.06.26"
     },
@@ -7280,7 +7280,7 @@
       "memDays": 82,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "30.04.26",
       "lastStr": "14.05.26"
     },
@@ -7292,7 +7292,7 @@
       "memDays": 82,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "30.04.26",
       "lastStr": "16.06.26"
     },
@@ -7304,7 +7304,7 @@
       "memDays": 83,
       "streak": 3,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "29.04.26",
       "lastStr": "23.05.26"
     },
@@ -7676,7 +7676,7 @@
       "memDays": 78,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "04.05.26",
       "lastStr": "05.06.26"
     },
@@ -7736,7 +7736,7 @@
       "memDays": 51,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "31.05.26",
       "lastStr": "17.06.26"
     },
@@ -7964,7 +7964,7 @@
       "memDays": 97,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "15.04.26",
       "lastStr": "19.06.26"
     },
@@ -8132,7 +8132,7 @@
       "memDays": 39,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "12.06.26",
       "lastStr": "13.06.26"
     },
@@ -8204,7 +8204,7 @@
       "memDays": 159,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "12.02.26",
       "lastStr": "13.02.26"
     },
@@ -8420,7 +8420,7 @@
       "memDays": 89,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "23.04.26",
       "lastStr": "17.07.26"
     },
@@ -8516,7 +8516,7 @@
       "memDays": 73,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "09.05.26",
       "lastStr": "07.07.26"
     },
@@ -8576,7 +8576,7 @@
       "memDays": 65,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "17.05.26",
       "lastStr": "15.07.26"
     },
@@ -8648,7 +8648,7 @@
       "memDays": 48,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "03.06.26",
       "lastStr": "04.07.26"
     },
@@ -9152,7 +9152,7 @@
       "memDays": 85,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "27.04.26",
       "lastStr": "02.07.26"
     },
@@ -9404,7 +9404,7 @@
       "memDays": 122,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "21.03.26",
       "lastStr": "12.07.26"
     },
@@ -9452,7 +9452,7 @@
       "memDays": 49,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "02.06.26",
       "lastStr": "10.07.26"
     },
@@ -9524,7 +9524,7 @@
       "memDays": 38,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "13.06.26",
       "lastStr": "27.06.26"
     },
@@ -9560,7 +9560,7 @@
       "memDays": 31,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "20.06.26",
       "lastStr": "10.07.26"
     },
@@ -10052,7 +10052,7 @@
       "memDays": 101,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "11.04.26",
       "lastStr": "06.06.26"
     },
@@ -10364,7 +10364,7 @@
       "memDays": 71,
       "streak": 2,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "11.05.26",
       "lastStr": "16.05.26"
     },
@@ -10640,7 +10640,7 @@
       "memDays": 51,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "31.05.26",
       "lastStr": "20.06.26"
     },
@@ -10784,7 +10784,7 @@
       "memDays": 51,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "31.05.26",
       "lastStr": "07.07.26"
     },
@@ -11276,7 +11276,7 @@
       "memDays": 108,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "04.04.26",
       "lastStr": "04.04.26"
     },
@@ -11996,7 +11996,7 @@
       "memDays": 52,
       "streak": 1,
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "30.05.26",
       "lastStr": "04.07.26"
     },
@@ -12133,6 +12133,6 @@
       "lastStr": "19.07.26"
     }
   ],
-  "totalPosts": 40290,
-  "updated": "20.07.2026, 17:13"
+  "totalPosts": 40291,
+  "updated": "20.07.2026, 17:25"
 }
