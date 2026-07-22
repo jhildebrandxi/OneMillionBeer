@@ -1,0 +1,47 @@
+{
+  "updated": "22.07.2026, 09:07",
+  "bestDayEver": {
+    "date": "2026-07-18",
+    "count": 816
+  },
+  "bestDaysTop3": [
+    {
+      "date": "2026-07-18",
+      "count": 816
+    },
+    {
+      "date": "2026-07-11",
+      "count": 702
+    },
+    {
+      "date": "2026-02-14",
+      "count": 643
+    }
+  ],
+  "topStreaksEver": [
+    {
+      "name": "~ Philipp",
+      "streak": 27,
+      "startDate": "2026-02-10",
+      "endDate": "2026-03-08"
+    },
+    {
+      "name": "Marvin Scheben",
+      "streak": 19,
+      "startDate": "2026-03-27",
+      "endDate": "2026-04-14"
+    },
+    {
+      "name": "Johannes",
+      "streak": 18,
+      "startDate": "2026-03-26",
+      "endDate": "2026-04-12"
+    }
+  ],
+  "mostBeers24h": {
+    "name": "Marvin Scheben",
+    "count": 53,
+    "windowStart": "2026-02-13T14:35:45.000Z",
+    "windowEnd": "2026-02-14T14:13:23.000Z"
+  }
+}
