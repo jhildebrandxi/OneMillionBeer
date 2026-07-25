@@ -1,10 +1,14 @@
 {
-  "updated": "25.07.2026, 11:17",
+  "updated": "26.07.2026, 00:12",
   "bestDayEver": {
-    "date": "2026-07-18",
-    "count": 813
+    "date": "2026-07-25",
+    "count": 893
   },
   "bestDaysTop3": [
+    {
+      "date": "2026-07-25",
+      "count": 893
+    },
     {
       "date": "2026-07-18",
       "count": 813
@@ -12,10 +16,6 @@
     {
       "date": "2026-07-24",
       "count": 752
-    },
-    {
-      "date": "2026-07-11",
-      "count": 702
     }
   ],
   "topStreaksEver": [
@@ -32,10 +32,10 @@
       "endDate": "2026-04-14"
     },
     {
-      "name": "Johannes",
-      "streak": 18,
-      "startDate": "2026-03-26",
-      "endDate": "2026-04-12"
+      "name": "~ BrunoUno",
+      "streak": 19,
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-26"
     }
   ],
   "mostBeers24h": {
