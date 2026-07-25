@@ -352,17 +352,17 @@
     },
     {
       "name": "Pascal Bönsch",
-      "posts": 266,
-      "daysAgo": 1,
+      "posts": 267,
+      "daysAgo": 0,
       "ppw": 15.4,
       "memDays": 121,
       "streak": 6,
       "streakStart": "2026-07-14",
       "streakEnd": "2026-07-19",
-      "currentStreak": 3,
+      "currentStreak": 4,
       "hasLeft": false,
       "joinStr": "26.03.26",
-      "lastStr": "24.07.26"
+      "lastStr": "25.07.26"
     },
     {
       "name": "~ MaxiK",
@@ -4845,6 +4845,20 @@
       "lastStr": "22.07.26"
     },
     {
+      "name": "~ Nina",
+      "posts": 24,
+      "daysAgo": 0,
+      "ppw": 21,
+      "memDays": 8,
+      "streak": 2,
+      "streakStart": "2026-07-18",
+      "streakEnd": "2026-07-19",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "17.07.26",
+      "lastStr": "25.07.26"
+    },
+    {
       "name": "~ Marina 🐦‍🔥",
       "posts": 23,
       "daysAgo": 58,
@@ -4969,20 +4983,6 @@
       "hasLeft": false,
       "joinStr": "24.06.26",
       "lastStr": "24.07.26"
-    },
-    {
-      "name": "~ Nina",
-      "posts": 23,
-      "daysAgo": 6,
-      "ppw": 20.1,
-      "memDays": 8,
-      "streak": 2,
-      "streakStart": "2026-07-18",
-      "streakEnd": "2026-07-19",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "17.07.26",
-      "lastStr": "19.07.26"
     },
     {
       "name": "~ Yannick  Moukala",
@@ -14519,6 +14519,6 @@
       "lastStr": "24.07.26"
     }
   ],
-  "totalPosts": 42005,
-  "updated": "25.07.2026, 11:11"
+  "totalPosts": 42007,
+  "updated": "25.07.2026, 11:17"
 }
