@@ -1,21 +1,21 @@
 {
-  "updated": "24.07.2026, 10:26",
+  "updated": "25.07.2026, 11:11",
   "bestDayEver": {
     "date": "2026-07-18",
-    "count": 816
+    "count": 813
   },
   "bestDaysTop3": [
     {
       "date": "2026-07-18",
-      "count": 816
+      "count": 813
+    },
+    {
+      "date": "2026-07-24",
+      "count": 752
     },
     {
       "date": "2026-07-11",
       "count": 702
-    },
-    {
-      "date": "2026-02-14",
-      "count": 643
     }
   ],
   "topStreaksEver": [
