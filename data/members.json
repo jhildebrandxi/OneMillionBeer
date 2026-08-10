@@ -2208,7 +2208,7 @@
       "streakStart": "2026-02-11",
       "streakEnd": "2026-02-14",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "11.02.26",
       "lastStr": "13.06.26"
     },
@@ -2404,7 +2404,7 @@
       "streakStart": "2026-03-27",
       "streakEnd": "2026-03-31",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "13.02.26",
       "lastStr": "21.06.26"
     },
@@ -3090,7 +3090,7 @@
       "streakStart": "2026-02-24",
       "streakEnd": "2026-02-27",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "24.02.26",
       "lastStr": "02.07.26"
     },
@@ -5582,7 +5582,7 @@
       "streakStart": "2026-04-09",
       "streakEnd": "2026-04-12",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "04.04.26",
       "lastStr": "30.05.26"
     },
@@ -6086,7 +6086,7 @@
       "streakStart": "2026-04-17",
       "streakEnd": "2026-04-20",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "08.04.26",
       "lastStr": "08.07.26"
     },
@@ -6212,7 +6212,7 @@
       "streakStart": "2026-02-07",
       "streakEnd": "2026-02-08",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "07.02.26",
       "lastStr": "07.07.26"
     },
@@ -6702,7 +6702,7 @@
       "streakStart": "2026-02-13",
       "streakEnd": "2026-02-15",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "13.02.26",
       "lastStr": "23.05.26"
     },
@@ -6744,7 +6744,7 @@
       "streakStart": "2026-03-16",
       "streakEnd": "2026-03-18",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "14.03.26",
       "lastStr": "10.07.26"
     },
@@ -7584,7 +7584,7 @@
       "streakStart": "2026-04-23",
       "streakEnd": "2026-04-25",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "23.04.26",
       "lastStr": "04.07.26"
     },
@@ -8032,7 +8032,7 @@
       "streakStart": "2026-02-13",
       "streakEnd": "2026-02-14",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "13.02.26",
       "lastStr": "18.06.26"
     },
@@ -8550,7 +8550,7 @@
       "streakStart": "2026-04-18",
       "streakEnd": "2026-04-19",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "12.04.26",
       "lastStr": "08.07.26"
     },
@@ -8833,6 +8833,20 @@
       "hasLeft": true,
       "joinStr": "05.04.26",
       "lastStr": "02.05.26"
+    },
+    {
+      "name": "~ Tobias Sagstetter🍻",
+      "posts": 9,
+      "daysAgo": 0,
+      "ppw": 0.5,
+      "memDays": 127,
+      "streak": 2,
+      "streakStart": "2026-04-06",
+      "streakEnd": "2026-04-07",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "05.04.26",
+      "lastStr": "10.08.26"
     },
     {
       "name": "~ Luca Gödde",
@@ -9155,20 +9169,6 @@
       "hasLeft": true,
       "joinStr": "02.04.26",
       "lastStr": "07.05.26"
-    },
-    {
-      "name": "~ Tobias Sagstetter🍻",
-      "posts": 8,
-      "daysAgo": 29,
-      "ppw": 0.4,
-      "memDays": 127,
-      "streak": 2,
-      "streakStart": "2026-04-06",
-      "streakEnd": "2026-04-07",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "05.04.26",
-      "lastStr": "12.07.26"
     },
     {
       "name": "~ Alessandro Costa",
@@ -9572,7 +9572,7 @@
       "streakStart": "2026-04-02",
       "streakEnd": "2026-04-03",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "01.04.26",
       "lastStr": "08.07.26"
     },
@@ -10188,7 +10188,7 @@
       "streakStart": "2026-05-14",
       "streakEnd": "2026-05-17",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "14.05.26",
       "lastStr": "04.07.26"
     },
@@ -10678,7 +10678,7 @@
       "streakStart": "2026-06-02",
       "streakEnd": "2026-06-02",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "02.06.26",
       "lastStr": "07.07.26"
     },
@@ -11126,7 +11126,7 @@
       "streakStart": "2026-04-28",
       "streakEnd": "2026-04-28",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "27.04.26",
       "lastStr": "21.07.26"
     },
@@ -11168,7 +11168,7 @@
       "streakStart": "2026-05-08",
       "streakEnd": "2026-05-08",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "07.05.26",
       "lastStr": "05.06.26"
     },
@@ -14136,7 +14136,7 @@
       "streakStart": "2026-07-08",
       "streakEnd": "2026-07-08",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "08.07.26",
       "lastStr": "08.07.26"
     },
@@ -14150,7 +14150,7 @@
       "streakStart": "2026-07-08",
       "streakEnd": "2026-07-08",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "08.07.26",
       "lastStr": "11.07.26"
     },
@@ -15634,7 +15634,7 @@
       "streakStart": "2026-07-10",
       "streakEnd": "2026-07-10",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "09.07.26",
       "lastStr": "10.07.26"
     },
@@ -15676,7 +15676,7 @@
       "streakStart": "2026-07-11",
       "streakEnd": "2026-07-11",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "11.07.26",
       "lastStr": "11.07.26"
     },
@@ -16031,6 +16031,6 @@
       "lastStr": "09.08.26"
     }
   ],
-  "totalPosts": 49622,
-  "updated": "10.08.2026, 11:25"
+  "totalPosts": 49623,
+  "updated": "10.08.2026, 11:35"
 }
