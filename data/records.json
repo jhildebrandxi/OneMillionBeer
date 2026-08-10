@@ -1,10 +1,14 @@
 {
-  "updated": "08.08.2026, 17:57",
+  "updated": "10.08.2026, 11:25",
   "bestDayEver": {
-    "date": "2026-07-25",
-    "count": 897
+    "date": "2026-08-08",
+    "count": 902
   },
   "bestDaysTop3": [
+    {
+      "date": "2026-08-08",
+      "count": 902
+    },
     {
       "date": "2026-07-25",
       "count": 897
@@ -12,10 +16,6 @@
     {
       "date": "2026-08-01",
       "count": 857
-    },
-    {
-      "date": "2026-07-18",
-      "count": 816
     }
   ],
   "topStreaksEver": [
@@ -32,10 +32,10 @@
       "endDate": "2026-04-14"
     },
     {
-      "name": "~ BrunoUno",
+      "name": "Knotti",
       "streak": 19,
-      "startDate": "2026-07-08",
-      "endDate": "2026-07-26"
+      "startDate": "2026-07-23",
+      "endDate": "2026-08-10"
     }
   ],
   "mostBeers24h": {
