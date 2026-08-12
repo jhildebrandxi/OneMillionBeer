@@ -828,9 +828,9 @@
     },
     {
       "name": "~ Max🦕",
-      "posts": 190,
+      "posts": 192,
       "daysAgo": 0,
-      "ppw": 10.7,
+      "ppw": 10.8,
       "memDays": 124,
       "streak": 9,
       "streakStart": "2026-06-21",
@@ -2297,6 +2297,20 @@
       "lastStr": "06.08.26"
     },
     {
+      "name": "~ João Rodrigues",
+      "posts": 79,
+      "daysAgo": 0,
+      "ppw": 10.1,
+      "memDays": 55,
+      "streak": 6,
+      "streakStart": "2026-07-12",
+      "streakEnd": "2026-07-17",
+      "currentStreak": 6,
+      "hasLeft": false,
+      "joinStr": "19.06.26",
+      "lastStr": "12.08.26"
+    },
+    {
       "name": "~ Benni",
       "posts": 78,
       "daysAgo": 8,
@@ -2379,20 +2393,6 @@
       "hasLeft": false,
       "joinStr": "22.03.26",
       "lastStr": "15.07.26"
-    },
-    {
-      "name": "~ João Rodrigues",
-      "posts": 76,
-      "daysAgo": 0,
-      "ppw": 9.7,
-      "memDays": 55,
-      "streak": 6,
-      "streakStart": "2026-07-12",
-      "streakEnd": "2026-07-17",
-      "currentStreak": 6,
-      "hasLeft": false,
-      "joinStr": "19.06.26",
-      "lastStr": "12.08.26"
     },
     {
       "name": "~ Francisco",
@@ -2535,6 +2535,20 @@
       "lastStr": "01.08.26"
     },
     {
+      "name": "~ Rob",
+      "posts": 72,
+      "daysAgo": 0,
+      "ppw": 31.5,
+      "memDays": 16,
+      "streak": 9,
+      "streakStart": "2026-08-04",
+      "streakEnd": "2026-08-12",
+      "currentStreak": 9,
+      "hasLeft": false,
+      "joinStr": "28.07.26",
+      "lastStr": "12.08.26"
+    },
+    {
       "name": "~ Olli",
       "posts": 71,
       "daysAgo": 4,
@@ -2575,20 +2589,6 @@
       "hasLeft": false,
       "joinStr": "25.05.26",
       "lastStr": "08.08.26"
-    },
-    {
-      "name": "~ Rob",
-      "posts": 71,
-      "daysAgo": 0,
-      "ppw": 31.1,
-      "memDays": 16,
-      "streak": 9,
-      "streakStart": "2026-08-04",
-      "streakEnd": "2026-08-12",
-      "currentStreak": 9,
-      "hasLeft": false,
-      "joinStr": "28.07.26",
-      "lastStr": "12.08.26"
     },
     {
       "name": "~ Marc G.",
@@ -3473,6 +3473,20 @@
       "lastStr": "02.08.26"
     },
     {
+      "name": "~ Sanderlei",
+      "posts": 51,
+      "daysAgo": 0,
+      "ppw": 11.2,
+      "memDays": 32,
+      "streak": 4,
+      "streakStart": "2026-07-23",
+      "streakEnd": "2026-07-26",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "12.07.26",
+      "lastStr": "12.08.26"
+    },
+    {
       "name": "~ Elias",
       "posts": 50,
       "daysAgo": 6,
@@ -3541,20 +3555,6 @@
       "hasLeft": false,
       "joinStr": "16.05.26",
       "lastStr": "08.08.26"
-    },
-    {
-      "name": "~ Sanderlei",
-      "posts": 49,
-      "daysAgo": 0,
-      "ppw": 10.7,
-      "memDays": 32,
-      "streak": 4,
-      "streakStart": "2026-07-23",
-      "streakEnd": "2026-07-26",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "12.07.26",
-      "lastStr": "12.08.26"
     },
     {
       "name": "~ Höfi",
@@ -10319,6 +10319,20 @@
       "lastStr": "08.08.26"
     },
     {
+      "name": "~ Vincenz",
+      "posts": 6,
+      "daysAgo": 0,
+      "ppw": 1.8,
+      "memDays": 23,
+      "streak": 1,
+      "streakStart": "2026-07-21",
+      "streakEnd": "2026-07-21",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "21.07.26",
+      "lastStr": "12.08.26"
+    },
+    {
       "name": "~ ⠀",
       "posts": 6,
       "daysAgo": 8,
@@ -10723,20 +10737,6 @@
       "hasLeft": false,
       "joinStr": "18.07.26",
       "lastStr": "22.07.26"
-    },
-    {
-      "name": "~ Vincenz",
-      "posts": 5,
-      "daysAgo": 16,
-      "ppw": 1.5,
-      "memDays": 23,
-      "streak": 1,
-      "streakStart": "2026-07-21",
-      "streakEnd": "2026-07-21",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "21.07.26",
-      "lastStr": "27.07.26"
     },
     {
       "name": "~ Tommi",
@@ -16087,6 +16087,6 @@
       "lastStr": "11.08.26"
     }
   ],
-  "totalPosts": 50300,
-  "updated": "12.08.2026, 14:32"
+  "totalPosts": 50309,
+  "updated": "12.08.2026, 15:14"
 }
