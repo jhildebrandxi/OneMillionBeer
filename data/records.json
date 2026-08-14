@@ -1,5 +1,5 @@
 {
-  "updated": "12.08.2026, 15:14",
+  "updated": "14.08.2026, 08:51",
   "bestDayEver": {
     "date": "2026-08-08",
     "count": 902
@@ -27,15 +27,15 @@
     },
     {
       "name": "Knotti",
-      "streak": 20,
+      "streak": 22,
       "startDate": "2026-07-23",
-      "endDate": "2026-08-11"
+      "endDate": "2026-08-13"
     },
     {
-      "name": "Marvin Scheben",
-      "streak": 19,
-      "startDate": "2026-03-27",
-      "endDate": "2026-04-14"
+      "name": "~ Lutz G",
+      "streak": 20,
+      "startDate": "2026-07-25",
+      "endDate": "2026-08-13"
     }
   ],
   "mostBeers24h": {
