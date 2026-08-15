@@ -1,8 +1,998 @@
 {
-  "updated": "14.08.2026, 16:08",
+  "updated": "15.08.2026, 08:16",
   "bestDayEver": {
     "date": "2026-08-08",
-    "count": 902
+    "count": 902,
+    "contributors": [
+      {
+        "name": "Pascal Bönsch",
+        "count": 27
+      },
+      {
+        "name": "~ Moritz Leiverkuß",
+        "count": 18
+      },
+      {
+        "name": "~ João Rodrigues",
+        "count": 17
+      },
+      {
+        "name": "~ Lukas B.",
+        "count": 16
+      },
+      {
+        "name": "~ Nelle",
+        "count": 16
+      },
+      {
+        "name": "~ Janis",
+        "count": 15
+      },
+      {
+        "name": "~ Cyriel",
+        "count": 14
+      },
+      {
+        "name": "~ Maximilian Schäfer",
+        "count": 14
+      },
+      {
+        "name": "~ Lutz Meyersieck",
+        "count": 13
+      },
+      {
+        "name": "~ Jonas S.",
+        "count": 12
+      },
+      {
+        "name": "Marvin Scheben",
+        "count": 12
+      },
+      {
+        "name": "~ Rob",
+        "count": 12
+      },
+      {
+        "name": "Gonçalo d'Orey",
+        "count": 11
+      },
+      {
+        "name": "~ Tobi Bartel",
+        "count": 11
+      },
+      {
+        "name": "~ Ben",
+        "count": 10
+      },
+      {
+        "name": "~ Christian",
+        "count": 10
+      },
+      {
+        "name": "~ Fabi F",
+        "count": 10
+      },
+      {
+        "name": "~ Marco",
+        "count": 10
+      },
+      {
+        "name": "~ Tim",
+        "count": 9
+      },
+      {
+        "name": "Steffen Schnitzler",
+        "count": 9
+      },
+      {
+        "name": "~ Lorena 🦋",
+        "count": 9
+      },
+      {
+        "name": "~ Juli",
+        "count": 9
+      },
+      {
+        "name": "~ Tom",
+        "count": 9
+      },
+      {
+        "name": "~ Luke🇩🇪🦅",
+        "count": 9
+      },
+      {
+        "name": "Wolf",
+        "count": 9
+      },
+      {
+        "name": "~ BrunoUno",
+        "count": 8
+      },
+      {
+        "name": "Felix Sievert",
+        "count": 8
+      },
+      {
+        "name": "Daniel Reuter",
+        "count": 8
+      },
+      {
+        "name": "~ Michael Dahmen",
+        "count": 8
+      },
+      {
+        "name": "~ Nina",
+        "count": 8
+      },
+      {
+        "name": "~ Simon D.",
+        "count": 8
+      },
+      {
+        "name": "~ Tobi",
+        "count": 8
+      },
+      {
+        "name": "~ HenriH",
+        "count": 7
+      },
+      {
+        "name": "~ Jari",
+        "count": 7
+      },
+      {
+        "name": "~ Moritz",
+        "count": 7
+      },
+      {
+        "name": "~ Jules",
+        "count": 7
+      },
+      {
+        "name": "~ Jonas M K.",
+        "count": 7
+      },
+      {
+        "name": "~ Peter E.",
+        "count": 6
+      },
+      {
+        "name": "~ Jonas",
+        "count": 6
+      },
+      {
+        "name": "~ Vincent Brandner",
+        "count": 6
+      },
+      {
+        "name": "~ George",
+        "count": 6
+      },
+      {
+        "name": "~ Maximilian Klar",
+        "count": 6
+      },
+      {
+        "name": "~ Denis",
+        "count": 6
+      },
+      {
+        "name": "Fabi Girke",
+        "count": 6
+      },
+      {
+        "name": "~ Alex",
+        "count": 6
+      },
+      {
+        "name": "~ Mario",
+        "count": 6
+      },
+      {
+        "name": "~ Mandy",
+        "count": 6
+      },
+      {
+        "name": "~ Donald Kirste",
+        "count": 5
+      },
+      {
+        "name": "Johannes",
+        "count": 5
+      },
+      {
+        "name": "~ Bruno",
+        "count": 5
+      },
+      {
+        "name": "~ Dirk Grafschmidt",
+        "count": 5
+      },
+      {
+        "name": "~ Konrad",
+        "count": 5
+      },
+      {
+        "name": "AFB",
+        "count": 5
+      },
+      {
+        "name": "~ Benjamin Nethanjahu",
+        "count": 5
+      },
+      {
+        "name": "~ Philip",
+        "count": 5
+      },
+      {
+        "name": "~ Diego",
+        "count": 5
+      },
+      {
+        "name": "~ irem",
+        "count": 5
+      },
+      {
+        "name": "~ Dominik",
+        "count": 5
+      },
+      {
+        "name": "~ Jürgen",
+        "count": 5
+      },
+      {
+        "name": "~ Julius M.",
+        "count": 5
+      },
+      {
+        "name": "~ Louis Pauli",
+        "count": 4
+      },
+      {
+        "name": "~ JK",
+        "count": 4
+      },
+      {
+        "name": "~ Luca K",
+        "count": 4
+      },
+      {
+        "name": "~ Kian",
+        "count": 4
+      },
+      {
+        "name": "~ Campino",
+        "count": 4
+      },
+      {
+        "name": "~ Niko",
+        "count": 4
+      },
+      {
+        "name": "~ Max",
+        "count": 4
+      },
+      {
+        "name": "~ Nino Bltr",
+        "count": 4
+      },
+      {
+        "name": "Backes",
+        "count": 4
+      },
+      {
+        "name": "~ Lukas Haas",
+        "count": 4
+      },
+      {
+        "name": "~ Kai",
+        "count": 4
+      },
+      {
+        "name": "~ Lars Wollbrink",
+        "count": 4
+      },
+      {
+        "name": "~ Max🦕",
+        "count": 4
+      },
+      {
+        "name": "~ zoë",
+        "count": 4
+      },
+      {
+        "name": "~ Jule",
+        "count": 4
+      },
+      {
+        "name": "~ Donski",
+        "count": 4
+      },
+      {
+        "name": "~ Valentin",
+        "count": 4
+      },
+      {
+        "name": "~ Mado",
+        "count": 4
+      },
+      {
+        "name": "~ Simi",
+        "count": 4
+      },
+      {
+        "name": "~ Guilherme Costa Matos",
+        "count": 4
+      },
+      {
+        "name": "~ Micha",
+        "count": 4
+      },
+      {
+        "name": "~ Tim Connemann",
+        "count": 4
+      },
+      {
+        "name": "~ Johannes Gütlhuber",
+        "count": 4
+      },
+      {
+        "name": "~ Pedro Ferreira",
+        "count": 4
+      },
+      {
+        "name": "~ Philipp",
+        "count": 4
+      },
+      {
+        "name": "~ leander",
+        "count": 4
+      },
+      {
+        "name": "~ Kluger",
+        "count": 4
+      },
+      {
+        "name": "~ Robbert",
+        "count": 3
+      },
+      {
+        "name": "~ Paloma 💖",
+        "count": 3
+      },
+      {
+        "name": "~ Nils",
+        "count": 3
+      },
+      {
+        "name": "David Sliwka",
+        "count": 3
+      },
+      {
+        "name": "~ Leon Krause",
+        "count": 3
+      },
+      {
+        "name": "~ ac",
+        "count": 3
+      },
+      {
+        "name": "~ Maro",
+        "count": 3
+      },
+      {
+        "name": "Knotti",
+        "count": 3
+      },
+      {
+        "name": "~ Lutz G",
+        "count": 3
+      },
+      {
+        "name": "~ Annika",
+        "count": 3
+      },
+      {
+        "name": "~ Michael Torka - SwissLife select",
+        "count": 3
+      },
+      {
+        "name": "~ Raman",
+        "count": 3
+      },
+      {
+        "name": "~ Markus WhITe",
+        "count": 3
+      },
+      {
+        "name": "~ Obi®️",
+        "count": 3
+      },
+      {
+        "name": "~ Daniel",
+        "count": 3
+      },
+      {
+        "name": "~ Assi",
+        "count": 3
+      },
+      {
+        "name": "~ Björn",
+        "count": 3
+      },
+      {
+        "name": "~ Jan-Niklas",
+        "count": 3
+      },
+      {
+        "name": "~ Svenson",
+        "count": 3
+      },
+      {
+        "name": "~ Luke Randolf",
+        "count": 3
+      },
+      {
+        "name": "~ Jule👑",
+        "count": 3
+      },
+      {
+        "name": "~ Luke",
+        "count": 3
+      },
+      {
+        "name": "~ Joschka",
+        "count": 3
+      },
+      {
+        "name": "Dohle",
+        "count": 3
+      },
+      {
+        "name": "~ nicolas",
+        "count": 3
+      },
+      {
+        "name": "~ Luggi",
+        "count": 3
+      },
+      {
+        "name": "~ Paul",
+        "count": 3
+      },
+      {
+        "name": "~ Juan",
+        "count": 3
+      },
+      {
+        "name": "~ Nick",
+        "count": 3
+      },
+      {
+        "name": "~ Luca Hoehl",
+        "count": 3
+      },
+      {
+        "name": "~ Mats P",
+        "count": 3
+      },
+      {
+        "name": "~ Flo Erlacher",
+        "count": 2
+      },
+      {
+        "name": "~ Marcel",
+        "count": 2
+      },
+      {
+        "name": "Julian Hansmann",
+        "count": 2
+      },
+      {
+        "name": "~ Jonas P.",
+        "count": 2
+      },
+      {
+        "name": "~ T.U. jr",
+        "count": 2
+      },
+      {
+        "name": "~ lisa",
+        "count": 2
+      },
+      {
+        "name": "~ Francisco Nobre",
+        "count": 2
+      },
+      {
+        "name": "~ Olli",
+        "count": 2
+      },
+      {
+        "name": "~ Yannick",
+        "count": 2
+      },
+      {
+        "name": "Finn Opdenhovel",
+        "count": 2
+      },
+      {
+        "name": "~ Mika Bädorf",
+        "count": 2
+      },
+      {
+        "name": "Jörn",
+        "count": 2
+      },
+      {
+        "name": "~ Mia",
+        "count": 2
+      },
+      {
+        "name": "~ Johanna",
+        "count": 2
+      },
+      {
+        "name": "~ Simon",
+        "count": 2
+      },
+      {
+        "name": "~ ADB",
+        "count": 2
+      },
+      {
+        "name": "~ Julius Büxler",
+        "count": 2
+      },
+      {
+        "name": "~ Luis",
+        "count": 2
+      },
+      {
+        "name": "~ Francisco Mascarenhas",
+        "count": 2
+      },
+      {
+        "name": "~ Maroš",
+        "count": 2
+      },
+      {
+        "name": "~ Stefan",
+        "count": 2
+      },
+      {
+        "name": "~ Consti",
+        "count": 2
+      },
+      {
+        "name": "~ Leo",
+        "count": 2
+      },
+      {
+        "name": "~ Nico",
+        "count": 2
+      },
+      {
+        "name": "~ PandaPat!",
+        "count": 2
+      },
+      {
+        "name": "~ Valle",
+        "count": 2
+      },
+      {
+        "name": "~ joshi",
+        "count": 2
+      },
+      {
+        "name": "~ Laurens",
+        "count": 2
+      },
+      {
+        "name": "Tarek",
+        "count": 2
+      },
+      {
+        "name": "~ nike",
+        "count": 2
+      },
+      {
+        "name": "~ Caspar",
+        "count": 2
+      },
+      {
+        "name": "~ Michael",
+        "count": 2
+      },
+      {
+        "name": "~ Ben-Ole",
+        "count": 2
+      },
+      {
+        "name": "~ Basti",
+        "count": 2
+      },
+      {
+        "name": "~ Tobias",
+        "count": 2
+      },
+      {
+        "name": "~ Milan",
+        "count": 2
+      },
+      {
+        "name": "~ Jo☔",
+        "count": 2
+      },
+      {
+        "name": "~ Friedrich Weiler",
+        "count": 2
+      },
+      {
+        "name": "~ Oli",
+        "count": 2
+      },
+      {
+        "name": "~ Wolfgang Schiffbauer",
+        "count": 2
+      },
+      {
+        "name": "~ Laurin",
+        "count": 2
+      },
+      {
+        "name": "~ Axel",
+        "count": 2
+      },
+      {
+        "name": "~ Schoty Pie",
+        "count": 2
+      },
+      {
+        "name": "~ Maximilian Siebenhütter",
+        "count": 2
+      },
+      {
+        "name": "~ Joao Fonseca",
+        "count": 2
+      },
+      {
+        "name": "~ José Antonio",
+        "count": 1
+      },
+      {
+        "name": "~ Brittany",
+        "count": 1
+      },
+      {
+        "name": "~ leon",
+        "count": 1
+      },
+      {
+        "name": "~ Kim",
+        "count": 1
+      },
+      {
+        "name": "~ ~A",
+        "count": 1
+      },
+      {
+        "name": "~ Anton",
+        "count": 1
+      },
+      {
+        "name": "~ Luzie",
+        "count": 1
+      },
+      {
+        "name": "~ Jérôme",
+        "count": 1
+      },
+      {
+        "name": "~ Daniel B",
+        "count": 1
+      },
+      {
+        "name": "~ Rodolfo Gonzáles-Gonzáles",
+        "count": 1
+      },
+      {
+        "name": "~ Jan Niklas Gebel",
+        "count": 1
+      },
+      {
+        "name": "~ Julius",
+        "count": 1
+      },
+      {
+        "name": "~ julian",
+        "count": 1
+      },
+      {
+        "name": "Philipp Mallorca",
+        "count": 1
+      },
+      {
+        "name": "~ Tjan Meinecke",
+        "count": 1
+      },
+      {
+        "name": "~ Jan",
+        "count": 1
+      },
+      {
+        "name": "~ Jan Segarra",
+        "count": 1
+      },
+      {
+        "name": "~ Nick Birkner",
+        "count": 1
+      },
+      {
+        "name": "~ Elisa Fontanella",
+        "count": 1
+      },
+      {
+        "name": "~ Jonas Hillesheim",
+        "count": 1
+      },
+      {
+        "name": "~ Lara",
+        "count": 1
+      },
+      {
+        "name": "~ Matti",
+        "count": 1
+      },
+      {
+        "name": "~ Leo L",
+        "count": 1
+      },
+      {
+        "name": "~ Justus K",
+        "count": 1
+      },
+      {
+        "name": "Felix Pleyer",
+        "count": 1
+      },
+      {
+        "name": "~ moe",
+        "count": 1
+      },
+      {
+        "name": "~ Julian H.",
+        "count": 1
+      },
+      {
+        "name": "~ .",
+        "count": 1
+      },
+      {
+        "name": "~ Liner",
+        "count": 1
+      },
+      {
+        "name": "Leo Zensen",
+        "count": 1
+      },
+      {
+        "name": "~ Maati",
+        "count": 1
+      },
+      {
+        "name": "~ Johannes Mahl",
+        "count": 1
+      },
+      {
+        "name": "Kai Wiesner",
+        "count": 1
+      },
+      {
+        "name": "~ jakob köhler",
+        "count": 1
+      },
+      {
+        "name": "~ Hodenkobold",
+        "count": 1
+      },
+      {
+        "name": "~ Marc J",
+        "count": 1
+      },
+      {
+        "name": "~ Christopher",
+        "count": 1
+      },
+      {
+        "name": "~ MaxiK",
+        "count": 1
+      },
+      {
+        "name": "~ lukas",
+        "count": 1
+      },
+      {
+        "name": "~ Alina",
+        "count": 1
+      },
+      {
+        "name": "~ Hynek Tikal",
+        "count": 1
+      },
+      {
+        "name": "~ Rudi🐘",
+        "count": 1
+      },
+      {
+        "name": "~ Timo",
+        "count": 1
+      },
+      {
+        "name": "~ Gabriel Ostolaza",
+        "count": 1
+      },
+      {
+        "name": "~ Adrian Blumenthal",
+        "count": 1
+      },
+      {
+        "name": "~ Lukas S",
+        "count": 1
+      },
+      {
+        "name": "~ Astrid",
+        "count": 1
+      },
+      {
+        "name": "~ Charlie",
+        "count": 1
+      },
+      {
+        "name": "~ Velene",
+        "count": 1
+      },
+      {
+        "name": "~ Mathis",
+        "count": 1
+      },
+      {
+        "name": "~ Alex Hochhaus",
+        "count": 1
+      },
+      {
+        "name": "~ Peter Mattmann",
+        "count": 1
+      },
+      {
+        "name": "~ Matan",
+        "count": 1
+      },
+      {
+        "name": "~ justin",
+        "count": 1
+      },
+      {
+        "name": "~ Paul 🇩🇪",
+        "count": 1
+      },
+      {
+        "name": "~ Markus Karl",
+        "count": 1
+      },
+      {
+        "name": "~ Leon",
+        "count": 1
+      },
+      {
+        "name": "~ Bene 🛸",
+        "count": 1
+      },
+      {
+        "name": "~ Janek",
+        "count": 1
+      },
+      {
+        "name": "~ Max Ulrich",
+        "count": 1
+      },
+      {
+        "name": "~ Marc",
+        "count": 1
+      },
+      {
+        "name": "~ Simon Leuthner",
+        "count": 1
+      },
+      {
+        "name": "~ Gonçalo Ramos Dias",
+        "count": 1
+      },
+      {
+        "name": "~ Leo Grootens",
+        "count": 1
+      },
+      {
+        "name": "~ Tim Hagemann",
+        "count": 1
+      },
+      {
+        "name": "~ Alex R***",
+        "count": 1
+      },
+      {
+        "name": "~ Luca",
+        "count": 1
+      },
+      {
+        "name": "~ Jonas Detterböck",
+        "count": 1
+      },
+      {
+        "name": "~ Philipp Werth",
+        "count": 1
+      },
+      {
+        "name": "~ Dario",
+        "count": 1
+      },
+      {
+        "name": "~ Rich",
+        "count": 1
+      },
+      {
+        "name": "~ Joshi Schneider",
+        "count": 1
+      },
+      {
+        "name": "~ Fabio",
+        "count": 1
+      },
+      {
+        "name": "~ Simon Zerle",
+        "count": 1
+      },
+      {
+        "name": "~ Floko",
+        "count": 1
+      },
+      {
+        "name": "~ mateo",
+        "count": 1
+      },
+      {
+        "name": "~ Clara",
+        "count": 1
+      },
+      {
+        "name": "~ angelina",
+        "count": 1
+      },
+      {
+        "name": "~ Chiara",
+        "count": 1
+      },
+      {
+        "name": "~ Seivedias",
+        "count": 1
+      },
+      {
+        "name": "~ Verena 💕",
+        "count": 1
+      },
+      {
+        "name": "~ Manu",
+        "count": 1
+      },
+      {
+        "name": "~ Juju",
+        "count": 1
+      },
+      {
+        "name": "~ M.R.",
+        "count": 1
+      }
+    ]
   },
   "bestDaysTop3": [
     {
@@ -27,15 +1017,15 @@
     },
     {
       "name": "Knotti",
-      "streak": 22,
+      "streak": 23,
       "startDate": "2026-07-23",
-      "endDate": "2026-08-13"
+      "endDate": "2026-08-14"
     },
     {
-      "name": "~ Lutz G",
-      "streak": 20,
+      "name": "~ Marc J",
+      "streak": 22,
       "startDate": "2026-07-25",
-      "endDate": "2026-08-13"
+      "endDate": "2026-08-15"
     }
   ],
   "mostBeers24h": {
