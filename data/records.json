@@ -1,5 +1,5 @@
 {
-  "updated": "15.08.2026, 15:29",
+  "updated": "16.08.2026, 11:08",
   "bestDayEver": {
     "date": "2026-08-08",
     "count": 902,
@@ -218,10 +218,6 @@
       },
       {
         "name": "~ Benjamin Nethanjahu",
-        "count": 5
-      },
-      {
-        "name": "~ Philip",
         "count": 5
       },
       {
@@ -465,6 +461,10 @@
         "count": 3
       },
       {
+        "name": "~ Philip G",
+        "count": 3
+      },
+      {
         "name": "~ Nick",
         "count": 3
       },
@@ -542,6 +542,10 @@
       },
       {
         "name": "~ Julius Büxler",
+        "count": 2
+      },
+      {
+        "name": "~ Philip",
         "count": 2
       },
       {
@@ -1022,10 +1026,10 @@
       "endDate": "2026-08-15"
     },
     {
-      "name": "~ Marc J",
-      "streak": 22,
+      "name": "~ Lutz G",
+      "streak": 23,
       "startDate": "2026-07-25",
-      "endDate": "2026-08-15"
+      "endDate": "2026-08-16"
     }
   ],
   "mostBeers24h": {
