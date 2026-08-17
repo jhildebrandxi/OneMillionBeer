@@ -1216,6 +1216,21 @@
       "last7": 6
     },
     {
+      "name": "~ Dirk Grafschmidt",
+      "posts": 159,
+      "daysAgo": 0,
+      "ppw": 9.6,
+      "memDays": 116,
+      "streak": 15,
+      "streakStart": "2026-08-03",
+      "streakEnd": "2026-08-17",
+      "currentStreak": 15,
+      "hasLeft": false,
+      "joinStr": "24.04.26",
+      "lastStr": "17.08.26",
+      "last7": 30
+    },
+    {
       "name": "~ JK",
       "posts": 158,
       "daysAgo": 1,
@@ -1244,21 +1259,6 @@
       "joinStr": "05.04.26",
       "lastStr": "15.08.26",
       "last7": 12
-    },
-    {
-      "name": "~ Dirk Grafschmidt",
-      "posts": 158,
-      "daysAgo": 0,
-      "ppw": 9.5,
-      "memDays": 116,
-      "streak": 15,
-      "streakStart": "2026-08-03",
-      "streakEnd": "2026-08-17",
-      "currentStreak": 15,
-      "hasLeft": false,
-      "joinStr": "24.04.26",
-      "lastStr": "17.08.26",
-      "last7": 29
     },
     {
       "name": "~ Fabian",
@@ -17626,6 +17626,6 @@
       "last7": 1
     }
   ],
-  "totalPosts": 52983,
-  "updated": "17.08.2026, 19:47"
+  "totalPosts": 52984,
+  "updated": "17.08.2026, 21:05"
 }
