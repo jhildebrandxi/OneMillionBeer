@@ -1,5 +1,5 @@
 {
-  "updated": "18.08.2026, 15:02",
+  "updated": "18.08.2026, 15:16",
   "bestDayEver": {
     "date": "2026-08-08",
     "count": 902,
@@ -1030,6 +1030,26 @@
       "streak": 25,
       "startDate": "2026-07-25",
       "endDate": "2026-08-18"
+    }
+  ],
+  "bestWeeksEver": [
+    {
+      "name": "Marvin Scheben",
+      "count": 146,
+      "weekStart": "2026-02-09",
+      "weekEnd": "2026-02-15"
+    },
+    {
+      "name": "~ Chris🦅",
+      "count": 115,
+      "weekStart": "2026-02-09",
+      "weekEnd": "2026-02-15"
+    },
+    {
+      "name": "Johannes",
+      "count": 104,
+      "weekStart": "2026-02-09",
+      "weekEnd": "2026-02-15"
     }
   ],
   "weeklyComparison": {
