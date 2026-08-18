@@ -527,17 +527,17 @@
     },
     {
       "name": "~ BrunoUno",
-      "posts": 269,
-      "daysAgo": 1,
+      "posts": 270,
+      "daysAgo": 0,
       "ppw": 13.4,
       "memDays": 141,
       "streak": 19,
       "streakStart": "2026-07-08",
       "streakEnd": "2026-07-26",
-      "currentStreak": 7,
+      "currentStreak": 8,
       "hasLeft": false,
       "joinStr": "31.03.26",
-      "lastStr": "17.08.26",
+      "lastStr": "18.08.26",
       "last7": 22
     },
     {
@@ -17701,6 +17701,6 @@
       "last7": 0
     }
   ],
-  "totalPosts": 53138,
-  "updated": "18.08.2026, 15:16"
+  "totalPosts": 53139,
+  "updated": "18.08.2026, 15:33"
 }
