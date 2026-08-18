@@ -1,177 +1,177 @@
 {
   "startDate": "2025-12-30",
   "endDate": "2026-08-18",
-  "totalPosts": 53111,
+  "totalPosts": 53137,
   "weekly": [
     {
-      "weekStart": "2025-12-30",
+      "weekStart": "2025-12-29",
       "posts": 1,
       "cumulative": 1
     },
     {
-      "weekStart": "2026-01-06",
+      "weekStart": "2026-01-05",
       "posts": 145,
       "cumulative": 146
     },
     {
-      "weekStart": "2026-01-13",
-      "posts": 309,
-      "cumulative": 455
+      "weekStart": "2026-01-12",
+      "posts": 284,
+      "cumulative": 430
     },
     {
-      "weekStart": "2026-01-20",
-      "posts": 486,
-      "cumulative": 941
+      "weekStart": "2026-01-19",
+      "posts": 500,
+      "cumulative": 930
     },
     {
-      "weekStart": "2026-01-27",
+      "weekStart": "2026-01-26",
       "posts": 726,
-      "cumulative": 1667
+      "cumulative": 1656
     },
     {
-      "weekStart": "2026-02-03",
-      "posts": 1178,
-      "cumulative": 2845
+      "weekStart": "2026-02-02",
+      "posts": 1105,
+      "cumulative": 2761
     },
     {
-      "weekStart": "2026-02-10",
-      "posts": 2318,
-      "cumulative": 5163
+      "weekStart": "2026-02-09",
+      "posts": 2170,
+      "cumulative": 4931
     },
     {
-      "weekStart": "2026-02-17",
-      "posts": 767,
-      "cumulative": 5930
+      "weekStart": "2026-02-16",
+      "posts": 955,
+      "cumulative": 5886
     },
     {
-      "weekStart": "2026-02-24",
-      "posts": 918,
-      "cumulative": 6848
+      "weekStart": "2026-02-23",
+      "posts": 924,
+      "cumulative": 6810
     },
     {
-      "weekStart": "2026-03-03",
-      "posts": 1278,
-      "cumulative": 8126
+      "weekStart": "2026-03-02",
+      "posts": 1244,
+      "cumulative": 8054
     },
     {
-      "weekStart": "2026-03-10",
-      "posts": 1348,
-      "cumulative": 9474
+      "weekStart": "2026-03-09",
+      "posts": 1292,
+      "cumulative": 9346
     },
     {
-      "weekStart": "2026-03-17",
-      "posts": 1219,
-      "cumulative": 10693
+      "weekStart": "2026-03-16",
+      "posts": 1298,
+      "cumulative": 10644
     },
     {
-      "weekStart": "2026-03-24",
-      "posts": 982,
-      "cumulative": 11675
+      "weekStart": "2026-03-23",
+      "posts": 946,
+      "cumulative": 11590
     },
     {
-      "weekStart": "2026-03-31",
-      "posts": 1806,
-      "cumulative": 13481
+      "weekStart": "2026-03-30",
+      "posts": 1777,
+      "cumulative": 13367
     },
     {
-      "weekStart": "2026-04-07",
-      "posts": 1393,
-      "cumulative": 14874
+      "weekStart": "2026-04-06",
+      "posts": 1433,
+      "cumulative": 14800
     },
     {
-      "weekStart": "2026-04-14",
-      "posts": 1653,
-      "cumulative": 16527
+      "weekStart": "2026-04-13",
+      "posts": 1637,
+      "cumulative": 16437
     },
     {
-      "weekStart": "2026-04-21",
-      "posts": 1749,
-      "cumulative": 18276
+      "weekStart": "2026-04-20",
+      "posts": 1751,
+      "cumulative": 18188
     },
     {
-      "weekStart": "2026-04-28",
-      "posts": 1659,
-      "cumulative": 19935
+      "weekStart": "2026-04-27",
+      "posts": 1668,
+      "cumulative": 19856
     },
     {
-      "weekStart": "2026-05-05",
-      "posts": 1474,
-      "cumulative": 21409
+      "weekStart": "2026-05-04",
+      "posts": 1511,
+      "cumulative": 21367
     },
     {
-      "weekStart": "2026-05-12",
-      "posts": 1750,
-      "cumulative": 23159
+      "weekStart": "2026-05-11",
+      "posts": 1734,
+      "cumulative": 23101
     },
     {
-      "weekStart": "2026-05-19",
-      "posts": 2284,
-      "cumulative": 25443
+      "weekStart": "2026-05-18",
+      "posts": 2152,
+      "cumulative": 25253
     },
     {
-      "weekStart": "2026-05-26",
-      "posts": 1387,
-      "cumulative": 26830
+      "weekStart": "2026-05-25",
+      "posts": 1479,
+      "cumulative": 26732
     },
     {
-      "weekStart": "2026-06-02",
-      "posts": 1628,
-      "cumulative": 28458
+      "weekStart": "2026-06-01",
+      "posts": 1646,
+      "cumulative": 28378
     },
     {
-      "weekStart": "2026-06-09",
-      "posts": 1852,
-      "cumulative": 30310
+      "weekStart": "2026-06-08",
+      "posts": 1849,
+      "cumulative": 30227
     },
     {
-      "weekStart": "2026-06-16",
-      "posts": 1779,
-      "cumulative": 32089
+      "weekStart": "2026-06-15",
+      "posts": 1692,
+      "cumulative": 31919
     },
     {
-      "weekStart": "2026-06-23",
-      "posts": 1956,
-      "cumulative": 34045
+      "weekStart": "2026-06-22",
+      "posts": 1857,
+      "cumulative": 33776
     },
     {
-      "weekStart": "2026-06-30",
-      "posts": 1154,
-      "cumulative": 35199
+      "weekStart": "2026-06-29",
+      "posts": 1340,
+      "cumulative": 35116
     },
     {
-      "weekStart": "2026-07-07",
-      "posts": 2203,
-      "cumulative": 37402
+      "weekStart": "2026-07-06",
+      "posts": 2155,
+      "cumulative": 37271
     },
     {
-      "weekStart": "2026-07-14",
-      "posts": 3003,
-      "cumulative": 40405
+      "weekStart": "2026-07-13",
+      "posts": 2954,
+      "cumulative": 40225
     },
     {
-      "weekStart": "2026-07-21",
-      "posts": 3049,
-      "cumulative": 43454
+      "weekStart": "2026-07-20",
+      "posts": 2957,
+      "cumulative": 43182
     },
     {
-      "weekStart": "2026-07-28",
-      "posts": 3111,
-      "cumulative": 46565
+      "weekStart": "2026-07-27",
+      "posts": 3173,
+      "cumulative": 46355
     },
     {
-      "weekStart": "2026-08-04",
-      "posts": 3243,
-      "cumulative": 49808
+      "weekStart": "2026-08-03",
+      "posts": 3235,
+      "cumulative": 49590
     },
     {
-      "weekStart": "2026-08-11",
-      "posts": 3282,
-      "cumulative": 53090
+      "weekStart": "2026-08-10",
+      "posts": 3260,
+      "cumulative": 52850
     },
     {
-      "weekStart": "2026-08-18",
-      "posts": 21,
-      "cumulative": 53111
+      "weekStart": "2026-08-17",
+      "posts": 287,
+      "cumulative": 53137
     }
   ],
   "daily": {
@@ -232,8 +232,8 @@
     "2026-03-03": 92,
     "2026-03-04": 140,
     "2026-03-05": 147,
-    "2026-03-06": 227,
-    "2026-03-07": 438,
+    "2026-03-06": 226,
+    "2026-03-07": 439,
     "2026-03-08": 162,
     "2026-03-09": 72,
     "2026-03-10": 97,
@@ -373,8 +373,8 @@
     "2026-07-22": 203,
     "2026-07-23": 380,
     "2026-07-24": 752,
-    "2026-07-25": 898,
-    "2026-07-26": 365,
+    "2026-07-25": 897,
+    "2026-07-26": 366,
     "2026-07-27": 272,
     "2026-07-28": 198,
     "2026-07-29": 292,
@@ -397,6 +397,6 @@
     "2026-08-15": 837,
     "2026-08-16": 347,
     "2026-08-17": 240,
-    "2026-08-18": 21
+    "2026-08-18": 47
   }
 }
