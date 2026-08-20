@@ -1,5 +1,5 @@
 {
-  "updated": "19.08.2026, 16:15",
+  "updated": "20.08.2026, 08:59",
   "bestDayEver": {
     "date": "2026-08-08",
     "count": 902,
@@ -549,7 +549,7 @@
         "count": 2
       },
       {
-        "name": "~ Luis",
+        "name": "~ Luis Neumann",
         "count": 2
       },
       {
@@ -1015,9 +1015,9 @@
   "topStreaksEver": [
     {
       "name": "Knotti",
-      "streak": 27,
+      "streak": 28,
       "startDate": "2026-07-23",
-      "endDate": "2026-08-18"
+      "endDate": "2026-08-19"
     },
     {
       "name": "~ Philipp",
@@ -1027,9 +1027,9 @@
     },
     {
       "name": "~ Lutz G",
-      "streak": 25,
+      "streak": 26,
       "startDate": "2026-07-25",
-      "endDate": "2026-08-18"
+      "endDate": "2026-08-19"
     }
   ],
   "bestWeeksEver": [
