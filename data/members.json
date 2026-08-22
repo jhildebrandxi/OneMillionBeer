@@ -721,21 +721,6 @@
       "last7": 5
     },
     {
-      "name": "~ Max",
-      "posts": 236,
-      "daysAgo": 1,
-      "ppw": 8.6,
-      "memDays": 192,
-      "streak": 17,
-      "streakStart": "2026-07-30",
-      "streakEnd": "2026-08-15",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "11.02.26",
-      "lastStr": "21.08.26",
-      "last7": 31
-    },
-    {
       "name": "~ Felix E.",
       "posts": 231,
       "daysAgo": 1,
@@ -914,6 +899,21 @@
       "joinStr": "10.01.26",
       "lastStr": "20.08.26",
       "last7": 2
+    },
+    {
+      "name": "~ Max",
+      "posts": 209,
+      "daysAgo": 2,
+      "ppw": 7.6,
+      "memDays": 192,
+      "streak": 13,
+      "streakStart": "2026-08-03",
+      "streakEnd": "2026-08-15",
+      "currentStreak": 0,
+      "hasLeft": false,
+      "joinStr": "11.02.26",
+      "lastStr": "20.08.26",
+      "last7": 28
     },
     {
       "name": "~ Simon",
@@ -6104,6 +6104,21 @@
       "joinStr": "17.06.26",
       "lastStr": "15.08.26",
       "last7": 5
+    },
+    {
+      "name": "Max 1",
+      "posts": 27,
+      "daysAgo": 1,
+      "ppw": 6.5,
+      "memDays": 29,
+      "streak": 1,
+      "streakStart": "2026-07-24",
+      "streakEnd": "2026-07-24",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "24.07.26",
+      "lastStr": "21.08.26",
+      "last7": 3
     },
     {
       "name": "~ Mathis Adams",
@@ -17972,5 +17987,5 @@
     }
   ],
   "totalPosts": 54566,
-  "updated": "22.08.2026, 07:09"
+  "updated": "22.08.2026, 07:10"
 }
