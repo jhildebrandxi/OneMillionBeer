@@ -1,5 +1,5 @@
 {
-  "updated": "21.08.2026, 13:44",
+  "updated": "22.08.2026, 07:10",
   "bestDayEver": {
     "date": "2026-08-08",
     "count": 902,
@@ -1011,15 +1011,15 @@
   "topStreaksEver": [
     {
       "name": "Knotti",
-      "streak": 29,
+      "streak": 30,
       "startDate": "2026-07-23",
-      "endDate": "2026-08-20"
+      "endDate": "2026-08-21"
     },
     {
       "name": "~ Lutz G",
-      "streak": 28,
+      "streak": 29,
       "startDate": "2026-07-25",
-      "endDate": "2026-08-21"
+      "endDate": "2026-08-22"
     },
     {
       "name": "~ Philipp",
@@ -1042,10 +1042,10 @@
       "weekEnd": "2026-02-15"
     },
     {
-      "name": "Johannes",
-      "count": 104,
-      "weekStart": "2026-02-09",
-      "weekEnd": "2026-02-15"
+      "name": "~ Mika Bädorf",
+      "count": 106,
+      "weekStart": "2026-08-17",
+      "weekEnd": "2026-08-23"
     }
   ],
   "weeklyComparison": {
@@ -1059,7 +1059,7 @@
   "mostBeers24h": {
     "name": "Marvin Scheben",
     "count": 53,
-    "windowStart": "2026-02-13T14:35:45.000Z",
-    "windowEnd": "2026-02-14T14:13:23.000Z"
+    "windowStart": "2026-02-13T14:35:46.000Z",
+    "windowEnd": "2026-02-14T14:13:24.000Z"
   }
 }
