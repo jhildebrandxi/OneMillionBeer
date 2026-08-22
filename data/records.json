@@ -1,5 +1,5 @@
 {
-  "updated": "22.08.2026, 07:10",
+  "updated": "22.08.2026, 17:24",
   "bestDayEver": {
     "date": "2026-08-08",
     "count": 902,
@@ -1043,7 +1043,7 @@
     },
     {
       "name": "~ Mika Bädorf",
-      "count": 106,
+      "count": 108,
       "weekStart": "2026-08-17",
       "weekEnd": "2026-08-23"
     }
@@ -1059,7 +1059,7 @@
   "mostBeers24h": {
     "name": "Marvin Scheben",
     "count": 53,
-    "windowStart": "2026-02-13T14:35:46.000Z",
-    "windowEnd": "2026-02-14T14:13:24.000Z"
+    "windowStart": "2026-02-13T14:35:45.000Z",
+    "windowEnd": "2026-02-14T14:13:23.000Z"
   }
 }
