@@ -1,5 +1,5 @@
 {
-  "updated": "24.08.2026, 08:35",
+  "updated": "25.08.2026, 10:48",
   "bestDayEver": {
     "date": "2026-08-08",
     "count": 902,
@@ -1011,9 +1011,9 @@
   "topStreaksEver": [
     {
       "name": "Knotti",
-      "streak": 32,
+      "streak": 33,
       "startDate": "2026-07-23",
-      "endDate": "2026-08-23"
+      "endDate": "2026-08-24"
     },
     {
       "name": "~ Lutz G",
@@ -1022,16 +1022,16 @@
       "endDate": "2026-08-24"
     },
     {
-      "name": "~ Philipp",
+      "name": "Daniel Reuter",
       "streak": 27,
-      "startDate": "2026-02-10",
-      "endDate": "2026-03-08"
+      "startDate": "2026-07-29",
+      "endDate": "2026-08-24"
     }
   ],
   "bestWeeksEver": [
     {
       "name": "~ MB",
-      "count": 148,
+      "count": 156,
       "weekStart": "2026-08-17",
       "weekEnd": "2026-08-23"
     },
