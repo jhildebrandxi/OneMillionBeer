@@ -1,5 +1,5 @@
 {
-  "updated": "25.08.2026, 10:48",
+  "updated": "26.08.2026, 08:13",
   "bestDayEver": {
     "date": "2026-08-08",
     "count": 902,
@@ -1001,7 +1001,7 @@
     },
     {
       "date": "2026-07-25",
-      "count": 897
+      "count": 898
     },
     {
       "date": "2026-08-01",
@@ -1017,15 +1017,15 @@
     },
     {
       "name": "~ Lutz G",
-      "streak": 31,
+      "streak": 33,
       "startDate": "2026-07-25",
-      "endDate": "2026-08-24"
+      "endDate": "2026-08-26"
     },
     {
       "name": "Daniel Reuter",
-      "streak": 27,
+      "streak": 28,
       "startDate": "2026-07-29",
-      "endDate": "2026-08-24"
+      "endDate": "2026-08-25"
     }
   ],
   "bestWeeksEver": [
@@ -1059,7 +1059,7 @@
   "mostBeers24h": {
     "name": "Marvin Scheben",
     "count": 53,
-    "windowStart": "2026-02-13T14:35:45.000Z",
-    "windowEnd": "2026-02-14T14:13:23.000Z"
+    "windowStart": "2026-02-13T14:35:44.000Z",
+    "windowEnd": "2026-02-14T14:13:22.000Z"
   }
 }
