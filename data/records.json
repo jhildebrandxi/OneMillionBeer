@@ -1,5 +1,5 @@
 {
-  "updated": "30.08.2026, 11:16",
+  "updated": "31.08.2026, 10:29",
   "bestDayEver": {
     "date": "2026-08-08",
     "count": 902,
@@ -1016,16 +1016,16 @@
       "endDate": "2026-08-29"
     },
     {
+      "name": "Daniel Reuter",
+      "streak": 33,
+      "startDate": "2026-07-29",
+      "endDate": "2026-08-30"
+    },
+    {
       "name": "Knotti",
       "streak": 33,
       "startDate": "2026-07-23",
       "endDate": "2026-08-24"
-    },
-    {
-      "name": "Daniel Reuter",
-      "streak": 32,
-      "startDate": "2026-07-29",
-      "endDate": "2026-08-29"
     }
   ],
   "bestWeeksEver": [
@@ -1049,12 +1049,12 @@
     }
   ],
   "weeklyComparison": {
-    "windowStart": "2026-08-17",
-    "windowEnd": "2026-08-23",
-    "prevWindowStart": "2026-08-10",
-    "prevWindowEnd": "2026-08-16",
-    "total": 2844,
-    "prevTotal": 3260
+    "windowStart": "2026-08-24",
+    "windowEnd": "2026-08-30",
+    "prevWindowStart": "2026-08-17",
+    "prevWindowEnd": "2026-08-23",
+    "total": 2738,
+    "prevTotal": 2844
   },
   "mostBeers24h": {
     "name": "Marvin Scheben",
