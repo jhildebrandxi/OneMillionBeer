@@ -1,5 +1,5 @@
 {
-  "updated": "06.09.2026, 11:27",
+  "updated": "07.09.2026, 13:54",
   "bestDayEver": {
     "date": "2026-08-08",
     "count": 902,
@@ -209,7 +209,7 @@
         "count": 5
       },
       {
-        "name": "~ Konrad",
+        "name": "~ Conny Kramer",
         "count": 5
       },
       {
@@ -425,7 +425,7 @@
         "count": 3
       },
       {
-        "name": "~ Svenson",
+        "name": "~ Svenion",
         "count": 3
       },
       {
@@ -1011,9 +1011,9 @@
   "topStreaksEver": [
     {
       "name": "Daniel Reuter",
-      "streak": 39,
+      "streak": 40,
       "startDate": "2026-07-29",
-      "endDate": "2026-09-05"
+      "endDate": "2026-09-06"
     },
     {
       "name": "~ Lutz G",
@@ -1049,12 +1049,12 @@
     }
   ],
   "weeklyComparison": {
-    "windowStart": "2026-08-24",
-    "windowEnd": "2026-08-30",
-    "prevWindowStart": "2026-08-17",
-    "prevWindowEnd": "2026-08-23",
-    "total": 2738,
-    "prevTotal": 2844
+    "windowStart": "2026-08-31",
+    "windowEnd": "2026-09-06",
+    "prevWindowStart": "2026-08-24",
+    "prevWindowEnd": "2026-08-30",
+    "total": 2785,
+    "prevTotal": 2738
   },
   "mostBeers24h": {
     "name": "Marvin Scheben",
