@@ -19300,7 +19300,7 @@
       "streakStart": "2026-09-12",
       "streakEnd": "2026-09-12",
       "currentStreak": 1,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "12.09.26",
       "lastStr": "12.09.26",
       "last7": 0
@@ -19367,5 +19367,5 @@
     }
   ],
   "totalPosts": 63890,
-  "updated": "13.09.2026, 10:56"
+  "updated": "13.09.2026, 11:04"
 }
