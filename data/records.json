@@ -1,119 +1,135 @@
 {
-  "updated": "25.09.2026, 15:44",
+  "updated": "26.09.2026, 00:17",
   "bestDayEver": {
-    "date": "2026-08-08",
-    "count": 902,
+    "date": "2026-09-25",
+    "count": 1019,
     "contributors": [
       {
-        "name": "Pascal Bönsch",
-        "count": 27
-      },
-      {
-        "name": "~ Moritz Leiverkuß",
-        "count": 18
-      },
-      {
-        "name": "~ João Rodrigues",
-        "count": 17
-      },
-      {
-        "name": "~ Lukas B.",
-        "count": 16
-      },
-      {
-        "name": "~ Nelle",
-        "count": 16
-      },
-      {
-        "name": "~ Janis",
-        "count": 15
-      },
-      {
-        "name": "~ Cyriel",
-        "count": 14
-      },
-      {
-        "name": "~ Maximilian Schäfer",
-        "count": 14
-      },
-      {
-        "name": "~ Lutz Meyersieck",
-        "count": 13
-      },
-      {
-        "name": "~ Jonas S.",
-        "count": 12
+        "name": "~ Wolfgang Schiffbauer",
+        "count": 36
       },
       {
         "name": "Marvin Scheben",
-        "count": 12
+        "count": 32
       },
       {
-        "name": "~ Rob",
-        "count": 12
+        "name": "~ MB",
+        "count": 32
       },
       {
-        "name": "Gonçalo d'Orey",
-        "count": 11
-      },
-      {
-        "name": "~ Tobi Bartel",
-        "count": 11
-      },
-      {
-        "name": "~ Ben",
-        "count": 10
-      },
-      {
-        "name": "~ Christian",
-        "count": 10
-      },
-      {
-        "name": "~ Fabi F",
-        "count": 10
-      },
-      {
-        "name": "~ Marco",
-        "count": 10
-      },
-      {
-        "name": "~ Tim",
-        "count": 9
-      },
-      {
-        "name": "Steffen Schnitzler",
-        "count": 9
-      },
-      {
-        "name": "~ Lorena 🦋",
-        "count": 9
-      },
-      {
-        "name": "~ Juli",
-        "count": 9
-      },
-      {
-        "name": "~ Tom",
-        "count": 9
-      },
-      {
-        "name": "~ Luke🇩🇪🦅",
-        "count": 9
-      },
-      {
-        "name": "Wolf",
-        "count": 9
-      },
-      {
-        "name": "~ BrunoUno",
-        "count": 8
+        "name": "~ Laurens",
+        "count": 26
       },
       {
         "name": "Felix Sievert",
-        "count": 8
+        "count": 25
+      },
+      {
+        "name": "Johannes",
+        "count": 25
+      },
+      {
+        "name": "Steffen Schnitzler",
+        "count": 23
+      },
+      {
+        "name": "~ Jérôme",
+        "count": 22
+      },
+      {
+        "name": "~ Cyriel",
+        "count": 20
       },
       {
         "name": "Daniel Reuter",
+        "count": 17
+      },
+      {
+        "name": "Pascal Bönsch",
+        "count": 17
+      },
+      {
+        "name": "Max 1",
+        "count": 16
+      },
+      {
+        "name": "Gonçalo d'Orey",
+        "count": 14
+      },
+      {
+        "name": "~ Tobi Bartel",
+        "count": 14
+      },
+      {
+        "name": "~ Niklas",
+        "count": 13
+      },
+      {
+        "name": "Leo Girke",
+        "count": 12
+      },
+      {
+        "name": "~ JK",
+        "count": 12
+      },
+      {
+        "name": "~ Robert Lehmann",
+        "count": 11
+      },
+      {
+        "name": "~ Pascal",
+        "count": 11
+      },
+      {
+        "name": "~ Felix E.",
+        "count": 11
+      },
+      {
+        "name": "~ Fabian",
+        "count": 10
+      },
+      {
+        "name": "~ Patrick Kromer",
+        "count": 10
+      },
+      {
+        "name": "~ Lutz G",
+        "count": 10
+      },
+      {
+        "name": "~ Brandon",
+        "count": 10
+      },
+      {
+        "name": "~ Josh",
+        "count": 10
+      },
+      {
+        "name": "~ Valentin",
+        "count": 9
+      },
+      {
+        "name": "Knotti",
+        "count": 9
+      },
+      {
+        "name": "~ Jannis Malle",
+        "count": 8
+      },
+      {
+        "name": "~ Leo",
+        "count": 8
+      },
+      {
+        "name": "~ Louis Pauli",
+        "count": 8
+      },
+      {
+        "name": "~ Campino",
+        "count": 8
+      },
+      {
+        "name": "~ Jakob Stadler",
         "count": 8
       },
       {
@@ -121,71 +137,67 @@
         "count": 8
       },
       {
-        "name": "~ Nina",
+        "name": "~ Lutz Meyersieck",
         "count": 8
       },
       {
-        "name": "~ Simon D.",
-        "count": 8
-      },
-      {
-        "name": "~ Tobi",
-        "count": 8
-      },
-      {
-        "name": "~ HenriH",
+        "name": "~ Til",
         "count": 7
       },
       {
-        "name": "~ Jari",
+        "name": "~ Jonas S.",
         "count": 7
-      },
-      {
-        "name": "~ Moritz",
-        "count": 7
-      },
-      {
-        "name": "~ 7ules",
-        "count": 7
-      },
-      {
-        "name": "~ Jonas M K.",
-        "count": 7
-      },
-      {
-        "name": "~ Peter E.",
-        "count": 6
-      },
-      {
-        "name": "~ Jonas",
-        "count": 6
-      },
-      {
-        "name": "~ Vincent Brandner",
-        "count": 6
-      },
-      {
-        "name": "~ George",
-        "count": 6
-      },
-      {
-        "name": "~ Maximilian Klar",
-        "count": 6
-      },
-      {
-        "name": "~ Denis",
-        "count": 6
-      },
-      {
-        "name": "Fabi Girke",
-        "count": 6
       },
       {
         "name": "~ Alex",
+        "count": 7
+      },
+      {
+        "name": "~ Rob",
+        "count": 7
+      },
+      {
+        "name": "Yanick",
+        "count": 7
+      },
+      {
+        "name": "~ Dome",
+        "count": 7
+      },
+      {
+        "name": "~ Janis",
+        "count": 7
+      },
+      {
+        "name": "~ Kian",
+        "count": 7
+      },
+      {
+        "name": "~ Niko",
         "count": 6
       },
       {
-        "name": "~ Mario",
+        "name": "~ Hendrik Becker",
+        "count": 6
+      },
+      {
+        "name": "Leo Zensen",
+        "count": 6
+      },
+      {
+        "name": "Finn Opdenhovel",
+        "count": 6
+      },
+      {
+        "name": "Ethan",
+        "count": 6
+      },
+      {
+        "name": "~ Navid",
+        "count": 6
+      },
+      {
+        "name": "~ jonasvcw",
         "count": 6
       },
       {
@@ -193,11 +205,63 @@
         "count": 6
       },
       {
-        "name": "~ Donald Kirste",
+        "name": "~ BrunoUno",
+        "count": 6
+      },
+      {
+        "name": "~ Vincent Tamschick",
         "count": 5
       },
       {
-        "name": "Johannes",
+        "name": "~       Arian",
+        "count": 5
+      },
+      {
+        "name": "~ Dani",
+        "count": 5
+      },
+      {
+        "name": "~ Paul",
+        "count": 5
+      },
+      {
+        "name": "~ Olli",
+        "count": 5
+      },
+      {
+        "name": "~ Poldi",
+        "count": 5
+      },
+      {
+        "name": "~ Michael",
+        "count": 5
+      },
+      {
+        "name": "~ Thomas",
+        "count": 5
+      },
+      {
+        "name": "~ Tobi",
+        "count": 5
+      },
+      {
+        "name": "~ Leo Grootens",
+        "count": 5
+      },
+      {
+        "name": "Fönta",
+        "count": 5
+      },
+      {
+        "name": "~ Lorena 🦋",
+        "count": 5
+      },
+      {
+        "name": "~ Carlo",
+        "count": 5
+      },
+      {
+        "name": "~ Joshi Schneider",
         "count": 5
       },
       {
@@ -205,187 +269,99 @@
         "count": 5
       },
       {
-        "name": "~ Dirk Grafschmidt",
+        "name": "Dohle",
         "count": 5
       },
       {
-        "name": "~ Conny Kramer",
-        "count": 5
-      },
-      {
-        "name": "AFB",
-        "count": 5
-      },
-      {
-        "name": "~ Benjamin Nethanjahu",
-        "count": 5
-      },
-      {
-        "name": "~ Diego",
-        "count": 5
-      },
-      {
-        "name": "~ irem",
-        "count": 5
-      },
-      {
-        "name": "~ Dominik",
-        "count": 5
-      },
-      {
-        "name": "~ Jürgen",
-        "count": 5
-      },
-      {
-        "name": "~ Julius M.",
-        "count": 5
-      },
-      {
-        "name": "~ Louis Pauli",
+        "name": "~ Constantin A.E.R.",
         "count": 4
       },
       {
-        "name": "~ JK",
+        "name": "Wolf",
         "count": 4
       },
       {
-        "name": "~ Luca K",
+        "name": "~ Johanna",
         "count": 4
       },
       {
-        "name": "~ Kian",
+        "name": "~ Jon",
         "count": 4
       },
       {
-        "name": "~ Campino",
+        "name": "~ Gianni",
         "count": 4
       },
       {
-        "name": "~ Niko",
+        "name": "~ Nico",
         "count": 4
       },
       {
-        "name": "~ Max",
+        "name": "~ filip",
         "count": 4
       },
       {
-        "name": "~ Nino Bltr",
+        "name": "~ Marc J",
         "count": 4
       },
       {
-        "name": "Backes",
+        "name": "~ Luis S",
         "count": 4
       },
       {
-        "name": "~ Lukas Haas",
+        "name": "~ Roel Stohr",
         "count": 4
       },
       {
-        "name": "~ Kai",
+        "name": "~ Chris S.",
         "count": 4
       },
       {
-        "name": "~ Lars Wollbrink",
+        "name": "~ Dion",
         "count": 4
       },
       {
-        "name": "~ Max🦕",
+        "name": "~ Tom☆♤",
         "count": 4
       },
       {
-        "name": "~ zoë",
+        "name": "~ Marco",
         "count": 4
       },
       {
-        "name": "~ Jule",
+        "name": "~ Ole Niklas",
         "count": 4
-      },
-      {
-        "name": "~ Donski",
-        "count": 4
-      },
-      {
-        "name": "~ Valentin",
-        "count": 4
-      },
-      {
-        "name": "~ Mado",
-        "count": 4
-      },
-      {
-        "name": "~ Simi",
-        "count": 4
-      },
-      {
-        "name": "~ Guilherme Costa Matos",
-        "count": 4
-      },
-      {
-        "name": "~ Micha",
-        "count": 4
-      },
-      {
-        "name": "~ Tim Connemann",
-        "count": 4
-      },
-      {
-        "name": "~ Johannes Gütlhuber",
-        "count": 4
-      },
-      {
-        "name": "~ Pedro Ferreira",
-        "count": 4
-      },
-      {
-        "name": "~ Philipp",
-        "count": 4
-      },
-      {
-        "name": "~ Paul",
-        "count": 4
-      },
-      {
-        "name": "~ leander",
-        "count": 4
-      },
-      {
-        "name": "~ Kluger",
-        "count": 4
-      },
-      {
-        "name": "~ Robbert",
-        "count": 3
-      },
-      {
-        "name": "~ Paloma 💖",
-        "count": 3
-      },
-      {
-        "name": "~ Nils",
-        "count": 3
-      },
-      {
-        "name": "David Sliwka",
-        "count": 3
       },
       {
         "name": "~ Leon Krause",
-        "count": 3
+        "count": 4
       },
       {
-        "name": "~ ac",
-        "count": 3
+        "name": "~ Jari",
+        "count": 4
       },
       {
-        "name": "~ Maro",
-        "count": 3
+        "name": "~ Lara",
+        "count": 4
       },
       {
-        "name": "Knotti",
-        "count": 3
+        "name": "Shane Kelly",
+        "count": 4
       },
       {
-        "name": "~ Lutz G",
+        "name": "~ luis",
+        "count": 4
+      },
+      {
+        "name": "Luc",
+        "count": 4
+      },
+      {
+        "name": "~ Consti",
+        "count": 4
+      },
+      {
+        "name": "~ Theo",
         "count": 3
       },
       {
@@ -393,11 +369,23 @@
         "count": 3
       },
       {
-        "name": "~ Michael Torka - SwissLife select",
+        "name": "~ Freddie Schulz",
         "count": 3
       },
       {
-        "name": "~ Raman",
+        "name": "~ Ferdi",
+        "count": 3
+      },
+      {
+        "name": "~ Andreas Ladiges",
+        "count": 3
+      },
+      {
+        "name": "~ Max Menz",
+        "count": 3
+      },
+      {
+        "name": "~ Big.O💥",
         "count": 3
       },
       {
@@ -405,139 +393,111 @@
         "count": 3
       },
       {
-        "name": "~ Obi®️",
+        "name": "~ Benjamin Grafschmidt",
         "count": 3
       },
       {
-        "name": "~ Daniel",
+        "name": "~ Leo L",
         "count": 3
       },
       {
-        "name": "~ Assi",
+        "name": "~ Vinzenz Stadler",
         "count": 3
+      },
+      {
+        "name": "~ Verena 💕",
+        "count": 3
+      },
+      {
+        "name": "~ Moritz",
+        "count": 3
+      },
+      {
+        "name": "~ Fabi F",
+        "count": 3
+      },
+      {
+        "name": "~ Dominik",
+        "count": 3
+      },
+      {
+        "name": "Backes",
+        "count": 3
+      },
+      {
+        "name": "~ Lionardo🦁",
+        "count": 3
+      },
+      {
+        "name": "~ DavidKnoll",
+        "count": 3
+      },
+      {
+        "name": "~ Ben.",
+        "count": 3
+      },
+      {
+        "name": "~ Kluger",
+        "count": 3
+      },
+      {
+        "name": "~ Johannes",
+        "count": 3
+      },
+      {
+        "name": "~ Pauline",
+        "count": 3
+      },
+      {
+        "name": "~ Ben",
+        "count": 3
+      },
+      {
+        "name": "~ leander",
+        "count": 3
+      },
+      {
+        "name": "~ Andrey Yarizov",
+        "count": 3
+      },
+      {
+        "name": "~ Daniel B",
+        "count": 2
       },
       {
         "name": "~ Björn",
-        "count": 3
-      },
-      {
-        "name": "~ Jan-Niklas",
-        "count": 3
-      },
-      {
-        "name": "~ Svenion",
-        "count": 3
-      },
-      {
-        "name": "~ Luke Randolf",
-        "count": 3
-      },
-      {
-        "name": "~ Jule👑",
-        "count": 3
-      },
-      {
-        "name": "~ Luke",
-        "count": 3
-      },
-      {
-        "name": "~ Joschka",
-        "count": 3
-      },
-      {
-        "name": "Dohle",
-        "count": 3
-      },
-      {
-        "name": "~ nicolas",
-        "count": 3
-      },
-      {
-        "name": "~ Luggi",
-        "count": 3
-      },
-      {
-        "name": "~ Juan",
-        "count": 3
-      },
-      {
-        "name": "~ Philip G",
-        "count": 3
-      },
-      {
-        "name": "~ Nick",
-        "count": 3
-      },
-      {
-        "name": "~ Luca Hoehl",
-        "count": 3
-      },
-      {
-        "name": "~ Mats P",
-        "count": 3
-      },
-      {
-        "name": "~ Flo Erlacher",
         "count": 2
       },
       {
-        "name": "~ Marcel",
+        "name": "~ Jan",
         "count": 2
       },
       {
-        "name": "Julian Hansmann",
+        "name": "~ Franzn Jonny",
         "count": 2
       },
       {
-        "name": "~ Jonas P.",
+        "name": "~ Schorschi",
         "count": 2
       },
       {
-        "name": "~ T.U. jr",
+        "name": "~ Julian",
         "count": 2
       },
       {
-        "name": "~ lisa",
+        "name": "~ Sebastiao Pires da Silva",
         "count": 2
       },
       {
-        "name": "~ Francisco Nobre",
+        "name": "~ Tobi™️©️®️",
         "count": 2
       },
       {
-        "name": "~ Olli",
+        "name": "~ HenriH",
         "count": 2
       },
       {
-        "name": "~ Yannick",
-        "count": 2
-      },
-      {
-        "name": "Finn Opdenhovel",
-        "count": 2
-      },
-      {
-        "name": "~ MB",
-        "count": 2
-      },
-      {
-        "name": "Jörn",
-        "count": 2
-      },
-      {
-        "name": "~ Mia",
-        "count": 2
-      },
-      {
-        "name": "~ Johanna",
-        "count": 2
-      },
-      {
-        "name": "~ Simon",
-        "count": 2
-      },
-      {
-        "name": "~ ADB",
+        "name": "~ Kevin",
         "count": 2
       },
       {
@@ -545,59 +505,67 @@
         "count": 2
       },
       {
-        "name": "~ Philip",
+        "name": "~ Jonas",
         "count": 2
       },
       {
-        "name": "~ Luis Neumann",
+        "name": "~ António Pacheco",
         "count": 2
       },
       {
-        "name": "~ Francisco Mascarenhas",
+        "name": "~ Philipp",
         "count": 2
       },
       {
-        "name": "~ Maroš",
+        "name": "~ Niclas",
         "count": 2
       },
       {
-        "name": "~ Stefan",
+        "name": "~ Marco D",
         "count": 2
       },
       {
-        "name": "~ Consti",
+        "name": "~ Oskar",
         "count": 2
       },
       {
-        "name": "~ Leo",
+        "name": "~ Patrick",
         "count": 2
       },
       {
-        "name": "~ Nico",
+        "name": "~ Alex R***",
         "count": 2
       },
       {
-        "name": "~ PandaPat!",
+        "name": "~ Moritz Kannengießer",
         "count": 2
       },
       {
-        "name": "~ Valle",
+        "name": "~ Simon Leuthner",
         "count": 2
       },
       {
-        "name": "~ joshi",
+        "name": "~ Nicolas",
         "count": 2
       },
       {
-        "name": "~ Laurens",
+        "name": "~ lizzy",
         "count": 2
       },
       {
-        "name": "Tarek",
+        "name": "~ Stürzer Michael",
         "count": 2
       },
       {
-        "name": "~ nike",
+        "name": "~ Alina",
+        "count": 2
+      },
+      {
+        "name": "~ kilian",
+        "count": 2
+      },
+      {
+        "name": "~ Johann",
         "count": 2
       },
       {
@@ -605,207 +573,59 @@
         "count": 2
       },
       {
-        "name": "~ Michael",
+        "name": "~ Luca K",
         "count": 2
       },
       {
-        "name": "~ Ben-Ole",
+        "name": "~ Quentin Philip",
         "count": 2
       },
       {
-        "name": "~ Basti",
+        "name": "~ Maximilian Schäfer",
         "count": 2
       },
       {
-        "name": "~ Tobias",
+        "name": "~ Max🦕",
         "count": 2
       },
       {
-        "name": "~ Milan",
+        "name": "~ luggas",
         "count": 2
       },
       {
-        "name": "~ Jo☔",
+        "name": "~ Luis",
         "count": 2
       },
       {
-        "name": "~ Friedrich Weiler",
+        "name": "~ Heiner",
         "count": 2
       },
       {
-        "name": "~ Oli",
+        "name": "~ Finn",
         "count": 2
       },
       {
-        "name": "~ Wolfgang Schiffbauer",
+        "name": "~ Knut Walter",
         "count": 2
       },
       {
-        "name": "~ Laurin",
+        "name": "~ richard",
         "count": 2
       },
       {
-        "name": "~ Axel",
+        "name": "~ Lagu",
         "count": 2
       },
       {
-        "name": "~ Schoty Pie",
+        "name": "~ Nils",
         "count": 2
       },
       {
-        "name": "~ Maximilian Siebenhütter",
-        "count": 2
-      },
-      {
-        "name": "~ Joao Fonseca",
-        "count": 2
-      },
-      {
-        "name": "~ José Antonio",
+        "name": "~ Guilherme Costa Matos",
         "count": 1
       },
       {
-        "name": "~ Brittany",
-        "count": 1
-      },
-      {
-        "name": "~ leon",
-        "count": 1
-      },
-      {
-        "name": "~ Kim",
-        "count": 1
-      },
-      {
-        "name": "~ ~A",
-        "count": 1
-      },
-      {
-        "name": "~ Anton",
-        "count": 1
-      },
-      {
-        "name": "~ Luzie",
-        "count": 1
-      },
-      {
-        "name": "~ Jérôme",
-        "count": 1
-      },
-      {
-        "name": "~ Daniel B",
-        "count": 1
-      },
-      {
-        "name": "~ Rodolfo Gonzáles-Gonzáles",
-        "count": 1
-      },
-      {
-        "name": "~ Jan Niklas Gebel",
-        "count": 1
-      },
-      {
-        "name": "~ Julius",
-        "count": 1
-      },
-      {
-        "name": "~ julian",
-        "count": 1
-      },
-      {
-        "name": "Philipp Mallorca",
-        "count": 1
-      },
-      {
-        "name": "~ Tjan Meinecke",
-        "count": 1
-      },
-      {
-        "name": "~ Jan",
-        "count": 1
-      },
-      {
-        "name": "~ Jan Segarra",
-        "count": 1
-      },
-      {
-        "name": "~ Nick Birkner",
-        "count": 1
-      },
-      {
-        "name": "~ Elisa Fontanella",
-        "count": 1
-      },
-      {
-        "name": "~ Jonas Hillesheim",
-        "count": 1
-      },
-      {
-        "name": "~ Lara",
-        "count": 1
-      },
-      {
-        "name": "~ Matti",
-        "count": 1
-      },
-      {
-        "name": "~ Leo L",
-        "count": 1
-      },
-      {
-        "name": "~ Justus K",
-        "count": 1
-      },
-      {
-        "name": "Felix Pleyer",
-        "count": 1
-      },
-      {
-        "name": "~ moe",
-        "count": 1
-      },
-      {
-        "name": "~ Julian Haas",
-        "count": 1
-      },
-      {
-        "name": "~ .",
-        "count": 1
-      },
-      {
-        "name": "~ Liner",
-        "count": 1
-      },
-      {
-        "name": "Leo Zensen",
-        "count": 1
-      },
-      {
-        "name": "~ Maati",
-        "count": 1
-      },
-      {
-        "name": "~ Johannes Mahl",
-        "count": 1
-      },
-      {
-        "name": "Kai Wiesner",
-        "count": 1
-      },
-      {
-        "name": "~ jakob köhler",
-        "count": 1
-      },
-      {
-        "name": "~ Hodenkobold",
-        "count": 1
-      },
-      {
-        "name": "~ Marc J",
-        "count": 1
-      },
-      {
-        "name": "~ Christopher",
+        "name": "~ Linus",
         "count": 1
       },
       {
@@ -813,123 +633,59 @@
         "count": 1
       },
       {
-        "name": "~ lukas",
+        "name": "~ Martín",
         "count": 1
       },
       {
-        "name": "~ Alina",
+        "name": "~ Martin S.",
         "count": 1
       },
       {
-        "name": "~ Hynek Tikal",
+        "name": "~ Noah Spohn",
         "count": 1
       },
       {
-        "name": "~ Rudi🐘",
+        "name": "~ t.alex",
         "count": 1
       },
       {
-        "name": "~ Timo",
+        "name": "~ Tim",
         "count": 1
       },
       {
-        "name": "~ Gabriel Ostolaza",
+        "name": "~ Robin",
         "count": 1
       },
       {
-        "name": "~ Adrian Blumenthal",
+        "name": "~ Sebastião Maria Condado",
         "count": 1
       },
       {
-        "name": "~ Lukas S",
+        "name": "~ Evelīna",
         "count": 1
       },
       {
-        "name": "~ Astrid",
+        "name": "Fabi Girke",
         "count": 1
       },
       {
-        "name": "~ Charlie",
+        "name": "~ Der chris",
         "count": 1
       },
       {
-        "name": "~ Velene",
+        "name": "~ Hodenkobold",
         "count": 1
       },
       {
-        "name": "~ Mathis",
+        "name": "~ Mathis Adams",
         "count": 1
       },
       {
-        "name": "~ Alex Hochhaus",
+        "name": "~ Fabio Fonseca",
         "count": 1
       },
       {
-        "name": "~ Peter Mattmann",
-        "count": 1
-      },
-      {
-        "name": "~ Matan",
-        "count": 1
-      },
-      {
-        "name": "~ justin",
-        "count": 1
-      },
-      {
-        "name": "~ Markus Karl",
-        "count": 1
-      },
-      {
-        "name": "~ Leon",
-        "count": 1
-      },
-      {
-        "name": "~ Bene 🛸",
-        "count": 1
-      },
-      {
-        "name": "~ Janek",
-        "count": 1
-      },
-      {
-        "name": "~ Max Ulrich",
-        "count": 1
-      },
-      {
-        "name": "~ Marc",
-        "count": 1
-      },
-      {
-        "name": "~ Simon Leuthner",
-        "count": 1
-      },
-      {
-        "name": "~ Gonçalo Ramos Dias",
-        "count": 1
-      },
-      {
-        "name": "~ Leo Grootens",
-        "count": 1
-      },
-      {
-        "name": "~ Tim Hagemann",
-        "count": 1
-      },
-      {
-        "name": "~ Alex R***",
-        "count": 1
-      },
-      {
-        "name": "~ Luca",
-        "count": 1
-      },
-      {
-        "name": "~ Jonas Detterböck",
-        "count": 1
-      },
-      {
-        "name": "~ Philipp Werth",
+        "name": "~ Oliver",
         "count": 1
       },
       {
@@ -937,15 +693,179 @@
         "count": 1
       },
       {
-        "name": "~ Rich",
+        "name": "~ Rosa",
         "count": 1
       },
       {
-        "name": "~ Joshi Schneider",
+        "name": "Felix Pleyer",
         "count": 1
       },
       {
-        "name": "~ Fabio",
+        "name": "~ Mathis",
+        "count": 1
+      },
+      {
+        "name": "~ .",
+        "count": 1
+      },
+      {
+        "name": "~ Viktoria🐳",
+        "count": 1
+      },
+      {
+        "name": "~ Frankie",
+        "count": 1
+      },
+      {
+        "name": "~ Marcel",
+        "count": 1
+      },
+      {
+        "name": "~ Leon",
+        "count": 1
+      },
+      {
+        "name": "~ Ansgar Kleine",
+        "count": 1
+      },
+      {
+        "name": "~ Hendrik",
+        "count": 1
+      },
+      {
+        "name": "~ Diego",
+        "count": 1
+      },
+      {
+        "name": "~ Timo",
+        "count": 1
+      },
+      {
+        "name": "~ señor_sombrero²",
+        "count": 1
+      },
+      {
+        "name": "~ Mario",
+        "count": 1
+      },
+      {
+        "name": "~ Justin",
+        "count": 1
+      },
+      {
+        "name": "Alex Judith",
+        "count": 1
+      },
+      {
+        "name": "~ Conny Kramer",
+        "count": 1
+      },
+      {
+        "name": "~ Andreas",
+        "count": 1
+      },
+      {
+        "name": "Ben",
+        "count": 1
+      },
+      {
+        "name": "~ Matz",
+        "count": 1
+      },
+      {
+        "name": "~ Sibbe 🐸",
+        "count": 1
+      },
+      {
+        "name": "~ Kilian",
+        "count": 1
+      },
+      {
+        "name": "~ Tim Traut",
+        "count": 1
+      },
+      {
+        "name": "~ N_Husch",
+        "count": 1
+      },
+      {
+        "name": "~ Julian Haas",
+        "count": 1
+      },
+      {
+        "name": "~ Maxi+",
+        "count": 1
+      },
+      {
+        "name": "~ Simon Rohlfing",
+        "count": 1
+      },
+      {
+        "name": "~ Allan",
+        "count": 1
+      },
+      {
+        "name": "~ Mo G 🍻",
+        "count": 1
+      },
+      {
+        "name": "~ Tim Hagemann",
+        "count": 1
+      },
+      {
+        "name": "~ Noah",
+        "count": 1
+      },
+      {
+        "name": "~ Maximilian",
+        "count": 1
+      },
+      {
+        "name": "~ Lina",
+        "count": 1
+      },
+      {
+        "name": "~ Erasmus",
+        "count": 1
+      },
+      {
+        "name": "~ Elias",
+        "count": 1
+      },
+      {
+        "name": "~ matti",
+        "count": 1
+      },
+      {
+        "name": "~ Noah-Davy Dorfstecher",
+        "count": 1
+      },
+      {
+        "name": "~ Simon",
+        "count": 1
+      },
+      {
+        "name": "~ Fion",
+        "count": 1
+      },
+      {
+        "name": "~ Janek",
+        "count": 1
+      },
+      {
+        "name": "~ Vincent",
+        "count": 1
+      },
+      {
+        "name": "~ Elisabeth",
+        "count": 1
+      },
+      {
+        "name": "~ Jesusbiertus",
+        "count": 1
+      },
+      {
+        "name": "~ Charriz Dominique",
         "count": 1
       },
       {
@@ -953,48 +873,52 @@
         "count": 1
       },
       {
-        "name": "~ Floko",
+        "name": "~ Antje Fischer",
         "count": 1
       },
       {
-        "name": "~ mateo",
+        "name": "~ Matze",
         "count": 1
       },
       {
-        "name": "~ Clara",
+        "name": "~ - Fabian",
         "count": 1
       },
       {
-        "name": "~ angelina",
+        "name": "~ Jonas Hillesheim",
         "count": 1
       },
       {
-        "name": "~ Chiara",
+        "name": "~ Max Frank",
         "count": 1
       },
       {
-        "name": "~ Seivedias",
+        "name": "~ Basti",
         "count": 1
       },
       {
-        "name": "~ Verena 💕",
+        "name": "~ Peter E.",
         "count": 1
       },
       {
-        "name": "~ Manu",
+        "name": "~ Luca Klenner",
         "count": 1
       },
       {
-        "name": "~ Juju",
+        "name": "~ nicolas",
         "count": 1
       },
       {
-        "name": "~ M.R.",
+        "name": "~ Nele",
         "count": 1
       }
     ]
   },
   "bestDaysTop3": [
+    {
+      "date": "2026-09-25",
+      "count": 1019
+    },
     {
       "date": "2026-08-08",
       "count": 902
@@ -1002,10 +926,6 @@
     {
       "date": "2026-07-25",
       "count": 897
-    },
-    {
-      "date": "2026-08-01",
-      "count": 857
     }
   ],
   "topStreaksEver": [
