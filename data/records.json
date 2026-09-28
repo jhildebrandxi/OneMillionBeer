@@ -1,5 +1,5 @@
 {
-  "updated": "27.09.2026, 20:09",
+  "updated": "28.09.2026, 06:33",
   "bestDayEver": {
     "date": "2026-09-25",
     "count": 1019,
@@ -969,12 +969,12 @@
     }
   ],
   "weeklyComparison": {
-    "windowStart": "2026-09-14",
-    "windowEnd": "2026-09-20",
-    "prevWindowStart": "2026-09-07",
-    "prevWindowEnd": "2026-09-13",
-    "total": 2706,
-    "prevTotal": 2954
+    "windowStart": "2026-09-21",
+    "windowEnd": "2026-09-27",
+    "prevWindowStart": "2026-09-14",
+    "prevWindowEnd": "2026-09-20",
+    "total": 3366,
+    "prevTotal": 2706
   },
   "mostBeers24h": {
     "name": "Marvin Scheben",
