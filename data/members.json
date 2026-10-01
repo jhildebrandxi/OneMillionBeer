@@ -9249,6 +9249,23 @@
       "rankPrev": 528
     },
     {
+      "name": "~ Kai Grimm",
+      "posts": 20,
+      "daysAgo": 0,
+      "ppw": 0.8,
+      "memDays": 185,
+      "streak": 2,
+      "streakStart": "2026-07-24",
+      "streakEnd": "2026-07-25",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "31.03.26",
+      "lastStr": "01.10.26",
+      "last7": 1,
+      "rankCurr": 557,
+      "rankPrev": 553
+    },
+    {
       "name": "~ Marius",
       "posts": 20,
       "daysAgo": 95,
@@ -9587,23 +9604,6 @@
       "last7": 1,
       "rankCurr": 571,
       "rankPrev": 570
-    },
-    {
-      "name": "~ Kai Grimm",
-      "posts": 19,
-      "daysAgo": 7,
-      "ppw": 0.7,
-      "memDays": 185,
-      "streak": 2,
-      "streakStart": "2026-07-24",
-      "streakEnd": "2026-07-25",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "31.03.26",
-      "lastStr": "24.09.26",
-      "last7": 1,
-      "rankCurr": 557,
-      "rankPrev": 553
     },
     {
       "name": "~ Benjamin",
@@ -23155,6 +23155,6 @@
       "rankPrev": null
     }
   ],
-  "totalPosts": 71058,
-  "updated": "01.10.2026, 12:19"
+  "totalPosts": 71059,
+  "updated": "01.10.2026, 12:40"
 }
