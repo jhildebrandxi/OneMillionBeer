@@ -1,5 +1,5 @@
 {
-  "updated": "28.09.2026, 17:36",
+  "updated": "01.10.2026, 11:33",
   "bestDayEver": {
     "date": "2026-09-25",
     "count": 1019,
@@ -977,9 +977,9 @@
     "prevTotal": 2706
   },
   "mostBeers24h": {
-    "name": "Marvin Scheben",
-    "count": 53,
-    "windowStart": "2026-02-13T14:35:45.000Z",
-    "windowEnd": "2026-02-14T14:13:23.000Z"
+    "name": "~ Levi.M71 RBN",
+    "count": 60,
+    "windowStart": "2026-09-28T19:46:32.000Z",
+    "windowEnd": "2026-09-29T19:22:13.000Z"
   }
 }
