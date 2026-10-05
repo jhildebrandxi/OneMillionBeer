@@ -132,7 +132,7 @@
       "hasLeft": false,
       "joinStr": "17.01.26",
       "lastStr": "04.10.26",
-      "last7": 19,
+      "last7": 24,
       "rankCurr": 8,
       "rankPrev": 8
     },
@@ -268,7 +268,7 @@
       "hasLeft": false,
       "joinStr": "30.12.25",
       "lastStr": "04.10.26",
-      "last7": 4,
+      "last7": 6,
       "rankCurr": 16,
       "rankPrev": 15
     },
@@ -285,7 +285,7 @@
       "hasLeft": false,
       "joinStr": "31.01.26",
       "lastStr": "03.10.26",
-      "last7": 11,
+      "last7": 16,
       "rankCurr": 17,
       "rankPrev": 17
     },
@@ -302,7 +302,7 @@
       "hasLeft": false,
       "joinStr": "30.12.25",
       "lastStr": "04.10.26",
-      "last7": 11,
+      "last7": 13,
       "rankCurr": 18,
       "rankPrev": 17
     },
@@ -370,7 +370,7 @@
       "hasLeft": false,
       "joinStr": "02.05.26",
       "lastStr": "04.10.26",
-      "last7": 34,
+      "last7": 37,
       "rankCurr": 22,
       "rankPrev": 24
     },
@@ -404,7 +404,7 @@
       "hasLeft": false,
       "joinStr": "05.04.26",
       "lastStr": "03.10.26",
-      "last7": 15,
+      "last7": 18,
       "rankCurr": 24,
       "rankPrev": 24
     },
@@ -421,7 +421,7 @@
       "hasLeft": false,
       "joinStr": "31.03.26",
       "lastStr": "05.10.26",
-      "last7": 23,
+      "last7": 28,
       "rankCurr": 26,
       "rankPrev": 30
     },
@@ -438,7 +438,7 @@
       "hasLeft": false,
       "joinStr": "12.02.26",
       "lastStr": "04.10.26",
-      "last7": 17,
+      "last7": 18,
       "rankCurr": 25,
       "rankPrev": 26
     },
@@ -591,7 +591,7 @@
       "hasLeft": false,
       "joinStr": "07.02.26",
       "lastStr": "03.10.26",
-      "last7": 18,
+      "last7": 21,
       "rankCurr": 35,
       "rankPrev": 37
     },
@@ -608,7 +608,7 @@
       "hasLeft": false,
       "joinStr": "31.01.26",
       "lastStr": "03.10.26",
-      "last7": 13,
+      "last7": 28,
       "rankCurr": 36,
       "rankPrev": 39
     },
@@ -676,7 +676,7 @@
       "hasLeft": false,
       "joinStr": "09.02.26",
       "lastStr": "04.10.26",
-      "last7": 36,
+      "last7": 37,
       "rankCurr": 40,
       "rankPrev": 48
     },
@@ -710,7 +710,7 @@
       "hasLeft": false,
       "joinStr": "30.03.26",
       "lastStr": "02.10.26",
-      "last7": 4,
+      "last7": 6,
       "rankCurr": 42,
       "rankPrev": 41
     },
@@ -761,7 +761,7 @@
       "hasLeft": false,
       "joinStr": "11.02.26",
       "lastStr": "02.10.26",
-      "last7": 13,
+      "last7": 14,
       "rankCurr": 45,
       "rankPrev": 47
     },
@@ -846,7 +846,7 @@
       "hasLeft": false,
       "joinStr": "24.07.26",
       "lastStr": "04.10.26",
-      "last7": 23,
+      "last7": 45,
       "rankCurr": 50,
       "rankPrev": 60
     },
@@ -965,7 +965,7 @@
       "hasLeft": false,
       "joinStr": "04.09.26",
       "lastStr": "04.10.26",
-      "last7": 168,
+      "last7": 210,
       "rankCurr": 57,
       "rankPrev": 273
     },
@@ -1084,7 +1084,7 @@
       "hasLeft": false,
       "joinStr": "08.02.26",
       "lastStr": "03.10.26",
-      "last7": 8,
+      "last7": 10,
       "rankCurr": 64,
       "rankPrev": 64
     },
@@ -1220,7 +1220,7 @@
       "hasLeft": false,
       "joinStr": "06.08.26",
       "lastStr": "04.10.26",
-      "last7": 14,
+      "last7": 24,
       "rankCurr": 72,
       "rankPrev": 82
     },
@@ -1288,7 +1288,7 @@
       "hasLeft": false,
       "joinStr": "14.02.26",
       "lastStr": "03.10.26",
-      "last7": 6,
+      "last7": 9,
       "rankCurr": 76,
       "rankPrev": 77
     },
@@ -1441,7 +1441,7 @@
       "hasLeft": false,
       "joinStr": "26.03.26",
       "lastStr": "03.10.26",
-      "last7": 13,
+      "last7": 16,
       "rankCurr": 83,
       "rankPrev": 87
     },
@@ -1645,7 +1645,7 @@
       "hasLeft": false,
       "joinStr": "10.04.26",
       "lastStr": "04.10.26",
-      "last7": 4,
+      "last7": 7,
       "rankCurr": 97,
       "rankPrev": 95
     },
@@ -1662,7 +1662,7 @@
       "hasLeft": false,
       "joinStr": "03.03.26",
       "lastStr": "04.10.26",
-      "last7": 7,
+      "last7": 8,
       "rankCurr": 98,
       "rankPrev": 100
     },
@@ -1764,7 +1764,7 @@
       "hasLeft": false,
       "joinStr": "29.08.26",
       "lastStr": "04.10.26",
-      "last7": 24,
+      "last7": 30,
       "rankCurr": 103,
       "rankPrev": 121
     },
@@ -1781,7 +1781,7 @@
       "hasLeft": false,
       "joinStr": "12.02.26",
       "lastStr": "03.10.26",
-      "last7": 7,
+      "last7": 9,
       "rankCurr": 105,
       "rankPrev": 105
     },
@@ -1832,7 +1832,7 @@
       "hasLeft": false,
       "joinStr": "04.04.26",
       "lastStr": "05.10.26",
-      "last7": 25,
+      "last7": 26,
       "rankCurr": 108,
       "rankPrev": 121
     },
@@ -2104,7 +2104,7 @@
       "hasLeft": false,
       "joinStr": "05.04.26",
       "lastStr": "05.10.26",
-      "last7": 4,
+      "last7": 6,
       "rankCurr": 124,
       "rankPrev": 120
     },
@@ -2240,7 +2240,7 @@
       "hasLeft": false,
       "joinStr": "12.04.26",
       "lastStr": "04.10.26",
-      "last7": 4,
+      "last7": 10,
       "rankCurr": 131,
       "rankPrev": 129
     },
@@ -2376,7 +2376,7 @@
       "hasLeft": false,
       "joinStr": "26.07.26",
       "lastStr": "04.10.26",
-      "last7": 20,
+      "last7": 25,
       "rankCurr": 137,
       "rankPrev": 165
     },
@@ -2410,7 +2410,7 @@
       "hasLeft": false,
       "joinStr": "31.07.26",
       "lastStr": "03.10.26",
-      "last7": 17,
+      "last7": 23,
       "rankCurr": 141,
       "rankPrev": 161
     },
@@ -2495,7 +2495,7 @@
       "hasLeft": false,
       "joinStr": "21.02.26",
       "lastStr": "02.10.26",
-      "last7": 4,
+      "last7": 6,
       "rankCurr": 146,
       "rankPrev": 146
     },
@@ -2631,7 +2631,7 @@
       "hasLeft": false,
       "joinStr": "02.04.26",
       "lastStr": "03.10.26",
-      "last7": 6,
+      "last7": 8,
       "rankCurr": 154,
       "rankPrev": 156
     },
@@ -2733,7 +2733,7 @@
       "hasLeft": false,
       "joinStr": "30.07.26",
       "lastStr": "03.10.26",
-      "last7": 1,
+      "last7": 2,
       "rankCurr": 161,
       "rankPrev": 155
     },
@@ -2801,7 +2801,7 @@
       "hasLeft": false,
       "joinStr": "24.04.26",
       "lastStr": "02.10.26",
-      "last7": 8,
+      "last7": 13,
       "rankCurr": 165,
       "rankPrev": 174
     },
@@ -3158,7 +3158,7 @@
       "hasLeft": false,
       "joinStr": "20.02.26",
       "lastStr": "02.10.26",
-      "last7": 2,
+      "last7": 3,
       "rankCurr": 186,
       "rankPrev": 184
     },
@@ -3260,7 +3260,7 @@
       "hasLeft": false,
       "joinStr": "06.04.26",
       "lastStr": "03.10.26",
-      "last7": 6,
+      "last7": 8,
       "rankCurr": 191,
       "rankPrev": 198
     },
@@ -3464,7 +3464,7 @@
       "hasLeft": false,
       "joinStr": "12.02.26",
       "lastStr": "04.10.26",
-      "last7": 2,
+      "last7": 4,
       "rankCurr": 203,
       "rankPrev": 205
     },
@@ -3668,7 +3668,7 @@
       "hasLeft": true,
       "joinStr": "28.05.26",
       "lastStr": "29.09.26",
-      "last7": 1,
+      "last7": 2,
       "rankCurr": 215,
       "rankPrev": 214
     },
@@ -3974,7 +3974,7 @@
       "hasLeft": false,
       "joinStr": "05.04.26",
       "lastStr": "02.10.26",
-      "last7": 4,
+      "last7": 5,
       "rankCurr": 231,
       "rankPrev": 238
     },
@@ -3991,7 +3991,7 @@
       "hasLeft": false,
       "joinStr": "17.04.26",
       "lastStr": "28.09.26",
-      "last7": 0,
+      "last7": 2,
       "rankCurr": 231,
       "rankPrev": 233
     },
@@ -4399,7 +4399,7 @@
       "hasLeft": false,
       "joinStr": "07.02.26",
       "lastStr": "01.10.26",
-      "last7": 2,
+      "last7": 3,
       "rankCurr": 259,
       "rankPrev": 260
     },
@@ -4467,7 +4467,7 @@
       "hasLeft": false,
       "joinStr": "01.05.26",
       "lastStr": "03.10.26",
-      "last7": 3,
+      "last7": 6,
       "rankCurr": 262,
       "rankPrev": 273
     },
@@ -4552,7 +4552,7 @@
       "hasLeft": false,
       "joinStr": "05.08.26",
       "lastStr": "28.09.26",
-      "last7": 0,
+      "last7": 2,
       "rankCurr": 266,
       "rankPrev": 264
     },
@@ -4654,7 +4654,7 @@
       "hasLeft": false,
       "joinStr": "13.03.26",
       "lastStr": "04.10.26",
-      "last7": 1,
+      "last7": 5,
       "rankCurr": 273,
       "rankPrev": 285
     },
@@ -4739,7 +4739,7 @@
       "hasLeft": false,
       "joinStr": "25.08.26",
       "lastStr": "04.10.26",
-      "last7": 11,
+      "last7": 16,
       "rankCurr": 273,
       "rankPrev": 331
     },
@@ -4756,7 +4756,7 @@
       "hasLeft": false,
       "joinStr": "29.01.26",
       "lastStr": "04.10.26",
-      "last7": 3,
+      "last7": 4,
       "rankCurr": 280,
       "rankPrev": 285
     },
@@ -4824,7 +4824,7 @@
       "hasLeft": false,
       "joinStr": "18.03.26",
       "lastStr": "04.10.26",
-      "last7": 2,
+      "last7": 3,
       "rankCurr": 284,
       "rankPrev": 285
     },
@@ -5011,7 +5011,7 @@
       "hasLeft": false,
       "joinStr": "31.03.26",
       "lastStr": "04.10.26",
-      "last7": 8,
+      "last7": 12,
       "rankCurr": 293,
       "rankPrev": 338
     },
@@ -5113,7 +5113,7 @@
       "hasLeft": false,
       "joinStr": "09.06.26",
       "lastStr": "02.10.26",
-      "last7": 3,
+      "last7": 5,
       "rankCurr": 299,
       "rankPrev": 313
     },
@@ -5215,7 +5215,7 @@
       "hasLeft": false,
       "joinStr": "25.08.26",
       "lastStr": "01.10.26",
-      "last7": 13,
+      "last7": 15,
       "rankCurr": 302,
       "rankPrev": 371
     },
@@ -5385,7 +5385,7 @@
       "hasLeft": false,
       "joinStr": "17.05.26",
       "lastStr": "28.09.26",
-      "last7": 0,
+      "last7": 2,
       "rankCurr": 310,
       "rankPrev": 313
     },
@@ -5589,7 +5589,7 @@
       "hasLeft": false,
       "joinStr": "22.08.26",
       "lastStr": "04.10.26",
-      "last7": 15,
+      "last7": 16,
       "rankCurr": 323,
       "rankPrev": 398
     },
@@ -5674,7 +5674,7 @@
       "hasLeft": false,
       "joinStr": "12.02.26",
       "lastStr": "28.09.26",
-      "last7": 0,
+      "last7": 1,
       "rankCurr": 334,
       "rankPrev": 329
     },
@@ -5708,7 +5708,7 @@
       "hasLeft": false,
       "joinStr": "13.05.26",
       "lastStr": "04.10.26",
-      "last7": 8,
+      "last7": 9,
       "rankCurr": 334,
       "rankPrev": 371
     },
@@ -5742,7 +5742,7 @@
       "hasLeft": false,
       "joinStr": "14.02.26",
       "lastStr": "03.10.26",
-      "last7": 2,
+      "last7": 3,
       "rankCurr": 338,
       "rankPrev": 344
     },
@@ -6150,7 +6150,7 @@
       "hasLeft": false,
       "joinStr": "24.07.26",
       "lastStr": "04.10.26",
-      "last7": 7,
+      "last7": 10,
       "rankCurr": 354,
       "rankPrev": 398
     },
@@ -6354,7 +6354,7 @@
       "hasLeft": false,
       "joinStr": "01.05.26",
       "lastStr": "04.10.26",
-      "last7": 7,
+      "last7": 8,
       "rankCurr": 370,
       "rankPrev": 410
     },
@@ -6643,7 +6643,7 @@
       "hasLeft": false,
       "joinStr": "15.07.26",
       "lastStr": "03.10.26",
-      "last7": 3,
+      "last7": 4,
       "rankCurr": 385,
       "rankPrev": 392
     },
@@ -6745,7 +6745,7 @@
       "hasLeft": false,
       "joinStr": "14.09.26",
       "lastStr": "04.10.26",
-      "last7": 5,
+      "last7": 6,
       "rankCurr": 393,
       "rankPrev": 418
     },
@@ -7000,7 +7000,7 @@
       "hasLeft": false,
       "joinStr": "29.08.26",
       "lastStr": "03.10.26",
-      "last7": 2,
+      "last7": 3,
       "rankCurr": 407,
       "rankPrev": 418
     },
@@ -7017,7 +7017,7 @@
       "hasLeft": false,
       "joinStr": "04.09.26",
       "lastStr": "04.10.26",
-      "last7": 6,
+      "last7": 7,
       "rankCurr": 407,
       "rankPrev": 454
     },
@@ -7051,7 +7051,7 @@
       "hasLeft": false,
       "joinStr": "06.06.26",
       "lastStr": "28.09.26",
-      "last7": 0,
+      "last7": 1,
       "rankCurr": 414,
       "rankPrev": 410
     },
@@ -7374,7 +7374,7 @@
       "hasLeft": false,
       "joinStr": "08.08.26",
       "lastStr": "28.09.26",
-      "last7": 0,
+      "last7": 1,
       "rankCurr": 424,
       "rankPrev": 427
     },
@@ -7697,7 +7697,7 @@
       "hasLeft": false,
       "joinStr": "17.09.26",
       "lastStr": "03.10.26",
-      "last7": 9,
+      "last7": 14,
       "rankCurr": 446,
       "rankPrev": 557
     },
@@ -7765,7 +7765,7 @@
       "hasLeft": false,
       "joinStr": "26.07.26",
       "lastStr": "04.10.26",
-      "last7": 2,
+      "last7": 3,
       "rankCurr": 454,
       "rankPrev": 466
     },
@@ -8156,7 +8156,7 @@
       "hasLeft": false,
       "joinStr": "08.08.26",
       "lastStr": "30.09.26",
-      "last7": 2,
+      "last7": 3,
       "rankCurr": 471,
       "rankPrev": 492
     },
@@ -8564,7 +8564,7 @@
       "hasLeft": false,
       "joinStr": "25.09.26",
       "lastStr": "04.10.26",
-      "last7": 20,
+      "last7": 24,
       "rankCurr": 498,
       "rankPrev": 1067
     },
@@ -9193,7 +9193,7 @@
       "hasLeft": false,
       "joinStr": "11.08.26",
       "lastStr": "04.10.26",
-      "last7": 12,
+      "last7": 15,
       "rankCurr": 526,
       "rankPrev": 799
     },
@@ -9227,7 +9227,7 @@
       "hasLeft": false,
       "joinStr": "12.09.26",
       "lastStr": "03.10.26",
-      "last7": 5,
+      "last7": 6,
       "rankCurr": 526,
       "rankPrev": 604
     },
@@ -9397,7 +9397,7 @@
       "hasLeft": false,
       "joinStr": "01.08.26",
       "lastStr": "04.10.26",
-      "last7": 3,
+      "last7": 4,
       "rankCurr": 546,
       "rankPrev": 589
     },
@@ -9465,7 +9465,7 @@
       "hasLeft": false,
       "joinStr": "01.04.26",
       "lastStr": "01.10.26",
-      "last7": 1,
+      "last7": 2,
       "rankCurr": 555,
       "rankPrev": 571
     },
@@ -9703,7 +9703,7 @@
       "hasLeft": true,
       "joinStr": "30.12.25",
       "lastStr": "28.09.26",
-      "last7": 0,
+      "last7": 1,
       "rankCurr": 555,
       "rankPrev": 557
     },
@@ -9873,7 +9873,7 @@
       "hasLeft": false,
       "joinStr": "05.09.26",
       "lastStr": "03.10.26",
-      "last7": 11,
+      "last7": 13,
       "rankCurr": 572,
       "rankPrev": 842
     },
@@ -10213,7 +10213,7 @@
       "hasLeft": false,
       "joinStr": "10.08.26",
       "lastStr": "04.10.26",
-      "last7": 4,
+      "last7": 5,
       "rankCurr": 584,
       "rankPrev": 651
     },
@@ -11998,7 +11998,7 @@
       "hasLeft": false,
       "joinStr": "05.08.26",
       "lastStr": "29.09.26",
-      "last7": 1,
+      "last7": 2,
       "rankCurr": 684,
       "rankPrev": 719
     },
@@ -12899,7 +12899,7 @@
       "hasLeft": false,
       "joinStr": "12.09.26",
       "lastStr": "02.10.26",
-      "last7": 2,
+      "last7": 3,
       "rankCurr": 731,
       "rankPrev": 799
     },
@@ -13307,7 +13307,7 @@
       "hasLeft": false,
       "joinStr": "21.08.26",
       "lastStr": "28.09.26",
-      "last7": 0,
+      "last7": 1,
       "rankCurr": 761,
       "rankPrev": 774
     },
@@ -13358,7 +13358,7 @@
       "hasLeft": true,
       "joinStr": "28.09.26",
       "lastStr": "02.10.26",
-      "last7": 6,
+      "last7": 9,
       "rankCurr": 761,
       "rankPrev": null
     },
@@ -15551,7 +15551,7 @@
       "hasLeft": false,
       "joinStr": "08.09.26",
       "lastStr": "03.10.26",
-      "last7": 1,
+      "last7": 2,
       "rankCurr": 885,
       "rankPrev": 981
     },
@@ -18373,7 +18373,7 @@
       "hasLeft": false,
       "joinStr": "19.09.26",
       "lastStr": "28.09.26",
-      "last7": 0,
+      "last7": 1,
       "rankCurr": 994,
       "rankPrev": 1067
     },
@@ -18458,7 +18458,7 @@
       "hasLeft": false,
       "joinStr": "27.09.26",
       "lastStr": "28.09.26",
-      "last7": 0,
+      "last7": 2,
       "rankCurr": 994,
       "rankPrev": 1210
     },
@@ -23428,5 +23428,5 @@
     }
   ],
   "totalPosts": 72883,
-  "updated": "05.10.2026, 08:55"
+  "updated": "05.10.2026, 09:00"
 }
