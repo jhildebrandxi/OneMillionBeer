@@ -1,5 +1,5 @@
 {
-  "updated": "05.10.2026, 08:55",
+  "updated": "05.10.2026, 09:00",
   "bestDayEver": {
     "date": "2026-09-25",
     "count": 1019,
@@ -951,7 +951,7 @@
   "bestWeeksEver": [
     {
       "name": "~ Levi.M71 RBN",
-      "count": 168,
+      "count": 210,
       "weekStart": "2026-09-28",
       "weekEnd": "2026-10-04"
     },
@@ -963,7 +963,7 @@
     },
     {
       "name": "Marvin Scheben",
-      "count": 146,
+      "count": 126,
       "weekStart": "2026-02-09",
       "weekEnd": "2026-02-15"
     }
