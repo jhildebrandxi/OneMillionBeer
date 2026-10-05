@@ -1,5 +1,5 @@
 {
-  "updated": "04.10.2026, 13:44",
+  "updated": "05.10.2026, 08:39",
   "bestDayEver": {
     "date": "2026-09-25",
     "count": 1019,
@@ -969,12 +969,12 @@
     }
   ],
   "weeklyComparison": {
-    "windowStart": "2026-09-21",
-    "windowEnd": "2026-09-27",
-    "prevWindowStart": "2026-09-14",
-    "prevWindowEnd": "2026-09-20",
-    "total": 3366,
-    "prevTotal": 2706
+    "windowStart": "2026-09-28",
+    "windowEnd": "2026-10-04",
+    "prevWindowStart": "2026-09-21",
+    "prevWindowEnd": "2026-09-27",
+    "total": 2621,
+    "prevTotal": 3366
   },
   "mostBeers24h": {
     "name": "~ Levi.M71 RBN",
