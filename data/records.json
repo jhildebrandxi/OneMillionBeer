@@ -1,51 +1,43 @@
 {
-  "updated": "20.10.2026, 09:34",
+  "updated": "21.10.2026, 09:31",
   "bestDayEver": {
     "date": "2026-09-25",
-    "count": 1019,
+    "count": 914,
     "contributors": [
       {
-        "name": "~ Wolfgang Schiffbauer",
-        "count": 36
-      },
-      {
         "name": "Marvin Scheben",
-        "count": 32
-      },
-      {
-        "name": "~ MB",
-        "count": 32
-      },
-      {
-        "name": "~ Laurens",
-        "count": 26
+        "count": 31
       },
       {
         "name": "Felix Sievert",
-        "count": 25
+        "count": 24
       },
       {
         "name": "Johannes",
-        "count": 25
+        "count": 24
+      },
+      {
+        "name": "~ Laurens",
+        "count": 24
+      },
+      {
+        "name": "~ Patrick Kromer",
+        "count": 24
       },
       {
         "name": "Steffen Schnitzler",
-        "count": 23
-      },
-      {
-        "name": "~ Jérôme",
         "count": 22
       },
       {
         "name": "~ Cyriel",
-        "count": 20
+        "count": 19
       },
       {
         "name": "Daniel Reuter",
         "count": 17
       },
       {
-        "name": "Pascal Bönsch",
+        "name": "~ Wolfgang Schiffbauer",
         "count": 17
       },
       {
@@ -53,12 +45,20 @@
         "count": 16
       },
       {
-        "name": "Gonçalo d'Orey",
-        "count": 14
+        "name": "~ MB",
+        "count": 16
+      },
+      {
+        "name": "Pascal Bönsch",
+        "count": 15
       },
       {
         "name": "~ Tobi Bartel",
         "count": 14
+      },
+      {
+        "name": "Gonçalo d'Orey",
+        "count": 12
       },
       {
         "name": "Leo Girke",
@@ -73,7 +73,7 @@
         "count": 11
       },
       {
-        "name": "~ Felix E.",
+        "name": "~ Jérôme",
         "count": 11
       },
       {
@@ -81,15 +81,7 @@
         "count": 10
       },
       {
-        "name": "~ Patrick Kromer",
-        "count": 10
-      },
-      {
-        "name": "~ Lutz G",
-        "count": 10
-      },
-      {
-        "name": "~ Brandon",
+        "name": "~ Felix E.",
         "count": 10
       },
       {
@@ -97,12 +89,16 @@
         "count": 10
       },
       {
-        "name": "~ Valentin",
+        "name": "~ Lutz G",
         "count": 9
       },
       {
         "name": "Knotti",
         "count": 9
+      },
+      {
+        "name": "~ Valentin",
+        "count": 8
       },
       {
         "name": "~ Jannis Malle",
@@ -114,18 +110,6 @@
       },
       {
         "name": "~ Louis Pauli",
-        "count": 8
-      },
-      {
-        "name": "~ Campino",
-        "count": 8
-      },
-      {
-        "name": "~ Jakob Stadler",
-        "count": 8
-      },
-      {
-        "name": "~ Michael Dahmen",
         "count": 8
       },
       {
@@ -177,10 +161,6 @@
         "count": 6
       },
       {
-        "name": "~ Hendrik Becker",
-        "count": 6
-      },
-      {
         "name": "~ Niklas K.",
         "count": 6
       },
@@ -189,23 +169,15 @@
         "count": 6
       },
       {
+        "name": "~ Michael Dahmen",
+        "count": 6
+      },
+      {
         "name": "Finn Opdenhovel",
         "count": 6
       },
       {
-        "name": "Ethan",
-        "count": 6
-      },
-      {
         "name": "~ Navid",
-        "count": 6
-      },
-      {
-        "name": "~ jonasvcw",
-        "count": 6
-      },
-      {
-        "name": "~ Mandy",
         "count": 6
       },
       {
@@ -237,10 +209,6 @@
         "count": 5
       },
       {
-        "name": "~ Michael",
-        "count": 5
-      },
-      {
         "name": "~ Thomas",
         "count": 5
       },
@@ -250,22 +218,6 @@
       },
       {
         "name": "~ Leo Grootens",
-        "count": 5
-      },
-      {
-        "name": "Fönta",
-        "count": 5
-      },
-      {
-        "name": "~ Lorena 🦋",
-        "count": 5
-      },
-      {
-        "name": "~ Carlo",
-        "count": 5
-      },
-      {
-        "name": "~ Joshi Schneider",
         "count": 5
       },
       {
@@ -293,11 +245,15 @@
         "count": 4
       },
       {
-        "name": "~ Gianni",
+        "name": "~ Campino",
         "count": 4
       },
       {
-        "name": "~ Nico",
+        "name": "~ Michael",
+        "count": 4
+      },
+      {
+        "name": "~ Jakob Stadler",
         "count": 4
       },
       {
@@ -333,15 +289,11 @@
         "count": 4
       },
       {
-        "name": "~ Ole Niklas",
-        "count": 4
-      },
-      {
-        "name": "~ Leon Krause",
-        "count": 4
-      },
-      {
         "name": "~ Jari",
+        "count": 4
+      },
+      {
+        "name": "~ Brandon",
         "count": 4
       },
       {
@@ -353,19 +305,31 @@
         "count": 4
       },
       {
+        "name": "Ethan",
+        "count": 4
+      },
+      {
         "name": "Shane Kelly",
         "count": 4
       },
       {
-        "name": "~ luis",
+        "name": "Fönta",
         "count": 4
       },
       {
-        "name": "Luc",
+        "name": "~ Lorena 🦋",
+        "count": 4
+      },
+      {
+        "name": "~ Carlo",
         "count": 4
       },
       {
         "name": "~ Consti",
+        "count": 4
+      },
+      {
+        "name": "~ Joshi Schneider",
         "count": 4
       },
       {
@@ -397,6 +361,10 @@
         "count": 3
       },
       {
+        "name": "~ Nico",
+        "count": 3
+      },
+      {
         "name": "~ Markus WhITe",
         "count": 3
       },
@@ -417,15 +385,7 @@
         "count": 3
       },
       {
-        "name": "~ Moritz",
-        "count": 3
-      },
-      {
         "name": "~ Fabi F",
-        "count": 3
-      },
-      {
-        "name": "~ Dominik",
         "count": 3
       },
       {
@@ -433,7 +393,7 @@
         "count": 3
       },
       {
-        "name": "~ Lionardo🦁",
+        "name": "~ Leon Krause",
         "count": 3
       },
       {
@@ -441,15 +401,23 @@
         "count": 3
       },
       {
+        "name": "~ jonasvcw",
+        "count": 3
+      },
+      {
         "name": "~ Ben.",
         "count": 3
       },
       {
-        "name": "~ Kluger",
+        "name": "~ Mandy",
         "count": 3
       },
       {
-        "name": "~ Johannes",
+        "name": "~ luis",
+        "count": 3
+      },
+      {
+        "name": "Luc",
         "count": 3
       },
       {
@@ -473,7 +441,7 @@
         "count": 2
       },
       {
-        "name": "~ Björn",
+        "name": "~ Gianni",
         "count": 2
       },
       {
@@ -482,6 +450,10 @@
       },
       {
         "name": "~ Franzn Jonny",
+        "count": 2
+      },
+      {
+        "name": "~ Hendrik Becker",
         "count": 2
       },
       {
@@ -505,11 +477,11 @@
         "count": 2
       },
       {
-        "name": "~ Kevin",
+        "name": "~ Moritz",
         "count": 2
       },
       {
-        "name": "~ Julius Büxler",
+        "name": "~ Kevin",
         "count": 2
       },
       {
@@ -521,11 +493,11 @@
         "count": 2
       },
       {
-        "name": "~ Philipp",
+        "name": "~ Dominik",
         "count": 2
       },
       {
-        "name": "~ Niclas",
+        "name": "~ Ole Niklas",
         "count": 2
       },
       {
@@ -537,15 +509,15 @@
         "count": 2
       },
       {
-        "name": "~ Patrick",
-        "count": 2
-      },
-      {
         "name": "~ Alex R***",
         "count": 2
       },
       {
         "name": "~ Moritz Kannengießer",
+        "count": 2
+      },
+      {
+        "name": "~ Lionardo🦁",
         "count": 2
       },
       {
@@ -561,10 +533,6 @@
         "count": 2
       },
       {
-        "name": "~ Stürzer Michael",
-        "count": 2
-      },
-      {
         "name": "~ Alina",
         "count": 2
       },
@@ -573,11 +541,11 @@
         "count": 2
       },
       {
-        "name": "~ Johann",
+        "name": "~ Caspar",
         "count": 2
       },
       {
-        "name": "~ Caspar",
+        "name": "~ Johannes",
         "count": 2
       },
       {
@@ -585,19 +553,11 @@
         "count": 2
       },
       {
-        "name": "~ Quentin Philip",
-        "count": 2
-      },
-      {
         "name": "~ Maximilian Schäfer",
         "count": 2
       },
       {
-        "name": "~ Max🦕",
-        "count": 2
-      },
-      {
-        "name": "~ luggas",
+        "name": "~ Kluger",
         "count": 2
       },
       {
@@ -625,10 +585,6 @@
         "count": 2
       },
       {
-        "name": "~ Nils",
-        "count": 2
-      },
-      {
         "name": "~ Guilherme Costa Matos",
         "count": 1
       },
@@ -653,15 +609,11 @@
         "count": 1
       },
       {
+        "name": "~ Björn",
+        "count": 1
+      },
+      {
         "name": "~ t.alex",
-        "count": 1
-      },
-      {
-        "name": "~ Tim",
-        "count": 1
-      },
-      {
-        "name": "~ Robin",
         "count": 1
       },
       {
@@ -677,6 +629,10 @@
         "count": 1
       },
       {
+        "name": "~ Julius Büxler",
+        "count": 1
+      },
+      {
         "name": "~ Der chris",
         "count": 1
       },
@@ -689,7 +645,15 @@
         "count": 1
       },
       {
+        "name": "~ Philipp",
+        "count": 1
+      },
+      {
         "name": "~ Fabio Fonseca",
+        "count": 1
+      },
+      {
+        "name": "~ Niclas",
         "count": 1
       },
       {
@@ -737,6 +701,10 @@
         "count": 1
       },
       {
+        "name": "~ Patrick",
+        "count": 1
+      },
+      {
         "name": "~ Hendrik",
         "count": 1
       },
@@ -766,6 +734,10 @@
       },
       {
         "name": "~ Conny Kramer",
+        "count": 1
+      },
+      {
+        "name": "~ Stürzer Michael",
         "count": 1
       },
       {
@@ -801,7 +773,7 @@
         "count": 1
       },
       {
-        "name": "~ Maxi+",
+        "name": "~ Johann",
         "count": 1
       },
       {
@@ -837,6 +809,10 @@
         "count": 1
       },
       {
+        "name": "~ luggas",
+        "count": 1
+      },
+      {
         "name": "~ Elias",
         "count": 1
       },
@@ -845,7 +821,15 @@
         "count": 1
       },
       {
+        "name": "~ Max🦕",
+        "count": 1
+      },
+      {
         "name": "~ Noah-Davy Dorfstecher",
+        "count": 1
+      },
+      {
+        "name": "~ Quentin Philip",
         "count": 1
       },
       {
@@ -893,6 +877,10 @@
         "count": 1
       },
       {
+        "name": "~ Philip G",
+        "count": 1
+      },
+      {
         "name": "~ Jonas Hillesheim",
         "count": 1
       },
@@ -906,6 +894,10 @@
       },
       {
         "name": "~ Peter E.",
+        "count": 1
+      },
+      {
+        "name": "~ Nils",
         "count": 1
       },
       {
@@ -925,15 +917,15 @@
   "bestDaysTop3": [
     {
       "date": "2026-09-25",
-      "count": 1019
+      "count": 914
     },
     {
       "date": "2026-08-08",
-      "count": 902
+      "count": 851
     },
     {
       "date": "2026-07-25",
-      "count": 899
+      "count": 846
     }
   ],
   "topStreaksEver": [
@@ -959,19 +951,19 @@
   "bestWeeksEver": [
     {
       "name": "~ Levi.M71 RBN",
-      "count": 210,
+      "count": 136,
       "weekStart": "2026-09-28",
       "weekEnd": "2026-10-04"
     },
     {
-      "name": "~ MB",
-      "count": 156,
-      "weekStart": "2026-08-17",
-      "weekEnd": "2026-08-23"
-    },
-    {
       "name": "Marvin Scheben",
       "count": 126,
+      "weekStart": "2026-02-09",
+      "weekEnd": "2026-02-15"
+    },
+    {
+      "name": "Johannes",
+      "count": 99,
       "weekStart": "2026-02-09",
       "weekEnd": "2026-02-15"
     }
@@ -981,391 +973,391 @@
     "windowEnd": "2026-10-18",
     "prevWindowStart": "2026-10-05",
     "prevWindowEnd": "2026-10-11",
-    "total": 2315,
-    "prevTotal": 2566
+    "total": 2152,
+    "prevTotal": 2359
   },
   "heatmap": {
     "all": {
       "counts": [
         [
-          203,
-          110,
-          68,
+          198,
+          101,
+          61,
           29,
           16,
           8,
           17,
           12,
-          18,
-          28,
-          58,
-          84,
-          108,
-          187,
-          176,
-          246,
-          272,
-          398,
-          492,
-          680,
-          705,
-          649,
-          535,
-          402
+          17,
+          27,
+          54,
+          79,
+          98,
+          168,
+          163,
+          228,
+          257,
+          369,
+          467,
+          627,
+          664,
+          599,
+          505,
+          375
         ],
         [
-          251,
-          122,
-          67,
-          45,
-          21,
-          7,
+          239,
+          116,
+          63,
+          43,
+          20,
+          6,
           6,
           15,
-          14,
-          29,
-          43,
-          70,
-          86,
-          129,
-          148,
-          175,
-          254,
-          373,
-          574,
-          745,
-          885,
-          989,
-          725,
-          393
-        ],
-        [
-          225,
-          147,
-          69,
-          50,
-          17,
           13,
-          11,
-          12,
-          18,
-          19,
-          44,
-          70,
-          122,
+          25,
+          43,
+          64,
+          82,
+          120,
+          137,
           170,
-          204,
-          189,
-          321,
-          477,
-          738,
-          974,
-          1280,
-          1223,
-          944,
-          642
-        ],
-        [
-          358,
-          178,
-          77,
-          48,
-          33,
-          23,
-          11,
-          17,
-          28,
-          56,
-          128,
-          160,
           237,
-          256,
-          328,
-          351,
-          459,
-          650,
-          899,
-          1275,
-          1263,
-          1364,
-          1111,
-          732
+          361,
+          563,
+          719,
+          848,
+          953,
+          709,
+          388
         ],
         [
-          428,
-          214,
-          119,
-          49,
-          34,
-          27,
-          23,
-          35,
-          44,
-          68,
-          111,
-          171,
-          317,
-          325,
-          433,
-          542,
-          784,
-          1006,
-          1547,
-          2000,
-          2276,
-          2334,
-          1894,
-          1588
-        ],
-        [
-          1118,
-          561,
-          326,
-          171,
-          75,
-          41,
-          33,
-          42,
-          54,
-          104,
-          252,
-          436,
-          653,
-          912,
-          1036,
-          1263,
-          1532,
-          1577,
-          1772,
-          2059,
-          2086,
-          2132,
-          1800,
-          1522
-        ],
-        [
-          1104,
-          695,
-          381,
-          193,
-          91,
-          35,
-          28,
-          16,
-          31,
+          221,
+          143,
           70,
-          101,
-          241,
-          377,
+          47,
+          17,
+          15,
+          13,
+          14,
+          21,
+          19,
+          39,
+          67,
+          117,
+          162,
+          190,
+          171,
+          303,
           447,
-          594,
-          728,
-          739,
-          804,
-          868,
-          801,
-          817,
-          690,
-          513,
-          322
+          698,
+          929,
+          1217,
+          1162,
+          898,
+          614
+        ],
+        [
+          345,
+          171,
+          72,
+          46,
+          32,
+          19,
+          9,
+          15,
+          25,
+          54,
+          126,
+          157,
+          229,
+          248,
+          318,
+          345,
+          431,
+          602,
+          851,
+          1189,
+          1205,
+          1287,
+          1053,
+          682
+        ],
+        [
+          404,
+          205,
+          111,
+          41,
+          32,
+          24,
+          23,
+          31,
+          40,
+          67,
+          109,
+          171,
+          307,
+          306,
+          416,
+          535,
+          762,
+          953,
+          1454,
+          1870,
+          2138,
+          2208,
+          1811,
+          1485
+        ],
+        [
+          1059,
+          542,
+          312,
+          155,
+          69,
+          39,
+          32,
+          40,
+          54,
+          105,
+          248,
+          433,
+          640,
+          883,
+          1000,
+          1214,
+          1456,
+          1501,
+          1677,
+          1931,
+          1969,
+          2032,
+          1693,
+          1437
+        ],
+        [
+          1040,
+          647,
+          350,
+          175,
+          91,
+          32,
+          23,
+          15,
+          30,
+          64,
+          99,
+          230,
+          362,
+          412,
+          579,
+          699,
+          712,
+          764,
+          825,
+          750,
+          767,
+          663,
+          476,
+          313
         ]
       ],
-      "total": 78300
+      "total": 74326
     },
     "last8w": {
       "counts": [
         [
-          46,
-          18,
-          15,
+          45,
+          17,
+          13,
           3,
           0,
           3,
           6,
           3,
           6,
-          6,
-          18,
-          24,
-          46,
-          59,
-          66,
-          91,
-          79,
-          122,
-          155,
-          248,
-          244,
-          191,
-          156,
-          113
+          5,
+          16,
+          20,
+          39,
+          51,
+          58,
+          80,
+          75,
+          112,
+          146,
+          223,
+          226,
+          172,
+          146,
+          102
         ],
         [
-          72,
+          71,
           28,
-          17,
+          16,
           8,
           3,
           2,
           4,
           1,
-          8,
-          15,
-          22,
+          7,
+          12,
+          19,
+          28,
           32,
-          35,
-          52,
-          60,
-          68,
-          103,
-          138,
-          178,
-          247,
-          266,
-          277,
-          186,
-          91
+          45,
+          54,
+          62,
+          84,
+          129,
+          168,
+          231,
+          245,
+          262,
+          177,
+          86
         ],
         [
-          60,
-          45,
-          20,
-          15,
-          4,
+          56,
+          40,
+          18,
+          14,
+          3,
           7,
           10,
           7,
           5,
           6,
-          22,
-          34,
-          53,
-          59,
-          98,
-          68,
-          116,
-          157,
-          188,
-          243,
-          323,
-          286,
-          212,
-          127
+          17,
+          32,
+          50,
+          55,
+          90,
+          57,
+          107,
+          145,
+          175,
+          227,
+          302,
+          264,
+          189,
+          123
         ],
         [
-          81,
-          48,
-          18,
+          75,
+          46,
+          16,
           15,
           5,
           1,
-          3,
-          7,
+          2,
+          5,
           6,
           8,
           23,
-          25,
-          33,
-          37,
-          54,
-          63,
-          90,
-          152,
-          221,
-          345,
-          334,
-          332,
-          276,
-          164
+          24,
+          32,
+          34,
+          52,
+          62,
+          84,
+          142,
+          209,
+          319,
+          315,
+          310,
+          262,
+          145
         ],
         [
-          98,
-          56,
-          30,
-          14,
+          92,
+          52,
+          25,
+          10,
           8,
-          5,
+          4,
           3,
           14,
           9,
           23,
-          37,
-          67,
-          115,
-          116,
-          137,
-          152,
-          255,
-          295,
-          472,
-          672,
-          768,
-          744,
-          577,
-          522
+          36,
+          66,
+          112,
+          104,
+          125,
+          149,
+          245,
+          285,
+          435,
+          619,
+          704,
+          693,
+          542,
+          473
         ],
         [
-          323,
-          156,
-          95,
-          37,
-          18,
-          8,
+          292,
+          144,
+          82,
+          35,
           15,
-          12,
+          7,
+          15,
+          10,
           8,
-          27,
-          62,
-          121,
-          155,
-          236,
-          251,
-          335,
-          384,
-          387,
-          476,
-          587,
-          567,
-          577,
-          497,
-          387
+          30,
+          61,
+          124,
+          154,
+          229,
+          242,
+          322,
+          364,
+          353,
+          438,
+          548,
+          530,
+          543,
+          462,
+          363
         ],
         [
-          275,
-          159,
-          94,
-          59,
-          27,
+          262,
+          148,
+          83,
+          52,
+          26,
           9,
-          9,
+          7,
           3,
           7,
-          16,
-          29,
-          72,
-          106,
-          134,
-          186,
-          254,
-          257,
+          14,
+          28,
+          67,
+          103,
+          117,
+          178,
+          242,
           240,
-          255,
-          220,
-          211,
-          188,
-          149,
-          64
+          224,
+          236,
+          206,
+          194,
+          179,
+          131,
+          60
         ]
       ],
-      "total": 22070,
+      "total": 20547,
       "from": "2026-08-24",
       "to": "2026-10-18"
     }
   },
   "mostBeers24h": {
-    "name": "~ Levi.M71 RBN",
-    "count": 60,
-    "windowStart": "2026-09-28T19:46:32.000Z",
-    "windowEnd": "2026-09-29T19:22:13.000Z"
+    "name": "~ Patrick Kromer",
+    "count": 57,
+    "windowStart": "2026-09-25T19:20:18.000Z",
+    "windowEnd": "2026-09-26T19:10:37.000Z"
   }
 }
