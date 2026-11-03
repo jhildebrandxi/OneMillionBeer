@@ -1021,6 +1021,26 @@
       "rankPrev": 48
     },
     {
+      "name": "~ Jakob Stadler",
+      "posts": 344,
+      "iaPosts": 4,
+      "daysAgo": 0,
+      "ppw": 27.1,
+      "memDays": 89,
+      "streak": 6,
+      "streakStart": "2026-09-23",
+      "streakEnd": "2026-09-28",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "06.08.26",
+      "lastStr": "03.11.26",
+      "lastKey": "2026-11-03",
+      "joinKey": "2026-08-06",
+      "last7": 25,
+      "rankCurr": 55,
+      "rankPrev": 58
+    },
+    {
       "name": "~ Luke🇩🇪🦅",
       "posts": 343,
       "iaPosts": 0,
@@ -1039,26 +1059,6 @@
       "last7": 24,
       "rankCurr": 51,
       "rankPrev": 56
-    },
-    {
-      "name": "~ Jakob Stadler",
-      "posts": 342,
-      "iaPosts": 4,
-      "daysAgo": 0,
-      "ppw": 26.9,
-      "memDays": 89,
-      "streak": 6,
-      "streakStart": "2026-09-23",
-      "streakEnd": "2026-09-28",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "06.08.26",
-      "lastStr": "03.11.26",
-      "lastKey": "2026-11-03",
-      "joinKey": "2026-08-06",
-      "last7": 25,
-      "rankCurr": 55,
-      "rankPrev": 58
     },
     {
       "name": "~ Nils",
@@ -30121,8 +30121,8 @@
       "rankPrev": null
     }
   ],
-  "totalPosts": 84601,
-  "postsAccepted": 84601,
-  "counter": 84587,
-  "updated": "03.11.2026, 23:47"
+  "totalPosts": 84603,
+  "postsAccepted": 84603,
+  "counter": 84588,
+  "updated": "03.11.2026, 23:54"
 }
