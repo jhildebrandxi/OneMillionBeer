@@ -301,6 +301,26 @@
       "rankPrev": 15
     },
     {
+      "name": "~ Chris🦅",
+      "posts": 569,
+      "iaPosts": 7,
+      "daysAgo": 0,
+      "ppw": 14.3,
+      "memDays": 278,
+      "streak": 6,
+      "streakStart": "2026-02-11",
+      "streakEnd": "2026-02-16",
+      "currentStreak": 3,
+      "hasLeft": false,
+      "joinStr": "29.01.26",
+      "lastStr": "03.11.26",
+      "lastKey": "2026-11-03",
+      "joinKey": "2026-01-29",
+      "last7": 3,
+      "rankCurr": 20,
+      "rankPrev": 20
+    },
+    {
       "name": "~ Janis",
       "posts": 568,
       "iaPosts": 0,
@@ -339,26 +359,6 @@
       "last7": 12,
       "rankCurr": 17,
       "rankPrev": 18
-    },
-    {
-      "name": "~ Chris🦅",
-      "posts": 567,
-      "iaPosts": 6,
-      "daysAgo": 0,
-      "ppw": 14.3,
-      "memDays": 278,
-      "streak": 6,
-      "streakStart": "2026-02-11",
-      "streakEnd": "2026-02-16",
-      "currentStreak": 3,
-      "hasLeft": false,
-      "joinStr": "29.01.26",
-      "lastStr": "03.11.26",
-      "lastKey": "2026-11-03",
-      "joinKey": "2026-01-29",
-      "last7": 3,
-      "rankCurr": 20,
-      "rankPrev": 20
     },
     {
       "name": "~ Juli",
@@ -1377,28 +1377,8 @@
       "lastKey": "2026-11-02",
       "joinKey": "2026-02-07",
       "last7": 1,
-      "rankCurr": 71,
-      "rankPrev": 69
-    },
-    {
-      "name": "~ Tim Traut",
-      "posts": 275,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 26.7,
-      "memDays": 72,
-      "streak": 13,
-      "streakStart": "2026-09-03",
-      "streakEnd": "2026-09-15",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "23.08.26",
-      "lastStr": "02.11.26",
-      "lastKey": "2026-11-02",
-      "joinKey": "2026-08-23",
-      "last7": 38,
       "rankCurr": 70,
-      "rankPrev": 81
+      "rankPrev": 69
     },
     {
       "name": "~ Levi.M71 RBN",
@@ -1419,6 +1399,26 @@
       "last7": 0,
       "rankCurr": 69,
       "rankPrev": 66
+    },
+    {
+      "name": "~ Tim Traut",
+      "posts": 274,
+      "iaPosts": 0,
+      "daysAgo": 1,
+      "ppw": 26.6,
+      "memDays": 72,
+      "streak": 13,
+      "streakStart": "2026-09-03",
+      "streakEnd": "2026-09-15",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "23.08.26",
+      "lastStr": "02.11.26",
+      "lastKey": "2026-11-02",
+      "joinKey": "2026-08-23",
+      "last7": 37,
+      "rankCurr": 70,
+      "rankPrev": 81
     },
     {
       "name": "~ Jonas Hillesheim",
@@ -30061,8 +30061,8 @@
       "rankPrev": null
     }
   ],
-  "totalPosts": 84452,
-  "postsAccepted": 84452,
-  "counter": 84445,
-  "updated": "03.11.2026, 13:14"
+  "totalPosts": 84453,
+  "postsAccepted": 84453,
+  "counter": 84447,
+  "updated": "03.11.2026, 13:24"
 }
