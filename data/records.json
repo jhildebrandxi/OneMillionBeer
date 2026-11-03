@@ -1,5 +1,5 @@
 {
-  "updated": "03.11.2026, 09:06",
+  "updated": "03.11.2026, 09:35",
   "bestDayEver": {
     "date": "2026-10-24",
     "count": 1225,
@@ -1191,7 +1191,7 @@
     },
     {
       "name": "Marvin Scheben",
-      "count": 126,
+      "count": 112,
       "weekStart": "2026-02-09",
       "weekEnd": "2026-02-15"
     }
@@ -1243,7 +1243,7 @@
           7,
           17,
           14,
-          30,
+          31,
           48,
           74,
           94,
@@ -1390,7 +1390,7 @@
           334
         ]
       ],
-      "total": 84447
+      "total": 84448
     },
     "last8w": {
       "counts": [
@@ -1587,5 +1587,238 @@
     "count": 60,
     "windowStart": "2026-09-28T19:46:32.000Z",
     "windowEnd": "2026-09-29T19:22:13.000Z"
-  }
+  },
+  "countries": [
+    {
+      "iso": "DE",
+      "name": "Germany",
+      "num": "276",
+      "first": "2025-12-30",
+      "numbers": 2294
+    },
+    {
+      "iso": "AT",
+      "name": "Austria",
+      "num": "040",
+      "first": "2026-01-20",
+      "numbers": 36
+    },
+    {
+      "iso": "PT",
+      "name": "Portugal",
+      "num": "620",
+      "first": "2026-01-29",
+      "numbers": 169
+    },
+    {
+      "iso": "GB",
+      "name": "United Kingdom",
+      "num": "826",
+      "first": "2026-01-29",
+      "numbers": 14
+    },
+    {
+      "iso": "US",
+      "name": "United States",
+      "num": "840",
+      "first": "2026-01-29",
+      "numbers": 8
+    },
+    {
+      "iso": "BE",
+      "name": "Belgium",
+      "num": "056",
+      "first": "2026-02-06",
+      "numbers": 18
+    },
+    {
+      "iso": "MX",
+      "name": "Mexico",
+      "num": "484",
+      "first": "2026-02-06",
+      "numbers": 2
+    },
+    {
+      "iso": "SE",
+      "name": "Sweden",
+      "num": "752",
+      "first": "2026-02-06",
+      "numbers": 6
+    },
+    {
+      "iso": "CH",
+      "name": "Switzerland",
+      "num": "756",
+      "first": "2026-02-06",
+      "numbers": 39
+    },
+    {
+      "iso": "SI",
+      "name": "Slovenia",
+      "num": "705",
+      "first": "2026-02-07",
+      "numbers": 1
+    },
+    {
+      "iso": "LV",
+      "name": "Latvia",
+      "num": "428",
+      "first": "2026-02-08",
+      "numbers": 2
+    },
+    {
+      "iso": "LU",
+      "name": "Luxembourg",
+      "num": "442",
+      "first": "2026-02-08",
+      "numbers": 4
+    },
+    {
+      "iso": "NL",
+      "name": "Netherlands",
+      "num": "528",
+      "first": "2026-02-09",
+      "numbers": 35
+    },
+    {
+      "iso": "DK",
+      "name": "Denmark",
+      "num": "208",
+      "first": "2026-02-11",
+      "numbers": 2
+    },
+    {
+      "iso": "ES",
+      "name": "Spain",
+      "num": "724",
+      "first": "2026-02-12",
+      "numbers": 19
+    },
+    {
+      "iso": "AR",
+      "name": "Argentina",
+      "num": "032",
+      "first": "2026-02-13",
+      "numbers": 3
+    },
+    {
+      "iso": "CZ",
+      "name": "Czechia",
+      "num": "203",
+      "first": "2026-02-13",
+      "numbers": 3
+    },
+    {
+      "iso": "IT",
+      "name": "Italy",
+      "num": "380",
+      "first": "2026-02-15",
+      "numbers": 14
+    },
+    {
+      "iso": "AU",
+      "name": "Australia",
+      "num": "036",
+      "first": "2026-02-16",
+      "numbers": 4
+    },
+    {
+      "iso": "FR",
+      "name": "France",
+      "num": "250",
+      "first": "2026-02-16",
+      "numbers": 8
+    },
+    {
+      "iso": "LT",
+      "name": "Lithuania",
+      "num": "440",
+      "first": "2026-03-02",
+      "numbers": 4
+    },
+    {
+      "iso": "TR",
+      "name": "Türkiye",
+      "num": "792",
+      "first": "2026-03-12",
+      "numbers": 3
+    },
+    {
+      "iso": "NO",
+      "name": "Norway",
+      "num": "578",
+      "first": "2026-03-21",
+      "numbers": 1
+    },
+    {
+      "iso": "FI",
+      "name": "Finland",
+      "num": "246",
+      "first": "2026-04-25",
+      "numbers": 2
+    },
+    {
+      "iso": "EG",
+      "name": "Egypt",
+      "num": "818",
+      "first": "2026-06-12",
+      "numbers": 1
+    },
+    {
+      "iso": "TH",
+      "name": "Thailand",
+      "num": "764",
+      "first": "2026-08-14",
+      "numbers": 1
+    },
+    {
+      "iso": "CA",
+      "name": "Canada",
+      "num": "124",
+      "first": "2026-09-05",
+      "numbers": 1
+    },
+    {
+      "iso": "PL",
+      "name": "Poland",
+      "num": "616",
+      "first": "2026-09-05",
+      "numbers": 1
+    },
+    {
+      "iso": "ZA",
+      "name": "South Africa",
+      "num": "710",
+      "first": "2026-09-08",
+      "numbers": 4
+    },
+    {
+      "iso": "HU",
+      "name": "Hungary",
+      "num": "348",
+      "first": "2026-09-10",
+      "numbers": 1
+    },
+    {
+      "iso": "RO",
+      "name": "Romania",
+      "num": "642",
+      "first": "2026-09-16",
+      "numbers": 1
+    },
+    {
+      "iso": "IE",
+      "name": "Ireland",
+      "num": "372",
+      "first": "2026-10-18",
+      "numbers": 1
+    },
+    {
+      "iso": "AE",
+      "name": "United Arab Emirates",
+      "num": "784",
+      "first": "2026-10-21",
+      "numbers": 1
+    }
+  ]
 }
