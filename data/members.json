@@ -3361,6 +3361,26 @@
       "rankPrev": 161
     },
     {
+      "name": "~ Quentin Philip",
+      "posts": 136,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 13.6,
+      "memDays": 70,
+      "streak": 10,
+      "streakStart": "2026-09-10",
+      "streakEnd": "2026-09-19",
+      "currentStreak": 4,
+      "hasLeft": false,
+      "joinStr": "25.08.26",
+      "lastStr": "03.11.26",
+      "lastKey": "2026-11-03",
+      "joinKey": "2026-08-25",
+      "last7": 12,
+      "rankCurr": 171,
+      "rankPrev": 186
+    },
+    {
       "name": "~ S",
       "posts": 135,
       "iaPosts": 0,
@@ -3399,26 +3419,6 @@
       "last7": 7,
       "rankCurr": 170,
       "rankPrev": 175
-    },
-    {
-      "name": "~ Quentin Philip",
-      "posts": 135,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 13.5,
-      "memDays": 70,
-      "streak": 10,
-      "streakStart": "2026-09-10",
-      "streakEnd": "2026-09-19",
-      "currentStreak": 3,
-      "hasLeft": false,
-      "joinStr": "25.08.26",
-      "lastStr": "02.11.26",
-      "lastKey": "2026-11-02",
-      "joinKey": "2026-08-25",
-      "last7": 12,
-      "rankCurr": 171,
-      "rankPrev": 186
     },
     {
       "name": "~ Daniel",
@@ -8381,6 +8381,26 @@
       "rankPrev": 409
     },
     {
+      "name": "~ Philip G",
+      "posts": 43,
+      "iaPosts": 1,
+      "daysAgo": 0,
+      "ppw": 3.5,
+      "memDays": 87,
+      "streak": 4,
+      "streakStart": "2026-08-12",
+      "streakEnd": "2026-08-15",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "08.08.26",
+      "lastStr": "03.11.26",
+      "lastKey": "2026-11-03",
+      "joinKey": "2026-08-08",
+      "last7": 0,
+      "rankCurr": 420,
+      "rankPrev": 416
+    },
+    {
       "name": "~ Markus",
       "posts": 42,
       "iaPosts": 0,
@@ -8456,26 +8476,6 @@
       "lastStr": "24.10.26",
       "lastKey": "2026-10-24",
       "joinKey": "2026-08-05",
-      "last7": 0,
-      "rankCurr": 420,
-      "rankPrev": 416
-    },
-    {
-      "name": "~ Philip G",
-      "posts": 42,
-      "iaPosts": 1,
-      "daysAgo": 12,
-      "ppw": 3.4,
-      "memDays": 87,
-      "streak": 4,
-      "streakStart": "2026-08-12",
-      "streakEnd": "2026-08-15",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "08.08.26",
-      "lastStr": "22.10.26",
-      "lastKey": "2026-10-22",
-      "joinKey": "2026-08-08",
       "last7": 0,
       "rankCurr": 420,
       "rankPrev": 416
@@ -30061,8 +30061,8 @@
       "rankPrev": null
     }
   ],
-  "totalPosts": 84448,
-  "postsAccepted": 84448,
-  "counter": 84441,
-  "updated": "03.11.2026, 09:35"
+  "totalPosts": 84450,
+  "postsAccepted": 84450,
+  "counter": 84443,
+  "updated": "03.11.2026, 12:37"
 }
