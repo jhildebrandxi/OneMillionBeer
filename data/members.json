@@ -3,7 +3,7 @@
     {
       "name": "Marvin Scheben",
       "posts": 1863,
-      "iaPosts": 7,
+      "iaPosts": 81,
       "daysAgo": 3,
       "ppw": 42.5,
       "memDays": 307,
@@ -23,7 +23,7 @@
     {
       "name": "Johannes",
       "posts": 1774,
-      "iaPosts": 42,
+      "iaPosts": 62,
       "daysAgo": 2,
       "ppw": 40.3,
       "memDays": 308,
@@ -36,7 +36,7 @@
       "lastStr": "01.11.26",
       "lastKey": "2026-11-01",
       "joinKey": "2025-12-30",
-      "last7": 45,
+      "last7": 40,
       "rankCurr": 2,
       "rankPrev": 2
     },
@@ -83,7 +83,7 @@
     {
       "name": "Gonçalo d'Orey",
       "posts": 930,
-      "iaPosts": 4,
+      "iaPosts": 5,
       "daysAgo": 6,
       "ppw": 23.4,
       "memDays": 278,
@@ -143,7 +143,7 @@
     {
       "name": "Felix Sievert",
       "posts": 675,
-      "iaPosts": 5,
+      "iaPosts": 26,
       "daysAgo": 2,
       "ppw": 16.2,
       "memDays": 292,
@@ -283,7 +283,7 @@
     {
       "name": "David Sliwka",
       "posts": 575,
-      "iaPosts": 31,
+      "iaPosts": 32,
       "daysAgo": 10,
       "ppw": 13.1,
       "memDays": 307,
@@ -323,7 +323,7 @@
     {
       "name": "Backes",
       "posts": 567,
-      "iaPosts": 3,
+      "iaPosts": 4,
       "daysAgo": 3,
       "ppw": 12.9,
       "memDays": 308,
@@ -342,19 +342,19 @@
     },
     {
       "name": "~ Chris🦅",
-      "posts": 565,
+      "posts": 566,
       "iaPosts": 6,
-      "daysAgo": 1,
-      "ppw": 14.2,
+      "daysAgo": 0,
+      "ppw": 14.3,
       "memDays": 278,
       "streak": 6,
       "streakStart": "2026-02-11",
       "streakEnd": "2026-02-16",
-      "currentStreak": 2,
+      "currentStreak": 3,
       "hasLeft": false,
       "joinStr": "29.01.26",
-      "lastStr": "02.11.26",
-      "lastKey": "2026-11-02",
+      "lastStr": "03.11.26",
+      "lastKey": "2026-11-03",
       "joinKey": "2026-01-29",
       "last7": 3,
       "rankCurr": 20,
@@ -403,7 +403,7 @@
     {
       "name": "Leo Girke",
       "posts": 521,
-      "iaPosts": 2,
+      "iaPosts": 14,
       "daysAgo": 2,
       "ppw": 12,
       "memDays": 305,
@@ -583,7 +583,7 @@
     {
       "name": "~ Mata",
       "posts": 463,
-      "iaPosts": 4,
+      "iaPosts": 6,
       "daysAgo": 4,
       "ppw": 13.6,
       "memDays": 238,
@@ -696,7 +696,7 @@
       "lastStr": "29.10.26",
       "lastKey": "2026-10-29",
       "joinKey": "2026-01-19",
-      "last7": 10,
+      "last7": 9,
       "rankCurr": 35,
       "rankPrev": 35
     },
@@ -723,7 +723,7 @@
     {
       "name": "~ Valentin",
       "posts": 408,
-      "iaPosts": 1,
+      "iaPosts": 3,
       "daysAgo": 3,
       "ppw": 10.3,
       "memDays": 276,
@@ -763,7 +763,7 @@
     {
       "name": "~ Philipp",
       "posts": 382,
-      "iaPosts": 5,
+      "iaPosts": 7,
       "daysAgo": 2,
       "ppw": 9.8,
       "memDays": 272,
@@ -876,7 +876,7 @@
       "lastStr": "01.11.26",
       "lastKey": "2026-11-01",
       "joinKey": "2026-06-11",
-      "last7": 21,
+      "last7": 20,
       "rankCurr": 44,
       "rankPrev": 49
     },
@@ -903,7 +903,7 @@
     {
       "name": "~ Dominik",
       "posts": 353,
-      "iaPosts": 22,
+      "iaPosts": 23,
       "daysAgo": 1,
       "ppw": 8.7,
       "memDays": 284,
@@ -956,7 +956,7 @@
       "lastStr": "30.10.26",
       "lastKey": "2026-10-30",
       "joinKey": "2026-01-24",
-      "last7": 12,
+      "last7": 11,
       "rankCurr": 48,
       "rankPrev": 50
     },
@@ -1183,7 +1183,7 @@
     {
       "name": "~ DavidKnoll",
       "posts": 309,
-      "iaPosts": 12,
+      "iaPosts": 23,
       "daysAgo": 1,
       "ppw": 8.1,
       "memDays": 266,
@@ -1243,7 +1243,7 @@
     {
       "name": "~ Lutz G",
       "posts": 294,
-      "iaPosts": 6,
+      "iaPosts": 7,
       "daysAgo": 2,
       "ppw": 8.4,
       "memDays": 246,
@@ -1283,7 +1283,7 @@
     {
       "name": "Fabi Girke",
       "posts": 286,
-      "iaPosts": 0,
+      "iaPosts": 1,
       "daysAgo": 1,
       "ppw": 6.7,
       "memDays": 298,
@@ -1323,7 +1323,7 @@
     {
       "name": "Tarek",
       "posts": 280,
-      "iaPosts": 2,
+      "iaPosts": 10,
       "daysAgo": 9,
       "ppw": 7.1,
       "memDays": 277,
@@ -1523,7 +1523,7 @@
     {
       "name": "~ leander",
       "posts": 260,
-      "iaPosts": 27,
+      "iaPosts": 30,
       "daysAgo": 2,
       "ppw": 8.5,
       "memDays": 213,
@@ -1603,7 +1603,7 @@
     {
       "name": "~ Luca Klenner",
       "posts": 250,
-      "iaPosts": 29,
+      "iaPosts": 30,
       "daysAgo": 4,
       "ppw": 6.6,
       "memDays": 266,
@@ -1623,7 +1623,7 @@
     {
       "name": "~ Max🦕",
       "posts": 250,
-      "iaPosts": 14,
+      "iaPosts": 15,
       "daysAgo": 4,
       "ppw": 8.5,
       "memDays": 206,
@@ -1823,7 +1823,7 @@
     {
       "name": "~ Simon",
       "posts": 222,
-      "iaPosts": 5,
+      "iaPosts": 6,
       "daysAgo": 1,
       "ppw": 5.6,
       "memDays": 278,
@@ -1843,7 +1843,7 @@
     {
       "name": "~ Mattis",
       "posts": 222,
-      "iaPosts": 0,
+      "iaPosts": 1,
       "daysAgo": 6,
       "ppw": 6,
       "memDays": 258,
@@ -1863,7 +1863,7 @@
     {
       "name": "~ Benjamin Grafschmidt",
       "posts": 222,
-      "iaPosts": 4,
+      "iaPosts": 8,
       "daysAgo": 3,
       "ppw": 5.9,
       "memDays": 265,
@@ -2416,7 +2416,7 @@
       "lastStr": "31.10.26",
       "lastKey": "2026-10-31",
       "joinKey": "2026-03-20",
-      "last7": 8,
+      "last7": 7,
       "rankCurr": 121,
       "rankPrev": 122
     },
@@ -2443,7 +2443,7 @@
     {
       "name": "~ Julius M.",
       "posts": 186,
-      "iaPosts": 6,
+      "iaPosts": 7,
       "daysAgo": 2,
       "ppw": 6.1,
       "memDays": 212,
@@ -2843,7 +2843,7 @@
     {
       "name": "Freddie Schulz",
       "posts": 164,
-      "iaPosts": 7,
+      "iaPosts": 18,
       "daysAgo": 4,
       "ppw": 4.8,
       "memDays": 241,
@@ -2883,7 +2883,7 @@
     {
       "name": "~ Severin",
       "posts": 163,
-      "iaPosts": 2,
+      "iaPosts": 3,
       "daysAgo": 3,
       "ppw": 4.6,
       "memDays": 250,
@@ -2943,7 +2943,7 @@
     {
       "name": "~ Finn",
       "posts": 157,
-      "iaPosts": 0,
+      "iaPosts": 1,
       "daysAgo": 3,
       "ppw": 4,
       "memDays": 276,
@@ -3103,7 +3103,7 @@
     {
       "name": "~ Jill",
       "posts": 147,
-      "iaPosts": 0,
+      "iaPosts": 2,
       "daysAgo": 3,
       "ppw": 3.7,
       "memDays": 276,
@@ -3156,7 +3156,7 @@
       "lastStr": "01.11.26",
       "lastKey": "2026-11-01",
       "joinKey": "2026-01-31",
-      "last7": 14,
+      "last7": 13,
       "rankCurr": 158,
       "rankPrev": 168
     },
@@ -3303,7 +3303,7 @@
     {
       "name": "~ Raman",
       "posts": 138,
-      "iaPosts": 2,
+      "iaPosts": 14,
       "daysAgo": 9,
       "ppw": 3.7,
       "memDays": 264,
@@ -3463,7 +3463,7 @@
     {
       "name": "~ Ränä ⭐️⭐️⭐️⭐️",
       "posts": 133,
-      "iaPosts": 0,
+      "iaPosts": 1,
       "daysAgo": 6,
       "ppw": 4.2,
       "memDays": 220,
@@ -4503,7 +4503,7 @@
     {
       "name": "~ Pedro Ferreira",
       "posts": 98,
-      "iaPosts": 0,
+      "iaPosts": 1,
       "daysAgo": 58,
       "ppw": 7.1,
       "memDays": 97,
@@ -4563,7 +4563,7 @@
     {
       "name": "~ Patrick Kromer",
       "posts": 95,
-      "iaPosts": 50,
+      "iaPosts": 54,
       "daysAgo": 24,
       "ppw": 11.1,
       "memDays": 60,
@@ -4783,7 +4783,7 @@
     {
       "name": "~ Joschka",
       "posts": 92,
-      "iaPosts": 5,
+      "iaPosts": 6,
       "daysAgo": 18,
       "ppw": 3,
       "memDays": 214,
@@ -7776,7 +7776,7 @@
       "lastStr": "31.10.26",
       "lastKey": "2026-10-31",
       "joinKey": "2026-03-13",
-      "last7": 2,
+      "last7": 1,
       "rankCurr": 386,
       "rankPrev": 390
     },
@@ -11423,7 +11423,7 @@
     {
       "name": "~ HB",
       "posts": 22,
-      "iaPosts": 0,
+      "iaPosts": 2,
       "daysAgo": 186,
       "ppw": 0.6,
       "memDays": 263,
@@ -12403,7 +12403,7 @@
     {
       "name": "Niko",
       "posts": 18,
-      "iaPosts": 0,
+      "iaPosts": 1,
       "daysAgo": 29,
       "ppw": 0.6,
       "memDays": 196,
@@ -16956,7 +16956,7 @@
       "lastStr": "31.10.26",
       "lastKey": "2026-10-31",
       "joinKey": "2026-10-29",
-      "last7": 9,
+      "last7": 8,
       "rankCurr": 820,
       "rankPrev": null
     },
@@ -30061,8 +30061,8 @@
       "rankPrev": null
     }
   ],
-  "totalPosts": 84447,
-  "postsAccepted": 84447,
-  "counter": 84440,
-  "updated": "03.11.2026, 09:06"
+  "totalPosts": 84448,
+  "postsAccepted": 84448,
+  "counter": 84441,
+  "updated": "03.11.2026, 09:35"
 }
