@@ -281,6 +281,26 @@
       "rankPrev": 13
     },
     {
+      "name": "~ Chris🦅",
+      "posts": 583,
+      "iaPosts": 8,
+      "daysAgo": 0,
+      "ppw": 14.6,
+      "memDays": 279,
+      "streak": 6,
+      "streakStart": "2026-02-11",
+      "streakEnd": "2026-02-16",
+      "currentStreak": 4,
+      "hasLeft": false,
+      "joinStr": "29.01.26",
+      "lastStr": "04.11.26",
+      "lastKey": "2026-11-04",
+      "joinKey": "2026-01-29",
+      "last7": 3,
+      "rankCurr": 20,
+      "rankPrev": 20
+    },
+    {
       "name": "David Sliwka",
       "posts": 575,
       "iaPosts": 32,
@@ -299,26 +319,6 @@
       "last7": 0,
       "rankCurr": 15,
       "rankPrev": 15
-    },
-    {
-      "name": "~ Chris🦅",
-      "posts": 574,
-      "iaPosts": 7,
-      "daysAgo": 1,
-      "ppw": 14.4,
-      "memDays": 279,
-      "streak": 6,
-      "streakStart": "2026-02-11",
-      "streakEnd": "2026-02-16",
-      "currentStreak": 3,
-      "hasLeft": false,
-      "joinStr": "29.01.26",
-      "lastStr": "03.11.26",
-      "lastKey": "2026-11-03",
-      "joinKey": "2026-01-29",
-      "last7": 3,
-      "rankCurr": 20,
-      "rankPrev": 20
     },
     {
       "name": "~ Janis",
@@ -441,6 +441,26 @@
       "rankPrev": 22
     },
     {
+      "name": "~ Evelyn🤍",
+      "posts": 486,
+      "iaPosts": 12,
+      "daysAgo": 0,
+      "ppw": 12.6,
+      "memDays": 271,
+      "streak": 8,
+      "streakStart": "2026-03-31",
+      "streakEnd": "2026-04-07",
+      "currentStreak": 4,
+      "hasLeft": false,
+      "joinStr": "06.02.26",
+      "lastStr": "04.11.26",
+      "lastKey": "2026-11-04",
+      "joinKey": "2026-02-06",
+      "last7": 1,
+      "rankCurr": 30,
+      "rankPrev": 28
+    },
+    {
       "name": "~ BrunoUno",
       "posts": 486,
       "iaPosts": 30,
@@ -459,26 +479,6 @@
       "last7": 13,
       "rankCurr": 23,
       "rankPrev": 23
-    },
-    {
-      "name": "~ Evelyn🤍",
-      "posts": 480,
-      "iaPosts": 12,
-      "daysAgo": 1,
-      "ppw": 12.4,
-      "memDays": 271,
-      "streak": 8,
-      "streakStart": "2026-03-31",
-      "streakEnd": "2026-04-07",
-      "currentStreak": 3,
-      "hasLeft": false,
-      "joinStr": "06.02.26",
-      "lastStr": "03.11.26",
-      "lastKey": "2026-11-03",
-      "joinKey": "2026-02-06",
-      "last7": 1,
-      "rankCurr": 30,
-      "rankPrev": 28
     },
     {
       "name": "~ Niko",
@@ -731,7 +731,7 @@
       "streakStart": "2026-09-25",
       "streakEnd": "2026-10-03",
       "currentStreak": 0,
-      "hasLeft": false,
+      "hasLeft": true,
       "joinStr": "07.02.26",
       "lastStr": "01.11.26",
       "lastKey": "2026-11-01",
@@ -2081,6 +2081,26 @@
       "rankPrev": 101
     },
     {
+      "name": "~ JK",
+      "posts": 209,
+      "iaPosts": 2,
+      "daysAgo": 0,
+      "ppw": 5.4,
+      "memDays": 271,
+      "streak": 6,
+      "streakStart": "2026-03-21",
+      "streakEnd": "2026-03-26",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "06.02.26",
+      "lastStr": "04.11.26",
+      "lastKey": "2026-11-04",
+      "joinKey": "2026-02-06",
+      "last7": 1,
+      "rankCurr": 107,
+      "rankPrev": 106
+    },
+    {
       "name": "~ Julian",
       "posts": 209,
       "iaPosts": 9,
@@ -2119,26 +2139,6 @@
       "last7": 0,
       "rankCurr": 105,
       "rankPrev": 102
-    },
-    {
-      "name": "~ JK",
-      "posts": 208,
-      "iaPosts": 2,
-      "daysAgo": 6,
-      "ppw": 5.4,
-      "memDays": 271,
-      "streak": 6,
-      "streakStart": "2026-03-21",
-      "streakEnd": "2026-03-26",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "06.02.26",
-      "lastStr": "29.10.26",
-      "lastKey": "2026-10-29",
-      "joinKey": "2026-02-06",
-      "last7": 1,
-      "rankCurr": 107,
-      "rankPrev": 106
     },
     {
       "name": "~ Luggi",
@@ -4481,6 +4481,26 @@
       "rankPrev": 238
     },
     {
+      "name": "~ Daniel B",
+      "posts": 100,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 8,
+      "memDays": 88,
+      "streak": 9,
+      "streakStart": "2026-09-29",
+      "streakEnd": "2026-10-07",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "08.08.26",
+      "lastStr": "04.11.26",
+      "lastKey": "2026-11-04",
+      "joinKey": "2026-08-08",
+      "last7": 10,
+      "rankCurr": 226,
+      "rankPrev": 238
+    },
+    {
       "name": "~ HenriH",
       "posts": 99,
       "iaPosts": 0,
@@ -4539,26 +4559,6 @@
       "last7": 0,
       "rankCurr": 226,
       "rankPrev": 216
-    },
-    {
-      "name": "~ Daniel B",
-      "posts": 98,
-      "iaPosts": 0,
-      "daysAgo": 3,
-      "ppw": 7.8,
-      "memDays": 88,
-      "streak": 9,
-      "streakStart": "2026-09-29",
-      "streakEnd": "2026-10-07",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "08.08.26",
-      "lastStr": "01.11.26",
-      "lastKey": "2026-11-01",
-      "joinKey": "2026-08-08",
-      "last7": 10,
-      "rankCurr": 226,
-      "rankPrev": 238
     },
     {
       "name": "~ Maximilian",
@@ -30121,8 +30121,8 @@
       "rankPrev": null
     }
   ],
-  "totalPosts": 84620,
-  "postsAccepted": 84620,
-  "counter": 84605,
-  "updated": "04.11.2026, 08:58"
+  "totalPosts": 84638,
+  "postsAccepted": 84638,
+  "counter": 84623,
+  "updated": "04.11.2026, 11:15"
 }
