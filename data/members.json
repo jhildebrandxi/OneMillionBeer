@@ -4361,6 +4361,26 @@
       "rankPrev": 218
     },
     {
+      "name": "~ Daniel B",
+      "posts": 107,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 8,
+      "memDays": 94,
+      "streak": 9,
+      "streakStart": "2026-09-29",
+      "streakEnd": "2026-10-07",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "08.08.26",
+      "lastStr": "10.11.26",
+      "lastKey": "2026-11-10",
+      "joinKey": "2026-08-08",
+      "last7": 8,
+      "rankCurr": 219,
+      "rankPrev": 226
+    },
+    {
       "name": "~ Gonçalo Ramos Dias",
       "posts": 106,
       "iaPosts": 0,
@@ -4379,26 +4399,6 @@
       "last7": 0,
       "rankCurr": 219,
       "rankPrev": 212
-    },
-    {
-      "name": "~ Daniel B",
-      "posts": 106,
-      "iaPosts": 0,
-      "daysAgo": 2,
-      "ppw": 7.9,
-      "memDays": 94,
-      "streak": 9,
-      "streakStart": "2026-09-29",
-      "streakEnd": "2026-10-07",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "08.08.26",
-      "lastStr": "08.11.26",
-      "lastKey": "2026-11-08",
-      "joinKey": "2026-08-08",
-      "last7": 8,
-      "rankCurr": 219,
-      "rankPrev": 226
     },
     {
       "name": "~ Jannis Malle",
@@ -30441,8 +30441,8 @@
       "rankPrev": null
     }
   ],
-  "totalPosts": 86981,
-  "postsAccepted": 86981,
-  "counter": 86979,
-  "updated": "10.11.2026, 08:42"
+  "totalPosts": 86982,
+  "postsAccepted": 86982,
+  "counter": 86980,
+  "updated": "10.11.2026, 09:02"
 }
