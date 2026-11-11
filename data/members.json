@@ -22,7 +22,7 @@
     },
     {
       "name": "Johannes",
-      "posts": 1870,
+      "posts": 1871,
       "iaPosts": 62,
       "daysAgo": 0,
       "ppw": 41.4,
@@ -422,7 +422,7 @@
     },
     {
       "name": "Leo Girke",
-      "posts": 545,
+      "posts": 546,
       "iaPosts": 14,
       "daysAgo": 0,
       "ppw": 12.2,
@@ -3182,19 +3182,19 @@
     },
     {
       "name": "~ Quentin Philip",
-      "posts": 147,
+      "posts": 148,
       "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 13.2,
+      "daysAgo": 0,
+      "ppw": 13.3,
       "memDays": 78,
-      "streak": 11,
+      "streak": 12,
       "streakStart": "2026-10-31",
-      "streakEnd": "2026-11-10",
-      "currentStreak": 11,
+      "streakEnd": "2026-11-11",
+      "currentStreak": 12,
       "hasLeft": false,
       "joinStr": "25.08.26",
-      "lastStr": "10.11.26",
-      "lastKey": "2026-11-10",
+      "lastStr": "11.11.26",
+      "lastKey": "2026-11-11",
       "joinKey": "2026-08-25",
       "last7": 11,
       "rankCurr": 160,
@@ -6001,6 +6001,26 @@
       "rankPrev": 301
     },
     {
+      "name": "~ Mo G 🍻",
+      "posts": 71,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 2.4,
+      "memDays": 206,
+      "streak": 3,
+      "streakStart": "2026-04-23",
+      "streakEnd": "2026-04-25",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "19.04.26",
+      "lastStr": "11.11.26",
+      "lastKey": "2026-11-11",
+      "joinKey": "2026-04-19",
+      "last7": 5,
+      "rankCurr": 302,
+      "rankPrev": 311
+    },
+    {
       "name": "~ Angelina",
       "posts": 71,
       "iaPosts": 0,
@@ -6059,26 +6079,6 @@
       "last7": 0,
       "rankCurr": 302,
       "rankPrev": 296
-    },
-    {
-      "name": "~ Mo G 🍻",
-      "posts": 70,
-      "iaPosts": 0,
-      "daysAgo": 4,
-      "ppw": 2.4,
-      "memDays": 206,
-      "streak": 3,
-      "streakStart": "2026-04-23",
-      "streakEnd": "2026-04-25",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "19.04.26",
-      "lastStr": "07.11.26",
-      "lastKey": "2026-11-07",
-      "joinKey": "2026-04-19",
-      "last7": 5,
-      "rankCurr": 302,
-      "rankPrev": 311
     },
     {
       "name": "~ Clara",
@@ -30661,8 +30661,8 @@
       "rankPrev": null
     }
   ],
-  "totalPosts": 87878,
-  "postsAccepted": 87878,
+  "totalPosts": 87882,
+  "postsAccepted": 87882,
   "counter": 87647,
-  "updated": "11.11.2026, 17:56"
+  "updated": "11.11.2026, 18:05"
 }
