@@ -4161,6 +4161,26 @@
       "rankPrev": 203
     },
     {
+      "name": "~ Daniel B",
+      "posts": 113,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 8.2,
+      "memDays": 97,
+      "streak": 9,
+      "streakStart": "2026-09-29",
+      "streakEnd": "2026-10-07",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "08.08.26",
+      "lastStr": "13.11.26",
+      "lastKey": "2026-11-13",
+      "joinKey": "2026-08-08",
+      "last7": 8,
+      "rankCurr": 219,
+      "rankPrev": 226
+    },
+    {
       "name": "~ Matz",
       "posts": 113,
       "iaPosts": 0,
@@ -4239,26 +4259,6 @@
       "last7": 0,
       "rankCurr": 205,
       "rankPrev": 204
-    },
-    {
-      "name": "~ Daniel B",
-      "posts": 112,
-      "iaPosts": 0,
-      "daysAgo": 2,
-      "ppw": 8.1,
-      "memDays": 97,
-      "streak": 9,
-      "streakStart": "2026-09-29",
-      "streakEnd": "2026-10-07",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "08.08.26",
-      "lastStr": "11.11.26",
-      "lastKey": "2026-11-11",
-      "joinKey": "2026-08-08",
-      "last7": 8,
-      "rankCurr": 219,
-      "rankPrev": 226
     },
     {
       "name": "~ irem",
@@ -5161,6 +5161,26 @@
       "rankPrev": 247
     },
     {
+      "name": "~ Johannes",
+      "posts": 89,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 2.2,
+      "memDays": 286,
+      "streak": 4,
+      "streakStart": "2026-04-02",
+      "streakEnd": "2026-04-05",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "31.01.26",
+      "lastStr": "13.11.26",
+      "lastKey": "2026-11-13",
+      "joinKey": "2026-01-31",
+      "last7": 0,
+      "rankCurr": 257,
+      "rankPrev": 252
+    },
+    {
       "name": "~ Julian F.",
       "posts": 89,
       "iaPosts": 0,
@@ -5199,26 +5219,6 @@
       "last7": 0,
       "rankCurr": 256,
       "rankPrev": 250
-    },
-    {
-      "name": "~ Johannes",
-      "posts": 88,
-      "iaPosts": 0,
-      "daysAgo": 20,
-      "ppw": 2.2,
-      "memDays": 286,
-      "streak": 4,
-      "streakStart": "2026-04-02",
-      "streakEnd": "2026-04-05",
-      "currentStreak": 0,
-      "hasLeft": true,
-      "joinStr": "31.01.26",
-      "lastStr": "24.10.26",
-      "lastKey": "2026-10-24",
-      "joinKey": "2026-01-31",
-      "last7": 0,
-      "rankCurr": 257,
-      "rankPrev": 252
     },
     {
       "name": "~ Julien",
@@ -30721,8 +30721,8 @@
       "rankPrev": null
     }
   ],
-  "totalPosts": 88359,
-  "postsAccepted": 88359,
-  "counter": 88312,
-  "updated": "13.11.2026, 08:57"
+  "totalPosts": 88361,
+  "postsAccepted": 88361,
+  "counter": 88314,
+  "updated": "13.11.2026, 09:51"
 }
