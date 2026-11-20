@@ -2,10 +2,10 @@
   "members": [
     {
       "name": "Marvin Scheben",
-      "posts": 1973,
+      "posts": 1975,
       "iaPosts": 90,
       "daysAgo": 0,
-      "ppw": 42.6,
+      "ppw": 42.7,
       "memDays": 324,
       "streak": 19,
       "streakStart": "2026-03-27",
@@ -23,19 +23,19 @@
     },
     {
       "name": "Johannes",
-      "posts": 1898,
+      "posts": 1904,
       "iaPosts": 62,
-      "daysAgo": 2,
-      "ppw": 40.9,
+      "daysAgo": 0,
+      "ppw": 41,
       "memDays": 325,
       "streak": 18,
       "streakStart": "2026-03-26",
       "streakEnd": "2026-04-12",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "30.12.25",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2025-12-30",
       "lastJoinKey": "2025-12-30",
       "last7": 60,
@@ -44,19 +44,19 @@
     },
     {
       "name": "Daniel Reuter",
-      "posts": 1397,
+      "posts": 1407,
       "iaPosts": 8,
-      "daysAgo": 1,
-      "ppw": 30.2,
+      "daysAgo": 0,
+      "ppw": 30.4,
       "memDays": 324,
       "streak": 40,
       "streakStart": "2026-07-29",
       "streakEnd": "2026-09-06",
-      "currentStreak": 4,
+      "currentStreak": 5,
       "hasLeft": false,
       "joinStr": "31.12.25",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2025-12-31",
       "lastJoinKey": "2025-12-31",
       "last7": 35,
@@ -65,19 +65,19 @@
     },
     {
       "name": "Steffen Schnitzler",
-      "posts": 1392,
+      "posts": 1396,
       "iaPosts": 33,
-      "daysAgo": 2,
-      "ppw": 30,
+      "daysAgo": 0,
+      "ppw": 30.1,
       "memDays": 325,
       "streak": 8,
       "streakStart": "2026-03-15",
       "streakEnd": "2026-03-22",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "30.12.25",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2025-12-30",
       "lastJoinKey": "2025-12-30",
       "last7": 61,
@@ -107,19 +107,19 @@
     },
     {
       "name": "Pascal Bönsch",
-      "posts": 969,
+      "posts": 984,
       "iaPosts": 10,
-      "daysAgo": 1,
-      "ppw": 28.4,
+      "daysAgo": 0,
+      "ppw": 28.8,
       "memDays": 239,
       "streak": 12,
       "streakStart": "2026-08-05",
       "streakEnd": "2026-08-16",
-      "currentStreak": 2,
+      "currentStreak": 3,
       "hasLeft": false,
       "joinStr": "26.03.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-03-26",
       "lastJoinKey": "2026-03-26",
       "last7": 57,
@@ -128,7 +128,7 @@
     },
     {
       "name": "~ Cyriel",
-      "posts": 938,
+      "posts": 939,
       "iaPosts": 2,
       "daysAgo": 0,
       "ppw": 44.4,
@@ -191,19 +191,19 @@
     },
     {
       "name": "Finn Opdenhovel",
-      "posts": 702,
+      "posts": 705,
       "iaPosts": 1,
-      "daysAgo": 7,
-      "ppw": 16,
+      "daysAgo": 0,
+      "ppw": 16.1,
       "memDays": 307,
       "streak": 7,
       "streakStart": "2026-05-28",
       "streakEnd": "2026-06-03",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "17.01.26",
-      "lastStr": "13.11.26",
-      "lastKey": "2026-11-13",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-01-17",
       "lastJoinKey": "2026-01-17",
       "last7": 21,
@@ -275,19 +275,19 @@
     },
     {
       "name": "~ Tobi Bartel",
-      "posts": 641,
+      "posts": 643,
       "iaPosts": 6,
-      "daysAgo": 7,
-      "ppw": 15,
+      "daysAgo": 0,
+      "ppw": 15.1,
       "memDays": 299,
       "streak": 12,
       "streakStart": "2026-10-15",
       "streakEnd": "2026-10-26",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "25.01.26",
-      "lastStr": "13.11.26",
-      "lastKey": "2026-11-13",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-01-25",
       "lastJoinKey": "2026-01-25",
       "last7": 6,
@@ -380,19 +380,19 @@
     },
     {
       "name": "~ Theo",
-      "posts": 569,
+      "posts": 570,
       "iaPosts": 24,
-      "daysAgo": 1,
+      "daysAgo": 0,
       "ppw": 13.6,
       "memDays": 293,
       "streak": 10,
       "streakStart": "2026-04-11",
       "streakEnd": "2026-04-20",
-      "currentStreak": 1,
+      "currentStreak": 2,
       "hasLeft": false,
       "joinStr": "31.01.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-01-31",
       "lastJoinKey": "2026-04-15",
       "last7": 9,
@@ -422,19 +422,19 @@
     },
     {
       "name": "~ Juli",
-      "posts": 562,
+      "posts": 565,
       "iaPosts": 2,
-      "daysAgo": 26,
-      "ppw": 14.3,
+      "daysAgo": 0,
+      "ppw": 14.4,
       "memDays": 275,
       "streak": 11,
       "streakStart": "2026-09-04",
       "streakEnd": "2026-09-14",
-      "currentStreak": 0,
-      "hasLeft": true,
+      "currentStreak": 1,
+      "hasLeft": false,
       "joinStr": "18.02.26",
-      "lastStr": "25.10.26",
-      "lastKey": "2026-10-25",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-02-18",
       "lastJoinKey": "2026-02-18",
       "last7": 0,
@@ -443,19 +443,19 @@
     },
     {
       "name": "Leo Girke",
-      "posts": 554,
+      "posts": 560,
       "iaPosts": 14,
-      "daysAgo": 2,
-      "ppw": 12,
+      "daysAgo": 0,
+      "ppw": 12.2,
       "memDays": 322,
       "streak": 7,
       "streakStart": "2026-03-16",
       "streakEnd": "2026-03-22",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "02.01.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-01-02",
       "lastJoinKey": "2026-01-02",
       "last7": 18,
@@ -527,19 +527,19 @@
     },
     {
       "name": "~ Poldi",
-      "posts": 498,
+      "posts": 501,
       "iaPosts": 7,
-      "daysAgo": 1,
-      "ppw": 15.2,
+      "daysAgo": 0,
+      "ppw": 15.3,
       "memDays": 229,
       "streak": 13,
       "streakStart": "2026-08-12",
       "streakEnd": "2026-08-24",
-      "currentStreak": 1,
+      "currentStreak": 2,
       "hasLeft": false,
       "joinStr": "05.04.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-04-05",
       "lastJoinKey": "2026-04-05",
       "last7": 15,
@@ -569,19 +569,19 @@
     },
     {
       "name": "~ Fabi F",
-      "posts": 492,
+      "posts": 493,
       "iaPosts": 9,
-      "daysAgo": 4,
-      "ppw": 11.6,
+      "daysAgo": 0,
+      "ppw": 11.7,
       "memDays": 296,
       "streak": 7,
       "streakStart": "2026-08-03",
       "streakEnd": "2026-08-09",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "28.01.26",
-      "lastStr": "16.11.26",
-      "lastKey": "2026-11-16",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-01-28",
       "lastJoinKey": "2026-01-28",
       "last7": 4,
@@ -611,19 +611,19 @@
     },
     {
       "name": "~ Nico",
-      "posts": 479,
+      "posts": 482,
       "iaPosts": 1,
-      "daysAgo": 9,
-      "ppw": 11.2,
+      "daysAgo": 0,
+      "ppw": 11.3,
       "memDays": 299,
       "streak": 9,
       "streakStart": "2026-07-14",
       "streakEnd": "2026-07-22",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "25.01.26",
-      "lastStr": "11.11.26",
-      "lastKey": "2026-11-11",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-01-25",
       "lastJoinKey": "2026-07-10",
       "last7": 7,
@@ -653,19 +653,19 @@
     },
     {
       "name": "~ Campino",
-      "posts": 458,
+      "posts": 459,
       "iaPosts": 2,
-      "daysAgo": 1,
-      "ppw": 18.2,
+      "daysAgo": 0,
+      "ppw": 18.3,
       "memDays": 176,
       "streak": 7,
       "streakStart": "2026-08-28",
       "streakEnd": "2026-09-03",
-      "currentStreak": 1,
+      "currentStreak": 2,
       "hasLeft": false,
       "joinStr": "28.05.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-05-28",
       "lastJoinKey": "2026-05-28",
       "last7": 1,
@@ -674,19 +674,19 @@
     },
     {
       "name": "~ Luis S",
-      "posts": 454,
+      "posts": 456,
       "iaPosts": 1,
-      "daysAgo": 5,
+      "daysAgo": 0,
       "ppw": 13.4,
       "memDays": 238,
       "streak": 12,
       "streakStart": "2026-07-22",
       "streakEnd": "2026-08-02",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "27.03.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-03-27",
       "lastJoinKey": "2026-03-27",
       "last7": 9,
@@ -736,46 +736,46 @@
       "rankPrev": 34
     },
     {
-      "name": "~ Luke🇩🇪🦅",
-      "posts": 414,
-      "iaPosts": 0,
-      "daysAgo": 2,
-      "ppw": 15.8,
-      "memDays": 184,
-      "streak": 9,
-      "streakStart": "2026-09-11",
-      "streakEnd": "2026-09-19",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "20.05.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
-      "joinKey": "2026-05-20",
-      "lastJoinKey": "2026-05-20",
-      "last7": 31,
-      "rankCurr": 39,
-      "rankPrev": 44
-    },
-    {
       "name": "~ Michael Dahmen",
-      "posts": 414,
+      "posts": 423,
       "iaPosts": 5,
-      "daysAgo": 6,
-      "ppw": 17.9,
+      "daysAgo": 0,
+      "ppw": 18.3,
       "memDays": 162,
       "streak": 11,
       "streakStart": "2026-08-21",
       "streakEnd": "2026-08-31",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "11.06.26",
-      "lastStr": "14.11.26",
-      "lastKey": "2026-11-14",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-06-11",
       "lastJoinKey": "2026-06-11",
       "last7": 25,
       "rankCurr": 36,
       "rankPrev": 39
+    },
+    {
+      "name": "~ Luke🇩🇪🦅",
+      "posts": 416,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 15.8,
+      "memDays": 184,
+      "streak": 9,
+      "streakStart": "2026-09-11",
+      "streakEnd": "2026-09-19",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "20.05.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-05-20",
+      "lastJoinKey": "2026-05-20",
+      "last7": 31,
+      "rankCurr": 39,
+      "rankPrev": 44
     },
     {
       "name": "~ Moritz",
@@ -841,6 +841,27 @@
       "rankPrev": 41
     },
     {
+      "name": "~ Philipp",
+      "posts": 397,
+      "iaPosts": 7,
+      "daysAgo": 0,
+      "ppw": 9.6,
+      "memDays": 289,
+      "streak": 27,
+      "streakStart": "2026-02-10",
+      "streakEnd": "2026-03-08",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "04.02.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-02-04",
+      "lastJoinKey": "2026-11-14",
+      "last7": 5,
+      "rankCurr": 41,
+      "rankPrev": 39
+    },
+    {
       "name": "~ Jakob Stadler",
       "posts": 397,
       "iaPosts": 4,
@@ -862,45 +883,24 @@
       "rankPrev": 42
     },
     {
-      "name": "~ Philipp",
-      "posts": 396,
-      "iaPosts": 7,
-      "daysAgo": 3,
-      "ppw": 9.6,
-      "memDays": 289,
-      "streak": 27,
-      "streakStart": "2026-02-10",
-      "streakEnd": "2026-03-08",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "04.02.26",
-      "lastStr": "17.11.26",
-      "lastKey": "2026-11-17",
-      "joinKey": "2026-02-04",
-      "lastJoinKey": "2026-11-14",
-      "last7": 5,
-      "rankCurr": 41,
-      "rankPrev": 39
-    },
-    {
       "name": "~ Ben",
       "posts": 395,
       "iaPosts": 5,
-      "daysAgo": 2,
+      "daysAgo": 0,
       "ppw": 9.9,
       "memDays": 279,
       "streak": 9,
       "streakStart": "2026-07-28",
       "streakEnd": "2026-08-05",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "14.02.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-02-14",
-      "lastJoinKey": "2026-11-14",
-      "last7": 16,
-      "rankCurr": 43,
+      "lastJoinKey": "2026-11-07",
+      "last7": 13,
+      "rankCurr": 44,
       "rankPrev": 43
     },
     {
@@ -926,19 +926,19 @@
     },
     {
       "name": "~ Leo",
-      "posts": 382,
+      "posts": 385,
       "iaPosts": 19,
-      "daysAgo": 5,
-      "ppw": 9.3,
+      "daysAgo": 0,
+      "ppw": 9.4,
       "memDays": 286,
       "streak": 7,
       "streakStart": "2026-08-11",
       "streakEnd": "2026-08-17",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "07.02.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-02-07",
       "lastJoinKey": "2026-11-11",
       "last7": 13,
@@ -947,19 +947,19 @@
     },
     {
       "name": "~ Dominik",
-      "posts": 376,
+      "posts": 378,
       "iaPosts": 23,
-      "daysAgo": 3,
-      "ppw": 8.7,
+      "daysAgo": 0,
+      "ppw": 8.8,
       "memDays": 301,
       "streak": 8,
       "streakStart": "2026-07-14",
       "streakEnd": "2026-07-21",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "23.01.26",
-      "lastStr": "17.11.26",
-      "lastKey": "2026-11-17",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-01-23",
       "lastJoinKey": "2026-05-09",
       "last7": 6,
@@ -968,19 +968,19 @@
     },
     {
       "name": "~ Felix E.",
-      "posts": 376,
+      "posts": 378,
       "iaPosts": 22,
-      "daysAgo": 1,
+      "daysAgo": 0,
       "ppw": 8.8,
       "memDays": 300,
       "streak": 5,
       "streakStart": "2026-04-23",
       "streakEnd": "2026-04-27",
-      "currentStreak": 1,
+      "currentStreak": 2,
       "hasLeft": false,
       "joinStr": "24.01.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-01-24",
       "lastJoinKey": "2026-01-24",
       "last7": 28,
@@ -989,19 +989,19 @@
     },
     {
       "name": "~ Obi®️",
-      "posts": 375,
+      "posts": 377,
       "iaPosts": 10,
-      "daysAgo": 1,
-      "ppw": 9.3,
+      "daysAgo": 0,
+      "ppw": 9.4,
       "memDays": 282,
       "streak": 8,
       "streakStart": "2026-06-22",
       "streakEnd": "2026-06-29",
-      "currentStreak": 1,
+      "currentStreak": 2,
       "hasLeft": false,
       "joinStr": "11.02.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-02-11",
       "lastJoinKey": "2026-02-11",
       "last7": 2,
@@ -1031,19 +1031,19 @@
     },
     {
       "name": "~ Marco",
-      "posts": 369,
+      "posts": 370,
       "iaPosts": 1,
-      "daysAgo": 3,
+      "daysAgo": 0,
       "ppw": 11,
       "memDays": 235,
       "streak": 7,
       "streakStart": "2026-09-23",
       "streakEnd": "2026-09-29",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "30.03.26",
-      "lastStr": "17.11.26",
-      "lastKey": "2026-11-17",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-03-30",
       "lastJoinKey": "2026-09-24",
       "last7": 10,
@@ -1073,19 +1073,19 @@
     },
     {
       "name": "~ Michell 🏍️",
-      "posts": 357,
+      "posts": 360,
       "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 30.1,
+      "daysAgo": 0,
+      "ppw": 30.4,
       "memDays": 83,
       "streak": 20,
       "streakStart": "2026-08-29",
       "streakEnd": "2026-09-17",
-      "currentStreak": 7,
+      "currentStreak": 8,
       "hasLeft": false,
       "joinStr": "29.08.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-08-29",
       "lastJoinKey": "2026-08-29",
       "last7": 8,
@@ -1220,19 +1220,19 @@
     },
     {
       "name": "Dohle",
-      "posts": 339,
+      "posts": 342,
       "iaPosts": 0,
-      "daysAgo": 8,
+      "daysAgo": 0,
       "ppw": 7.7,
       "memDays": 310,
       "streak": 6,
       "streakStart": "2026-02-12",
       "streakEnd": "2026-02-17",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "14.01.26",
-      "lastStr": "12.11.26",
-      "lastKey": "2026-11-12",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-01-14",
       "lastJoinKey": "2026-01-14",
       "last7": 7,
@@ -1262,7 +1262,7 @@
     },
     {
       "name": "Fabi Girke",
-      "posts": 320,
+      "posts": 321,
       "iaPosts": 2,
       "daysAgo": 0,
       "ppw": 7.1,
@@ -1283,19 +1283,19 @@
     },
     {
       "name": "~ Big.O💥",
-      "posts": 319,
+      "posts": 320,
       "iaPosts": 0,
-      "daysAgo": 2,
+      "daysAgo": 0,
       "ppw": 8.2,
       "memDays": 272,
       "streak": 9,
       "streakStart": "2026-04-18",
       "streakEnd": "2026-04-26",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "21.02.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-02-21",
       "lastJoinKey": "2026-02-21",
       "last7": 3,
@@ -1304,19 +1304,19 @@
     },
     {
       "name": "~ Laurens",
-      "posts": 312,
+      "posts": 314,
       "iaPosts": 0,
-      "daysAgo": 5,
-      "ppw": 14.8,
+      "daysAgo": 0,
+      "ppw": 14.9,
       "memDays": 148,
       "streak": 8,
       "streakStart": "2026-07-07",
       "streakEnd": "2026-07-14",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "25.06.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-06-25",
       "lastJoinKey": "2026-07-05",
       "last7": 2,
@@ -1325,19 +1325,19 @@
     },
     {
       "name": "~ Lutz G",
-      "posts": 309,
+      "posts": 310,
       "iaPosts": 8,
-      "daysAgo": 1,
-      "ppw": 8.2,
+      "daysAgo": 0,
+      "ppw": 8.3,
       "memDays": 263,
       "streak": 36,
       "streakStart": "2026-07-25",
       "streakEnd": "2026-08-29",
-      "currentStreak": 1,
+      "currentStreak": 2,
       "hasLeft": false,
       "joinStr": "02.03.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-03-02",
       "lastJoinKey": "2026-03-02",
       "last7": 9,
@@ -1346,19 +1346,19 @@
     },
     {
       "name": "~ Simon Leuthner",
-      "posts": 305,
+      "posts": 308,
       "iaPosts": 2,
-      "daysAgo": 3,
-      "ppw": 7.5,
+      "daysAgo": 0,
+      "ppw": 7.6,
       "memDays": 285,
       "streak": 7,
       "streakStart": "2026-09-09",
       "streakEnd": "2026-09-15",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "08.02.26",
-      "lastStr": "17.11.26",
-      "lastKey": "2026-11-17",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-02-08",
       "lastJoinKey": "2026-02-08",
       "last7": 2,
@@ -1388,19 +1388,19 @@
     },
     {
       "name": "~ Tim Traut",
-      "posts": 296,
+      "posts": 298,
       "iaPosts": 0,
-      "daysAgo": 5,
-      "ppw": 23.3,
+      "daysAgo": 0,
+      "ppw": 23.4,
       "memDays": 89,
       "streak": 13,
       "streakStart": "2026-09-03",
       "streakEnd": "2026-09-15",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "23.08.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-08-23",
       "lastJoinKey": "2026-08-23",
       "last7": 18,
@@ -1429,6 +1429,48 @@
       "rankPrev": 67
     },
     {
+      "name": "~ Janek",
+      "posts": 290,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 7.1,
+      "memDays": 286,
+      "streak": 7,
+      "streakStart": "2026-07-08",
+      "streakEnd": "2026-07-14",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "07.02.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-02-07",
+      "lastJoinKey": "2026-06-27",
+      "last7": 5,
+      "rankCurr": 71,
+      "rankPrev": 70
+    },
+    {
+      "name": "Tarek",
+      "posts": 288,
+      "iaPosts": 10,
+      "daysAgo": 0,
+      "ppw": 6.9,
+      "memDays": 294,
+      "streak": 7,
+      "streakStart": "2026-03-15",
+      "streakEnd": "2026-03-21",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "30.01.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-01-30",
+      "lastJoinKey": "2026-01-30",
+      "last7": 2,
+      "rankCurr": 73,
+      "rankPrev": 69
+    },
+    {
       "name": "~ Jonas S.",
       "posts": 288,
       "iaPosts": 0,
@@ -1450,41 +1492,20 @@
       "rankPrev": 73
     },
     {
-      "name": "~ Janek",
-      "posts": 287,
-      "iaPosts": 0,
-      "daysAgo": 0,
-      "ppw": 7,
-      "memDays": 286,
-      "streak": 7,
-      "streakStart": "2026-07-08",
-      "streakEnd": "2026-07-14",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "07.02.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-02-07",
-      "lastJoinKey": "2026-06-27",
-      "last7": 5,
-      "rankCurr": 71,
-      "rankPrev": 70
-    },
-    {
       "name": "~ Kai",
-      "posts": 286,
+      "posts": 287,
       "iaPosts": 4,
-      "daysAgo": 2,
+      "daysAgo": 0,
       "ppw": 8.4,
       "memDays": 239,
       "streak": 5,
       "streakStart": "2026-08-12",
       "streakEnd": "2026-08-16",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "26.03.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-03-26",
       "lastJoinKey": "2026-11-06",
       "last7": 17,
@@ -1513,32 +1534,11 @@
       "rankPrev": 67
     },
     {
-      "name": "Tarek",
-      "posts": 282,
-      "iaPosts": 10,
-      "daysAgo": 5,
-      "ppw": 6.7,
-      "memDays": 294,
-      "streak": 7,
-      "streakStart": "2026-03-15",
-      "streakEnd": "2026-03-21",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "30.01.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
-      "joinKey": "2026-01-30",
-      "lastJoinKey": "2026-01-30",
-      "last7": 2,
-      "rankCurr": 73,
-      "rankPrev": 69
-    },
-    {
       "name": "~ Patrick",
-      "posts": 277,
+      "posts": 283,
       "iaPosts": 2,
       "daysAgo": 0,
-      "ppw": 7.5,
+      "ppw": 7.7,
       "memDays": 258,
       "streak": 7,
       "streakStart": "2026-11-05",
@@ -1553,6 +1553,27 @@
       "last7": 17,
       "rankCurr": 81,
       "rankPrev": 84
+    },
+    {
+      "name": "~ Niklas K.",
+      "posts": 276,
+      "iaPosts": 3,
+      "daysAgo": 0,
+      "ppw": 19.9,
+      "memDays": 97,
+      "streak": 5,
+      "streakStart": "2026-09-23",
+      "streakEnd": "2026-09-27",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "15.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-15",
+      "lastJoinKey": "2026-08-15",
+      "last7": 8,
+      "rankCurr": 86,
+      "rankPrev": 85
     },
     {
       "name": "~ Levi.M71 RBN",
@@ -1618,6 +1639,48 @@
       "rankPrev": 76
     },
     {
+      "name": "~ Lara",
+      "posts": 270,
+      "iaPosts": 4,
+      "daysAgo": 0,
+      "ppw": 6.8,
+      "memDays": 279,
+      "streak": 8,
+      "streakStart": "2026-09-08",
+      "streakEnd": "2026-09-15",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "14.02.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-02-14",
+      "lastJoinKey": "2026-02-14",
+      "last7": 10,
+      "rankCurr": 78,
+      "rankPrev": 81
+    },
+    {
+      "name": "~ Dirk Grafschmidt",
+      "posts": 270,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 9,
+      "memDays": 210,
+      "streak": 20,
+      "streakStart": "2026-08-03",
+      "streakEnd": "2026-08-22",
+      "currentStreak": 3,
+      "hasLeft": false,
+      "joinStr": "24.04.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-04-24",
+      "lastJoinKey": "2026-04-24",
+      "last7": 7,
+      "rankCurr": 78,
+      "rankPrev": 79
+    },
+    {
       "name": "~ Brandon",
       "posts": 269,
       "iaPosts": 6,
@@ -1639,27 +1702,6 @@
       "rankPrev": 74
     },
     {
-      "name": "~ Dirk Grafschmidt",
-      "posts": 269,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 9,
-      "memDays": 210,
-      "streak": 20,
-      "streakStart": "2026-08-03",
-      "streakEnd": "2026-08-22",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "24.04.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-04-24",
-      "lastJoinKey": "2026-04-24",
-      "last7": 7,
-      "rankCurr": 78,
-      "rankPrev": 79
-    },
-    {
       "name": "~ Caspar",
       "posts": 269,
       "iaPosts": 0,
@@ -1679,48 +1721,6 @@
       "last7": 14,
       "rankCurr": 82,
       "rankPrev": 83
-    },
-    {
-      "name": "~ Niklas K.",
-      "posts": 269,
-      "iaPosts": 3,
-      "daysAgo": 0,
-      "ppw": 19.4,
-      "memDays": 97,
-      "streak": 5,
-      "streakStart": "2026-09-23",
-      "streakEnd": "2026-09-27",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "15.08.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-08-15",
-      "lastJoinKey": "2026-08-15",
-      "last7": 8,
-      "rankCurr": 86,
-      "rankPrev": 85
-    },
-    {
-      "name": "~ Lara",
-      "posts": 268,
-      "iaPosts": 4,
-      "daysAgo": 0,
-      "ppw": 6.7,
-      "memDays": 279,
-      "streak": 8,
-      "streakStart": "2026-09-08",
-      "streakEnd": "2026-09-15",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "14.02.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-02-14",
-      "lastJoinKey": "2026-02-14",
-      "last7": 10,
-      "rankCurr": 78,
-      "rankPrev": 81
     },
     {
       "name": "~ leander",
@@ -1745,24 +1745,45 @@
     },
     {
       "name": "~ Max🦕",
-      "posts": 264,
+      "posts": 266,
       "iaPosts": 15,
-      "daysAgo": 2,
+      "daysAgo": 0,
       "ppw": 8.3,
       "memDays": 223,
       "streak": 9,
       "streakStart": "2026-06-21",
       "streakEnd": "2026-06-29",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "11.04.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-04-11",
       "lastJoinKey": "2026-04-11",
       "last7": 5,
       "rankCurr": 83,
       "rankPrev": 80
+    },
+    {
+      "name": "~ Dion",
+      "posts": 261,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 20.3,
+      "memDays": 90,
+      "streak": 6,
+      "streakStart": "2026-10-27",
+      "streakEnd": "2026-11-01",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "22.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-22",
+      "lastJoinKey": "2026-08-22",
+      "last7": 11,
+      "rankCurr": 115,
+      "rankPrev": 118
     },
     {
       "name": "~ Luca Klenner",
@@ -1807,41 +1828,20 @@
       "rankPrev": 92
     },
     {
-      "name": "~ Dion",
-      "posts": 253,
+      "name": "~ Rob",
+      "posts": 245,
       "iaPosts": 0,
       "daysAgo": 0,
-      "ppw": 19.7,
-      "memDays": 90,
-      "streak": 6,
-      "streakStart": "2026-10-27",
-      "streakEnd": "2026-11-01",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "22.08.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-08-22",
-      "lastJoinKey": "2026-08-22",
-      "last7": 11,
-      "rankCurr": 115,
-      "rankPrev": 118
-    },
-    {
-      "name": "~ Rob",
-      "posts": 244,
-      "iaPosts": 0,
-      "daysAgo": 4,
       "ppw": 14.9,
       "memDays": 115,
       "streak": 15,
       "streakStart": "2026-08-04",
       "streakEnd": "2026-08-18",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "28.07.26",
-      "lastStr": "16.11.26",
-      "lastKey": "2026-11-16",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-07-28",
       "lastJoinKey": "2026-07-28",
       "last7": 8,
@@ -1870,6 +1870,27 @@
       "rankPrev": 87
     },
     {
+      "name": "~ Julius K",
+      "posts": 239,
+      "iaPosts": 2,
+      "daysAgo": 0,
+      "ppw": 5.7,
+      "memDays": 295,
+      "streak": 9,
+      "streakStart": "2026-11-05",
+      "streakEnd": "2026-11-13",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "29.01.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-01-29",
+      "lastJoinKey": "2026-01-29",
+      "last7": 19,
+      "rankCurr": 91,
+      "rankPrev": 105
+    },
+    {
       "name": "~ Jonas M K.",
       "posts": 239,
       "iaPosts": 5,
@@ -1889,27 +1910,6 @@
       "last7": 6,
       "rankCurr": 89,
       "rankPrev": 89
-    },
-    {
-      "name": "~ Julius K",
-      "posts": 238,
-      "iaPosts": 2,
-      "daysAgo": 2,
-      "ppw": 5.6,
-      "memDays": 295,
-      "streak": 9,
-      "streakStart": "2026-11-05",
-      "streakEnd": "2026-11-13",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "29.01.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
-      "joinKey": "2026-01-29",
-      "lastJoinKey": "2026-01-29",
-      "last7": 19,
-      "rankCurr": 91,
-      "rankPrev": 105
     },
     {
       "name": "~ Benjamin Grafschmidt",
@@ -1954,6 +1954,27 @@
       "rankPrev": 88
     },
     {
+      "name": "~ Tim",
+      "posts": 236,
+      "iaPosts": 6,
+      "daysAgo": 0,
+      "ppw": 5.9,
+      "memDays": 282,
+      "streak": 6,
+      "streakStart": "2026-08-12",
+      "streakEnd": "2026-08-17",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "11.02.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-02-11",
+      "lastJoinKey": "2026-10-23",
+      "last7": 3,
+      "rankCurr": 94,
+      "rankPrev": 91
+    },
+    {
       "name": "~ Max",
       "posts": 235,
       "iaPosts": 1,
@@ -1994,27 +2015,6 @@
       "last7": 3,
       "rankCurr": 98,
       "rankPrev": 92
-    },
-    {
-      "name": "~ Tim",
-      "posts": 233,
-      "iaPosts": 5,
-      "daysAgo": 6,
-      "ppw": 5.8,
-      "memDays": 282,
-      "streak": 6,
-      "streakStart": "2026-08-12",
-      "streakEnd": "2026-08-17",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "11.02.26",
-      "lastStr": "14.11.26",
-      "lastKey": "2026-11-14",
-      "joinKey": "2026-02-11",
-      "lastJoinKey": "2026-10-23",
-      "last7": 3,
-      "rankCurr": 94,
-      "rankPrev": 91
     },
     {
       "name": "~ Bruno",
@@ -2080,41 +2080,20 @@
       "rankPrev": 113
     },
     {
-      "name": "~ Marcel",
-      "posts": 231,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 7.1,
-      "memDays": 229,
-      "streak": 24,
-      "streakStart": "2026-07-30",
-      "streakEnd": "2026-08-22",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "05.04.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-04-05",
-      "lastJoinKey": "2026-10-10",
-      "last7": 7,
-      "rankCurr": 100,
-      "rankPrev": 100
-    },
-    {
       "name": "~ Julian",
-      "posts": 230,
+      "posts": 232,
       "iaPosts": 9,
-      "daysAgo": 3,
-      "ppw": 5.7,
+      "daysAgo": 0,
+      "ppw": 5.8,
       "memDays": 282,
       "streak": 6,
       "streakStart": "2026-10-17",
       "streakEnd": "2026-10-22",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "11.02.26",
-      "lastStr": "17.11.26",
-      "lastKey": "2026-11-17",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-02-11",
       "lastJoinKey": "2026-11-17",
       "last7": 16,
@@ -2123,24 +2102,66 @@
     },
     {
       "name": "~ Thomas",
-      "posts": 230,
+      "posts": 232,
       "iaPosts": 1,
-      "daysAgo": 5,
+      "daysAgo": 0,
       "ppw": 5.9,
       "memDays": 273,
       "streak": 3,
       "streakStart": "2026-02-20",
       "streakEnd": "2026-02-22",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "20.02.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-02-20",
       "lastJoinKey": "2026-07-17",
       "last7": 3,
       "rankCurr": 99,
       "rankPrev": 97
+    },
+    {
+      "name": "~ Marcel",
+      "posts": 232,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 7.1,
+      "memDays": 229,
+      "streak": 24,
+      "streakStart": "2026-07-30",
+      "streakEnd": "2026-08-22",
+      "currentStreak": 3,
+      "hasLeft": false,
+      "joinStr": "05.04.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-04-05",
+      "lastJoinKey": "2026-10-10",
+      "last7": 7,
+      "rankCurr": 100,
+      "rankPrev": 100
+    },
+    {
+      "name": "~ Elias L",
+      "posts": 231,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 19,
+      "memDays": 85,
+      "streak": 11,
+      "streakStart": "2026-09-03",
+      "streakEnd": "2026-09-13",
+      "currentStreak": 9,
+      "hasLeft": false,
+      "joinStr": "27.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-27",
+      "lastJoinKey": "2026-08-27",
+      "last7": 18,
+      "rankCurr": 128,
+      "rankPrev": 137
     },
     {
       "name": "~ Kian",
@@ -2164,6 +2185,27 @@
       "rankPrev": 103
     },
     {
+      "name": "AFB",
+      "posts": 229,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 5.7,
+      "memDays": 279,
+      "streak": 5,
+      "streakStart": "2026-06-18",
+      "streakEnd": "2026-06-22",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "14.02.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-02-14",
+      "lastJoinKey": "2026-02-14",
+      "last7": 17,
+      "rankCurr": 104,
+      "rankPrev": 115
+    },
+    {
       "name": "~ Lukas B.",
       "posts": 229,
       "iaPosts": 16,
@@ -2183,27 +2225,6 @@
       "last7": 0,
       "rankCurr": 100,
       "rankPrev": 92
-    },
-    {
-      "name": "~ Elias L",
-      "posts": 226,
-      "iaPosts": 0,
-      "daysAgo": 0,
-      "ppw": 18.6,
-      "memDays": 85,
-      "streak": 11,
-      "streakStart": "2026-09-03",
-      "streakEnd": "2026-09-13",
-      "currentStreak": 9,
-      "hasLeft": false,
-      "joinStr": "27.08.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-08-27",
-      "lastJoinKey": "2026-08-27",
-      "last7": 18,
-      "rankCurr": 128,
-      "rankPrev": 137
     },
     {
       "name": "~ JK",
@@ -2246,27 +2267,6 @@
       "last7": 0,
       "rankCurr": 104,
       "rankPrev": 99
-    },
-    {
-      "name": "AFB",
-      "posts": 224,
-      "iaPosts": 0,
-      "daysAgo": 9,
-      "ppw": 5.6,
-      "memDays": 279,
-      "streak": 5,
-      "streakStart": "2026-06-18",
-      "streakEnd": "2026-06-22",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "14.02.26",
-      "lastStr": "11.11.26",
-      "lastKey": "2026-11-11",
-      "joinKey": "2026-02-14",
-      "lastJoinKey": "2026-02-14",
-      "last7": 17,
-      "rankCurr": 104,
-      "rankPrev": 115
     },
     {
       "name": "~ Leon Krause",
@@ -2354,19 +2354,19 @@
     },
     {
       "name": "~ Jonas",
-      "posts": 220,
+      "posts": 221,
       "iaPosts": 2,
-      "daysAgo": 6,
-      "ppw": 5.9,
+      "daysAgo": 0,
+      "ppw": 6,
       "memDays": 259,
       "streak": 8,
       "streakStart": "2026-05-27",
       "streakEnd": "2026-06-03",
-      "currentStreak": 0,
-      "hasLeft": true,
+      "currentStreak": 1,
+      "hasLeft": false,
       "joinStr": "06.03.26",
-      "lastStr": "14.11.26",
-      "lastKey": "2026-11-14",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-03-06",
       "lastJoinKey": "2026-10-16",
       "last7": 3,
@@ -2375,19 +2375,19 @@
     },
     {
       "name": "~ Maxi",
-      "posts": 219,
+      "posts": 221,
       "iaPosts": 14,
-      "daysAgo": 6,
+      "daysAgo": 0,
       "ppw": 6.3,
       "memDays": 245,
       "streak": 4,
       "streakStart": "2026-04-15",
       "streakEnd": "2026-04-18",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "20.03.26",
-      "lastStr": "14.11.26",
-      "lastKey": "2026-11-14",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-03-20",
       "lastJoinKey": "2026-11-07",
       "last7": 15,
@@ -2416,6 +2416,27 @@
       "rankPrev": 105
     },
     {
+      "name": "~ Schmelle Melle🤘🏻",
+      "posts": 217,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 7.2,
+      "memDays": 210,
+      "streak": 11,
+      "streakStart": "2026-10-14",
+      "streakEnd": "2026-10-24",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "24.04.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-04-24",
+      "lastJoinKey": "2026-04-24",
+      "last7": 7,
+      "rankCurr": 120,
+      "rankPrev": 119
+    },
+    {
       "name": "~ Donski",
       "posts": 217,
       "iaPosts": 2,
@@ -2435,6 +2456,27 @@
       "last7": 0,
       "rankCurr": 114,
       "rankPrev": 109
+    },
+    {
+      "name": "~ Chris S.",
+      "posts": 214,
+      "iaPosts": 1,
+      "daysAgo": 0,
+      "ppw": 6.4,
+      "memDays": 234,
+      "streak": 6,
+      "streakStart": "2026-03-31",
+      "streakEnd": "2026-04-05",
+      "currentStreak": 3,
+      "hasLeft": false,
+      "joinStr": "31.03.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-03-31",
+      "lastJoinKey": "2026-03-31",
+      "last7": 7,
+      "rankCurr": 121,
+      "rankPrev": 120
     },
     {
       "name": "~ Lukas",
@@ -2498,48 +2540,6 @@
       "last7": 23,
       "rankCurr": 117,
       "rankPrev": 123
-    },
-    {
-      "name": "~ Chris S.",
-      "posts": 212,
-      "iaPosts": 1,
-      "daysAgo": 1,
-      "ppw": 6.3,
-      "memDays": 234,
-      "streak": 6,
-      "streakStart": "2026-03-31",
-      "streakEnd": "2026-04-05",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "31.03.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-03-31",
-      "lastJoinKey": "2026-03-31",
-      "last7": 7,
-      "rankCurr": 121,
-      "rankPrev": 120
-    },
-    {
-      "name": "~ Schmelle Melle🤘🏻",
-      "posts": 209,
-      "iaPosts": 0,
-      "daysAgo": 3,
-      "ppw": 7,
-      "memDays": 210,
-      "streak": 11,
-      "streakStart": "2026-10-14",
-      "streakEnd": "2026-10-24",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "24.04.26",
-      "lastStr": "17.11.26",
-      "lastKey": "2026-11-17",
-      "joinKey": "2026-04-24",
-      "lastJoinKey": "2026-04-24",
-      "last7": 7,
-      "rankCurr": 120,
-      "rankPrev": 119
     },
     {
       "name": "~ Luggi",
@@ -2731,6 +2731,27 @@
       "rankPrev": 125
     },
     {
+      "name": "~ Vinzenz Stadler",
+      "posts": 187,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 14.4,
+      "memDays": 91,
+      "streak": 11,
+      "streakStart": "2026-09-03",
+      "streakEnd": "2026-09-13",
+      "currentStreak": 3,
+      "hasLeft": false,
+      "joinStr": "21.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-21",
+      "lastJoinKey": "2026-08-21",
+      "last7": 6,
+      "rankCurr": 142,
+      "rankPrev": 138
+    },
+    {
       "name": "~ nicolas",
       "posts": 186,
       "iaPosts": 5,
@@ -2794,25 +2815,25 @@
       "rankPrev": 128
     },
     {
-      "name": "~ Vinzenz Stadler",
+      "name": "~ Carsten",
       "posts": 184,
       "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 14.2,
-      "memDays": 91,
-      "streak": 11,
-      "streakStart": "2026-09-03",
-      "streakEnd": "2026-09-13",
+      "daysAgo": 0,
+      "ppw": 8.4,
+      "memDays": 153,
+      "streak": 5,
+      "streakStart": "2026-06-24",
+      "streakEnd": "2026-06-28",
       "currentStreak": 2,
       "hasLeft": false,
-      "joinStr": "21.08.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-08-21",
-      "lastJoinKey": "2026-08-21",
-      "last7": 6,
-      "rankCurr": 142,
-      "rankPrev": 138
+      "joinStr": "20.06.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-06-20",
+      "lastJoinKey": "2026-06-20",
+      "last7": 0,
+      "rankCurr": 137,
+      "rankPrev": 130
     },
     {
       "name": "~ Fabian",
@@ -2834,27 +2855,6 @@
       "last7": 2,
       "rankCurr": 134,
       "rankPrev": 129
-    },
-    {
-      "name": "~ Carsten",
-      "posts": 183,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 8.4,
-      "memDays": 153,
-      "streak": 5,
-      "streakStart": "2026-06-24",
-      "streakEnd": "2026-06-28",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "20.06.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-06-20",
-      "lastJoinKey": "2026-06-20",
-      "last7": 0,
-      "rankCurr": 137,
-      "rankPrev": 130
     },
     {
       "name": "~ Paul K.",
@@ -2899,6 +2899,27 @@
       "rankPrev": 136
     },
     {
+      "name": "~ Michi Wallner",
+      "posts": 180,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 5,
+      "memDays": 250,
+      "streak": 6,
+      "streakStart": "2026-07-14",
+      "streakEnd": "2026-07-19",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "15.03.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-03-15",
+      "lastJoinKey": "2026-03-15",
+      "last7": 4,
+      "rankCurr": 138,
+      "rankPrev": 133
+    },
+    {
       "name": "~ Jonas G",
       "posts": 180,
       "iaPosts": 2,
@@ -2918,27 +2939,6 @@
       "last7": 12,
       "rankCurr": 136,
       "rankPrev": 140
-    },
-    {
-      "name": "~ Michi Wallner",
-      "posts": 178,
-      "iaPosts": 0,
-      "daysAgo": 7,
-      "ppw": 5,
-      "memDays": 250,
-      "streak": 6,
-      "streakStart": "2026-07-14",
-      "streakEnd": "2026-07-19",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "15.03.26",
-      "lastStr": "13.11.26",
-      "lastKey": "2026-11-13",
-      "joinKey": "2026-03-15",
-      "lastJoinKey": "2026-03-15",
-      "last7": 4,
-      "rankCurr": 138,
-      "rankPrev": 133
     },
     {
       "name": "~ Guilherme Costa Matos",
@@ -3004,6 +3004,27 @@
       "rankPrev": 145
     },
     {
+      "name": "~ zoë",
+      "posts": 175,
+      "iaPosts": 6,
+      "daysAgo": 0,
+      "ppw": 5.8,
+      "memDays": 210,
+      "streak": 6,
+      "streakStart": "2026-09-16",
+      "streakEnd": "2026-09-21",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "24.04.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-04-24",
+      "lastJoinKey": "2026-04-24",
+      "last7": 8,
+      "rankCurr": 143,
+      "rankPrev": 141
+    },
+    {
       "name": "~ Lionardo🦁",
       "posts": 175,
       "iaPosts": 1,
@@ -3023,27 +3044,6 @@
       "last7": 14,
       "rankCurr": 144,
       "rankPrev": 148
-    },
-    {
-      "name": "~ zoë",
-      "posts": 174,
-      "iaPosts": 6,
-      "daysAgo": 5,
-      "ppw": 5.8,
-      "memDays": 210,
-      "streak": 6,
-      "streakStart": "2026-09-16",
-      "streakEnd": "2026-09-21",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "24.04.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
-      "joinKey": "2026-04-24",
-      "lastJoinKey": "2026-04-24",
-      "last7": 8,
-      "rankCurr": 143,
-      "rankPrev": 141
     },
     {
       "name": "~ Quentin Philip",
@@ -3088,6 +3088,48 @@
       "rankPrev": 155
     },
     {
+      "name": "~ Joshi Schneider",
+      "posts": 171,
+      "iaPosts": 1,
+      "daysAgo": 0,
+      "ppw": 10.2,
+      "memDays": 117,
+      "streak": 8,
+      "streakStart": "2026-09-23",
+      "streakEnd": "2026-09-30",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "26.07.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-07-26",
+      "lastJoinKey": "2026-07-26",
+      "last7": 8,
+      "rankCurr": 146,
+      "rankPrev": 147
+    },
+    {
+      "name": "Felix Pleyer",
+      "posts": 169,
+      "iaPosts": 4,
+      "daysAgo": 0,
+      "ppw": 3.9,
+      "memDays": 300,
+      "streak": 3,
+      "streakStart": "2026-01-30",
+      "streakEnd": "2026-02-01",
+      "currentStreak": 3,
+      "hasLeft": false,
+      "joinStr": "24.01.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-01-24",
+      "lastJoinKey": "2026-01-24",
+      "last7": 1,
+      "rankCurr": 150,
+      "rankPrev": 144
+    },
+    {
       "name": "~ Jill",
       "posts": 169,
       "iaPosts": 2,
@@ -3107,48 +3149,6 @@
       "last7": 17,
       "rankCurr": 149,
       "rankPrev": 156
-    },
-    {
-      "name": "~ Joshi Schneider",
-      "posts": 169,
-      "iaPosts": 1,
-      "daysAgo": 5,
-      "ppw": 10.1,
-      "memDays": 117,
-      "streak": 8,
-      "streakStart": "2026-09-23",
-      "streakEnd": "2026-09-30",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "26.07.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
-      "joinKey": "2026-07-26",
-      "lastJoinKey": "2026-07-26",
-      "last7": 8,
-      "rankCurr": 146,
-      "rankPrev": 147
-    },
-    {
-      "name": "Felix Pleyer",
-      "posts": 168,
-      "iaPosts": 4,
-      "daysAgo": 1,
-      "ppw": 3.9,
-      "memDays": 300,
-      "streak": 3,
-      "streakStart": "2026-01-30",
-      "streakEnd": "2026-02-01",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "24.01.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-01-24",
-      "lastJoinKey": "2026-01-24",
-      "last7": 1,
-      "rankCurr": 150,
-      "rankPrev": 144
     },
     {
       "name": "~ Gogi",
@@ -3194,19 +3194,19 @@
     },
     {
       "name": "~ Yosh",
-      "posts": 165,
+      "posts": 166,
       "iaPosts": 2,
-      "daysAgo": 2,
-      "ppw": 10.5,
+      "daysAgo": 0,
+      "ppw": 10.6,
       "memDays": 110,
       "streak": 6,
       "streakStart": "2026-10-14",
       "streakEnd": "2026-10-19",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "02.08.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-08-02",
       "lastJoinKey": "2026-08-02",
       "last7": 13,
@@ -3278,19 +3278,19 @@
     },
     {
       "name": "~ Robin",
-      "posts": 161,
+      "posts": 162,
       "iaPosts": 0,
-      "daysAgo": 7,
-      "ppw": 3.9,
+      "daysAgo": 0,
+      "ppw": 4,
       "memDays": 287,
       "streak": 6,
       "streakStart": "2026-02-11",
       "streakEnd": "2026-02-16",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "06.02.26",
-      "lastStr": "13.11.26",
-      "lastKey": "2026-11-13",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-02-06",
       "lastJoinKey": "2026-07-30",
       "last7": 2,
@@ -3299,19 +3299,19 @@
     },
     {
       "name": "~ Jérôme",
-      "posts": 159,
+      "posts": 160,
       "iaPosts": 0,
-      "daysAgo": 6,
+      "daysAgo": 0,
       "ppw": 5.6,
       "memDays": 199,
       "streak": 3,
       "streakStart": "2026-07-23",
       "streakEnd": "2026-07-25",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "05.05.26",
-      "lastStr": "14.11.26",
-      "lastKey": "2026-11-14",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-05-05",
       "lastJoinKey": "2026-07-05",
       "last7": 2,
@@ -3424,6 +3424,27 @@
       "rankPrev": 164
     },
     {
+      "name": "~ Justus K",
+      "posts": 145,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 5.5,
+      "memDays": 186,
+      "streak": 8,
+      "streakStart": "2026-08-11",
+      "streakEnd": "2026-08-18",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "18.05.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-05-18",
+      "lastJoinKey": "2026-05-18",
+      "last7": 1,
+      "rankCurr": 165,
+      "rankPrev": 164
+    },
+    {
       "name": "~ Birdie✨",
       "posts": 144,
       "iaPosts": 0,
@@ -3443,6 +3464,27 @@
       "last7": 1,
       "rankCurr": 164,
       "rankPrev": 162
+    },
+    {
+      "name": "~ Rik Van de Moortel",
+      "posts": 144,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 4.1,
+      "memDays": 243,
+      "streak": 4,
+      "streakStart": "2026-04-02",
+      "streakEnd": "2026-04-05",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "22.03.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-03-22",
+      "lastJoinKey": "2026-03-22",
+      "last7": 2,
+      "rankCurr": 167,
+      "rankPrev": 168
     },
     {
       "name": "~ tom",
@@ -3466,48 +3508,6 @@
       "rankPrev": 164
     },
     {
-      "name": "~ Justus K",
-      "posts": 144,
-      "iaPosts": 0,
-      "daysAgo": 4,
-      "ppw": 5.4,
-      "memDays": 186,
-      "streak": 8,
-      "streakStart": "2026-08-11",
-      "streakEnd": "2026-08-18",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "18.05.26",
-      "lastStr": "16.11.26",
-      "lastKey": "2026-11-16",
-      "joinKey": "2026-05-18",
-      "lastJoinKey": "2026-05-18",
-      "last7": 1,
-      "rankCurr": 165,
-      "rankPrev": 164
-    },
-    {
-      "name": "~ Rik Van de Moortel",
-      "posts": 142,
-      "iaPosts": 0,
-      "daysAgo": 4,
-      "ppw": 4.1,
-      "memDays": 243,
-      "streak": 4,
-      "streakStart": "2026-04-02",
-      "streakEnd": "2026-04-05",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "22.03.26",
-      "lastStr": "16.11.26",
-      "lastKey": "2026-11-16",
-      "joinKey": "2026-03-22",
-      "lastJoinKey": "2026-03-22",
-      "last7": 2,
-      "rankCurr": 167,
-      "rankPrev": 168
-    },
-    {
       "name": "~ Philip",
       "posts": 141,
       "iaPosts": 2,
@@ -3527,6 +3527,27 @@
       "last7": 1,
       "rankCurr": 168,
       "rankPrev": 168
+    },
+    {
+      "name": "~ Hodenkobold",
+      "posts": 141,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 7.2,
+      "memDays": 137,
+      "streak": 12,
+      "streakStart": "2026-07-16",
+      "streakEnd": "2026-07-27",
+      "currentStreak": 3,
+      "hasLeft": false,
+      "joinStr": "06.07.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-07-06",
+      "lastJoinKey": "2026-07-06",
+      "last7": 6,
+      "rankCurr": 177,
+      "rankPrev": 183
     },
     {
       "name": "~ Francisco Nobre",
@@ -3569,27 +3590,6 @@
       "last7": 4,
       "rankCurr": 170,
       "rankPrev": 171
-    },
-    {
-      "name": "~ Hodenkobold",
-      "posts": 138,
-      "iaPosts": 0,
-      "daysAgo": 0,
-      "ppw": 7.1,
-      "memDays": 137,
-      "streak": 12,
-      "streakStart": "2026-07-16",
-      "streakEnd": "2026-07-27",
-      "currentStreak": 3,
-      "hasLeft": false,
-      "joinStr": "06.07.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-07-06",
-      "lastJoinKey": "2026-07-06",
-      "last7": 6,
-      "rankCurr": 177,
-      "rankPrev": 183
     },
     {
       "name": "~ hanna",
@@ -3653,6 +3653,27 @@
       "last7": 12,
       "rankCurr": 172,
       "rankPrev": 185
+    },
+    {
+      "name": "~ Consti",
+      "posts": 136,
+      "iaPosts": 3,
+      "daysAgo": 0,
+      "ppw": 4,
+      "memDays": 238,
+      "streak": 3,
+      "streakStart": "2026-05-22",
+      "streakEnd": "2026-05-24",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "27.03.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-03-27",
+      "lastJoinKey": "2026-04-09",
+      "last7": 2,
+      "rankCurr": 182,
+      "rankPrev": 179
     },
     {
       "name": "~ Daniel",
@@ -3739,41 +3760,20 @@
       "rankPrev": 193
     },
     {
-      "name": "~ Consti",
-      "posts": 134,
-      "iaPosts": 3,
-      "daysAgo": 0,
-      "ppw": 3.9,
-      "memDays": 238,
-      "streak": 3,
-      "streakStart": "2026-05-22",
-      "streakEnd": "2026-05-24",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "27.03.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-03-27",
-      "lastJoinKey": "2026-04-09",
-      "last7": 2,
-      "rankCurr": 182,
-      "rankPrev": 179
-    },
-    {
       "name": "~ Franz",
-      "posts": 132,
+      "posts": 133,
       "iaPosts": 0,
-      "daysAgo": 42,
+      "daysAgo": 0,
       "ppw": 3.3,
       "memDays": 282,
       "streak": 6,
       "streakStart": "2026-02-11",
       "streakEnd": "2026-02-16",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "11.02.26",
-      "lastStr": "09.10.26",
-      "lastKey": "2026-10-09",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-02-11",
       "lastJoinKey": "2026-05-07",
       "last7": 0,
@@ -3887,24 +3887,45 @@
     },
     {
       "name": "~ Milan",
-      "posts": 128,
+      "posts": 129,
       "iaPosts": 16,
-      "daysAgo": 6,
-      "ppw": 4,
+      "daysAgo": 0,
+      "ppw": 4.1,
       "memDays": 222,
       "streak": 3,
       "streakStart": "2026-09-04",
       "streakEnd": "2026-09-06",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "12.04.26",
-      "lastStr": "14.11.26",
-      "lastKey": "2026-11-14",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-04-12",
       "lastJoinKey": "2026-04-12",
       "last7": 1,
       "rankCurr": 185,
       "rankPrev": 181
+    },
+    {
+      "name": "~ Simi",
+      "posts": 128,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 3.6,
+      "memDays": 252,
+      "streak": 3,
+      "streakStart": "2026-03-19",
+      "streakEnd": "2026-03-21",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "13.03.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-03-13",
+      "lastJoinKey": "2026-04-11",
+      "last7": 0,
+      "rankCurr": 193,
+      "rankPrev": 189
     },
     {
       "name": "~ Lukas Wehrle",
@@ -3991,25 +4012,25 @@
       "rankPrev": 184
     },
     {
-      "name": "~ Simi",
+      "name": "~ Leo L",
       "posts": 125,
       "iaPosts": 0,
-      "daysAgo": 1,
+      "daysAgo": 0,
       "ppw": 3.5,
       "memDays": 252,
-      "streak": 3,
-      "streakStart": "2026-03-19",
-      "streakEnd": "2026-03-21",
-      "currentStreak": 1,
+      "streak": 7,
+      "streakStart": "2026-07-07",
+      "streakEnd": "2026-07-13",
+      "currentStreak": 2,
       "hasLeft": false,
       "joinStr": "13.03.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-03-13",
-      "lastJoinKey": "2026-04-11",
-      "last7": 0,
-      "rankCurr": 193,
-      "rankPrev": 189
+      "lastJoinKey": "2026-03-13",
+      "last7": 4,
+      "rankCurr": 191,
+      "rankPrev": 195
     },
     {
       "name": "~ luis",
@@ -4033,41 +4054,20 @@
       "rankPrev": 192
     },
     {
-      "name": "~ Leo L",
-      "posts": 124,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 3.4,
-      "memDays": 252,
-      "streak": 7,
-      "streakStart": "2026-07-07",
-      "streakEnd": "2026-07-13",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "13.03.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-03-13",
-      "lastJoinKey": "2026-03-13",
-      "last7": 4,
-      "rankCurr": 191,
-      "rankPrev": 195
-    },
-    {
       "name": "~ Max Ulrich",
-      "posts": 124,
+      "posts": 125,
       "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 4.6,
+      "daysAgo": 0,
+      "ppw": 4.7,
       "memDays": 188,
       "streak": 5,
       "streakStart": "2026-08-22",
       "streakEnd": "2026-08-26",
-      "currentStreak": 4,
+      "currentStreak": 5,
       "hasLeft": false,
       "joinStr": "16.05.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-05-16",
       "lastJoinKey": "2026-05-16",
       "last7": 2,
@@ -4096,6 +4096,48 @@
       "rankPrev": 185
     },
     {
+      "name": "~ jonasvcw",
+      "posts": 123,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 13.9,
+      "memDays": 62,
+      "streak": 3,
+      "streakStart": "2026-09-25",
+      "streakEnd": "2026-09-27",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "19.09.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-09-19",
+      "lastJoinKey": "2026-09-19",
+      "last7": 2,
+      "rankCurr": 208,
+      "rankPrev": 201
+    },
+    {
+      "name": "~ Luca",
+      "posts": 122,
+      "iaPosts": 1,
+      "daysAgo": 0,
+      "ppw": 2.9,
+      "memDays": 293,
+      "streak": 5,
+      "streakStart": "2026-08-12",
+      "streakEnd": "2026-08-16",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "31.01.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-01-31",
+      "lastJoinKey": "2026-10-02",
+      "last7": 0,
+      "rankCurr": 193,
+      "rankPrev": 189
+    },
+    {
       "name": "~ Alex",
       "posts": 122,
       "iaPosts": 1,
@@ -4117,25 +4159,25 @@
       "rankPrev": 212
     },
     {
-      "name": "~ Luca",
+      "name": "~ Mats P",
       "posts": 121,
-      "iaPosts": 1,
-      "daysAgo": 25,
-      "ppw": 2.9,
-      "memDays": 293,
-      "streak": 5,
-      "streakStart": "2026-08-12",
-      "streakEnd": "2026-08-16",
-      "currentStreak": 0,
-      "hasLeft": true,
-      "joinStr": "31.01.26",
-      "lastStr": "26.10.26",
-      "lastKey": "2026-10-26",
-      "joinKey": "2026-01-31",
-      "lastJoinKey": "2026-10-02",
-      "last7": 0,
-      "rankCurr": 193,
-      "rankPrev": 189
+      "iaPosts": 2,
+      "daysAgo": 0,
+      "ppw": 3,
+      "memDays": 281,
+      "streak": 4,
+      "streakStart": "2026-10-23",
+      "streakEnd": "2026-10-26",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "12.02.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-02-12",
+      "lastJoinKey": "2026-02-12",
+      "last7": 5,
+      "rankCurr": 197,
+      "rankPrev": 199
     },
     {
       "name": "~ Moritz Kannengießer",
@@ -4201,25 +4243,46 @@
       "rankPrev": 212
     },
     {
-      "name": "~ Mats P",
-      "posts": 120,
-      "iaPosts": 2,
-      "daysAgo": 9,
-      "ppw": 3,
-      "memDays": 281,
-      "streak": 4,
-      "streakStart": "2026-10-23",
-      "streakEnd": "2026-10-26",
-      "currentStreak": 0,
+      "name": "~ Matz",
+      "posts": 121,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 9.6,
+      "memDays": 88,
+      "streak": 7,
+      "streakStart": "2026-10-22",
+      "streakEnd": "2026-10-28",
+      "currentStreak": 1,
       "hasLeft": false,
-      "joinStr": "12.02.26",
-      "lastStr": "11.11.26",
-      "lastKey": "2026-11-11",
-      "joinKey": "2026-02-12",
-      "lastJoinKey": "2026-02-12",
-      "last7": 5,
-      "rankCurr": 197,
-      "rankPrev": 199
+      "joinStr": "24.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-24",
+      "lastJoinKey": "2026-08-24",
+      "last7": 11,
+      "rankCurr": 199,
+      "rankPrev": 212
+    },
+    {
+      "name": "~ Paloma 💖",
+      "posts": 120,
+      "iaPosts": 5,
+      "daysAgo": 0,
+      "ppw": 4.1,
+      "memDays": 203,
+      "streak": 5,
+      "streakStart": "2026-10-15",
+      "streakEnd": "2026-10-19",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "01.05.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-05-01",
+      "lastJoinKey": "2026-05-01",
+      "last7": 6,
+      "rankCurr": 202,
+      "rankPrev": 207
     },
     {
       "name": "~ Jari",
@@ -4264,27 +4327,6 @@
       "rankPrev": 218
     },
     {
-      "name": "~ jonasvcw",
-      "posts": 120,
-      "iaPosts": 0,
-      "daysAgo": 0,
-      "ppw": 13.5,
-      "memDays": 62,
-      "streak": 3,
-      "streakStart": "2026-09-25",
-      "streakEnd": "2026-09-27",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "19.09.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-09-19",
-      "lastJoinKey": "2026-09-19",
-      "last7": 2,
-      "rankCurr": 208,
-      "rankPrev": 201
-    },
-    {
       "name": "~ Yannick",
       "posts": 119,
       "iaPosts": 7,
@@ -4304,48 +4346,6 @@
       "last7": 7,
       "rankCurr": 202,
       "rankPrev": 210
-    },
-    {
-      "name": "~ Paloma 💖",
-      "posts": 119,
-      "iaPosts": 5,
-      "daysAgo": 1,
-      "ppw": 4.1,
-      "memDays": 203,
-      "streak": 5,
-      "streakStart": "2026-10-15",
-      "streakEnd": "2026-10-19",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "01.05.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-05-01",
-      "lastJoinKey": "2026-05-01",
-      "last7": 6,
-      "rankCurr": 202,
-      "rankPrev": 207
-    },
-    {
-      "name": "~ Matz",
-      "posts": 119,
-      "iaPosts": 0,
-      "daysAgo": 5,
-      "ppw": 9.5,
-      "memDays": 88,
-      "streak": 7,
-      "streakStart": "2026-10-22",
-      "streakEnd": "2026-10-28",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "24.08.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
-      "joinKey": "2026-08-24",
-      "lastJoinKey": "2026-08-24",
-      "last7": 11,
-      "rankCurr": 199,
-      "rankPrev": 212
     },
     {
       "name": "~ Kim",
@@ -4454,24 +4454,45 @@
     },
     {
       "name": "~ Luca Hoehl",
-      "posts": 114,
+      "posts": 116,
       "iaPosts": 3,
-      "daysAgo": 6,
-      "ppw": 4.7,
+      "daysAgo": 0,
+      "ppw": 4.8,
       "memDays": 169,
       "streak": 6,
       "streakStart": "2026-07-25",
       "streakEnd": "2026-07-30",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "04.06.26",
-      "lastStr": "14.11.26",
-      "lastKey": "2026-11-14",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-06-04",
       "lastJoinKey": "2026-06-04",
       "last7": 2,
       "rankCurr": 212,
       "rankPrev": 204
+    },
+    {
+      "name": "Wolf",
+      "posts": 115,
+      "iaPosts": 1,
+      "daysAgo": 0,
+      "ppw": 6.8,
+      "memDays": 119,
+      "streak": 4,
+      "streakStart": "2026-10-22",
+      "streakEnd": "2026-10-25",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "24.07.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-07-24",
+      "lastJoinKey": "2026-07-24",
+      "last7": 7,
+      "rankCurr": 237,
+      "rankPrev": 241
     },
     {
       "name": "~ Lorena",
@@ -4558,29 +4579,8 @@
       "rankPrev": 203
     },
     {
-      "name": "~ Luis Wolf",
-      "posts": 111,
-      "iaPosts": 4,
-      "daysAgo": 5,
-      "ppw": 2.7,
-      "memDays": 292,
-      "streak": 4,
-      "streakStart": "2026-05-22",
-      "streakEnd": "2026-05-25",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "01.02.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
-      "joinKey": "2026-02-01",
-      "lastJoinKey": "2026-02-01",
-      "last7": 9,
-      "rankCurr": 218,
-      "rankPrev": 222
-    },
-    {
       "name": "~ Tobi",
-      "posts": 111,
+      "posts": 112,
       "iaPosts": 1,
       "daysAgo": 0,
       "ppw": 3.1,
@@ -4601,19 +4601,19 @@
     },
     {
       "name": "~ Justus Conrad",
-      "posts": 111,
+      "posts": 112,
       "iaPosts": 6,
-      "daysAgo": 2,
-      "ppw": 8.6,
+      "daysAgo": 0,
+      "ppw": 8.7,
       "memDays": 90,
       "streak": 5,
       "streakStart": "2026-08-27",
       "streakEnd": "2026-08-31",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "22.08.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-08-22",
       "lastJoinKey": "2026-08-22",
       "last7": 2,
@@ -4621,25 +4621,67 @@
       "rankPrev": 212
     },
     {
+      "name": "~ Sibbe 🐸",
+      "posts": 112,
+      "iaPosts": 1,
+      "daysAgo": 0,
+      "ppw": 8.9,
+      "memDays": 88,
+      "streak": 4,
+      "streakStart": "2026-10-21",
+      "streakEnd": "2026-10-24",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "24.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-24",
+      "lastJoinKey": "2026-08-24",
+      "last7": 14,
+      "rankCurr": 219,
+      "rankPrev": 239
+    },
+    {
       "name": "~ Patrick Kromer",
-      "posts": 111,
+      "posts": 112,
       "iaPosts": 56,
-      "daysAgo": 4,
-      "ppw": 10.1,
+      "daysAgo": 0,
+      "ppw": 10.2,
       "memDays": 77,
       "streak": 3,
       "streakStart": "2026-09-25",
       "streakEnd": "2026-09-27",
-      "currentStreak": 0,
+      "currentStreak": 1,
       "hasLeft": false,
       "joinStr": "04.09.26",
-      "lastStr": "16.11.26",
-      "lastKey": "2026-11-16",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-09-04",
       "lastJoinKey": "2026-09-04",
       "last7": 2,
       "rankCurr": 224,
       "rankPrev": 220
+    },
+    {
+      "name": "~ Luis Wolf",
+      "posts": 111,
+      "iaPosts": 4,
+      "daysAgo": 5,
+      "ppw": 2.7,
+      "memDays": 292,
+      "streak": 4,
+      "streakStart": "2026-05-22",
+      "streakEnd": "2026-05-25",
+      "currentStreak": 0,
+      "hasLeft": false,
+      "joinStr": "01.02.26",
+      "lastStr": "15.11.26",
+      "lastKey": "2026-11-15",
+      "joinKey": "2026-02-01",
+      "lastJoinKey": "2026-02-01",
+      "last7": 9,
+      "rankCurr": 218,
+      "rankPrev": 222
     },
     {
       "name": "~ Vincent",
@@ -4684,25 +4726,25 @@
       "rankPrev": 248
     },
     {
-      "name": "~ Sibbe 🐸",
+      "name": "~ Tom☆♤",
       "posts": 110,
       "iaPosts": 1,
-      "daysAgo": 5,
-      "ppw": 8.8,
-      "memDays": 88,
+      "daysAgo": 0,
+      "ppw": 10,
+      "memDays": 77,
       "streak": 4,
-      "streakStart": "2026-10-21",
-      "streakEnd": "2026-10-24",
-      "currentStreak": 0,
+      "streakStart": "2026-10-08",
+      "streakEnd": "2026-10-11",
+      "currentStreak": 1,
       "hasLeft": false,
-      "joinStr": "24.08.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
-      "joinKey": "2026-08-24",
-      "lastJoinKey": "2026-08-24",
-      "last7": 14,
-      "rankCurr": 219,
-      "rankPrev": 239
+      "joinStr": "04.09.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-09-04",
+      "lastJoinKey": "2026-09-04",
+      "last7": 9,
+      "rankCurr": 244,
+      "rankPrev": 257
     },
     {
       "name": "David Lach",
@@ -4724,27 +4766,6 @@
       "last7": 12,
       "rankCurr": 223,
       "rankPrev": 235
-    },
-    {
-      "name": "Wolf",
-      "posts": 109,
-      "iaPosts": 1,
-      "daysAgo": 0,
-      "ppw": 6.4,
-      "memDays": 119,
-      "streak": 4,
-      "streakStart": "2026-10-22",
-      "streakEnd": "2026-10-25",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "24.07.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-07-24",
-      "lastJoinKey": "2026-07-24",
-      "last7": 7,
-      "rankCurr": 237,
-      "rankPrev": 241
     },
     {
       "name": "~ Oskar Pschyrembel",
@@ -4829,27 +4850,6 @@
       "last7": 5,
       "rankCurr": 229,
       "rankPrev": 229
-    },
-    {
-      "name": "~ Tom☆♤",
-      "posts": 106,
-      "iaPosts": 1,
-      "daysAgo": 0,
-      "ppw": 9.6,
-      "memDays": 77,
-      "streak": 4,
-      "streakStart": "2026-10-08",
-      "streakEnd": "2026-10-11",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "04.09.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-09-04",
-      "lastJoinKey": "2026-09-04",
-      "last7": 9,
-      "rankCurr": 244,
-      "rankPrev": 257
     },
     {
       "name": "~ Jannis Malle",
@@ -5020,6 +5020,27 @@
       "rankPrev": 222
     },
     {
+      "name": "~ Louro",
+      "posts": 102,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 8.2,
+      "memDays": 87,
+      "streak": 2,
+      "streakStart": "2026-08-26",
+      "streakEnd": "2026-08-27",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "25.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-25",
+      "lastJoinKey": "2026-08-25",
+      "last7": 1,
+      "rankCurr": 242,
+      "rankPrev": 235
+    },
+    {
       "name": "~ Jona",
       "posts": 100,
       "iaPosts": 2,
@@ -5039,27 +5060,6 @@
       "last7": 0,
       "rankCurr": 239,
       "rankPrev": 229
-    },
-    {
-      "name": "~ Louro",
-      "posts": 100,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 8,
-      "memDays": 87,
-      "streak": 2,
-      "streakStart": "2026-08-26",
-      "streakEnd": "2026-08-27",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "25.08.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-08-25",
-      "lastJoinKey": "2026-08-25",
-      "last7": 1,
-      "rankCurr": 242,
-      "rankPrev": 235
     },
     {
       "name": "~ Joschka",
@@ -5188,6 +5188,27 @@
       "rankPrev": 256
     },
     {
+      "name": "~ Nino Bltr",
+      "posts": 96,
+      "iaPosts": 1,
+      "daysAgo": 0,
+      "ppw": 5.7,
+      "memDays": 118,
+      "streak": 7,
+      "streakStart": "2026-07-27",
+      "streakEnd": "2026-08-02",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "25.07.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-07-25",
+      "lastJoinKey": "2026-07-25",
+      "last7": 4,
+      "rankCurr": 247,
+      "rankPrev": 248
+    },
+    {
       "name": "~ Knut Walter",
       "posts": 96,
       "iaPosts": 0,
@@ -5228,27 +5249,6 @@
       "last7": 0,
       "rankCurr": 247,
       "rankPrev": 240
-    },
-    {
-      "name": "~ Nino Bltr",
-      "posts": 95,
-      "iaPosts": 1,
-      "daysAgo": 7,
-      "ppw": 5.6,
-      "memDays": 118,
-      "streak": 7,
-      "streakStart": "2026-07-27",
-      "streakEnd": "2026-08-02",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "25.07.26",
-      "lastStr": "13.11.26",
-      "lastKey": "2026-11-13",
-      "joinKey": "2026-07-25",
-      "lastJoinKey": "2026-07-25",
-      "last7": 4,
-      "rankCurr": 247,
-      "rankPrev": 248
     },
     {
       "name": "~ Philipp S.",
@@ -5461,6 +5461,48 @@
       "rankPrev": 257
     },
     {
+      "name": "~ Ferdi",
+      "posts": 91,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 4.1,
+      "memDays": 156,
+      "streak": 8,
+      "streakStart": "2026-07-10",
+      "streakEnd": "2026-07-17",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "17.06.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-06-17",
+      "lastJoinKey": "2026-06-17",
+      "last7": 2,
+      "rankCurr": 258,
+      "rankPrev": 257
+    },
+    {
+      "name": "~ Karl",
+      "posts": 90,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 2.1,
+      "memDays": 295,
+      "streak": 6,
+      "streakStart": "2026-10-29",
+      "streakEnd": "2026-11-03",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "29.01.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-01-29",
+      "lastJoinKey": "2026-09-21",
+      "last7": 2,
+      "rankCurr": 265,
+      "rankPrev": 263
+    },
+    {
       "name": "Timo Großmann",
       "posts": 90,
       "iaPosts": 3,
@@ -5522,48 +5564,6 @@
       "last7": 0,
       "rankCurr": 258,
       "rankPrev": 252
-    },
-    {
-      "name": "~ Ferdi",
-      "posts": 90,
-      "iaPosts": 0,
-      "daysAgo": 6,
-      "ppw": 4,
-      "memDays": 156,
-      "streak": 8,
-      "streakStart": "2026-07-10",
-      "streakEnd": "2026-07-17",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "17.06.26",
-      "lastStr": "14.11.26",
-      "lastKey": "2026-11-14",
-      "joinKey": "2026-06-17",
-      "lastJoinKey": "2026-06-17",
-      "last7": 2,
-      "rankCurr": 258,
-      "rankPrev": 257
-    },
-    {
-      "name": "~ Karl",
-      "posts": 89,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 2.1,
-      "memDays": 295,
-      "streak": 6,
-      "streakStart": "2026-10-29",
-      "streakEnd": "2026-11-03",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "29.01.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-01-29",
-      "lastJoinKey": "2026-09-21",
-      "last7": 2,
-      "rankCurr": 265,
-      "rankPrev": 263
     },
     {
       "name": "~ Julien",
@@ -5734,6 +5734,27 @@
       "rankPrev": 265
     },
     {
+      "name": "~ Hannes",
+      "posts": 85,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 2.5,
+      "memDays": 234,
+      "streak": 6,
+      "streakStart": "2026-10-02",
+      "streakEnd": "2026-10-07",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "31.03.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-03-31",
+      "lastJoinKey": "2026-08-25",
+      "last7": 2,
+      "rankCurr": 280,
+      "rankPrev": 279
+    },
+    {
       "name": "~ Niklas Vincenz",
       "posts": 85,
       "iaPosts": 0,
@@ -5795,27 +5816,6 @@
       "last7": 5,
       "rankCurr": 288,
       "rankPrev": 296
-    },
-    {
-      "name": "~ Hannes",
-      "posts": 84,
-      "iaPosts": 0,
-      "daysAgo": 0,
-      "ppw": 2.5,
-      "memDays": 234,
-      "streak": 6,
-      "streakStart": "2026-10-02",
-      "streakEnd": "2026-10-07",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "31.03.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-03-31",
-      "lastJoinKey": "2026-08-25",
-      "last7": 2,
-      "rankCurr": 280,
-      "rankPrev": 279
     },
     {
       "name": "~ Ben.",
@@ -6028,6 +6028,27 @@
       "rankPrev": 275
     },
     {
+      "name": "~ Hendrik Becker",
+      "posts": 80,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 9,
+      "memDays": 62,
+      "streak": 5,
+      "streakStart": "2026-10-23",
+      "streakEnd": "2026-10-27",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "19.09.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-09-19",
+      "lastJoinKey": "2026-09-19",
+      "last7": 2,
+      "rankCurr": 293,
+      "rankPrev": 293
+    },
+    {
       "name": "~ 7ules",
       "posts": 79,
       "iaPosts": 2,
@@ -6068,27 +6089,6 @@
       "last7": 0,
       "rankCurr": 286,
       "rankPrev": 279
-    },
-    {
-      "name": "~ Hendrik Becker",
-      "posts": 78,
-      "iaPosts": 0,
-      "daysAgo": 3,
-      "ppw": 8.8,
-      "memDays": 62,
-      "streak": 5,
-      "streakStart": "2026-10-23",
-      "streakEnd": "2026-10-27",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "19.09.26",
-      "lastStr": "17.11.26",
-      "lastKey": "2026-11-17",
-      "joinKey": "2026-09-19",
-      "lastJoinKey": "2026-09-19",
-      "last7": 2,
-      "rankCurr": 293,
-      "rankPrev": 293
     },
     {
       "name": "~ Fabio",
@@ -6448,6 +6448,27 @@
       "rankPrev": 320
     },
     {
+      "name": "~ Marco D",
+      "posts": 72,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 1.7,
+      "memDays": 290,
+      "streak": 4,
+      "streakStart": "2026-09-09",
+      "streakEnd": "2026-09-12",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "03.02.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-02-03",
+      "lastJoinKey": "2026-09-02",
+      "last7": 12,
+      "rankCurr": 317,
+      "rankPrev": 359
+    },
+    {
       "name": "~ Angelina",
       "posts": 71,
       "iaPosts": 0,
@@ -6595,25 +6616,25 @@
       "rankPrev": 309
     },
     {
-      "name": "~ Marco D",
+      "name": "~ -",
       "posts": 70,
-      "iaPosts": 0,
-      "daysAgo": 4,
-      "ppw": 1.7,
-      "memDays": 290,
-      "streak": 4,
-      "streakStart": "2026-09-09",
-      "streakEnd": "2026-09-12",
-      "currentStreak": 0,
+      "iaPosts": 1,
+      "daysAgo": 0,
+      "ppw": 5.4,
+      "memDays": 90,
+      "streak": 5,
+      "streakStart": "2026-09-11",
+      "streakEnd": "2026-09-15",
+      "currentStreak": 3,
       "hasLeft": false,
-      "joinStr": "03.02.26",
-      "lastStr": "16.11.26",
-      "lastKey": "2026-11-16",
-      "joinKey": "2026-02-03",
-      "lastJoinKey": "2026-09-02",
-      "last7": 12,
-      "rankCurr": 317,
-      "rankPrev": 359
+      "joinStr": "22.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-22",
+      "lastJoinKey": "2026-08-22",
+      "last7": 8,
+      "rankCurr": 331,
+      "rankPrev": 362
     },
     {
       "name": "~ Oli",
@@ -6637,6 +6658,27 @@
       "rankPrev": 331
     },
     {
+      "name": "~ Gabriel Ostolaza",
+      "posts": 69,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 2,
+      "memDays": 247,
+      "streak": 6,
+      "streakStart": "2026-03-18",
+      "streakEnd": "2026-03-23",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "18.03.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-03-18",
+      "lastJoinKey": "2026-03-18",
+      "last7": 1,
+      "rankCurr": 315,
+      "rankPrev": 314
+    },
+    {
       "name": "~ Maximilian Schäfer",
       "posts": 69,
       "iaPosts": 0,
@@ -6658,27 +6700,6 @@
       "rankPrev": 310
     },
     {
-      "name": "~ Gabriel Ostolaza",
-      "posts": 68,
-      "iaPosts": 0,
-      "daysAgo": 8,
-      "ppw": 1.9,
-      "memDays": 247,
-      "streak": 6,
-      "streakStart": "2026-03-18",
-      "streakEnd": "2026-03-23",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "18.03.26",
-      "lastStr": "12.11.26",
-      "lastKey": "2026-11-12",
-      "joinKey": "2026-03-18",
-      "lastJoinKey": "2026-03-18",
-      "last7": 1,
-      "rankCurr": 315,
-      "rankPrev": 314
-    },
-    {
       "name": "~ Sanderlei",
       "posts": 68,
       "iaPosts": 0,
@@ -6698,27 +6719,6 @@
       "last7": 0,
       "rankCurr": 315,
       "rankPrev": 310
-    },
-    {
-      "name": "~ -",
-      "posts": 68,
-      "iaPosts": 1,
-      "daysAgo": 1,
-      "ppw": 5.3,
-      "memDays": 90,
-      "streak": 5,
-      "streakStart": "2026-09-11",
-      "streakEnd": "2026-09-15",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "22.08.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-08-22",
-      "lastJoinKey": "2026-08-22",
-      "last7": 8,
-      "rankCurr": 331,
-      "rankPrev": 362
     },
     {
       "name": "~ Louis",
@@ -7477,6 +7477,27 @@
       "rankPrev": 344
     },
     {
+      "name": "~ Leon",
+      "posts": 58,
+      "iaPosts": 1,
+      "daysAgo": 0,
+      "ppw": 1.5,
+      "memDays": 279,
+      "streak": 2,
+      "streakStart": "2026-03-07",
+      "streakEnd": "2026-03-08",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "14.02.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-02-14",
+      "lastJoinKey": "2026-11-20",
+      "last7": 1,
+      "rankCurr": 365,
+      "rankPrev": 362
+    },
+    {
       "name": "~ charly",
       "posts": 58,
       "iaPosts": 7,
@@ -7582,6 +7603,27 @@
       "rankPrev": 351
     },
     {
+      "name": "~ Luis Neumann",
+      "posts": 57,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 1.9,
+      "memDays": 209,
+      "streak": 4,
+      "streakStart": "2026-09-03",
+      "streakEnd": "2026-09-06",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "25.04.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-04-25",
+      "lastJoinKey": "2026-04-25",
+      "last7": 0,
+      "rankCurr": 370,
+      "rankPrev": 362
+    },
+    {
       "name": "~ Vasco Amaral",
       "posts": 57,
       "iaPosts": 1,
@@ -7624,25 +7666,25 @@
       "rankPrev": 351
     },
     {
-      "name": "~ Leon",
-      "posts": 56,
-      "iaPosts": 1,
-      "daysAgo": 1,
-      "ppw": 1.4,
-      "memDays": 279,
-      "streak": 2,
-      "streakStart": "2026-03-07",
-      "streakEnd": "2026-03-08",
+      "name": "~ clara",
+      "posts": 57,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 5.1,
+      "memDays": 78,
+      "streak": 4,
+      "streakStart": "2026-09-03",
+      "streakEnd": "2026-09-06",
       "currentStreak": 1,
       "hasLeft": false,
-      "joinStr": "14.02.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-02-14",
-      "lastJoinKey": "2026-09-19",
-      "last7": 1,
-      "rankCurr": 365,
-      "rankPrev": 362
+      "joinStr": "03.09.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-09-03",
+      "lastJoinKey": "2026-09-03",
+      "last7": 3,
+      "rankCurr": 380,
+      "rankPrev": 387
     },
     {
       "name": "~ Antje Fischer",
@@ -7708,27 +7750,6 @@
       "rankPrev": 401
     },
     {
-      "name": "~ clara",
-      "posts": 56,
-      "iaPosts": 0,
-      "daysAgo": 2,
-      "ppw": 5,
-      "memDays": 78,
-      "streak": 4,
-      "streakStart": "2026-09-03",
-      "streakEnd": "2026-09-06",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "03.09.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
-      "joinKey": "2026-09-03",
-      "lastJoinKey": "2026-09-03",
-      "last7": 3,
-      "rankCurr": 380,
-      "rankPrev": 387
-    },
-    {
       "name": "Malte",
       "posts": 55,
       "iaPosts": 0,
@@ -7769,6 +7790,27 @@
       "last7": 0,
       "rankCurr": 365,
       "rankPrev": 359
+    },
+    {
+      "name": "~ Nicolas",
+      "posts": 55,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 2.1,
+      "memDays": 182,
+      "streak": 12,
+      "streakStart": "2026-09-14",
+      "streakEnd": "2026-09-25",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "22.05.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-05-22",
+      "lastJoinKey": "2026-09-14",
+      "last7": 2,
+      "rankCurr": 387,
+      "rankPrev": 387
     },
     {
       "name": "~ Floko",
@@ -7853,48 +7895,6 @@
       "last7": 0,
       "rankCurr": 370,
       "rankPrev": 362
-    },
-    {
-      "name": "~ Luis Neumann",
-      "posts": 54,
-      "iaPosts": 0,
-      "daysAgo": 21,
-      "ppw": 1.8,
-      "memDays": 209,
-      "streak": 4,
-      "streakStart": "2026-09-03",
-      "streakEnd": "2026-09-06",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "25.04.26",
-      "lastStr": "30.10.26",
-      "lastKey": "2026-10-30",
-      "joinKey": "2026-04-25",
-      "lastJoinKey": "2026-04-25",
-      "last7": 0,
-      "rankCurr": 370,
-      "rankPrev": 362
-    },
-    {
-      "name": "~ Nicolas",
-      "posts": 54,
-      "iaPosts": 0,
-      "daysAgo": 3,
-      "ppw": 2.1,
-      "memDays": 182,
-      "streak": 12,
-      "streakStart": "2026-09-14",
-      "streakEnd": "2026-09-25",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "22.05.26",
-      "lastStr": "17.11.26",
-      "lastKey": "2026-11-17",
-      "joinKey": "2026-05-22",
-      "lastJoinKey": "2026-09-14",
-      "last7": 2,
-      "rankCurr": 387,
-      "rankPrev": 387
     },
     {
       "name": "~ Salvador Mendes",
@@ -8023,6 +8023,48 @@
       "rankPrev": 380
     },
     {
+      "name": "~ Clyde",
+      "posts": 53,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 2.9,
+      "memDays": 128,
+      "streak": 3,
+      "streakStart": "2026-07-15",
+      "streakEnd": "2026-07-17",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "15.07.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-07-15",
+      "lastJoinKey": "2026-07-15",
+      "last7": 3,
+      "rankCurr": 380,
+      "rankPrev": 387
+    },
+    {
+      "name": "~ Inès",
+      "posts": 53,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 9.3,
+      "memDays": 40,
+      "streak": 7,
+      "streakStart": "2026-10-13",
+      "streakEnd": "2026-10-19",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "11.10.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-10-11",
+      "lastJoinKey": "2026-10-11",
+      "last7": 7,
+      "rankCurr": 401,
+      "rankPrev": 429
+    },
+    {
       "name": "Luca Grossmann",
       "posts": 52,
       "iaPosts": 0,
@@ -8128,27 +8170,6 @@
       "rankPrev": 373
     },
     {
-      "name": "~ Clyde",
-      "posts": 52,
-      "iaPosts": 0,
-      "daysAgo": 5,
-      "ppw": 2.8,
-      "memDays": 128,
-      "streak": 3,
-      "streakStart": "2026-07-15",
-      "streakEnd": "2026-07-17",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "15.07.26",
-      "lastStr": "15.11.26",
-      "lastKey": "2026-11-15",
-      "joinKey": "2026-07-15",
-      "lastJoinKey": "2026-07-15",
-      "last7": 3,
-      "rankCurr": 380,
-      "rankPrev": 387
-    },
-    {
       "name": "~ Aron Mosblech",
       "posts": 52,
       "iaPosts": 0,
@@ -8168,27 +8189,6 @@
       "last7": 0,
       "rankCurr": 380,
       "rankPrev": 373
-    },
-    {
-      "name": "~ Inès",
-      "posts": 52,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 9.1,
-      "memDays": 40,
-      "streak": 7,
-      "streakStart": "2026-10-13",
-      "streakEnd": "2026-10-19",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "11.10.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-10-11",
-      "lastJoinKey": "2026-10-11",
-      "last7": 7,
-      "rankCurr": 401,
-      "rankPrev": 429
     },
     {
       "name": "~ Kili",
@@ -8863,6 +8863,27 @@
       "rankPrev": 408
     },
     {
+      "name": "~ Luca 😶‍🌫️",
+      "posts": 46,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 9.2,
+      "memDays": 35,
+      "streak": 4,
+      "streakStart": "2026-11-17",
+      "streakEnd": "2026-11-20",
+      "currentStreak": 4,
+      "hasLeft": false,
+      "joinStr": "16.10.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-10-16",
+      "lastJoinKey": "2026-10-16",
+      "last7": 11,
+      "rankCurr": 524,
+      "rankPrev": 628
+    },
+    {
       "name": "~ Chris",
       "posts": 45,
       "iaPosts": 0,
@@ -8905,6 +8926,27 @@
       "rankPrev": 413
     },
     {
+      "name": "~ kilian.",
+      "posts": 45,
+      "iaPosts": 2,
+      "daysAgo": 0,
+      "ppw": 1.4,
+      "memDays": 227,
+      "streak": 3,
+      "streakStart": "2026-04-30",
+      "streakEnd": "2026-05-02",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "07.04.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-04-07",
+      "lastJoinKey": "2026-04-07",
+      "last7": 5,
+      "rankCurr": 428,
+      "rankPrev": 446
+    },
+    {
       "name": "~ t.alex",
       "posts": 45,
       "iaPosts": 0,
@@ -8945,6 +8987,27 @@
       "last7": 0,
       "rankCurr": 422,
       "rankPrev": 413
+    },
+    {
+      "name": "~ Max Menz",
+      "posts": 45,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 3.3,
+      "memDays": 95,
+      "streak": 2,
+      "streakStart": "2026-09-01",
+      "streakEnd": "2026-09-02",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "17.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-17",
+      "lastJoinKey": "2026-08-17",
+      "last7": 0,
+      "rankCurr": 447,
+      "rankPrev": 439
     },
     {
       "name": "~ Robby",
@@ -9008,6 +9071,27 @@
       "last7": 4,
       "rankCurr": 435,
       "rankPrev": 446
+    },
+    {
+      "name": "~ Anil Lalji",
+      "posts": 44,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 8.6,
+      "memDays": 36,
+      "streak": 6,
+      "streakStart": "2026-10-15",
+      "streakEnd": "2026-10-20",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "15.10.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-10-15",
+      "lastJoinKey": "2026-10-15",
+      "last7": 6,
+      "rankCurr": 457,
+      "rankPrev": 498
     },
     {
       "name": "~ Niels Heid",
@@ -9094,27 +9178,6 @@
       "rankPrev": 422
     },
     {
-      "name": "~ kilian.",
-      "posts": 43,
-      "iaPosts": 2,
-      "daysAgo": 6,
-      "ppw": 1.3,
-      "memDays": 227,
-      "streak": 3,
-      "streakStart": "2026-04-30",
-      "streakEnd": "2026-05-02",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "07.04.26",
-      "lastStr": "14.11.26",
-      "lastKey": "2026-11-14",
-      "joinKey": "2026-04-07",
-      "lastJoinKey": "2026-04-07",
-      "last7": 5,
-      "rankCurr": 428,
-      "rankPrev": 446
-    },
-    {
       "name": "~ Lourenço Ferreira",
       "posts": 43,
       "iaPosts": 0,
@@ -9199,27 +9262,6 @@
       "rankPrev": 427
     },
     {
-      "name": "~ Anil Lalji",
-      "posts": 42,
-      "iaPosts": 0,
-      "daysAgo": 2,
-      "ppw": 8.2,
-      "memDays": 36,
-      "streak": 6,
-      "streakStart": "2026-10-15",
-      "streakEnd": "2026-10-20",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "15.10.26",
-      "lastStr": "18.11.26",
-      "lastKey": "2026-11-18",
-      "joinKey": "2026-10-15",
-      "lastJoinKey": "2026-10-15",
-      "last7": 6,
-      "rankCurr": 457,
-      "rankPrev": 498
-    },
-    {
       "name": "~ Mo",
       "posts": 41,
       "iaPosts": 0,
@@ -9262,25 +9304,25 @@
       "rankPrev": 429
     },
     {
-      "name": "~ Max Menz",
+      "name": "~ Jan Segarra",
       "posts": 41,
       "iaPosts": 0,
       "daysAgo": 0,
-      "ppw": 3,
-      "memDays": 95,
-      "streak": 2,
-      "streakStart": "2026-09-01",
-      "streakEnd": "2026-09-02",
-      "currentStreak": 1,
+      "ppw": 2.7,
+      "memDays": 105,
+      "streak": 3,
+      "streakStart": "2026-09-11",
+      "streakEnd": "2026-09-13",
+      "currentStreak": 2,
       "hasLeft": false,
-      "joinStr": "17.08.26",
+      "joinStr": "07.08.26",
       "lastStr": "20.11.26",
       "lastKey": "2026-11-20",
-      "joinKey": "2026-08-17",
-      "lastJoinKey": "2026-08-17",
-      "last7": 0,
+      "joinKey": "2026-08-07",
+      "lastJoinKey": "2026-08-07",
+      "last7": 1,
       "rankCurr": 447,
-      "rankPrev": 439
+      "rankPrev": 446
     },
     {
       "name": "~ Bodo",
@@ -9386,27 +9428,6 @@
       "last7": 0,
       "rankCurr": 441,
       "rankPrev": 432
-    },
-    {
-      "name": "~ Jan Segarra",
-      "posts": 40,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 2.7,
-      "memDays": 105,
-      "streak": 3,
-      "streakStart": "2026-09-11",
-      "streakEnd": "2026-09-13",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "07.08.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-08-07",
-      "lastJoinKey": "2026-08-07",
-      "last7": 1,
-      "rankCurr": 447,
-      "rankPrev": 446
     },
     {
       "name": "~ Allan",
@@ -9619,27 +9640,6 @@
       "rankPrev": 471
     },
     {
-      "name": "~ Luca 😶‍🌫️",
-      "posts": 39,
-      "iaPosts": 0,
-      "daysAgo": 0,
-      "ppw": 7.8,
-      "memDays": 35,
-      "streak": 4,
-      "streakStart": "2026-11-17",
-      "streakEnd": "2026-11-20",
-      "currentStreak": 4,
-      "hasLeft": false,
-      "joinStr": "16.10.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-10-16",
-      "lastJoinKey": "2026-10-16",
-      "last7": 11,
-      "rankCurr": 524,
-      "rankPrev": 628
-    },
-    {
       "name": "~ Alina",
       "posts": 38,
       "iaPosts": 1,
@@ -9808,6 +9808,27 @@
       "rankPrev": 453
     },
     {
+      "name": "~ Alex R***",
+      "posts": 37,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 1.1,
+      "memDays": 231,
+      "streak": 4,
+      "streakStart": "2026-06-18",
+      "streakEnd": "2026-06-21",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "03.04.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-04-03",
+      "lastJoinKey": "2026-04-03",
+      "last7": 0,
+      "rankCurr": 470,
+      "rankPrev": 461
+    },
+    {
       "name": "~ Lola",
       "posts": 37,
       "iaPosts": 4,
@@ -9848,6 +9869,27 @@
       "last7": 0,
       "rankCurr": 464,
       "rankPrev": 453
+    },
+    {
+      "name": "~ Adrian Blumenthal",
+      "posts": 37,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 2.2,
+      "memDays": 116,
+      "streak": 2,
+      "streakStart": "2026-07-31",
+      "streakEnd": "2026-08-01",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "27.07.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-07-27",
+      "lastJoinKey": "2026-07-27",
+      "last7": 1,
+      "rankCurr": 470,
+      "rankPrev": 471
     },
     {
       "name": "~ Simon Zerle",
@@ -9908,27 +9950,6 @@
       "lastKey": "2026-06-05",
       "joinKey": "2026-02-14",
       "lastJoinKey": "2026-02-14",
-      "last7": 0,
-      "rankCurr": 470,
-      "rankPrev": 461
-    },
-    {
-      "name": "~ Alex R***",
-      "posts": 36,
-      "iaPosts": 0,
-      "daysAgo": 13,
-      "ppw": 1.1,
-      "memDays": 231,
-      "streak": 4,
-      "streakStart": "2026-06-18",
-      "streakEnd": "2026-06-21",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "03.04.26",
-      "lastStr": "07.11.26",
-      "lastKey": "2026-11-07",
-      "joinKey": "2026-04-03",
-      "lastJoinKey": "2026-04-03",
       "last7": 0,
       "rankCurr": 470,
       "rankPrev": 461
@@ -10016,27 +10037,6 @@
       "last7": 0,
       "rankCurr": 470,
       "rankPrev": 461
-    },
-    {
-      "name": "~ Adrian Blumenthal",
-      "posts": 36,
-      "iaPosts": 0,
-      "daysAgo": 6,
-      "ppw": 2.2,
-      "memDays": 116,
-      "streak": 2,
-      "streakStart": "2026-07-31",
-      "streakEnd": "2026-08-01",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "27.07.26",
-      "lastStr": "14.11.26",
-      "lastKey": "2026-11-14",
-      "joinKey": "2026-07-27",
-      "lastJoinKey": "2026-07-27",
-      "last7": 1,
-      "rankCurr": 470,
-      "rankPrev": 471
     },
     {
       "name": "~ Andreas Wodarzek",
@@ -10585,6 +10585,27 @@
       "rankPrev": 480
     },
     {
+      "name": "~ Phoenix",
+      "posts": 34,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 9.5,
+      "memDays": 25,
+      "streak": 7,
+      "streakStart": "2026-10-26",
+      "streakEnd": "2026-11-01",
+      "currentStreak": 5,
+      "hasLeft": false,
+      "joinStr": "26.10.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-10-26",
+      "lastJoinKey": "2026-10-26",
+      "last7": 1,
+      "rankCurr": 603,
+      "rankPrev": 602
+    },
+    {
       "name": "~ lukas",
       "posts": 33,
       "iaPosts": 1,
@@ -10898,27 +10919,6 @@
       "last7": 0,
       "rankCurr": 509,
       "rankPrev": 506
-    },
-    {
-      "name": "~ Phoenix",
-      "posts": 31,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 8.7,
-      "memDays": 25,
-      "streak": 7,
-      "streakStart": "2026-10-26",
-      "streakEnd": "2026-11-01",
-      "currentStreak": 4,
-      "hasLeft": false,
-      "joinStr": "26.10.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-10-26",
-      "lastJoinKey": "2026-10-26",
-      "last7": 1,
-      "rankCurr": 603,
-      "rankPrev": 602
     },
     {
       "name": "~ Aaron",
@@ -11908,6 +11908,27 @@
       "rankPrev": 553
     },
     {
+      "name": "~ Freddy",
+      "posts": 24,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 0.8,
+      "memDays": 224,
+      "streak": 2,
+      "streakStart": "2026-04-10",
+      "streakEnd": "2026-04-11",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "10.04.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-04-10",
+      "lastJoinKey": "2026-11-11",
+      "last7": 1,
+      "rankCurr": 570,
+      "rankPrev": 578
+    },
+    {
       "name": "~ Jnrur",
       "posts": 24,
       "iaPosts": 0,
@@ -12055,6 +12076,27 @@
       "rankPrev": 726
     },
     {
+      "name": "Niklas Mengeler",
+      "posts": 24,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 14,
+      "memDays": 12,
+      "streak": 2,
+      "streakStart": "2026-11-08",
+      "streakEnd": "2026-11-09",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "08.11.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-11-08",
+      "lastJoinKey": "2026-11-08",
+      "last7": 5,
+      "rankCurr": 655,
+      "rankPrev": 748
+    },
+    {
       "name": "Jona",
       "posts": 23,
       "iaPosts": 1,
@@ -12158,27 +12200,6 @@
       "last7": 0,
       "rankCurr": 570,
       "rankPrev": 560
-    },
-    {
-      "name": "~ Freddy",
-      "posts": 23,
-      "iaPosts": 0,
-      "daysAgo": 9,
-      "ppw": 0.7,
-      "memDays": 224,
-      "streak": 2,
-      "streakStart": "2026-04-10",
-      "streakEnd": "2026-04-11",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "10.04.26",
-      "lastStr": "11.11.26",
-      "lastKey": "2026-11-11",
-      "joinKey": "2026-04-10",
-      "lastJoinKey": "2026-11-11",
-      "last7": 1,
-      "rankCurr": 570,
-      "rankPrev": 578
     },
     {
       "name": "~ Seb",
@@ -12389,6 +12410,27 @@
       "last7": 0,
       "rankCurr": 570,
       "rankPrev": 560
+    },
+    {
+      "name": "~ Luki",
+      "posts": 23,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 3.6,
+      "memDays": 45,
+      "streak": 3,
+      "streakStart": "2026-10-06",
+      "streakEnd": "2026-10-08",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "06.10.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-10-06",
+      "lastJoinKey": "2026-10-06",
+      "last7": 2,
+      "rankCurr": 588,
+      "rankPrev": 602
     },
     {
       "name": "~ Yannick  Moukala",
@@ -12664,25 +12706,25 @@
       "rankPrev": 578
     },
     {
-      "name": "~ Luki",
+      "name": "~ Timo Hahn",
       "posts": 22,
       "iaPosts": 0,
-      "daysAgo": 10,
-      "ppw": 3.4,
-      "memDays": 45,
+      "daysAgo": 0,
+      "ppw": 2,
+      "memDays": 76,
       "streak": 3,
-      "streakStart": "2026-10-06",
-      "streakEnd": "2026-10-08",
-      "currentStreak": 0,
+      "streakStart": "2026-10-02",
+      "streakEnd": "2026-10-04",
+      "currentStreak": 1,
       "hasLeft": false,
-      "joinStr": "06.10.26",
-      "lastStr": "10.11.26",
-      "lastKey": "2026-11-10",
-      "joinKey": "2026-10-06",
-      "lastJoinKey": "2026-10-06",
+      "joinStr": "05.09.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-09-05",
+      "lastJoinKey": "2026-09-05",
       "last7": 2,
-      "rankCurr": 588,
-      "rankPrev": 602
+      "rankCurr": 603,
+      "rankPrev": 616
     },
     {
       "name": "~ Rodrigo Baltazar",
@@ -12850,27 +12892,6 @@
       "lastJoinKey": "2026-09-04",
       "last7": 1,
       "rankCurr": 614,
-      "rankPrev": 616
-    },
-    {
-      "name": "~ Timo Hahn",
-      "posts": 21,
-      "iaPosts": 0,
-      "daysAgo": 7,
-      "ppw": 1.9,
-      "memDays": 76,
-      "streak": 3,
-      "streakStart": "2026-10-02",
-      "streakEnd": "2026-10-04",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "05.09.26",
-      "lastStr": "13.11.26",
-      "lastKey": "2026-11-13",
-      "joinKey": "2026-09-05",
-      "lastJoinKey": "2026-09-05",
-      "last7": 2,
-      "rankCurr": 603,
       "rankPrev": 616
     },
     {
@@ -13168,6 +13189,27 @@
       "rankPrev": 602
     },
     {
+      "name": "~ Andreas Stadler",
+      "posts": 20,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 7.4,
+      "memDays": 19,
+      "streak": 4,
+      "streakStart": "2026-11-17",
+      "streakEnd": "2026-11-20",
+      "currentStreak": 4,
+      "hasLeft": false,
+      "joinStr": "01.11.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-11-01",
+      "lastJoinKey": "2026-11-01",
+      "last7": 6,
+      "rankCurr": 742,
+      "rankPrev": 896
+    },
+    {
       "name": "~ Mathias",
       "posts": 20,
       "iaPosts": 0,
@@ -13397,27 +13439,6 @@
       "last7": 1,
       "rankCurr": 626,
       "rankPrev": 628
-    },
-    {
-      "name": "~ Andreas Stadler",
-      "posts": 19,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 7,
-      "memDays": 19,
-      "streak": 3,
-      "streakStart": "2026-11-17",
-      "streakEnd": "2026-11-19",
-      "currentStreak": 3,
-      "hasLeft": false,
-      "joinStr": "01.11.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-11-01",
-      "lastJoinKey": "2026-11-01",
-      "last7": 6,
-      "rankCurr": 742,
-      "rankPrev": 896
     },
     {
       "name": "~ Laurenz",
@@ -13735,6 +13756,27 @@
       "rankPrev": 645
     },
     {
+      "name": "~ Franzn Jonny",
+      "posts": 18,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 1.5,
+      "memDays": 83,
+      "streak": 3,
+      "streakStart": "2026-09-24",
+      "streakEnd": "2026-09-26",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "29.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-29",
+      "lastJoinKey": "2026-08-29",
+      "last7": 0,
+      "rankCurr": 672,
+      "rankPrev": 660
+    },
+    {
       "name": "~ Renr",
       "posts": 18,
       "iaPosts": 0,
@@ -13754,6 +13796,27 @@
       "last7": 1,
       "rankCurr": 638,
       "rankPrev": 645
+    },
+    {
+      "name": "~ Martín",
+      "posts": 18,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 2,
+      "memDays": 62,
+      "streak": 3,
+      "streakStart": "2026-09-24",
+      "streakEnd": "2026-09-26",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "19.09.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-09-19",
+      "lastJoinKey": "2026-09-19",
+      "last7": 4,
+      "rankCurr": 672,
+      "rankPrev": 748
     },
     {
       "name": "~ Melissa Housen",
@@ -13838,27 +13901,6 @@
       "last7": 3,
       "rankCurr": 638,
       "rankPrev": 679
-    },
-    {
-      "name": "Niklas Mengeler",
-      "posts": 18,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 10.5,
-      "memDays": 12,
-      "streak": 2,
-      "streakStart": "2026-11-08",
-      "streakEnd": "2026-11-09",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "08.11.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-11-08",
-      "lastJoinKey": "2026-11-08",
-      "last7": 5,
-      "rankCurr": 655,
-      "rankPrev": 748
     },
     {
       "name": "~ Tommy",
@@ -14134,46 +14176,25 @@
       "rankPrev": 726
     },
     {
-      "name": "~ Franzn Jonny",
+      "name": "~ Sven",
       "posts": 17,
       "iaPosts": 0,
-      "daysAgo": 4,
-      "ppw": 1.4,
-      "memDays": 83,
-      "streak": 3,
-      "streakStart": "2026-09-24",
-      "streakEnd": "2026-09-26",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "29.08.26",
-      "lastStr": "16.11.26",
-      "lastKey": "2026-11-16",
-      "joinKey": "2026-08-29",
-      "lastJoinKey": "2026-08-29",
-      "last7": 0,
-      "rankCurr": 672,
-      "rankPrev": 660
-    },
-    {
-      "name": "~ Martín",
-      "posts": 17,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 1.9,
-      "memDays": 62,
-      "streak": 3,
-      "streakStart": "2026-09-24",
-      "streakEnd": "2026-09-26",
+      "daysAgo": 0,
+      "ppw": 2.5,
+      "memDays": 48,
+      "streak": 4,
+      "streakStart": "2026-10-06",
+      "streakEnd": "2026-10-09",
       "currentStreak": 1,
       "hasLeft": false,
-      "joinStr": "19.09.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-09-19",
-      "lastJoinKey": "2026-09-19",
-      "last7": 4,
-      "rankCurr": 672,
-      "rankPrev": 748
+      "joinStr": "03.10.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-10-03",
+      "lastJoinKey": "2026-11-05",
+      "last7": 0,
+      "rankCurr": 693,
+      "rankPrev": 679
     },
     {
       "name": "~ Mika",
@@ -14974,6 +14995,27 @@
       "rankPrev": 679
     },
     {
+      "name": "~ Luca Hagel",
+      "posts": 15,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 1.2,
+      "memDays": 91,
+      "streak": 3,
+      "streakStart": "2026-09-21",
+      "streakEnd": "2026-09-23",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "21.08.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-08-21",
+      "lastJoinKey": "2026-08-21",
+      "last7": 0,
+      "rankCurr": 718,
+      "rankPrev": 701
+    },
+    {
       "name": "~ Bobby",
       "posts": 15,
       "iaPosts": 0,
@@ -14990,27 +15032,6 @@
       "lastKey": "2026-11-07",
       "joinKey": "2026-08-21",
       "lastJoinKey": "2026-08-21",
-      "last7": 0,
-      "rankCurr": 693,
-      "rankPrev": 679
-    },
-    {
-      "name": "~ Sven",
-      "posts": 15,
-      "iaPosts": 0,
-      "daysAgo": 37,
-      "ppw": 2.2,
-      "memDays": 48,
-      "streak": 4,
-      "streakStart": "2026-10-06",
-      "streakEnd": "2026-10-09",
-      "currentStreak": 0,
-      "hasLeft": true,
-      "joinStr": "03.10.26",
-      "lastStr": "14.10.26",
-      "lastKey": "2026-10-14",
-      "joinKey": "2026-10-03",
-      "lastJoinKey": "2026-11-05",
       "last7": 0,
       "rankCurr": 693,
       "rankPrev": 679
@@ -15431,27 +15452,6 @@
       "lastKey": "2026-08-22",
       "joinKey": "2026-06-12",
       "lastJoinKey": "2026-06-12",
-      "last7": 0,
-      "rankCurr": 718,
-      "rankPrev": 701
-    },
-    {
-      "name": "~ Luca Hagel",
-      "posts": 14,
-      "iaPosts": 0,
-      "daysAgo": 21,
-      "ppw": 1.1,
-      "memDays": 91,
-      "streak": 3,
-      "streakStart": "2026-09-21",
-      "streakEnd": "2026-09-23",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "21.08.26",
-      "lastStr": "30.10.26",
-      "lastKey": "2026-10-30",
-      "joinKey": "2026-08-21",
-      "lastJoinKey": "2026-08-21",
       "last7": 0,
       "rankCurr": 718,
       "rankPrev": 701
@@ -17851,6 +17851,27 @@
       "rankPrev": null
     },
     {
+      "name": "~ Timi😁",
+      "posts": 10,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 70,
+      "memDays": 1,
+      "streak": 1,
+      "streakStart": "2026-11-20",
+      "streakEnd": "2026-11-20",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "20.11.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-11-20",
+      "lastJoinKey": "2026-11-20",
+      "last7": 0,
+      "rankCurr": null,
+      "rankPrev": null
+    },
+    {
       "name": "~ Fabi",
       "posts": 9,
       "iaPosts": 0,
@@ -19088,6 +19109,27 @@
       "last7": 3,
       "rankCurr": 878,
       "rankPrev": 981
+    },
+    {
+      "name": "~ Jan Schmitter",
+      "posts": 8,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 9.3,
+      "memDays": 6,
+      "streak": 2,
+      "streakStart": "2026-11-19",
+      "streakEnd": "2026-11-20",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "14.11.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-11-14",
+      "lastJoinKey": "2026-11-14",
+      "last7": 1,
+      "rankCurr": 1376,
+      "rankPrev": null
     },
     {
       "name": "~ Vasco Townshend",
@@ -20875,6 +20917,27 @@
       "rankPrev": 1357
     },
     {
+      "name": "~ Krumi",
+      "posts": 6,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 7,
+      "memDays": 6,
+      "streak": 2,
+      "streakStart": "2026-11-14",
+      "streakEnd": "2026-11-15",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "14.11.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-11-14",
+      "lastJoinKey": "2026-11-14",
+      "last7": 3,
+      "rankCurr": 1113,
+      "rankPrev": null
+    },
+    {
       "name": "~ Aron",
       "posts": 5,
       "iaPosts": 0,
@@ -21711,49 +21774,7 @@
       "joinKey": "2026-11-11",
       "lastJoinKey": "2026-11-11",
       "last7": 1,
-      "rankCurr": 1375,
-      "rankPrev": null
-    },
-    {
-      "name": "~ Jan Schmitter",
-      "posts": 5,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 5.8,
-      "memDays": 6,
-      "streak": 1,
-      "streakStart": "2026-11-14",
-      "streakEnd": "2026-11-14",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "14.11.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-11-14",
-      "lastJoinKey": "2026-11-14",
-      "last7": 1,
-      "rankCurr": 1375,
-      "rankPrev": null
-    },
-    {
-      "name": "~ Krumi",
-      "posts": 5,
-      "iaPosts": 0,
-      "daysAgo": 3,
-      "ppw": 5.8,
-      "memDays": 6,
-      "streak": 2,
-      "streakStart": "2026-11-14",
-      "streakEnd": "2026-11-15",
-      "currentStreak": 0,
-      "hasLeft": false,
-      "joinStr": "14.11.26",
-      "lastStr": "17.11.26",
-      "lastKey": "2026-11-17",
-      "joinKey": "2026-11-14",
-      "lastJoinKey": "2026-11-14",
-      "last7": 3,
-      "rankCurr": 1113,
+      "rankCurr": 1376,
       "rankPrev": null
     },
     {
@@ -23458,6 +23479,27 @@
       "rankPrev": 1197
     },
     {
+      "name": "~ Tabse ☀️",
+      "posts": 4,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 1,
+      "memDays": 27,
+      "streak": 2,
+      "streakStart": "2026-11-19",
+      "streakEnd": "2026-11-20",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "24.10.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-10-24",
+      "lastJoinKey": "2026-10-24",
+      "last7": 0,
+      "rankCurr": 1376,
+      "rankPrev": 1357
+    },
+    {
       "name": "~ Remi Verschure",
       "posts": 4,
       "iaPosts": 0,
@@ -23497,6 +23539,27 @@
       "lastJoinKey": "2026-09-11",
       "last7": 4,
       "rankCurr": 1030,
+      "rankPrev": null
+    },
+    {
+      "name": "~ Ben K",
+      "posts": 4,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 4.7,
+      "memDays": 6,
+      "streak": 2,
+      "streakStart": "2026-11-14",
+      "streakEnd": "2026-11-15",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "14.11.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-11-14",
+      "lastJoinKey": "2026-11-14",
+      "last7": 3,
+      "rankCurr": 1113,
       "rankPrev": null
     },
     {
@@ -25554,7 +25617,7 @@
       "joinKey": "2026-11-10",
       "lastJoinKey": "2026-11-10",
       "last7": 2,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": null
     },
     {
@@ -25617,7 +25680,7 @@
       "joinKey": "2026-01-29",
       "lastJoinKey": "2026-01-29",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25638,7 +25701,7 @@
       "joinKey": "2026-02-06",
       "lastJoinKey": "2026-02-06",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25659,7 +25722,7 @@
       "joinKey": "2026-02-07",
       "lastJoinKey": "2026-02-07",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25680,7 +25743,7 @@
       "joinKey": "2026-02-07",
       "lastJoinKey": "2026-02-07",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25701,7 +25764,7 @@
       "joinKey": "2026-02-12",
       "lastJoinKey": "2026-02-12",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25722,7 +25785,7 @@
       "joinKey": "2026-02-12",
       "lastJoinKey": "2026-02-12",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25743,7 +25806,7 @@
       "joinKey": "2026-02-13",
       "lastJoinKey": "2026-02-13",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25764,7 +25827,7 @@
       "joinKey": "2026-02-13",
       "lastJoinKey": "2026-02-13",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25785,7 +25848,7 @@
       "joinKey": "2026-02-14",
       "lastJoinKey": "2026-02-14",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25806,7 +25869,7 @@
       "joinKey": "2026-02-15",
       "lastJoinKey": "2026-02-15",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25827,7 +25890,7 @@
       "joinKey": "2026-02-14",
       "lastJoinKey": "2026-02-14",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25848,7 +25911,7 @@
       "joinKey": "2026-02-15",
       "lastJoinKey": "2026-02-15",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25869,7 +25932,7 @@
       "joinKey": "2026-02-20",
       "lastJoinKey": "2026-02-20",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25890,7 +25953,7 @@
       "joinKey": "2026-02-21",
       "lastJoinKey": "2026-02-21",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25911,7 +25974,7 @@
       "joinKey": "2026-02-21",
       "lastJoinKey": "2026-02-21",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25932,7 +25995,7 @@
       "joinKey": "2026-02-27",
       "lastJoinKey": "2026-02-27",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25953,7 +26016,7 @@
       "joinKey": "2026-03-06",
       "lastJoinKey": "2026-05-08",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25974,7 +26037,7 @@
       "joinKey": "2026-03-13",
       "lastJoinKey": "2026-03-13",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -25995,7 +26058,7 @@
       "joinKey": "2026-03-13",
       "lastJoinKey": "2026-03-13",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26016,7 +26079,7 @@
       "joinKey": "2026-03-12",
       "lastJoinKey": "2026-03-12",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26037,7 +26100,7 @@
       "joinKey": "2026-03-14",
       "lastJoinKey": "2026-03-14",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26058,7 +26121,7 @@
       "joinKey": "2026-03-18",
       "lastJoinKey": "2026-03-18",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26079,7 +26142,7 @@
       "joinKey": "2026-03-18",
       "lastJoinKey": "2026-03-18",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26100,7 +26163,7 @@
       "joinKey": "2026-03-31",
       "lastJoinKey": "2026-03-31",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26121,7 +26184,7 @@
       "joinKey": "2026-03-31",
       "lastJoinKey": "2026-04-04",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26142,7 +26205,7 @@
       "joinKey": "2026-04-01",
       "lastJoinKey": "2026-04-01",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26163,7 +26226,7 @@
       "joinKey": "2026-04-01",
       "lastJoinKey": "2026-04-01",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26184,7 +26247,7 @@
       "joinKey": "2026-04-02",
       "lastJoinKey": "2026-04-02",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26205,7 +26268,7 @@
       "joinKey": "2026-03-01",
       "lastJoinKey": "2026-03-01",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26226,7 +26289,7 @@
       "joinKey": "2026-04-03",
       "lastJoinKey": "2026-04-03",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26247,7 +26310,7 @@
       "joinKey": "2026-04-04",
       "lastJoinKey": "2026-04-04",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26268,7 +26331,7 @@
       "joinKey": "2026-04-03",
       "lastJoinKey": "2026-04-03",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26289,7 +26352,7 @@
       "joinKey": "2026-04-08",
       "lastJoinKey": "2026-04-08",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26310,7 +26373,7 @@
       "joinKey": "2026-04-09",
       "lastJoinKey": "2026-04-09",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26331,7 +26394,7 @@
       "joinKey": "2026-04-11",
       "lastJoinKey": "2026-04-11",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26352,7 +26415,7 @@
       "joinKey": "2026-04-16",
       "lastJoinKey": "2026-04-16",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26373,7 +26436,7 @@
       "joinKey": "2026-04-17",
       "lastJoinKey": "2026-04-17",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26394,7 +26457,7 @@
       "joinKey": "2026-04-17",
       "lastJoinKey": "2026-04-17",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26415,7 +26478,7 @@
       "joinKey": "2026-04-19",
       "lastJoinKey": "2026-04-19",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26436,7 +26499,7 @@
       "joinKey": "2026-04-19",
       "lastJoinKey": "2026-04-19",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26457,7 +26520,7 @@
       "joinKey": "2026-04-18",
       "lastJoinKey": "2026-04-18",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26478,7 +26541,7 @@
       "joinKey": "2026-04-18",
       "lastJoinKey": "2026-04-18",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26499,7 +26562,7 @@
       "joinKey": "2026-04-19",
       "lastJoinKey": "2026-04-19",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26520,7 +26583,7 @@
       "joinKey": "2026-04-23",
       "lastJoinKey": "2026-04-23",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26541,7 +26604,7 @@
       "joinKey": "2026-04-23",
       "lastJoinKey": "2026-04-23",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26562,7 +26625,7 @@
       "joinKey": "2026-04-24",
       "lastJoinKey": "2026-04-24",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26583,7 +26646,7 @@
       "joinKey": "2026-04-22",
       "lastJoinKey": "2026-04-22",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26604,7 +26667,7 @@
       "joinKey": "2026-04-25",
       "lastJoinKey": "2026-04-25",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26625,7 +26688,7 @@
       "joinKey": "2026-04-25",
       "lastJoinKey": "2026-04-25",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26646,7 +26709,7 @@
       "joinKey": "2026-04-25",
       "lastJoinKey": "2026-04-25",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26667,7 +26730,7 @@
       "joinKey": "2026-04-24",
       "lastJoinKey": "2026-11-18",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26688,7 +26751,7 @@
       "joinKey": "2026-04-25",
       "lastJoinKey": "2026-04-25",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26709,7 +26772,7 @@
       "joinKey": "2026-04-26",
       "lastJoinKey": "2026-04-26",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26730,7 +26793,7 @@
       "joinKey": "2026-04-29",
       "lastJoinKey": "2026-04-29",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26751,7 +26814,7 @@
       "joinKey": "2026-05-06",
       "lastJoinKey": "2026-05-06",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26772,7 +26835,7 @@
       "joinKey": "2026-05-09",
       "lastJoinKey": "2026-05-09",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26793,7 +26856,7 @@
       "joinKey": "2026-05-14",
       "lastJoinKey": "2026-05-14",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26814,7 +26877,7 @@
       "joinKey": "2026-05-11",
       "lastJoinKey": "2026-05-11",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26835,7 +26898,7 @@
       "joinKey": "2026-05-09",
       "lastJoinKey": "2026-05-09",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26856,7 +26919,7 @@
       "joinKey": "2026-05-15",
       "lastJoinKey": "2026-05-15",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26877,7 +26940,7 @@
       "joinKey": "2026-05-14",
       "lastJoinKey": "2026-05-14",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26898,7 +26961,7 @@
       "joinKey": "2026-05-15",
       "lastJoinKey": "2026-05-15",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26919,7 +26982,7 @@
       "joinKey": "2026-05-16",
       "lastJoinKey": "2026-05-16",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26940,7 +27003,7 @@
       "joinKey": "2026-05-15",
       "lastJoinKey": "2026-05-15",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26961,7 +27024,7 @@
       "joinKey": "2026-05-16",
       "lastJoinKey": "2026-05-16",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -26982,7 +27045,7 @@
       "joinKey": "2026-05-21",
       "lastJoinKey": "2026-05-21",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27003,7 +27066,7 @@
       "joinKey": "2026-05-20",
       "lastJoinKey": "2026-05-20",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27024,7 +27087,7 @@
       "joinKey": "2026-05-22",
       "lastJoinKey": "2026-05-22",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27045,7 +27108,7 @@
       "joinKey": "2026-05-21",
       "lastJoinKey": "2026-05-21",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27066,7 +27129,7 @@
       "joinKey": "2026-05-22",
       "lastJoinKey": "2026-05-22",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27087,7 +27150,7 @@
       "joinKey": "2026-05-23",
       "lastJoinKey": "2026-05-23",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27108,7 +27171,7 @@
       "joinKey": "2026-05-22",
       "lastJoinKey": "2026-05-22",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27129,7 +27192,7 @@
       "joinKey": "2026-04-17",
       "lastJoinKey": "2026-04-17",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27150,7 +27213,7 @@
       "joinKey": "2026-05-23",
       "lastJoinKey": "2026-08-08",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27171,7 +27234,7 @@
       "joinKey": "2026-04-26",
       "lastJoinKey": "2026-04-26",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27192,7 +27255,7 @@
       "joinKey": "2026-05-21",
       "lastJoinKey": "2026-09-18",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27213,7 +27276,7 @@
       "joinKey": "2026-05-24",
       "lastJoinKey": "2026-05-24",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27234,7 +27297,7 @@
       "joinKey": "2026-05-24",
       "lastJoinKey": "2026-05-24",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27255,7 +27318,7 @@
       "joinKey": "2026-05-22",
       "lastJoinKey": "2026-05-22",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27276,7 +27339,7 @@
       "joinKey": "2026-05-23",
       "lastJoinKey": "2026-05-23",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27297,7 +27360,7 @@
       "joinKey": "2026-05-29",
       "lastJoinKey": "2026-05-29",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27318,7 +27381,7 @@
       "joinKey": "2026-05-30",
       "lastJoinKey": "2026-05-30",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27339,7 +27402,7 @@
       "joinKey": "2026-05-31",
       "lastJoinKey": "2026-05-31",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27360,7 +27423,7 @@
       "joinKey": "2026-05-31",
       "lastJoinKey": "2026-05-31",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27381,7 +27444,7 @@
       "joinKey": "2026-05-15",
       "lastJoinKey": "2026-05-15",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27402,7 +27465,7 @@
       "joinKey": "2026-06-03",
       "lastJoinKey": "2026-06-03",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27423,7 +27486,7 @@
       "joinKey": "2026-06-03",
       "lastJoinKey": "2026-06-03",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27444,7 +27507,7 @@
       "joinKey": "2026-06-04",
       "lastJoinKey": "2026-06-04",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27465,7 +27528,7 @@
       "joinKey": "2026-06-06",
       "lastJoinKey": "2026-06-06",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27486,7 +27549,7 @@
       "joinKey": "2026-06-06",
       "lastJoinKey": "2026-06-06",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27507,7 +27570,7 @@
       "joinKey": "2026-06-11",
       "lastJoinKey": "2026-06-11",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27528,7 +27591,7 @@
       "joinKey": "2026-06-10",
       "lastJoinKey": "2026-06-10",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27549,7 +27612,7 @@
       "joinKey": "2026-06-12",
       "lastJoinKey": "2026-06-12",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27570,7 +27633,7 @@
       "joinKey": "2026-06-14",
       "lastJoinKey": "2026-06-14",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27591,7 +27654,7 @@
       "joinKey": "2026-05-29",
       "lastJoinKey": "2026-07-31",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27612,7 +27675,7 @@
       "joinKey": "2026-05-28",
       "lastJoinKey": "2026-05-28",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27633,7 +27696,7 @@
       "joinKey": "2026-05-31",
       "lastJoinKey": "2026-05-31",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27654,7 +27717,7 @@
       "joinKey": "2026-06-08",
       "lastJoinKey": "2026-06-08",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27675,7 +27738,7 @@
       "joinKey": "2026-06-27",
       "lastJoinKey": "2026-06-27",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27696,7 +27759,7 @@
       "joinKey": "2026-07-01",
       "lastJoinKey": "2026-07-01",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27717,7 +27780,7 @@
       "joinKey": "2026-07-08",
       "lastJoinKey": "2026-07-08",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27738,7 +27801,7 @@
       "joinKey": "2026-07-08",
       "lastJoinKey": "2026-07-08",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27759,7 +27822,7 @@
       "joinKey": "2026-07-14",
       "lastJoinKey": "2026-07-14",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27780,7 +27843,7 @@
       "joinKey": "2026-07-25",
       "lastJoinKey": "2026-08-19",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27801,7 +27864,7 @@
       "joinKey": "2026-07-27",
       "lastJoinKey": "2026-07-27",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27822,7 +27885,7 @@
       "joinKey": "2026-07-29",
       "lastJoinKey": "2026-07-29",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27843,7 +27906,7 @@
       "joinKey": "2026-07-22",
       "lastJoinKey": "2026-07-22",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27864,7 +27927,7 @@
       "joinKey": "2026-07-31",
       "lastJoinKey": "2026-07-31",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27885,7 +27948,7 @@
       "joinKey": "2026-07-29",
       "lastJoinKey": "2026-07-29",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27906,7 +27969,7 @@
       "joinKey": "2026-07-30",
       "lastJoinKey": "2026-07-30",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27927,7 +27990,7 @@
       "joinKey": "2026-08-01",
       "lastJoinKey": "2026-08-01",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27948,7 +28011,7 @@
       "joinKey": "2026-08-01",
       "lastJoinKey": "2026-08-01",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27969,7 +28032,7 @@
       "joinKey": "2026-08-08",
       "lastJoinKey": "2026-08-08",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -27990,7 +28053,7 @@
       "joinKey": "2026-08-05",
       "lastJoinKey": "2026-08-05",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28011,7 +28074,7 @@
       "joinKey": "2026-07-21",
       "lastJoinKey": "2026-07-21",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28032,7 +28095,7 @@
       "joinKey": "2026-08-15",
       "lastJoinKey": "2026-08-15",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28053,7 +28116,7 @@
       "joinKey": "2026-08-16",
       "lastJoinKey": "2026-08-16",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28074,7 +28137,7 @@
       "joinKey": "2026-08-20",
       "lastJoinKey": "2026-09-11",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28095,7 +28158,7 @@
       "joinKey": "2026-08-20",
       "lastJoinKey": "2026-08-20",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28116,7 +28179,7 @@
       "joinKey": "2026-08-22",
       "lastJoinKey": "2026-08-22",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28137,7 +28200,7 @@
       "joinKey": "2026-08-16",
       "lastJoinKey": "2026-08-16",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28158,7 +28221,7 @@
       "joinKey": "2026-08-07",
       "lastJoinKey": "2026-08-07",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28179,7 +28242,7 @@
       "joinKey": "2026-08-02",
       "lastJoinKey": "2026-08-02",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28200,7 +28263,7 @@
       "joinKey": "2026-08-29",
       "lastJoinKey": "2026-08-29",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28221,7 +28284,7 @@
       "joinKey": "2026-09-02",
       "lastJoinKey": "2026-09-02",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28242,7 +28305,7 @@
       "joinKey": "2026-08-28",
       "lastJoinKey": "2026-08-28",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28263,7 +28326,7 @@
       "joinKey": "2026-09-12",
       "lastJoinKey": "2026-09-12",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28284,7 +28347,7 @@
       "joinKey": "2026-09-12",
       "lastJoinKey": "2026-09-12",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28305,7 +28368,7 @@
       "joinKey": "2026-09-18",
       "lastJoinKey": "2026-09-18",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28326,7 +28389,7 @@
       "joinKey": "2026-09-19",
       "lastJoinKey": "2026-09-19",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28347,7 +28410,7 @@
       "joinKey": "2026-09-12",
       "lastJoinKey": "2026-09-12",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28368,7 +28431,7 @@
       "joinKey": "2026-09-19",
       "lastJoinKey": "2026-09-19",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28389,7 +28452,7 @@
       "joinKey": "2026-09-25",
       "lastJoinKey": "2026-09-25",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28410,7 +28473,7 @@
       "joinKey": "2026-09-25",
       "lastJoinKey": "2026-09-25",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28431,7 +28494,7 @@
       "joinKey": "2026-09-25",
       "lastJoinKey": "2026-09-25",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28452,7 +28515,7 @@
       "joinKey": "2026-09-26",
       "lastJoinKey": "2026-09-26",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28473,7 +28536,7 @@
       "joinKey": "2026-09-24",
       "lastJoinKey": "2026-09-24",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28494,7 +28557,7 @@
       "joinKey": "2026-09-01",
       "lastJoinKey": "2026-09-01",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28515,7 +28578,7 @@
       "joinKey": "2026-09-25",
       "lastJoinKey": "2026-09-25",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28536,7 +28599,7 @@
       "joinKey": "2026-09-30",
       "lastJoinKey": "2026-09-30",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28557,7 +28620,7 @@
       "joinKey": "2026-09-29",
       "lastJoinKey": "2026-09-29",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28578,7 +28641,7 @@
       "joinKey": "2026-02-09",
       "lastJoinKey": "2026-10-10",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28599,7 +28662,7 @@
       "joinKey": "2026-10-12",
       "lastJoinKey": "2026-10-12",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28620,7 +28683,7 @@
       "joinKey": "2026-10-16",
       "lastJoinKey": "2026-10-16",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28641,7 +28704,7 @@
       "joinKey": "2026-10-16",
       "lastJoinKey": "2026-10-16",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28662,7 +28725,7 @@
       "joinKey": "2026-10-16",
       "lastJoinKey": "2026-10-16",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28683,7 +28746,7 @@
       "joinKey": "2026-10-10",
       "lastJoinKey": "2026-10-10",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28704,7 +28767,7 @@
       "joinKey": "2026-10-23",
       "lastJoinKey": "2026-10-23",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28725,7 +28788,7 @@
       "joinKey": "2026-10-24",
       "lastJoinKey": "2026-10-24",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28746,29 +28809,8 @@
       "joinKey": "2026-10-24",
       "lastJoinKey": "2026-10-24",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
-    },
-    {
-      "name": "~ Tabse ☀️",
-      "posts": 2,
-      "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 0.5,
-      "memDays": 27,
-      "streak": 1,
-      "streakStart": "2026-10-24",
-      "streakEnd": "2026-10-24",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "24.10.26",
-      "lastStr": "19.11.26",
-      "lastKey": "2026-11-19",
-      "joinKey": "2026-10-24",
-      "lastJoinKey": "2026-10-24",
-      "last7": 0,
-      "rankCurr": 1375,
-      "rankPrev": 1357
     },
     {
       "name": "~ Chanel",
@@ -28788,7 +28830,7 @@
       "joinKey": "2026-10-31",
       "lastJoinKey": "2026-10-31",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28809,7 +28851,7 @@
       "joinKey": "2026-11-03",
       "lastJoinKey": "2026-11-03",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28830,7 +28872,7 @@
       "joinKey": "2026-11-05",
       "lastJoinKey": "2026-11-05",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28851,7 +28893,7 @@
       "joinKey": "2026-11-06",
       "lastJoinKey": "2026-11-06",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28872,7 +28914,7 @@
       "joinKey": "2026-11-07",
       "lastJoinKey": "2026-11-07",
       "last7": 0,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": 1197
     },
     {
@@ -28893,7 +28935,7 @@
       "joinKey": "2026-11-09",
       "lastJoinKey": "2026-11-09",
       "last7": 2,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": null
     },
     {
@@ -28914,7 +28956,7 @@
       "joinKey": "2026-11-12",
       "lastJoinKey": "2026-11-12",
       "last7": 2,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": null
     },
     {
@@ -28935,7 +28977,7 @@
       "joinKey": "2026-11-14",
       "lastJoinKey": "2026-11-14",
       "last7": 2,
-      "rankCurr": 1216,
+      "rankCurr": 1217,
       "rankPrev": null
     },
     {
@@ -29065,27 +29107,6 @@
       "rankPrev": null
     },
     {
-      "name": "~ Timi😁",
-      "posts": 2,
-      "iaPosts": 0,
-      "daysAgo": 0,
-      "ppw": 14,
-      "memDays": 1,
-      "streak": 1,
-      "streakStart": "2026-11-20",
-      "streakEnd": "2026-11-20",
-      "currentStreak": 1,
-      "hasLeft": false,
-      "joinStr": "20.11.26",
-      "lastStr": "20.11.26",
-      "lastKey": "2026-11-20",
-      "joinKey": "2026-11-20",
-      "lastJoinKey": "2026-11-20",
-      "last7": 0,
-      "rankCurr": null,
-      "rankPrev": null
-    },
-    {
       "name": "~ Tilman",
       "posts": 1,
       "iaPosts": 0,
@@ -29103,7 +29124,7 @@
       "joinKey": "2026-02-07",
       "lastJoinKey": "2026-02-07",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29124,7 +29145,7 @@
       "joinKey": "2026-02-07",
       "lastJoinKey": "2026-02-07",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29145,7 +29166,7 @@
       "joinKey": "2026-02-12",
       "lastJoinKey": "2026-02-12",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29166,7 +29187,7 @@
       "joinKey": "2026-02-12",
       "lastJoinKey": "2026-02-12",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29187,7 +29208,7 @@
       "joinKey": "2026-02-13",
       "lastJoinKey": "2026-02-13",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29208,7 +29229,7 @@
       "joinKey": "2026-02-13",
       "lastJoinKey": "2026-02-13",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29229,7 +29250,7 @@
       "joinKey": "2026-02-13",
       "lastJoinKey": "2026-02-13",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29250,7 +29271,7 @@
       "joinKey": "2026-02-11",
       "lastJoinKey": "2026-02-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29271,7 +29292,7 @@
       "joinKey": "2026-02-13",
       "lastJoinKey": "2026-02-13",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29292,7 +29313,7 @@
       "joinKey": "2026-02-16",
       "lastJoinKey": "2026-02-16",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29313,7 +29334,7 @@
       "joinKey": "2026-02-20",
       "lastJoinKey": "2026-02-20",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29334,7 +29355,7 @@
       "joinKey": "2026-02-20",
       "lastJoinKey": "2026-02-20",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29355,7 +29376,7 @@
       "joinKey": "2026-02-08",
       "lastJoinKey": "2026-02-08",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29376,7 +29397,7 @@
       "joinKey": "2026-02-27",
       "lastJoinKey": "2026-02-27",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29397,7 +29418,7 @@
       "joinKey": "2026-02-08",
       "lastJoinKey": "2026-02-08",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29418,7 +29439,7 @@
       "joinKey": "2026-03-07",
       "lastJoinKey": "2026-03-07",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29439,7 +29460,7 @@
       "joinKey": "2026-03-08",
       "lastJoinKey": "2026-03-08",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29460,7 +29481,7 @@
       "joinKey": "2026-03-04",
       "lastJoinKey": "2026-03-04",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29481,7 +29502,7 @@
       "joinKey": "2026-03-14",
       "lastJoinKey": "2026-03-14",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29502,7 +29523,7 @@
       "joinKey": "2026-03-11",
       "lastJoinKey": "2026-03-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29523,7 +29544,7 @@
       "joinKey": "2026-03-20",
       "lastJoinKey": "2026-03-20",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29544,7 +29565,7 @@
       "joinKey": "2026-03-21",
       "lastJoinKey": "2026-07-14",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29565,7 +29586,7 @@
       "joinKey": "2026-04-01",
       "lastJoinKey": "2026-04-01",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29586,7 +29607,7 @@
       "joinKey": "2026-04-04",
       "lastJoinKey": "2026-04-04",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29607,7 +29628,7 @@
       "joinKey": "2026-04-04",
       "lastJoinKey": "2026-04-04",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29628,7 +29649,7 @@
       "joinKey": "2026-04-04",
       "lastJoinKey": "2026-04-04",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29649,7 +29670,7 @@
       "joinKey": "2026-03-29",
       "lastJoinKey": "2026-03-29",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29670,7 +29691,7 @@
       "joinKey": "2026-04-05",
       "lastJoinKey": "2026-04-05",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29691,7 +29712,7 @@
       "joinKey": "2026-04-06",
       "lastJoinKey": "2026-04-06",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29712,7 +29733,7 @@
       "joinKey": "2026-04-02",
       "lastJoinKey": "2026-04-02",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29733,7 +29754,7 @@
       "joinKey": "2026-04-17",
       "lastJoinKey": "2026-04-17",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29754,7 +29775,7 @@
       "joinKey": "2026-04-21",
       "lastJoinKey": "2026-04-21",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29775,7 +29796,7 @@
       "joinKey": "2026-04-22",
       "lastJoinKey": "2026-04-22",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29796,7 +29817,7 @@
       "joinKey": "2026-04-24",
       "lastJoinKey": "2026-04-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29817,7 +29838,7 @@
       "joinKey": "2026-04-02",
       "lastJoinKey": "2026-04-02",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29838,7 +29859,7 @@
       "joinKey": "2026-04-25",
       "lastJoinKey": "2026-04-25",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29859,7 +29880,7 @@
       "joinKey": "2026-04-25",
       "lastJoinKey": "2026-04-25",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29880,7 +29901,7 @@
       "joinKey": "2026-03-29",
       "lastJoinKey": "2026-03-29",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29901,7 +29922,7 @@
       "joinKey": "2026-04-30",
       "lastJoinKey": "2026-04-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29922,7 +29943,7 @@
       "joinKey": "2026-05-01",
       "lastJoinKey": "2026-05-01",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29943,7 +29964,7 @@
       "joinKey": "2026-05-02",
       "lastJoinKey": "2026-05-02",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29964,7 +29985,7 @@
       "joinKey": "2026-04-24",
       "lastJoinKey": "2026-04-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -29985,7 +30006,7 @@
       "joinKey": "2026-05-03",
       "lastJoinKey": "2026-05-03",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30006,7 +30027,7 @@
       "joinKey": "2026-05-13",
       "lastJoinKey": "2026-05-13",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30027,7 +30048,7 @@
       "joinKey": "2026-03-21",
       "lastJoinKey": "2026-03-25",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30048,7 +30069,7 @@
       "joinKey": "2026-04-01",
       "lastJoinKey": "2026-04-01",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30069,7 +30090,7 @@
       "joinKey": "2026-05-16",
       "lastJoinKey": "2026-05-16",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30090,7 +30111,7 @@
       "joinKey": "2026-05-21",
       "lastJoinKey": "2026-05-21",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30111,7 +30132,7 @@
       "joinKey": "2026-05-23",
       "lastJoinKey": "2026-05-23",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30132,7 +30153,7 @@
       "joinKey": "2026-05-16",
       "lastJoinKey": "2026-05-16",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30153,7 +30174,7 @@
       "joinKey": "2026-05-22",
       "lastJoinKey": "2026-05-22",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30174,7 +30195,7 @@
       "joinKey": "2026-05-24",
       "lastJoinKey": "2026-05-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30195,7 +30216,7 @@
       "joinKey": "2026-05-24",
       "lastJoinKey": "2026-05-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30216,7 +30237,7 @@
       "joinKey": "2026-05-24",
       "lastJoinKey": "2026-05-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30237,7 +30258,7 @@
       "joinKey": "2026-05-24",
       "lastJoinKey": "2026-05-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30258,7 +30279,7 @@
       "joinKey": "2026-05-23",
       "lastJoinKey": "2026-05-23",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30279,7 +30300,7 @@
       "joinKey": "2026-05-22",
       "lastJoinKey": "2026-05-22",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30300,7 +30321,7 @@
       "joinKey": "2026-05-25",
       "lastJoinKey": "2026-05-25",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30321,7 +30342,7 @@
       "joinKey": "2026-05-26",
       "lastJoinKey": "2026-05-26",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30342,7 +30363,7 @@
       "joinKey": "2026-05-28",
       "lastJoinKey": "2026-05-28",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30363,7 +30384,7 @@
       "joinKey": "2026-05-23",
       "lastJoinKey": "2026-05-23",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30384,7 +30405,7 @@
       "joinKey": "2026-05-30",
       "lastJoinKey": "2026-05-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30405,7 +30426,7 @@
       "joinKey": "2026-05-30",
       "lastJoinKey": "2026-05-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30426,7 +30447,7 @@
       "joinKey": "2026-05-30",
       "lastJoinKey": "2026-05-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30447,7 +30468,7 @@
       "joinKey": "2026-05-30",
       "lastJoinKey": "2026-05-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30468,7 +30489,7 @@
       "joinKey": "2026-05-30",
       "lastJoinKey": "2026-07-31",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30489,7 +30510,7 @@
       "joinKey": "2026-05-24",
       "lastJoinKey": "2026-05-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30510,7 +30531,7 @@
       "joinKey": "2026-06-06",
       "lastJoinKey": "2026-06-06",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30531,7 +30552,7 @@
       "joinKey": "2026-06-09",
       "lastJoinKey": "2026-06-09",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30552,7 +30573,7 @@
       "joinKey": "2026-06-10",
       "lastJoinKey": "2026-06-10",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30573,7 +30594,7 @@
       "joinKey": "2026-06-11",
       "lastJoinKey": "2026-06-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30594,7 +30615,7 @@
       "joinKey": "2026-06-11",
       "lastJoinKey": "2026-06-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30615,7 +30636,7 @@
       "joinKey": "2026-05-02",
       "lastJoinKey": "2026-05-02",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30636,7 +30657,7 @@
       "joinKey": "2026-06-13",
       "lastJoinKey": "2026-06-13",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30657,7 +30678,7 @@
       "joinKey": "2026-04-18",
       "lastJoinKey": "2026-04-27",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30678,7 +30699,7 @@
       "joinKey": "2026-06-11",
       "lastJoinKey": "2026-06-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30699,7 +30720,7 @@
       "joinKey": "2026-06-20",
       "lastJoinKey": "2026-06-20",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30720,7 +30741,7 @@
       "joinKey": "2026-03-24",
       "lastJoinKey": "2026-03-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30741,7 +30762,7 @@
       "joinKey": "2026-06-27",
       "lastJoinKey": "2026-06-27",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30762,7 +30783,7 @@
       "joinKey": "2026-07-01",
       "lastJoinKey": "2026-07-01",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30783,7 +30804,7 @@
       "joinKey": "2026-05-30",
       "lastJoinKey": "2026-05-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30804,7 +30825,7 @@
       "joinKey": "2026-07-05",
       "lastJoinKey": "2026-07-05",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30825,7 +30846,7 @@
       "joinKey": "2026-06-06",
       "lastJoinKey": "2026-06-06",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30846,7 +30867,7 @@
       "joinKey": "2026-07-10",
       "lastJoinKey": "2026-07-10",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30867,7 +30888,7 @@
       "joinKey": "2026-07-11",
       "lastJoinKey": "2026-07-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30888,7 +30909,7 @@
       "joinKey": "2026-07-14",
       "lastJoinKey": "2026-07-14",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30909,7 +30930,7 @@
       "joinKey": "2026-07-16",
       "lastJoinKey": "2026-07-16",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30930,7 +30951,7 @@
       "joinKey": "2026-07-18",
       "lastJoinKey": "2026-07-18",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30951,7 +30972,7 @@
       "joinKey": "2026-07-24",
       "lastJoinKey": "2026-07-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30972,7 +30993,7 @@
       "joinKey": "2026-07-25",
       "lastJoinKey": "2026-07-25",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -30993,7 +31014,7 @@
       "joinKey": "2026-07-25",
       "lastJoinKey": "2026-08-19",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31014,7 +31035,7 @@
       "joinKey": "2026-07-27",
       "lastJoinKey": "2026-07-27",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31035,7 +31056,7 @@
       "joinKey": "2026-07-26",
       "lastJoinKey": "2026-07-26",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31056,7 +31077,7 @@
       "joinKey": "2025-12-30",
       "lastJoinKey": "2025-12-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31077,7 +31098,7 @@
       "joinKey": "2026-07-24",
       "lastJoinKey": "2026-07-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31098,7 +31119,7 @@
       "joinKey": "2026-07-30",
       "lastJoinKey": "2026-07-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31119,7 +31140,7 @@
       "joinKey": "2026-07-15",
       "lastJoinKey": "2026-07-15",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31140,7 +31161,7 @@
       "joinKey": "2026-08-02",
       "lastJoinKey": "2026-08-02",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31161,7 +31182,7 @@
       "joinKey": "2026-07-31",
       "lastJoinKey": "2026-07-31",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31182,7 +31203,7 @@
       "joinKey": "2026-07-20",
       "lastJoinKey": "2026-07-20",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31203,7 +31224,7 @@
       "joinKey": "2026-08-03",
       "lastJoinKey": "2026-08-03",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31224,7 +31245,7 @@
       "joinKey": "2026-08-03",
       "lastJoinKey": "2026-08-03",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31245,7 +31266,7 @@
       "joinKey": "2026-08-04",
       "lastJoinKey": "2026-08-04",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31266,7 +31287,7 @@
       "joinKey": "2026-08-02",
       "lastJoinKey": "2026-08-02",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31287,7 +31308,7 @@
       "joinKey": "2026-07-29",
       "lastJoinKey": "2026-07-29",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31308,7 +31329,7 @@
       "joinKey": "2026-07-13",
       "lastJoinKey": "2026-07-13",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31329,7 +31350,7 @@
       "joinKey": "2026-08-06",
       "lastJoinKey": "2026-08-06",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31350,7 +31371,7 @@
       "joinKey": "2026-08-11",
       "lastJoinKey": "2026-08-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31371,7 +31392,7 @@
       "joinKey": "2026-08-11",
       "lastJoinKey": "2026-08-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31392,7 +31413,7 @@
       "joinKey": "2026-08-13",
       "lastJoinKey": "2026-08-13",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31413,7 +31434,7 @@
       "joinKey": "2026-08-11",
       "lastJoinKey": "2026-08-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31434,7 +31455,7 @@
       "joinKey": "2026-08-14",
       "lastJoinKey": "2026-08-14",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31455,7 +31476,7 @@
       "joinKey": "2026-08-16",
       "lastJoinKey": "2026-08-16",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31476,7 +31497,7 @@
       "joinKey": "2026-08-14",
       "lastJoinKey": "2026-08-14",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31497,7 +31518,7 @@
       "joinKey": "2026-08-16",
       "lastJoinKey": "2026-09-25",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31518,7 +31539,7 @@
       "joinKey": "2026-08-20",
       "lastJoinKey": "2026-08-20",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31539,7 +31560,7 @@
       "joinKey": "2026-08-21",
       "lastJoinKey": "2026-08-21",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31560,7 +31581,7 @@
       "joinKey": "2026-08-22",
       "lastJoinKey": "2026-08-22",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31581,7 +31602,7 @@
       "joinKey": "2026-07-18",
       "lastJoinKey": "2026-07-18",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31602,7 +31623,7 @@
       "joinKey": "2026-08-28",
       "lastJoinKey": "2026-08-28",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31623,7 +31644,7 @@
       "joinKey": "2026-08-29",
       "lastJoinKey": "2026-08-29",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31644,7 +31665,7 @@
       "joinKey": "2026-09-02",
       "lastJoinKey": "2026-09-02",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31665,7 +31686,7 @@
       "joinKey": "2026-09-05",
       "lastJoinKey": "2026-09-05",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31686,7 +31707,7 @@
       "joinKey": "2026-09-12",
       "lastJoinKey": "2026-09-12",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31707,7 +31728,7 @@
       "joinKey": "2026-09-12",
       "lastJoinKey": "2026-09-12",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31728,7 +31749,7 @@
       "joinKey": "2026-09-12",
       "lastJoinKey": "2026-09-12",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31749,7 +31770,7 @@
       "joinKey": "2026-09-16",
       "lastJoinKey": "2026-09-16",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31770,7 +31791,7 @@
       "joinKey": "2026-09-18",
       "lastJoinKey": "2026-09-18",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31791,7 +31812,7 @@
       "joinKey": "2026-09-07",
       "lastJoinKey": "2026-09-07",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31812,7 +31833,7 @@
       "joinKey": "2026-09-18",
       "lastJoinKey": "2026-09-18",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31833,7 +31854,7 @@
       "joinKey": "2026-09-21",
       "lastJoinKey": "2026-09-21",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31854,7 +31875,7 @@
       "joinKey": "2026-09-22",
       "lastJoinKey": "2026-09-22",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31875,7 +31896,7 @@
       "joinKey": "2026-09-25",
       "lastJoinKey": "2026-09-25",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31896,7 +31917,7 @@
       "joinKey": "2026-09-25",
       "lastJoinKey": "2026-09-25",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31917,7 +31938,7 @@
       "joinKey": "2026-08-23",
       "lastJoinKey": "2026-08-23",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31938,7 +31959,7 @@
       "joinKey": "2026-09-27",
       "lastJoinKey": "2026-09-27",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31959,7 +31980,7 @@
       "joinKey": "2026-09-29",
       "lastJoinKey": "2026-09-29",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -31980,7 +32001,7 @@
       "joinKey": "2026-09-30",
       "lastJoinKey": "2026-09-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32001,7 +32022,7 @@
       "joinKey": "2026-09-14",
       "lastJoinKey": "2026-09-18",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32022,7 +32043,7 @@
       "joinKey": "2026-10-03",
       "lastJoinKey": "2026-10-03",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32043,7 +32064,7 @@
       "joinKey": "2026-10-06",
       "lastJoinKey": "2026-10-06",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32064,7 +32085,7 @@
       "joinKey": "2026-10-04",
       "lastJoinKey": "2026-10-04",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32085,7 +32106,7 @@
       "joinKey": "2026-09-30",
       "lastJoinKey": "2026-09-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32106,7 +32127,7 @@
       "joinKey": "2026-08-15",
       "lastJoinKey": "2026-08-22",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32127,7 +32148,7 @@
       "joinKey": "2026-10-10",
       "lastJoinKey": "2026-10-10",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32148,7 +32169,7 @@
       "joinKey": "2026-09-14",
       "lastJoinKey": "2026-09-14",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32169,7 +32190,7 @@
       "joinKey": "2026-10-11",
       "lastJoinKey": "2026-10-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32190,7 +32211,7 @@
       "joinKey": "2026-10-11",
       "lastJoinKey": "2026-10-11",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32211,7 +32232,7 @@
       "joinKey": "2026-09-25",
       "lastJoinKey": "2026-09-29",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32232,7 +32253,7 @@
       "joinKey": "2026-10-12",
       "lastJoinKey": "2026-10-12",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32253,7 +32274,7 @@
       "joinKey": "2026-10-02",
       "lastJoinKey": "2026-10-02",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32274,7 +32295,7 @@
       "joinKey": "2026-09-18",
       "lastJoinKey": "2026-09-18",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32295,7 +32316,7 @@
       "joinKey": "2026-08-06",
       "lastJoinKey": "2026-08-06",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32316,7 +32337,7 @@
       "joinKey": "2026-10-16",
       "lastJoinKey": "2026-10-16",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32337,7 +32358,7 @@
       "joinKey": "2026-10-17",
       "lastJoinKey": "2026-10-17",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32358,7 +32379,7 @@
       "joinKey": "2026-09-25",
       "lastJoinKey": "2026-09-25",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32379,7 +32400,7 @@
       "joinKey": "2026-10-18",
       "lastJoinKey": "2026-10-18",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32400,7 +32421,7 @@
       "joinKey": "2026-08-29",
       "lastJoinKey": "2026-08-29",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32421,7 +32442,7 @@
       "joinKey": "2026-09-20",
       "lastJoinKey": "2026-09-20",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32442,7 +32463,7 @@
       "joinKey": "2026-10-30",
       "lastJoinKey": "2026-10-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32463,7 +32484,7 @@
       "joinKey": "2026-10-24",
       "lastJoinKey": "2026-10-24",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32484,7 +32505,7 @@
       "joinKey": "2026-10-30",
       "lastJoinKey": "2026-10-30",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32505,7 +32526,7 @@
       "joinKey": "2026-11-03",
       "lastJoinKey": "2026-11-03",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32526,7 +32547,7 @@
       "joinKey": "2026-11-05",
       "lastJoinKey": "2026-11-05",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32547,7 +32568,7 @@
       "joinKey": "2026-11-06",
       "lastJoinKey": "2026-11-06",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32568,7 +32589,7 @@
       "joinKey": "2026-11-06",
       "lastJoinKey": "2026-11-06",
       "last7": 0,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": 1357
     },
     {
@@ -32589,7 +32610,7 @@
       "joinKey": "2026-11-10",
       "lastJoinKey": "2026-11-10",
       "last7": 1,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": null
     },
     {
@@ -32610,7 +32631,7 @@
       "joinKey": "2026-11-10",
       "lastJoinKey": "2026-11-10",
       "last7": 1,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": null
     },
     {
@@ -32631,7 +32652,7 @@
       "joinKey": "2026-11-13",
       "lastJoinKey": "2026-11-13",
       "last7": 1,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": null
     },
     {
@@ -32652,7 +32673,7 @@
       "joinKey": "2026-11-14",
       "lastJoinKey": "2026-11-14",
       "last7": 1,
-      "rankCurr": 1375,
+      "rankCurr": 1376,
       "rankPrev": null
     },
     {
@@ -32719,23 +32740,46 @@
       "rankPrev": null
     },
     {
-      "name": "‪+49 173 7904798‬",
-      "posts": 0,
+      "name": "~ Pauli",
+      "posts": 1,
       "iaPosts": 0,
-      "daysAgo": 1,
-      "ppw": 0,
+      "daysAgo": 0,
+      "ppw": 7,
       "memDays": 1,
-      "streak": 0,
-      "streakStart": null,
-      "streakEnd": null,
-      "currentStreak": 0,
+      "streak": 1,
+      "streakStart": "2026-11-20",
+      "streakEnd": "2026-11-20",
+      "currentStreak": 1,
       "hasLeft": false,
-      "neverPosted": true,
       "joinStr": "20.11.26",
-      "lastStr": "–",
-      "lastKey": null,
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
       "joinKey": "2026-11-20",
-      "lastJoinKey": "2026-11-20"
+      "lastJoinKey": "2026-11-20",
+      "last7": 0,
+      "rankCurr": null,
+      "rankPrev": null
+    },
+    {
+      "name": "~ Ole Meinhold",
+      "posts": 1,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 7,
+      "memDays": 1,
+      "streak": 1,
+      "streakStart": "2026-11-20",
+      "streakEnd": "2026-11-20",
+      "currentStreak": 1,
+      "hasLeft": false,
+      "joinStr": "20.11.26",
+      "lastStr": "20.11.26",
+      "lastKey": "2026-11-20",
+      "joinKey": "2026-11-20",
+      "lastJoinKey": "2026-11-20",
+      "last7": 0,
+      "rankCurr": null,
+      "rankPrev": null
     },
     {
       "name": "~ :)",
@@ -33023,25 +33067,6 @@
       "lastJoinKey": "2026-07-18"
     },
     {
-      "name": "~ Tobin Gattinger",
-      "posts": 0,
-      "iaPosts": 0,
-      "daysAgo": 7,
-      "ppw": 0,
-      "memDays": 7,
-      "streak": 0,
-      "streakStart": null,
-      "streakEnd": null,
-      "currentStreak": 0,
-      "hasLeft": false,
-      "neverPosted": true,
-      "joinStr": "13.11.26",
-      "lastStr": "–",
-      "lastKey": null,
-      "joinKey": "2026-11-13",
-      "lastJoinKey": "2026-11-13"
-    },
-    {
       "name": "David Schreier",
       "posts": 0,
       "iaPosts": 0,
@@ -33118,8 +33143,8 @@
       "lastJoinKey": "2026-06-18"
     }
   ],
-  "totalPosts": 90639,
-  "postsAccepted": 90639,
-  "counter": 90616,
-  "updated": "20.11.2026, 16:19"
+  "totalPosts": 90940,
+  "postsAccepted": 90940,
+  "counter": 90898,
+  "updated": "20.11.2026, 21:22"
 }
