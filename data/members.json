@@ -10900,6 +10900,27 @@
       "rankPrev": 510
     },
     {
+      "name": "~ Mathias",
+      "posts": 32,
+      "iaPosts": 0,
+      "daysAgo": 0,
+      "ppw": 18.7,
+      "memDays": 12,
+      "streak": 2,
+      "streakStart": "2026-11-14",
+      "streakEnd": "2026-11-15",
+      "currentStreak": 2,
+      "hasLeft": false,
+      "joinStr": "11.11.26",
+      "lastStr": "23.11.26",
+      "lastKey": "2026-11-23",
+      "joinKey": "2026-11-11",
+      "lastJoinKey": "2026-11-11",
+      "last7": 8,
+      "rankCurr": 552,
+      "rankPrev": 629
+    },
+    {
       "name": "Jörn",
       "posts": 31,
       "iaPosts": 0,
@@ -11570,27 +11591,6 @@
       "last7": 0,
       "rankCurr": 544,
       "rankPrev": 538
-    },
-    {
-      "name": "~ Mathias",
-      "posts": 28,
-      "iaPosts": 0,
-      "daysAgo": 0,
-      "ppw": 16.3,
-      "memDays": 12,
-      "streak": 2,
-      "streakStart": "2026-11-14",
-      "streakEnd": "2026-11-15",
-      "currentStreak": 2,
-      "hasLeft": false,
-      "joinStr": "11.11.26",
-      "lastStr": "23.11.26",
-      "lastKey": "2026-11-23",
-      "joinKey": "2026-11-11",
-      "lastJoinKey": "2026-11-11",
-      "last7": 8,
-      "rankCurr": 552,
-      "rankPrev": 629
     },
     {
       "name": "~ Mike",
@@ -33416,8 +33416,8 @@
       "lastJoinKey": "2026-06-18"
     }
   ],
-  "totalPosts": 92395,
-  "postsAccepted": 92395,
+  "totalPosts": 92399,
+  "postsAccepted": 92399,
   "counter": 92460,
-  "updated": "23.11.2026, 09:19"
+  "updated": "23.11.2026, 11:44"
 }
