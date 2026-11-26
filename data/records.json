@@ -1,5 +1,5 @@
 {
-  "updated": "25.11.2026, 23:39",
+  "updated": "26.11.2026, 12:42",
   "bestDayEver": {
     "date": "2026-10-24",
     "count": 1225,
@@ -1294,19 +1294,19 @@
           788
         ],
         [
-          400,
-          214,
-          101,
-          58,
-          42,
-          34,
-          18,
+          413,
+          218,
+          104,
+          60,
+          43,
+          37,
+          19,
           21,
           35,
           59,
-          135,
-          173,
-          259,
+          136,
+          178,
+          262,
           273,
           343,
           379,
@@ -1398,7 +1398,7 @@
           350
         ]
       ],
-      "total": 92873
+      "total": 92909
     },
     "last8w": {
       "counts": [
@@ -1602,76 +1602,20 @@
       "name": "Germany",
       "num": "276",
       "first": "2025-12-30",
-      "numbers": 2404
-    },
-    {
-      "iso": "AT",
-      "name": "Austria",
-      "num": "040",
-      "first": "2026-01-20",
-      "numbers": 38
-    },
-    {
-      "iso": "PT",
-      "name": "Portugal",
-      "num": "620",
-      "first": "2026-01-29",
-      "numbers": 171
-    },
-    {
-      "iso": "GB",
-      "name": "United Kingdom",
-      "num": "826",
-      "first": "2026-01-29",
-      "numbers": 16
+      "numbers": 369
     },
     {
       "iso": "US",
       "name": "United States",
       "num": "840",
       "first": "2026-01-29",
-      "numbers": 9
-    },
-    {
-      "iso": "BE",
-      "name": "Belgium",
-      "num": "056",
-      "first": "2026-02-06",
-      "numbers": 24
-    },
-    {
-      "iso": "MX",
-      "name": "Mexico",
-      "num": "484",
-      "first": "2026-02-06",
-      "numbers": 2
+      "numbers": 4
     },
     {
       "iso": "SE",
       "name": "Sweden",
       "num": "752",
       "first": "2026-02-06",
-      "numbers": 6
-    },
-    {
-      "iso": "CH",
-      "name": "Switzerland",
-      "num": "756",
-      "first": "2026-02-06",
-      "numbers": 39
-    },
-    {
-      "iso": "SI",
-      "name": "Slovenia",
-      "num": "705",
-      "first": "2026-02-07",
-      "numbers": 1
-    },
-    {
-      "iso": "LV",
-      "name": "Latvia",
-      "num": "428",
-      "first": "2026-02-08",
       "numbers": 2
     },
     {
@@ -1679,84 +1623,49 @@
       "name": "Luxembourg",
       "num": "442",
       "first": "2026-02-08",
-      "numbers": 5
-    },
-    {
-      "iso": "NL",
-      "name": "Netherlands",
-      "num": "528",
-      "first": "2026-02-09",
-      "numbers": 38
-    },
-    {
-      "iso": "DK",
-      "name": "Denmark",
-      "num": "208",
-      "first": "2026-02-11",
       "numbers": 2
     },
     {
       "iso": "ES",
       "name": "Spain",
       "num": "724",
-      "first": "2026-02-12",
-      "numbers": 20
+      "first": "2026-02-14",
+      "numbers": 1
     },
     {
-      "iso": "AR",
-      "name": "Argentina",
-      "num": "032",
-      "first": "2026-02-13",
-      "numbers": 3
-    },
-    {
-      "iso": "CZ",
-      "name": "Czechia",
-      "num": "203",
-      "first": "2026-02-13",
-      "numbers": 3
-    },
-    {
-      "iso": "IT",
-      "name": "Italy",
-      "num": "380",
-      "first": "2026-02-15",
-      "numbers": 14
-    },
-    {
-      "iso": "AU",
-      "name": "Australia",
-      "num": "036",
+      "iso": "GB",
+      "name": "United Kingdom",
+      "num": "826",
       "first": "2026-02-16",
+      "numbers": 5
+    },
+    {
+      "iso": "CH",
+      "name": "Switzerland",
+      "num": "756",
+      "first": "2026-02-27",
+      "numbers": 5
+    },
+    {
+      "iso": "BE",
+      "name": "Belgium",
+      "num": "056",
+      "first": "2026-03-10",
+      "numbers": 3
+    },
+    {
+      "iso": "NL",
+      "name": "Netherlands",
+      "num": "528",
+      "first": "2026-03-13",
       "numbers": 6
     },
     {
-      "iso": "FR",
-      "name": "France",
-      "num": "250",
-      "first": "2026-02-16",
-      "numbers": 9
-    },
-    {
-      "iso": "LT",
-      "name": "Lithuania",
-      "num": "440",
-      "first": "2026-03-02",
+      "iso": "AT",
+      "name": "Austria",
+      "num": "040",
+      "first": "2026-03-25",
       "numbers": 4
-    },
-    {
-      "iso": "TR",
-      "name": "Türkiye",
-      "num": "792",
-      "first": "2026-03-12",
-      "numbers": 3
-    },
-    {
-      "iso": "NO",
-      "name": "Norway",
-      "num": "578",
-      "first": "2026-03-21",
-      "numbers": 1
     },
     {
       "iso": "FI",
@@ -1766,6 +1675,20 @@
       "numbers": 2
     },
     {
+      "iso": "FR",
+      "name": "France",
+      "num": "250",
+      "first": "2026-05-02",
+      "numbers": 3
+    },
+    {
+      "iso": "PT",
+      "name": "Portugal",
+      "num": "620",
+      "first": "2026-05-15",
+      "numbers": 26
+    },
+    {
       "iso": "EG",
       "name": "Egypt",
       "num": "818",
@@ -1773,38 +1696,10 @@
       "numbers": 1
     },
     {
-      "iso": "TH",
-      "name": "Thailand",
-      "num": "764",
-      "first": "2026-08-14",
-      "numbers": 1
-    },
-    {
-      "iso": "CA",
-      "name": "Canada",
-      "num": "124",
-      "first": "2026-09-05",
-      "numbers": 1
-    },
-    {
-      "iso": "PL",
-      "name": "Poland",
-      "num": "616",
-      "first": "2026-09-05",
-      "numbers": 1
-    },
-    {
-      "iso": "ZA",
-      "name": "South Africa",
-      "num": "710",
-      "first": "2026-09-08",
-      "numbers": 4
-    },
-    {
-      "iso": "HU",
-      "name": "Hungary",
-      "num": "348",
-      "first": "2026-09-10",
+      "iso": "LT",
+      "name": "Lithuania",
+      "num": "440",
+      "first": "2026-09-09",
       "numbers": 1
     },
     {
@@ -1812,34 +1707,6 @@
       "name": "Romania",
       "num": "642",
       "first": "2026-09-16",
-      "numbers": 1
-    },
-    {
-      "iso": "IE",
-      "name": "Ireland",
-      "num": "372",
-      "first": "2026-10-18",
-      "numbers": 1
-    },
-    {
-      "iso": "AE",
-      "name": "United Arab Emirates",
-      "num": "784",
-      "first": "2026-10-21",
-      "numbers": 1
-    },
-    {
-      "iso": "NG",
-      "name": "Nigeria",
-      "num": "566",
-      "first": "2026-11-24",
-      "numbers": 1
-    },
-    {
-      "iso": "KR",
-      "name": "South Korea",
-      "num": "410",
-      "first": "2026-11-25",
       "numbers": 1
     }
   ]
